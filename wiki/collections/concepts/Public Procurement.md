@@ -18,12 +18,21 @@ concepts:
   - Tax Wedge
   - Human Capital
   - Green Transition
-timestamp: 2026-07-02T09:13:44Z
+  - Judicial Independence
+  - Federal Prosecution Office
+  - Asset Declaration
+  - Lobbying Framework
+  - Revolving Doors
+  - Media Pluralism
+  - State Advertising
+  - Whistleblower Protection
+timestamp: 2026-07-02T09:32:54Z
 tags:
   - Economic Policy
   - France
   - Romania
   - Slovakia
+  - Austria
   - European Commission
   - Fiscal Policy
   - Labor Market
@@ -31,6 +40,8 @@ tags:
   - Energy Transition
   - Social Fairness
   - EU Compliance
+  - Rule of Law
+  - Anti-Corruption
 ---
 # Public Procurement
 
@@ -60,6 +71,13 @@ In Slovakia, public procurement is identified as a critical tool for navigating 
 *   **Economic Competitiveness:** Procurement is a key mechanism for improving the business environment by simplifying regulations and reducing the regulatory burden that currently hinders private and public investment.
 *   **Social and Human Capital:** Procurement plays a role in addressing social inclusion and human capital challenges, particularly in infrastructure development and public service delivery aimed at reducing disparities.
 
+## Context in Austria (2025 Rule of Law Report)
+In the Austrian context, public procurement is analyzed through the lens of institutional integrity and transparency. Key considerations include:
+
+*   **Anti-Corruption & Transparency:** Procurement processes are subject to the National Anti-Corruption Strategy 2023-2025. Ensuring integrity in public spending is linked to the effectiveness of the Federal Bureau of Anti-Corruption (BAK) and the implementation of robust [[Whistleblower Protection]] and [[Lobbying Framework]] standards.
+*   **State Advertising & Public Spending:** A significant area of focus is the management of public spending on state advertising. With expenditures doubling in 2024, there is a heightened emphasis on preventing the concentration of funding and ensuring that public procurement of media space remains fair and transparent.
+*   **Rule of Law & Governance:** The integrity of public procurement is underpinned by [[Judicial Independence]] and the transition toward a more independent [[Federal Prosecution Office]]. These structural reforms are essential to ensure that public contracts are awarded without undue influence and that corruption risks are mitigated.
+
 ## Related Concepts
 - [[Fiscal Sustainability]]
 - [[Administrative Simplification]]
@@ -73,3 +91,7 @@ In Slovakia, public procurement is identified as a critical tool for navigating 
 - [[Tax Wedge]]
 - [[Human Capital]]
 - [[Green Transition]]
+- [[Judicial Independence]]
+- [[Whistleblower Protection]]
+- [[Lobbying Framework]]
+- [[State Advertising]]
