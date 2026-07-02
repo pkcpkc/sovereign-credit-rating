@@ -2,7 +2,7 @@
 name: Deploy static content to Pages
 
 on:
-  # Runs on pushes targeting the default branch (which includes PR merges)
+  # Runs on pushes and merges targeting the default branch
   push:
     branches: ["main"]
 
