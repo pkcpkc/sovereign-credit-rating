@@ -30,7 +30,11 @@ concepts:
   - Lobbying Transparency
   - Artificial Intelligence in Justice
   - Anti-Corruption Strategy
-timestamp: 2026-07-02T09:56:09Z
+  - Magisterial Inquiry
+  - Anti-SLAPP
+  - Whistleblowing
+  - Digital Justice
+timestamp: 2026-07-02T10:19:16Z
 tags:
   - Economic Policy
   - France
@@ -38,6 +42,7 @@ tags:
   - Slovakia
   - Austria
   - Hungary
+  - Malta
   - European Commission
   - Fiscal Policy
   - Labor Market
@@ -92,6 +97,13 @@ In the Hungarian context, public procurement is situated within a broader framew
 *   **State Advertising and Media:** Public procurement of media space is heavily influenced by state advertising, with the state remaining the dominant advertiser. This concentration of resources to pro-government media outlets raises questions regarding [[Media Pluralism]] and the fair distribution of public funds.
 *   **Rule of Law Constraints:** The prolonged "state of danger" and the lack of public consultation on legislative drafts can create legal uncertainty for businesses participating in public procurement, potentially affecting the investment climate and the single market.
 
+## Context in Malta (2025 Rule of Law Report)
+In Malta, public procurement is framed within the broader context of judicial efficiency and anti-corruption efforts. While specific procurement volumes are not detailed, the integrity of public spending is tied to:
+
+*   **Institutional Integrity:** The effectiveness of procurement is linked to the [[Anti-Corruption Strategy]] and the oversight of the Permanent Commission Against Corruption (PCAC).
+*   **Judicial Oversight:** The role of [[Judicial Independence]] and the transition of serious prosecutions to the Office of the Attorney General are fundamental to ensuring a transparent legal environment for public contracts.
+*   **Transparency Measures:** The use of [[Whistleblowing]] and the monitoring of [[Asset Declaration]] serve as critical safeguards against illicit influence in public spending.
+
 ## Related Concepts
 - [[Fiscal Sustainability]]
 - [[Administrative Simplification]]
@@ -113,3 +125,7 @@ In the Hungarian context, public procurement is situated within a broader framew
 - [[Digitalisation of Justice]]
 - [[Artificial Intelligence in Justice]]
 - [[Anti-Corruption Strategy]]
+- [[Magisterial Inquiry]]
+- [[Anti-SLAPP]]
+- [[Whistleblowing]]
+- [[Digital Justice]]
