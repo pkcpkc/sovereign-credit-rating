@@ -30,14 +30,18 @@ countries:
   - Spain
   - Sweden
   - Ukraine
+  - Moldova
 ratings: []
-timestamp: 2026-07-02T07:46:46Z
+timestamp: 2026-07-02T08:56:16Z
 tags:
   - Economic Report
   - EU Commission
   - Fiscal Policy
   - Sustainability
   - Labour Market
+  - Economic Development
+  - Digitalization
+  - Energy Transition
 ---
 
 # Belgium
@@ -50,7 +54,7 @@ tags:
 
 ## Economic Overview
 
-Belgium is characterized by moderate economic growth, with a projected GDP growth of 0.8% in 2025. However, the nation faces significant fiscal pressures, with a headline deficit forecast to reach 5.4% of GDP and public debt projected at 107.1% by the end of 2025. These pressures are exacerbated by an aging population, which is expected to drive a 3.5% increase in pension spending as a share of GDP between 2022 and 2070.
+Belgium is characterized by moderate economic growth, with a projected GDP growth of 0.8% in 2025. The nation faces significant fiscal pressures, with a headline deficit forecast to reach 5.4% of GDP and public debt projected at 107.1% by the end of 2025. These pressures are exacerbated by an aging population, which is expected to drive a 3.5% increase in pension spending as a share of GDP between 2022 and 2070.
 
 The labour market presents a dual reality: while the employment rate reached a record high of 72.3% in 2024, it remains below EU averages due to low activity rates among migrants and older workers. A critical skills mismatch persists, evidenced by one of the highest job vacancy rates in the EU (4.1% in Q4-2024), particularly in STEM and healthcare. Furthermore, high labor costs driven by automatic wage indexation and a complex tax-and-benefit system create significant hurdles for business dynamism.
 
@@ -66,4 +70,4 @@ Socially, while the AROPE rate is lower than the EU average, there are stark reg
 
 ## Related Entities
 
-[[European Commission]], [[Net Expenditure]], [[Fiscal-Structural Plan]], [[Wage Indexation]], [[Circular Economy]], [[STEM Education]], [[Long-term Care]], [[Austria]], [[France]], [[Italy]], [[Germany]], [[Netherlands]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Total Factor Productivity]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]]
+[[European Commission]], [[Net Expenditure]], [[Fiscal-Structural Plan]], [[Wage Indexation]], [[Circular Economy]], [[STEM Education]], [[Long-term Care]], [[Austria]], [[France]], [[Italy]], [[Germany]], [[Netherlands]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Total Factor Productivity]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Romania]], [[Moldova]]
