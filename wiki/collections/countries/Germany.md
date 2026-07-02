@@ -41,7 +41,7 @@ countries:
   - Canada
   - Russia
 ratings: []
-timestamp: 2026-07-02T12:01:31Z
+timestamp: 2026-07-02T12:35:36Z
 tags:
   - Economics
   - Fiscal Policy
@@ -75,6 +75,8 @@ In comparison to peers like Poland, Germany maintains a more established industr
 
 Furthermore, Germany's economic environment is influenced by broader regional trends such as the necessity for fiscal consolidation to manage aging-related costs and the need for structural reforms to boost labor supply. The region is currently navigating a period of near-zero growth in some neighboring states (like Austria) with a projected recovery in 2026, driven by the recovery of private consumption and the effects of monetary easing. Germany's position is further contextualized by the broader European effort to manage inflation and fiscal adjustments, as seen in neighboring states like Hungary, which are balancing high refinancing costs and the need for structural reforms to unlock growth.
 
+Germany's economic standing is further contrasted by the fiscal performance of neighbors like Italy, which achieved a primary surplus of 0.4% in 2024 but faces high public debt (135.3% of GDP) and severe demographic headwinds. While Germany manages high unit labor costs, it shares with Italy the challenge of low productivity growth due to a shortage of high-skilled workers and the need for structural reforms to enhance human capital.
+
 ## Governance & Rule of Law
 
 Germany maintains a robust institutional framework characterized by high standards of judicial independence and a commitment to the European Union's fiscal and social policies. It is a key driver of EU-wide initiatives regarding the green transition and digital infrastructure. The country operates within a framework that increasingly emphasizes administrative simplification and the "tell us once" principle to reduce bureaucratic hurdles for businesses. Germany also aligns with broader regional efforts toward improving transparency in the corporate sector and enforcing frameworks against foreign bribery.
@@ -85,4 +87,4 @@ Key risks for Germany include the ongoing transition to a decarbonized industria
 
 ## Related Entities
 
-[[Austria]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Decarbonisation]], [[Energy Security]], [[Belgium]], [[Netherlands]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Italy]], [[Spain]], [[Slovenia]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Malta]], [[United Kingdom]], [[Poland]], [[Romania]], [[Slovakia]], [[Japan]], [[Canada]], [[Russia]], [[Márton Nagy]], [[Barnabás Virág]], [[Anke Weber]]
+[[Austria]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Decarbonisation]], [[Energy Security]], [[Belgium]], [[Netherlands]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Italy]], [[Spain]], [[Slovenia]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Malta]], [[United Kingdom]], [[Poland]], [[Romania]], [[Slovakia]], [[Japan]], [[Canada]], [[Russia]], [[Márton Nagy]], [[Barnabás Virág]], [[Anke Weber]], [[IMF]], [[National Recovery and Resilience Plan (NRRP)]], [[Primary Surplus]], [[Sovereign Risk]], [[Productivity Growth]], [[Demographic Headwinds]], [[Systemic Risk Buffer (SyRB)]], [[Countercyclical Capital Buffer (CCyB)]]
