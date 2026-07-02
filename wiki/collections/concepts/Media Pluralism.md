@@ -9,7 +9,13 @@ concepts:
   - Regulatory Independence
   - Digital Services Act (DSA)
   - Anti-SLAPP Directive
-timestamp: 2026-07-02T09:39:52Z
+  - Judicial Independence
+  - Digitalisation of Justice
+  - Lobbying Transparency
+  - Public Procurement
+  - Whistleblower Protection
+  - Artificial Intelligence in Justice
+timestamp: 2026-07-02T09:47:33Z
 tags:
   - Rule of Law
   - Media Freedom
@@ -45,6 +51,18 @@ The *EU Commission 2025 Rule of Law Report* highlights a different set of dynami
 ### Public Service Media and Funding
 *   **Budgetary Pressures:** While the public service broadcaster in Flanders (**VRT**) received additional resources, the Wallonia-Brussels broadcaster (**RTBF**) faces a projected EUR 78 million shortfall until 2029, highlighting the structural economic challenges facing public service media.
 
+## Contextual Analysis: France (2025)
+The *EU Commission 2025 Rule of Law Report* for France highlights a complex evolution of media governance, focusing on regulatory expansion and the practicalities of information access:
+
+### Regulatory Evolution and Governance
+*   **Regulatory Oversight:** **ARCOM** is expanding its mandate to include the **Digital Services Act (DSA)** requirements and is tasked with preparing a national media ownership database to enhance transparency.
+*   **Public Broadcasting Structure:** There is ongoing debate regarding the creation of "France Médias," a holding company intended to oversee public broadcasters. This is coupled with a shift in funding mechanisms from a license fee to a VAT-based system.
+*   **Ownership Transparency:** While there has been progress in increasing transparency regarding media ownership, the report notes that practical barriers remain for journalists attempting to navigate these structures.
+
+### Access to Information and Journalist Safety
+*   **Right to Information:** Despite robust legal frameworks, journalists report that the "disproportionate burden" exception is frequently utilized to complicate or delay access to administrative documents, potentially hindering pluralistic reporting.
+*   **Journalist Safety:** The report underscores a concerning level of pressure on the press, noting 50 alerts regarding harassment, physical attacks, and legal pressure on journalists via the Council of Europe's platform.
+
 ## Related Concepts
 *   [[Judicial Independence]]
 *   [[Whistleblower Protection]]
@@ -52,3 +70,6 @@ The *EU Commission 2025 Rule of Law Report* highlights a different set of dynami
 *   [[State Advertising]]
 *   [[Digital Services Act]]
 *   [[Anti-SLAPP Directive]]
+*   [[Digitalisation of Justice]]
+*   [[Lobbying Transparency]]
+*   [[Artificial Intelligence in Justice]]
