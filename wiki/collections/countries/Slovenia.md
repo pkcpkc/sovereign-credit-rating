@@ -35,7 +35,7 @@ countries:
   - Azerbaijan
   - Qatar
 ratings: []
-timestamp: 2026-07-02T09:05:50Z
+timestamp: 2026-07-02T09:26:29Z
 tags:
   - Economic Report
   - European Commission
@@ -75,4 +75,4 @@ The primary risks for Slovenia, consistent with its neighbors in the 2025 report
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Italy]], [[Hungary]], [[GDP Growth]], [[Labour Productivity]], [[Skills Shortage]], [[Recovery and Resilience Plan (RRP)]], [[Decarbonisation]], [[Fiscal Adjustment]], [[Circular Economy]], [[STEM Education]], [[Romania]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Italy]], [[Hungary]], [[GDP Growth]], [[Labour Productivity]], [[Skills Shortage]], [[Recovery and Resilience Plan (RRP)]], [[Decarbonisation]], [[Fiscal Adjustment]], [[Circular Economy]], [[STEM Education]], [[Romania]], [[Slovakia]]
