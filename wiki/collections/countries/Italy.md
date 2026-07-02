@@ -44,8 +44,9 @@ countries:
   - France
   - Spain
   - Malta
+  - Slovak Republic
 ratings: []
-timestamp: 2026-07-02T13:20:03Z
+timestamp: 2026-07-02T13:46:37Z
 tags:
   - Economics
   - Fiscal Policy
@@ -71,6 +72,7 @@ tags:
   - Monetary Policy
   - Structural Reform
   - Finance
+  - Slovakia
 ---
 
 # Italy
@@ -107,4 +109,4 @@ The outlook is tied to the success of regional energy diversification, the abili
 
 ## Related Entities
 
-[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Digitalization]], [[Romania]], [[Moldova]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption]], [[Media Pluralism]], [[Constitutional Reform]], [[Japan]], [[Canada]], [[Russia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Capital Market Union]], [[IMF]], [[Article IV Consultation]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]], [[Lone Christiansen]], [[Riccardo Ercoli]], [[National Recovery and Resilience Plan (NRRP)]], [[Systemic Risk Buffer (SyRB)]], [[Countercyclical Capital Buffer (CCyB)]], [[Corporate Income Tax (CIT)]], [[OECD Pillar II]], [[AML/CFT Framework]], [[Digital Transformation]], [[Energy Subsidies]], [[Real Estate Exposure]]
+[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Digitalization]], [[Romania]], [[Moldova]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption]], [[Media Pluralism]], [[Constitutional Reform]], [[Japan]], [[Canada]], [[Russia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Capital Market Union]], [[IMF]], [[Article IV Consultation]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]], [[Lone Christiansen]], [[Riccardo Ercoli]], [[National Recovery and Resilience Plan (NRRP)]], [[Systemic Risk Buffer (SyRB)]], [[Countercyclical Capital Buffer (CCyB)]], [[Corporate Income Tax (CIT)]], [[OECD Pillar II]], [[AML/CFT Framework]], [[Digital Transformation]], [[Energy Subsidies]], [[Real Estate Exposure]], [[Slovak Republic]]
