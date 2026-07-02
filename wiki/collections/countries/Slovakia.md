@@ -4,13 +4,15 @@ title: Slovakia
 countries:
   - Slovakia
 ratings: []
-timestamp: 2026-07-02T08:42:14Z
+timestamp: 2026-07-02T09:05:14Z
 tags:
   - Economic Report
   - European Commission
   - Fiscal Policy
   - Sustainability
   - Labor Market
+  - Digitalization
+  - Energy Transition
 ---
 
 # Slovakia
@@ -23,7 +25,7 @@ tags:
 
 ## Economic Overview
 
-Slovakia is included in the European Commission's 2025 Country Report as part of the broader EU economic landscape. The country is navigating a period of cautious growth and structural transition, heavily influenced by regional trends including labor productivity recovery and the "skills gap" in green and digital transitions. While Slovakia's specific growth is often grouped within regional contexts, it shares broader EU challenges such as high capital costs and investment uncertainty. The economic trajectory requires a delicate balance between maintaining industrial competitiveness—particularly in sectors like manufacturing—and meeting aggressive greenhouse gas reduction targets. Like its neighbors, Slovakia is focused on administrative simplification to bolster business competitiveness and addressing regional disparities in productivity.
+Slovakia is navigating a period of cautious growth and structural transition within the broader EU economic landscape. The country faces a delicate balance between maintaining industrial competitiveness—particularly in manufacturing—and meeting aggressive greenhouse gas reduction targets. Like its regional neighbors, Slovakia is grappling with high capital costs, investment uncertainty, and a significant "skills gap" in green and digital transitions. The economic trajectory is influenced by regional trends such as labor productivity recovery and the need for administrative simplification to bolster business competitiveness. While Slovakia shares the EU-wide challenges of high interest rates and structural transitions, its specific path is tied to aligning national industrial output with the broader regional push toward a more digitally integrated and sustainable economy.
 
 ## Governance & Rule of Law
 
@@ -35,4 +37,4 @@ Key risks include the broader regional trend of rising public debt-to-GDP ratios
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]], [[Poland]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Denmark]], [[Romania]], [[Slovenia]], [[Decarbonisation]], [[Circular Economy]], [[Labor Productivity]], [[Excessive Deficit Procedure]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]], [[Poland]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Denmark]], [[Romania]], [[Slovenia]], [[Decarbonisation]], [[Circular Economy]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Public Procurement]], [[Schengen Area]]
