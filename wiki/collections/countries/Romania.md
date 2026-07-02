@@ -25,10 +25,13 @@ countries:
   - United States
   - Russia
   - Croatia
-  - France
-  - Italy
+  - Czech Republic
+  - Lithuania
+  - Latvia
+  - Estonia
+  - Bulgaria
 ratings: []
-timestamp: 2026-07-02T13:15:46Z
+timestamp: 2026-07-02T13:56:10Z
 tags:
   - Economic Report
   - European Commission
@@ -57,6 +60,9 @@ tags:
   - Macroprudential Policy
   - ETS 2 (Emission Trading System)
   - Next Generation EU (NGEU)
+  - Economics
+  - Slovakia
+  - Financial Stability
 ---
 
 # Romania
@@ -87,4 +93,4 @@ The outlook depends on the successful implementation of the Medium-Term Fiscal-S
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Poland]], [[Hungary]], [[Recovery and Resilience Plan]], [[Circular Economy]], [[Decarbonisation]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption Strategy]], [[Public Procurement]], [[Media Pluralism]], [[SLAPPs]], [[Asset Declaration]], [[Lobbying Rules]], [[Open Government]], [[Austria]], [[Spain]], [[Japan]], [[Canada]], [[United Kingdom]], [[United States]], [[Russia]], [[Croatia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Labor Supply]], [[Productivity Growth]], [[Commercial Real Estate (CRE)]], [[ESG Transition]], [[Systemic Risk]], [[IMF]], [[Article IV Consultation]], [[Fiscal Adjustment]], [[Monetary Policy]], [[Structural Reforms]], [[Productivity]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]], [[Ilie Bolojan]], [[Alexandru Nazare]], [[Mugur Isarescu]], [[Twin Deficits]], [[REER (Real Effective Exchange Rate)]], [[ETS 2 (Emission Trading System)]], [[Next Generation EU (NGEU)]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Poland]], [[Hungary]], [[Recovery and Resilience Plan]], [[Circular Economy]], [[Decarbonisation]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption Strategy]], [[Public Procurement]], [[Media Pluralism]], [[SLAPPs]], [[Asset Declaration]], [[Lobbying Rules]], [[Open Government]], [[Austria]], [[Spain]], [[Japan]], [[Canada]], [[United Kingdom]], [[United States]], [[Russia]], [[Croatia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Labor Supply]], [[Productivity Growth]], [[Commercial Real Estate (CRE)]], [[ESG Transition]], [[Systemic Risk]], [[IMF]], [[Article IV Consultation]], [[Fiscal Adjustment]], [[Monetary Policy]], [[Structural Reforms]], [[Productivity]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]], [[Ilie Bolojan]], [[Alexandru Nazare]], [[Mugur Isarescu]], [[Twin Deficits]], [[REER (Real Effective Exchange Rate)]], [[ETS 2 (Emission Trading System)]], [[Next Generation EU (NGEU)]], [[Slovak Republic]], [[Excessive Deficit Procedure (EDP)]]
