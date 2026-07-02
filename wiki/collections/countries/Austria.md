@@ -32,8 +32,12 @@ countries:
   - Spain
   - Sweden
   - Ukraine
+  - Tunisia
+  - Algeria
+  - Azerbaijan
+  - Qatar
 ratings: []
-timestamp: 2026-07-02T07:46:00Z
+timestamp: 2026-07-02T08:13:27Z
 tags:
   - Economics
   - Fiscal Policy
@@ -59,6 +63,8 @@ Austria is currently navigating a challenging economic period, facing its third 
 
 The labor market remains resilient but faces severe structural headwinds, including a shrinking working-age population and acute shortages in ICT and care sectors (3.6% vacancy rate). There is a notable trend toward part-time employment, particularly among highly educated women. On the innovation front, Austria maintains high R&D intensity (3.29% of GDP), yet faces hurdles in translating these investments into business dynamism due to high administrative "red tape," complex permitting procedures, and an underdeveloped venture capital market.
 
+In comparison to regional peers like Italy—which saw a primary surplus of 0.4% of GDP in 2024 and a government deficit drop to 3.4%—Austria continues to focus on managing high industrial costs and labor market imbalances.
+
 ## Governance & Rule of Law
 
 Austria maintains a stable institutional framework, though the 2025 report highlights significant regulatory barriers. Administrative burdens and lengthy permitting processes (often exceeding 22 months for industrial projects) are identified as key obstacles to private investment and business dynamism. The government is currently focused on streamlining these procedures to foster a more growth-friendly environment, mirroring broader European trends toward "simplification of economic life" to reduce bureaucracy for businesses.
@@ -71,4 +77,4 @@ Structurally, Austria faces the dual challenge of industrial decarbonization—a
 
 ## Related Entities
 
-[[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[Germany]], [[Norway]], [[Italy]], [[Belgium]], [[Netherlands]], [[France]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Hungary]]
+[[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[Germany]], [[Norway]], [[Italy]], [[Belgium]], [[Netherlands]], [[France]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Hungary]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Digital Transition]], [[Public Debt-to-GDP]], [[Venture Capital]]
