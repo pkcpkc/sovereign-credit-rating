@@ -11,7 +11,13 @@ concepts:
   - Digitalization
   - Venture Capital
   - Public Procurement
-timestamp: 2026-07-02T07:20:16Z
+  - Fiscal Consolidation
+  - Macroprudential Policy
+  - Productivity Growth
+  - Demographics
+  - Energy Security
+  - Excessive Deficit Procedure (EDP)
+timestamp: 2026-07-02T13:39:27Z
 tags:
   - Economic Report
   - European Commission
@@ -19,6 +25,10 @@ tags:
   - Fiscal Policy
   - Sustainability
   - Labor Market
+  - Economics
+  - Slovakia
+  - IMF
+  - Financial Stability
 ---
 # Digitalization
 
@@ -32,8 +42,19 @@ The 2025 Country Report highlights France's position in the digital landscape, n
 *   **Productivity Barriers:** Structural weaknesses in business R&D intensity (currently at 1.44% vs. a 3% target) represent a significant barrier to leveraging digitalization for increased [[Total Factor Productivity]].
 *   **Administrative Simplification:** A core component of digital policy involves the "simplification of economic life." This includes moving toward a "tell us once" principle to reduce bureaucracy and help businesses navigate complex licensing and retail regulations more efficiently through streamlined digital interfaces.
 
+## Context in Slovakia (2025)
+The IMF 2025 Article IV Consultation for the Slovak Republic identifies digitalization as a core component of the country's structural reform agenda. Key observations include:
+
+*   **Productivity & Growth:** Digitalization is positioned as a vital tool to combat low productivity growth and address the challenges posed by an aging population and shrinking labor force.
+*   **Structural Reforms:** To ensure long-term economic resilience, the integration of digital solutions is recommended alongside labor force expansion (migrants and elderly) and vocational training to improve the investment climate.
+*   **Governance & Investment:** Strengthening the digital environment is linked to improving governance and reducing corruption, which are essential for fostering a stable environment for innovation.
+
 ## Related Concepts
 *   [[Total Factor Productivity]]
 *   [[Venture Capital]]
 *   [[Fiscal Sustainability]]
 *   [[Renewable Energy]]
+*   [[Fiscal Consolidation]]
+*   [[Macroprudential Policy]]
+*   [[Productivity Growth]]
+*   [[Energy Security]]
