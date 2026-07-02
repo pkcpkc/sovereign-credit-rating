@@ -22,8 +22,18 @@ countries:
   - United States
   - Russia
   - Croatia
+  - Portugal
+  - Greece
+  - Ireland
+  - Estonia
+  - Latvia
+  - Cyprus
+  - Malta
+  - Lithuania
+  - Sweden
+  - Denmark
 ratings: []
-timestamp: 2026-07-02T11:13:04Z
+timestamp: 2026-07-02T11:36:43Z
 tags:
   - Economic Report
   - European Commission
@@ -42,6 +52,11 @@ tags:
   - Economy
   - Monetary Policy
   - Financial Stability
+  - IMF
+  - Macroeconomics
+  - Sovereign Risk
+  - Macroprudential Policy
+  - Capital Market Union
 ---
 
 # Slovakia
@@ -74,4 +89,4 @@ The outlook is tied to the success of fiscal consolidation measures, the ability
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]], [[Poland]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Denmark]], [[Romania]], [[Slovenia]], [[Decarbonisation]], [[Circular Economy]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Public Procurement]], [[Schengen Area]], [[Tax Wedge]], [[Human Capital]], [[Green Transition]], [[Robert Fico]], [[Robert Kaliňák]], [[Judicial Independence]], [[PIF Directive]], [[Fast-track Procedure]], [[Public Service Media]], [[SLAPP]], [[Whistleblower Protection]], [[Conflict of Interest]], [[Asset Declaration]], [[Austria]], [[Spain]], [[Japan]], [[Canada]], [[United Kingdom]], [[United States]], [[Russia]], [[Croatia]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]], [[Poland]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Denmark]], [[Romania]], [[Slovenia]], [[Decarbonisation]], [[Circular Economy]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Public Procurement]], [[Schengen Area]], [[Tax Wedge]], [[Human Capital]], [[Green Transition]], [[Robert Fico]], [[Robert Kaliňák]], [[Judicial Independence]], [[PIF Directive]], [[Fast-track Procedure]], [[Public Service Media]], [[SLAPP]], [[Whistleblower Protection]], [[Conflict of Interest]], [[Asset Declaration]], [[Austria]], [[Spain]], [[Japan]], [[Canada]], [[United Kingdom]], [[United States]], [[Russia]], [[Croatia]], [[IMF]], [[Fiscal Consolidation]], [[Automatic Wage Indexation]], [[Total Factor Productivity (TFP)]], [[Sovereign Risk]], [[Macroprudential Policy]], [[Capital Market Union]]
