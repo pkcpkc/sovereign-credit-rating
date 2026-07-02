@@ -12,7 +12,10 @@ concepts:
   - Revolving Doors
   - Anti-SLAPP Directive
   - Media Pluralism
-timestamp: 2026-07-02T09:39:00Z
+  - Lobbying Transparency
+  - Public Procurement
+  - Artificial Intelligence in Justice
+timestamp: 2026-07-02T09:48:37Z
 tags:
   - Rule of Law
   - Anti-Corruption
@@ -37,6 +40,13 @@ According to the *2025 Rule of Law Report - Belgium*, the country has recently a
 *   **Royal Sanction:** The law received royal sanction on March 27, 2025, formalizing the legal protections for individuals reporting misconduct.
 *   **Contextual Framework:** These protections exist alongside broader efforts to improve [[Judicial Independence]], enhance the [[Integrity Framework]], and address [[Anti-SLAPP Directive]] transpositions to ensure a safe environment for transparency.
 
+## Current Status in France
+Based on the *2025 Rule of Law Report - France*, whistleblower protections are situated within a broader expansion of anti-corruption measures and transparency initiatives:
+
+*   **National Strategy:** France is expected to adopt a new 2024-2029 national anti-corruption plan by summer 2025, which includes a focus on municipal integrity and organized crime.
+*   **Institutional Strengthening:** The work of the Anti-Corruption Agency (AFA) and the High Authority for Transparency in Public Life (HATVP) provides the broader institutional context for reporting mechanisms and asset transparency.
+*   **Transparency & Ethics:** Improvements in [[Lobbying Transparency]] and the adoption of new ethics codes for public officials complement the protective environment required for whistleblowers to report misconduct safely.
+
 ## Related Concepts
 *   [[Anti-Corruption Framework]]
 *   [[Judicial Independence]]
@@ -45,3 +55,6 @@ According to the *2025 Rule of Law Report - Belgium*, the country has recently a
 *   [[Digitalisation of Justice]]
 *   [[Revolving Doors]]
 *   [[Media Pluralism]]
+*   [[Lobbying Transparency]]
+*   [[Public Procurement]]
+*   [[Artificial Intelligence in Justice]]
