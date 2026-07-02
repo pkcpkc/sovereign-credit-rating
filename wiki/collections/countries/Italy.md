@@ -42,7 +42,7 @@ countries:
   - Canada
   - Russia
 ratings: []
-timestamp: 2026-07-02T11:31:48Z
+timestamp: 2026-07-02T12:05:09Z
 tags:
   - Economics
   - Fiscal Policy
@@ -63,6 +63,10 @@ tags:
   - Anti-Corruption
   - Media Freedom
   - Constitutional Reform
+  - IMF
+  - Macroeconomics
+  - Monetary Policy
+  - Structural Reform
 ---
 
 # Italy
@@ -99,4 +103,4 @@ The outlook is tied to the success of regional energy diversification, the abili
 
 ## Related Entities
 
-[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Digitalization]], [[Romania]], [[Moldova]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption]], [[Media Pluralism]], [[Constitutional Reform]], [[Japan]], [[Canada]], [[Russia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Capital Market Union]]
+[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Digitalization]], [[Romania]], [[Moldova]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption]], [[Media Pluralism]], [[Constitutional Reform]], [[Japan]], [[Canada]], [[Russia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Capital Market Union]], [[IMF]], [[Article IV Consultation]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]]
