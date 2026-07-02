@@ -26,7 +26,10 @@ concepts:
   - Media Pluralism
   - State Advertising
   - Whistleblower Protection
-timestamp: 2026-07-02T09:32:54Z
+  - Digitalisation of Justice
+  - Lobbying Transparency
+  - Artificial Intelligence in Justice
+timestamp: 2026-07-02T09:46:13Z
 tags:
   - Economic Policy
   - France
@@ -54,6 +57,7 @@ In the context of the French economy, public procurement is increasingly intertw
 *   **Energy Transition & Decarbonization:** Public procurement is a key vehicle for meeting the 2030 targets for greenhouse gas reduction. It plays a vital role in scaling up renewable energy infrastructure and transitioning the transport and building sectors toward low-carbon solutions.
 *   **Administrative Simplification:** To address the "administrative complexity" hindering economic growth, France is moving toward a "simplification of economic life" law. This includes aiming to reduce bureaucracy in licensing and regulations, which directly impacts how businesses interact with public procurement processes.
 *   **Social and Regional Impact:** Procurement policies are also linked to addressing regional disparities and social fairness, ensuring that public spending contributes to reducing poverty rates and improving infrastructure in underserved territories.
+*   **Integrity and Transparency:** In the broader framework of French governance, procurement is subject to rigorous anti-corruption measures. This includes the 2024-2029 national anti-corruption plan and the oversight of the High Authority for Transparency in Public Life (HATVP), which monitors asset declarations to ensure integrity in public spending.
 
 ## Context in Romania (2025 Country Report)
 In the Romanian context, public procurement is a central component of the country's broader economic and structural transformation efforts:
@@ -95,3 +99,6 @@ In the Austrian context, public procurement is analyzed through the lens of inst
 - [[Whistleblower Protection]]
 - [[Lobbying Framework]]
 - [[State Advertising]]
+- [[Media Pluralism]]
+- [[Digitalisation of Justice]]
+- [[Artificial Intelligence in Justice]]
