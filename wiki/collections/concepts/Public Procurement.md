@@ -34,7 +34,10 @@ concepts:
   - Anti-SLAPP
   - Whistleblowing
   - Digital Justice
-timestamp: 2026-07-02T10:19:16Z
+  - Action Plan on the Rule of Law
+  - Venice Commission
+  - SLAPPs
+timestamp: 2026-07-02T10:28:36Z
 tags:
   - Economic Policy
   - France
@@ -52,6 +55,7 @@ tags:
   - EU Compliance
   - Rule of Law
   - Anti-Corruption
+  - Poland
 ---
 # Public Procurement
 
@@ -104,6 +108,13 @@ In Malta, public procurement is framed within the broader context of judicial ef
 *   **Judicial Oversight:** The role of [[Judicial Independence]] and the transition of serious prosecutions to the Office of the Attorney General are fundamental to ensuring a transparent legal environment for public contracts.
 *   **Transparency Measures:** The use of [[Whistleblowing]] and the monitoring of [[Asset Declaration]] serve as critical safeguards against illicit influence in public spending.
 
+## Context in Poland (2025 Rule of Law Report)
+In Poland, public procurement is analyzed as a component of the broader effort to restore the rule of law and ensure institutional integrity. Key aspects include:
+
+*   **Anti-Corruption Integration:** The procurement landscape is influenced by the liquidation of the Central Anti-Corruption Bureau (CBA) and the transfer of its competencies to the police, Internal Security Agency (ABW), and National Revenue Administration (KAS). The full operationalization of the European Public Prosecutor's Office (EPPO) further strengthens the oversight of crimes affecting EU financial interests, which directly impacts public spending.
+*   **Rule of Law Framework:** The integrity of public contracts is tied to the [[Action Plan on the Rule of Law]] and consultations with the [[Venice Commission]]. Reforms aimed at judicial independence and the removal of "neo-judges" are foundational to creating a predictable environment for public procurement.
+*   **Media and Transparency:** Efforts to implement the European Media Freedom Act (EMFA) and improve transparency in media ownership impact how state advertising and public media space are procured. Furthermore, the reduction of [[SLAPPs]] and the introduction of mandatory impact assessments for draft laws aim to create a more transparent regulatory environment for businesses interacting with the state.
+
 ## Related Concepts
 - [[Fiscal Sustainability]]
 - [[Administrative Simplification]]
@@ -129,3 +140,6 @@ In Malta, public procurement is framed within the broader context of judicial ef
 - [[Anti-SLAPP]]
 - [[Whistleblowing]]
 - [[Digital Justice]]
+- [[Action Plan on the Rule of Law]]
+- [[Venice Commission]]
+- [[SLAPPs]]
