@@ -4,7 +4,7 @@ title: "France"
 countries:
   - France
 ratings: []
-timestamp: 2026-07-02T12:37:01Z
+timestamp: 2026-07-02T12:56:56Z
 tags:
   - Economics
   - Fiscal Policy
@@ -48,4 +48,4 @@ While France is a leader in producing "unicorns," it faces challenges in securin
 
 ## Related Entities
 
-[[Austria]], [[Germany]], [[USA]], [[Italy]], [[Norway]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[STEM Education]], [[Wage Indexation]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Richard Feynman]], [[Hungary]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Public Debt-to-GDP]], [[Judicial Independence]], [[Digitalisation of Justice]], [[Lobbying Transparency]], [[Media Pluralism]], [[Whistleblower Protection]], [[Artificial Intelligence in Justice]], [[Belgium]], [[Netherlands]], [[Spain]], [[Portugal]], [[Greece]], [[Luxembourg]], [[Sweden]], [[Slovakia]], [[Slovenia]], [[Ireland]], [[Estonia]], [[Latvia]], [[Cyprus]], [[Malta]], [[Lithuania]], [[Croatia]]
+[[Austria]], [[Germany]], [[USA]], [[Italy]], [[Norway]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[STEM Education]], [[Wage Indexation]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Richard Feynman]], [[Hungary]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Public Debt-to-GDP]], [[Judicial Independence]], [[Digitalisation of Justice]], [[Lobbying Transparency]], [[Media Pluralism]], [[Whistleblower Protection]], [[Artificial Intelligence in Justice]], [[Belgium]], [[Netherlands]], [[Spain]], [[Portugal]], [[Greece]], [[Luxembourg]], [[Sweden]], [[Slovakia]], [[Slovenia]], [[Ireland]], [[Estonia]], [[Latvia]], [[Cyprus]], [[Malta]], [[Lithuania]], [[Croatia]], [[Fiscal Consolidation]], [[Corporate Income Tax (CIT)]], [[OECD Pillar II]], [[Macroprudential Policy]], [[AML/CFT Framework]], [[Digital Transformation]], [[Energy Subsidies]], [[Real Estate Exposure]]
