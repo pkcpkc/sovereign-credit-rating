@@ -18,7 +18,9 @@ concepts:
   - Anti-Corruption Strategy
   - Emergency Powers
   - Asset Declarations
-timestamp: 2026-07-02T09:54:48Z
+  - Constitutional Reform
+  - SLAPPs
+timestamp: 2026-07-02T10:08:23Z
 tags:
   - Rule of Law
   - Media Freedom
@@ -79,6 +81,17 @@ The *EU Commission 2025 Rule of Law Report* identifies Hungary as a critical cas
 *   **Journalist Safety:** Journalists in Hungary face increasing pressure, including targeted smear campaigns and investigations by the **Sovereignty Protection Office** regarding "foreign interests."
 *   **Civil Society Constraints:** The environment for civil society organizations (CSOs) is described as "obstructed," further complicated by investigations and proposed legislation that would restrict access to foreign funding, limiting the diverse perspectives necessary for a pluralistic discourse.
 
+## Contextual Analysis: Italy (2025)
+The *EU Commission 2025 Rule of Law Report* for Italy highlights a landscape where media pluralism is shaped by robust regulatory oversight but faces specific challenges regarding judicial transparency and journalist safety:
+
+### Regulatory Environment and Public Service Media
+*   **Regulator Independence:** **AGCOM** is identified as a well-resourced and functionally independent regulator, providing a stable foundation for media oversight.
+*   **Public Service Media Funding:** RAI's funding was maintained at the 2023 level (EUR 90 fee) for 2025. However, stakeholders continue to advocate for more stable, multi-annual funding models to ensure the sustainability of public broadcasting.
+
+### Journalistic Challenges and Safety
+*   **Legal Pressures:** Journalists in Italy face a "chilling effect" due to the *Costa amendment*, which restricts the publication of direct quotations from pre-trial custody orders, potentially limiting the flow of information regarding judicial proceedings.
+*   **Safety and Surveillance:** There has been a 16% increase in intimidations against journalists in 2024. While the COPASIR report found no evidence of state-sponsored use of "Graphite" spyware against journalists, the allegations and potential for surveillance remain a significant concern for media freedom.
+
 ## Related Concepts
 *   [[Judicial Independence]]
 *   [[Whistleblower Protection]]
@@ -92,3 +105,5 @@ The *EU Commission 2025 Rule of Law Report* identifies Hungary as a critical cas
 *   [[Anti-Corruption Strategy]]
 *   [[Emergency Powers]]
 *   [[Asset Declarations]]
+*   [[Constitutional Reform]]
+*   [[SLAPPs]]
