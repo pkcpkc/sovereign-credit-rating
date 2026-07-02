@@ -15,11 +15,15 @@ concepts:
   - Public Procurement
   - Whistleblower Protection
   - Artificial Intelligence in Justice
-timestamp: 2026-07-02T09:47:33Z
+  - Anti-Corruption Strategy
+  - Emergency Powers
+  - Asset Declarations
+timestamp: 2026-07-02T09:54:48Z
 tags:
   - Rule of Law
   - Media Freedom
   - Human Rights
+  - Corruption
 ---
 # Media Pluralism
 
@@ -63,6 +67,18 @@ The *EU Commission 2025 Rule of Law Report* for France highlights a complex evol
 *   **Right to Information:** Despite robust legal frameworks, journalists report that the "disproportionate burden" exception is frequently utilized to complicate or delay access to administrative documents, potentially hindering pluralistic reporting.
 *   **Journalist Safety:** The report underscores a concerning level of pressure on the press, noting 50 alerts regarding harassment, physical attacks, and legal pressure on journalists via the Council of Europe's platform.
 
+## Contextual Analysis: Hungary (2025)
+The *EU Commission 2025 Rule of Law Report* identifies Hungary as a critical case where media pluralism faces systemic risks and significant state influence:
+
+### Regulatory and Structural Risks
+*   **Regulatory Independence:** The **National Media and Infocommunications Authority (NMHH)** is perceived as high-risk due to its composition of Parliament-nominated members, raising concerns about impartial oversight.
+*   **State Advertising Concentration:** The state remains the dominant advertiser, with a heavy concentration of resources channeled toward pro-government media outlets (e.g., KESMA), potentially distorting the media market.
+*   **Access to Information:** While court processing speeds have improved, the actual scope of access—particularly regarding public funding and government transparency—remains restricted.
+
+### Press Freedom and Safety
+*   **Journalist Safety:** Journalists in Hungary face increasing pressure, including targeted smear campaigns and investigations by the **Sovereignty Protection Office** regarding "foreign interests."
+*   **Civil Society Constraints:** The environment for civil society organizations (CSOs) is described as "obstructed," further complicated by investigations and proposed legislation that would restrict access to foreign funding, limiting the diverse perspectives necessary for a pluralistic discourse.
+
 ## Related Concepts
 *   [[Judicial Independence]]
 *   [[Whistleblower Protection]]
@@ -73,3 +89,6 @@ The *EU Commission 2025 Rule of Law Report* for France highlights a complex evol
 *   [[Digitalisation of Justice]]
 *   [[Lobbying Transparency]]
 *   [[Artificial Intelligence in Justice]]
+*   [[Anti-Corruption Strategy]]
+*   [[Emergency Powers]]
+*   [[Asset Declarations]]
