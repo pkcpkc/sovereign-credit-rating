@@ -22,7 +22,12 @@ concepts:
   - Sovereign-Bank Nexus
   - ETS 2 (Emission Trading System)
   - Next Generation EU (NGEU)
-timestamp: 2026-07-02T13:13:52Z
+  - Productivity Growth
+  - Demographics
+  - Energy Security
+  - Digitalization
+  - Excessive Deficit Procedure (EDP)
+timestamp: 2026-07-02T13:35:52Z
 tags:
   - Economy
   - Financial Stability
@@ -41,6 +46,12 @@ The primary goal is to maintain [[Financial Stability]] by monitoring and regula
 
 ## Contextual Application: Regional Perspectives
 Macroprudential vigilance is applied across various jurisdictions to address specific structural and market-driven risks:
+
+### Slovakia (2025)
+Recent IMF assessments indicate that while the Slovak banking sector remains well-capitalized with ample liquidity, macroprudential oversight is critical for managing specific market vulnerabilities:
+- **Real Estate Vulnerabilities:** The residential real estate market is identified as a primary concern due to high house prices and the risks associated with upcoming mortgage refixations.
+- **Policy Synergy:** Macroprudential stability is maintained in conjunction with [[Fiscal Consolidation]] efforts to reduce headline deficits and manage public debt.
+- **Structural Integration:** Oversight is linked to broader goals of [[Productivity Growth]], addressing [[Demographics]] (shrinking labor force), and ensuring [[Energy Security]] through the transition toward [[ETS 2 (Emission Trading System)]].
 
 ### Malta (2025)
 Recent IMF assessments highlight specific macroprudential priorities for the Maltese financial system:
