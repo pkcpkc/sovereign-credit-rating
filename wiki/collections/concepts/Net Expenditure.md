@@ -9,7 +9,19 @@ concepts:
   - STEM Education
   - Long-term Care
   - Energy Transition
-timestamp: 2026-07-02T07:10:34Z
+  - GDP Growth
+  - Inflation
+  - Public Debt
+  - Investment-to-GDP Ratio
+  - Budgetary Framework
+  - Labour Productivity
+  - Skills Shortage
+  - R&D Intensity
+  - Decarbonisation
+  - Energy Security
+  - Social Convergence
+  - Digital Transformation
+timestamp: 2026-07-02T07:40:33Z
 tags:
   - Economic Report
   - EU Commission
@@ -29,8 +41,19 @@ In the context of the **2025 Country Report - Belgium**, net expenditure is heav
 *   **Fiscal Deficit:** The headline deficit is forecast to rise to 5.4% of GDP in 2025, with public debt projected to reach 107.1%. These figures are driven by a combination of defense spending and aging-related costs.
 *   **Structural Drivers:** The sustainability of net expenditure is tied to the [[Fiscal-Structural Plan]], which aims to address high labor costs driven by [[Wage Indexation]] and the need for a more efficient tax-and-benefit system.
 
+## Contextual Analysis: Hungary (2025)
+The **2025 Country Report - Hungary** provides a contrasting look at net expenditure within a framework of high debt-servicing costs and expansionary fiscal bias:
+
+*   **Growth Projections:** Net expenditure growth in 2025 is forecast at 6.1%. While this exceeds certain Council recommendations, it remains within cumulative limits due to a national escape clause specifically for defense spending.
+*   **Debt & Interest:** Hungary's net expenditure is pressured by high public debt (73.5% of GDP in 2024) and elevated debt-servicing costs, with the implicit interest rate on government debt nearing 6% in 2025.
+*   **Budgetary Framework:** A key challenge to managing net expenditure in Hungary is the lack of a transparent, multiannual spending ceiling and frequent revisions to the [[Budgetary Framework]].
+*   **Structural Constraints:** Expenditure is further complicated by high fossil fuel subsidies (1.01% of GDP) and a need to address low [[Labour Productivity]] and [[R&D Intensity]], which impact the long-term efficiency of public spending.
+
 ## Related Concepts
 - [[Fiscal-Structural Plan]]
 - [[Wage Indexation]]
 - [[Long-term Care]]
 - [[Energy Transition]]
+- [[Budgetary Framework]]
+- [[Public Debt]]
+- [[Circular Economy]]
