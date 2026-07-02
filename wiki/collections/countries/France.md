@@ -4,7 +4,7 @@ title: "France"
 countries:
   - France
 ratings: []
-timestamp: 2026-07-02T07:50:37Z
+timestamp: 2026-07-02T08:12:05Z
 tags:
   - Economics
   - Fiscal Policy
@@ -42,4 +42,4 @@ While France is a leader in producing "unicorns," it faces challenges in securin
 
 ## Related Entities
 
-[[Austria]], [[Germany]], [[USA]], [[Italy]], [[Norway]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[STEM Education]], [[Wage Indexation]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Richard Feynman]], [[Hungary]]
+[[Austria]], [[Germany]], [[USA]], [[Italy]], [[Norway]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[STEM Education]], [[Wage Indexation]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Richard Feynman]], [[Hungary]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Public Debt-to-GDP]]
