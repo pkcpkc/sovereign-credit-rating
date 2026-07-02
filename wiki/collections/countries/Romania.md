@@ -19,7 +19,7 @@ countries:
   - Ukraine
   - Moldova
 ratings: []
-timestamp: 2026-07-02T09:25:43Z
+timestamp: 2026-07-02T10:47:12Z
 tags:
   - Economic Report
   - European Commission
@@ -31,6 +31,11 @@ tags:
   - Economic Development
   - Social Fairness
   - EU Compliance
+  - Rule of Law
+  - Justice System
+  - Anti-Corruption
+  - Media Freedom
+  - Human Rights
 ---
 
 # Romania
@@ -49,7 +54,11 @@ The labor market is defined by a dual reality: while nominal wages rose by 15% i
 
 ## Governance & Rule of Law
 
-The governance context for Romania is centered on the "simplification of economic life" initiatives and the implementation of Recovery and Resilience Plan (RRP) reforms. These measures aim to reduce bureaucratic hurdles for businesses and improve the transparency of public procurement and licensing regulations. These efforts are part of a broader regional strategy to enhance public spending efficiency, modernize institutional frameworks, and facilitate green and digital transitions while addressing the need for administrative simplification to improve the ease of doing business.
+The governance context for Romania is centered on the "simplification of economic life" initiatives and the implementation of Recovery and Resilience Plan (RRP) reforms. These measures aim to reduce bureaucratic hurdles for businesses and improve the transparency of public procurement and licensing regulations. 
+
+Recent developments in the Rule of Law landscape show mixed progress. While the government has made strides in aligning Justice Laws with Venice Commission recommendations and improving judicial HR recruitment (reaching 83% occupancy for judge positions), public perception of judicial independence has declined to 44% in 2025. The anti-corruption framework remains active, with the National Anti-Corruption Directorate (DNA) maintaining high occupancy and activity; however, a "statute of limitations" crisis has emerged due to recent court rulings on the *lex mitior* principle. 
+
+Significant challenges persist regarding media pluralism—with high risks in ownership transparency (72%) and political influence—and the continued use of Government Emergency Ordinances (156 in 2024). To counter a narrowing civic space, a new Strategy for Open Government (2025-2030) was adopted in April 2025.
 
 ## Key Risks & Outlook
 
@@ -59,4 +68,4 @@ The outlook depends on the successful implementation of the Medium-Term Fiscal-S
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Poland]], [[Hungary]], [[Recovery and Resilience Plan]], [[Circular Economy]], [[Decarbonisation]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]], [[Slovakia]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Poland]], [[Hungary]], [[Recovery and Resilience Plan]], [[Circular Economy]], [[Decarbonisation]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption Strategy]], [[Public Procurement]], [[Media Pluralism]], [[SLAPPs]], [[Asset Declaration]], [[Lobbying Rules]], [[Open Government]]
