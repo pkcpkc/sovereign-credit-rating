@@ -3,7 +3,7 @@ type: "Concept"
 title: "Tax Wedge"
 concepts:
   - Tax Wedge
-timestamp: 2026-07-02T07:02:38Z
+timestamp: 2026-07-02T09:11:16Z
 tags:
   - Economics
   - Fiscal Policy
@@ -20,9 +20,10 @@ In the context of national fiscal policy, the tax wedge is a critical indicator 
 - **Fiscal Policy Trade-offs:** Governments often face a tension between maintaining social safety nets (which require high contributions) and creating a "growth-friendly" tax mix that encourages employment and investment.
 
 ## Current Trends and Policy Directions
-Recent economic reports, such as the **2025 Country Report - Austria**, highlight a strategic shift in fiscal policy regarding the tax wedge:
+Recent economic reports, such as the **2025 Country Report - Austria** and the **2025 Country Report - Slovakia**, highlight a strategic shift in fiscal policy regarding the tax wedge:
 - **Structural Reform:** There is an increasing emphasis on improving the "tax mix" to move away from heavy labor taxation.
 - **Growth-Friendly Bases:** Policy recommendations suggest shifting the tax burden toward more growth-oriented bases to stimulate business dynamism and mitigate the effects of a shrinking working-age population.
+- **Social Fairness & Targeted Relief:** In Slovakia, specific policy directions include reducing the high tax wedge on lower-income earners to improve social inclusion and labor market participation.
 - **Fiscal Consolidation:** Balancing the reduction of the tax wedge with the need for fiscal consolidation is a primary challenge, especially as public spending on age-related items (pensions and healthcare) continues to rise.
 
 ## Related Concepts
@@ -30,3 +31,5 @@ Recent economic reports, such as the **2025 Country Report - Austria**, highligh
 - [[Labour Market]]
 - [[Economic & Fiscal Developments]]
 - [[Cost Pressures]]
+- [[Social Inclusion]]
+- [[Human Capital]]
