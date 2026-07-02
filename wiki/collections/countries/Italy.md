@@ -39,7 +39,7 @@ countries:
   - United Kingdom
   - Moldova
 ratings: []
-timestamp: 2026-07-02T10:02:29Z
+timestamp: 2026-07-02T10:11:35Z
 tags:
   - Economics
   - Fiscal Policy
@@ -55,6 +55,11 @@ tags:
   - Digitalization
   - Social Fairness
   - EU Compliance
+  - Rule of Law
+  - Justice System
+  - Anti-Corruption
+  - Media Freedom
+  - Constitutional Reform
 ---
 
 # Italy
@@ -77,14 +82,16 @@ Structural challenges persist, notably a significant innovation gap where R&D ex
 
 Italy operates within the framework of the European Union, adhering to shared standards of fiscal policy and social fairness. It is a key participant in the European Commission's efforts to reduce administrative "red tape" and improve the regulatory environment for private investment across the bloc. Italy works to align its regulatory frameworks with EU-wide goals for transparency and streamlined business operations, participating in initiatives aimed at the "simplification of economic life" to reduce bureaucracy for businesses. Recent progress has been noted in justice and public administration reforms.
 
-As a member of the EU, Italy's governance is increasingly linked to broader European standards regarding judicial independence and anti-corruption frameworks. While Italy focuses on streamlining business operations, it operates in a regional context where neighbors like Hungary face significant challenges regarding the "state of danger" and judicial autonomy—issues that Italy seeks to mitigate through its own administrative simplification and justice reforms.
+The 2025 Rule of Law Report highlights a period of significant legislative activity. Public perception of judicial independence rose to 46% in 2025, up from 34% in 2021. While tax, civil, and administrative justice branches have seen successful digitalization, the criminal justice sector faces technical hurdles with the *APP* platform. Significant legislative efforts are underway to separate the careers of judges and prosecutors, though these face scrutiny from judicial associations.
+
+Italy’s anti-corruption framework remains stable with a Transparency International score of 54/100, though challenges persist in public procurement—where 98% of contracts were allocated via direct allocation in 2024—and the lack of a comprehensive national lobbying register. Media freedom remains a concern due to the "chilling effect" of the *Costa amendment* and reports of spyware usage. Additionally, the adoption of a new Security Law in June 2025 has raised concerns regarding the narrowing of civic space and freedom of assembly.
 
 ## Key Risks & Outlook
 
 Key risks for Italy include the broader Euro area's inflationary dynamics, high public debt levels, and the structural challenges of the green transition. While Italy is a leader in solar PV and wind manufacturing, it lags in the adoption of electric vehicles. The country is highly exposed to hydrogeological risks and extreme weather, with significant annual infrastructure costs projected by 2030.
 
-The outlook is tied to the success of regional energy diversification, the ability to implement breakthrough technologies to improve business dynamism, and the management of age-related expenditures. Italy must navigate the tension between maintaining industrial competitiveness and meeting ambitious sustainability targets while addressing regional disparities and overcoming a shortage of skilled staff in STEM and green transition sectors. Success depends on effective fiscal consolidation, administrative simplification, and enhanced investment in R&D and renewable energy infrastructure.
+The outlook is tied to the success of regional energy diversification, the ability to implement breakthrough technologies to improve business dynamism, and the management of age-related expenditures. Italy must navigate the tension between maintaining industrial competitiveness and meeting ambitious sustainability targets while addressing regional disparities and overcoming a shortage of skilled staff in STEM and green transition sectors. Success depends on effective fiscal consolidation, administrative simplification, and enhanced investment in R&D and renewable energy infrastructure. Furthermore, the country must address the backlog of European Court of Human Rights (ECHR) judgments and continue to strengthen institutional checks against the frequent use of government urgency decrees.
 
 ## Related Entities
 
-[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Digitalization]], [[Romania]], [[Moldova]], [[Slovakia]]
+[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Digitalization]], [[Romania]], [[Moldova]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption]], [[Media Pluralism]], [[Constitutional Reform]]
