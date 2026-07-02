@@ -35,7 +35,7 @@ countries:
   - Azerbaijan
   - Qatar
 ratings: []
-timestamp: 2026-07-02T08:14:19Z
+timestamp: 2026-07-02T08:44:11Z
 tags:
   - Economic Report
   - European Commission
@@ -56,7 +56,7 @@ tags:
 
 Slovenia is part of the broader European economic landscape discussed in the 2025 Country Report. While specific granular data for Slovenia was not isolated in the primary summary, it is contextualized within the European Commission's framework of fiscal consolidation and structural reform. The region faces a landscape characterized by varying degrees of GDP growth, with the broader EU environment seeing a shift toward higher capital costs and restrictive monetary policies. Slovenia's economic position is linked to the EU-wide efforts to address "skills gaps," improve labor market productivity, and transition toward a green and digital economy. Like its neighbors, the country is navigating an environment of high inflation and the need for improved labor productivity to match rising unit labor costs. 
 
-In the broader European context, growth is being influenced by household consumption and corporate investment, while fiscal policy remains focused on balancing primary surpluses against rising debt-to-GDP ratios and high interest costs.
+In the broader European context, growth is being influenced by household consumption and corporate investment, while fiscal policy remains focused on balancing primary surpluses against rising debt-to-GDP ratios and high interest costs. As part of the regional economic convergence, Slovenia is subject to the same overarching pressures as its peers—including navigating high wholesale energy prices and the necessity of enhancing public spending efficiency to support long-term stability.
 
 ## Governance & Rule of Law
 
@@ -70,7 +70,8 @@ The primary risks for Slovenia, consistent with its neighbors in the 2025 report
 *   **Labor Market Dynamics:** Addressing structural weaknesses in business R&D and ensuring a pipeline of skilled staff (particularly in STEM and green transitions) to meet the demands of the twin green and digital transitions.
 *   **Regional Disparities:** Mitigating economic gaps between different territories to ensure inclusive growth and addressing social convergence.
 *   **Productivity & Innovation:** Overcoming regional stagnation in R&D intensity and ensuring that nominal wage growth is supported by corresponding gains in productivity.
+*   **Demographic Pressures:** Facing regional challenges related to an aging population and potential labor shortages in critical sectors like construction and technology.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Italy]], [[Hungary]], [[GDP Growth]], [[Labour Productivity]], [[Skills Shortage]], [[Recovery and Resilience Plan (RRP)]], [[Decarbonisation]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Italy]], [[Hungary]], [[GDP Growth]], [[Labour Productivity]], [[Skills Shortage]], [[Recovery and Resilience Plan (RRP)]], [[Decarbonisation]], [[Fiscal Adjustment]], [[Circular Economy]], [[STEM Education]]
