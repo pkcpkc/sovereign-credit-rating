@@ -21,7 +21,14 @@ concepts:
   - Energy Security
   - Social Convergence
   - Digital Transformation
-timestamp: 2026-07-02T07:40:33Z
+  - Real GDP Growth
+  - Product Market Regulation
+  - Carbon Rate
+  - Water Exploitation Index (WEI+)
+  - Venture Capital
+  - Digital Decade
+  - Sustainable Development Goals
+timestamp: 2026-07-02T08:18:56Z
 tags:
   - Economic Report
   - EU Commission
@@ -49,6 +56,13 @@ The **2025 Country Report - Hungary** provides a contrasting look at net expendi
 *   **Budgetary Framework:** A key challenge to managing net expenditure in Hungary is the lack of a transparent, multiannual spending ceiling and frequent revisions to the [[Budgetary Framework]].
 *   **Structural Constraints:** Expenditure is further complicated by high fossil fuel subsidies (1.01% of GDP) and a need to address low [[Labour Productivity]] and [[R&D Intensity]], which impact the long-term efficiency of public spending.
 
+## Contextual Analysis: Malta (2025)
+The **2025 Country Report - Malta** highlights a different trajectory for net expenditure characterized by fiscal consolidation and moderate growth:
+
+*   **Expenditure Management:** Net expenditure growth in 2025 is forecast at a modest 0.8%. While this represents a slower growth rate compared to Hungary, the cumulative growth over the 2024-2025 period exceeds Council recommendations.
+*   **Fiscal Consolidation:** Malta is actively managing its expenditure to reduce the general government deficit, which is projected to fall to 2.8% of GDP by 2026, while maintaining a debt-to-GDP ratio expected to stabilize below 50%.
+*   **Long-term Pressures:** Despite current consolidation, Malta faces long-term fiscal pressures stemming from an aging population and high healthcare costs, similar to the demographic trends observed in Belgium.
+
 ## Related Concepts
 - [[Fiscal-Structural Plan]]
 - [[Wage Indexation]]
@@ -57,3 +71,5 @@ The **2025 Country Report - Hungary** provides a contrasting look at net expendi
 - [[Budgetary Framework]]
 - [[Public Debt]]
 - [[Circular Economy]]
+- [[Real GDP Growth]]
+- [[R&D Intensity]]
