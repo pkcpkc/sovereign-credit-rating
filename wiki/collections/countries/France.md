@@ -4,7 +4,7 @@ title: "France"
 countries:
   - France
 ratings: []
-timestamp: 2026-07-02T08:57:54Z
+timestamp: 2026-07-02T09:19:19Z
 tags:
   - Economics
   - Fiscal Policy
