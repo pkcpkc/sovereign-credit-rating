@@ -20,10 +20,20 @@ times:
     event: Executive Board conclusion of consultation (Belgium)
   - date: 2025-03-20
     event: Press release of consultation results (Belgium)
+  - date: 2025-05-14
+    event: Start of IMF staff discussions in Rome (Italy)
+  - date: 2025-05-28
+    event: Conclusion of IMF staff discussions with Italian officials
   - date: 2025-06-05
     event: Start of IMF Staff Mission in Budapest (Hungary)
   - date: 2025-06-17
     event: Conclusion of IMF Staff Discussions with Hungarian Officials
+  - date: 2025-07-01
+    event: Completion of IMF Staff Report (Italy)
+  - date: 2025-07-18
+    event: IMF Executive Board consideration of the Staff Report (Italy)
+  - date: 2025-07-22
+    event: Press Release of Executive Board conclusion (Italy)
   - date: 2025-07-25
     event: Completion of IMF Staff Report (Hungary)
   - date: 2025-08-29
@@ -36,11 +46,12 @@ times:
     event: Targeted Inflation Return to 3.0% (Hungary)
   - date: 2030
     event: Projected Debt-to-GDP Ratio of 79% (Hungary)
-timestamp: 2026-07-02T12:25:40Z
+timestamp: 2026-07-02T12:46:42Z
 tags:
   - IMF
   - Belgium
   - Hungary
+  - Italy
   - Macroeconomics
   - Fiscal Policy
   - Labor Market
@@ -50,12 +61,15 @@ tags:
 
 ## Event Details
 
-The timeline surrounding the 2025 IMF Article IV Consultations reflects a period of intense fiscal and structural review for both Belgium and Hungary. 
+The timeline surrounding the 2025 IMF Article IV Consultations reflects a period of intense fiscal and structural review for Belgium, Hungary, and Italy.
 
 In **Belgium**, the economic landscape was shaped by the **Elections in Belgium** in June 2024, followed by the **expiration of one-year government bonds** in September 2024. By December 2024, the **last Article IV Consultation** concluded, setting the stage for the 2025 review. Formal engagement intensified in early 2025, with discussions beginning on January 22 and concluding on February 4. A pivotal moment occurred on February 21 with a **concluding meeting with the new Deputy Prime Minister, Jan Jambon**, which influenced the final report's focus on a 7-year adjustment plan. The process culminated in the **Completion of IMF Staff Report** on March 3, 2025, followed by the **Executive Board conclusion** on March 18 and the final **press release** on March 20.
 
 Simultaneously, the IMF conducted a review of **Hungary**, which began with the **Start of IMF Staff Mission in Budapest** on June 5, 2025. Following the **Conclusion of IMF Staff Discussions with Hungarian Officials** on June 17, the **Completion of IMF Staff Report** for Hungary was reached on July 25, 2025. The **IMF Executive Board Consideration of Hungary Report** took place on August 29, 2025.
 
+The review for **Italy** commenced in May 2025, with **IMF staff discussions in Rome** starting on May 14 and concluding on May 28. The **Completion of IMF Staff Report** for Italy was reached on July 1, 2025, followed by the **IMF Executive Board consideration** on July 18 and the official **Press Release of Executive Board conclusion** on July 22.
+
 The reports highlight divergent but critical economic trajectories:
 - **Belgium:** Focuses on managing public debt (projected at 123% of GDP by 2030) and structural reforms to address automatic wage indexation and labor market inefficiencies.
 - **Hungary:** Faces a "challenging juncture" with stagnant output and high inflation. The report projects a modest recovery (0.7% in 2025, 2.0% in 2026) and sets a target for inflation to return to 3.0% by 2027, with a projected debt-to-GDP ratio of 79% by 2030. Key recommendations include a cumulative fiscal adjustment of 2% of GDP between 2025-2028 and structural reforms to improve productivity and governance.
+- **Italy:** Characterized by economic resilience with moderate growth (0.7% in 2024) and a return to a primary surplus. While fiscal discipline is noted, the IMF highlights severe structural challenges including low productivity, rapid population aging (projected to increase the old-age dependency ratio by 2050), and high public debt (135.3% of GDP in 2024). Recommendations include a target of a 3% primary surplus by 2027, rationalizing tax expenditures, and accelerating the transition to renewables.
