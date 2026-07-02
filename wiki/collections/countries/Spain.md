@@ -3,8 +3,13 @@ type: Country
 title: Spain
 countries:
   - Spain
+  - Italy
+  - Germany
+  - France
+  - United States
+  - Austria
 ratings: []
-timestamp: 2026-07-02T11:33:07Z
+timestamp: 2026-07-02T12:38:15Z
 tags:
   - Economic Report
   - European Commission
@@ -15,6 +20,8 @@ tags:
   - Monetary Policy
   - Financial Stability
   - IMF
+  - Macroeconomics
+  - Debt Sustainability
 ---
 
 # Spain
@@ -27,9 +34,11 @@ tags:
 
 ## Economic Overview
 
-Spain is a key member of the European Union's economic landscape, operating within a regional context characterized by high capital costs and restrictive monetary policies. The country is currently navigating a period of aggressive fiscal consolidation and structural adjustments required by the Recovery and Resilience Plan (RRP) reforms. While Spain faces high inflation pressures and must balance net expenditure growth with significant debt-servicing costs, it operates within a broader European context where neighboring economies like Austria are facing near-zero growth. 
+Spain is a key member of the European Union's economic landscape, operating within a regional context characterized by high capital costs and restrictive monetary policies. The country is currently navigating a period of aggressive fiscal consolidation and structural adjustments required by the Recovery and Resilience Plan (RRP) reforms. While Spain faces high inflation pressures and must balance net expenditure growth with significant debt-servicing costs, it operates within a broader European context where neighboring economies like Austria are facing near-zero growth.
 
 Recent international assessments (IMF 2025) highlight a broader European trend of rising public debt and the necessity for sustained fiscal consolidation to bring deficits below 3% of GDP. For Spain, this involves balancing nominal wage growth with productivity gains to maintain international competitiveness while managing a rising debt-to-GDP ratio. The economic landscape is further shaped by the need to address "sticky" services inflation and the expiration of energy price relief policies, while simultaneously managing risks in the Commercial Real Estate (CRE) sector and global trade uncertainty.
+
+In the broader European peer group, Spain's economic trajectory is linked to regional trends seen in Italy and France, where fiscal discipline is being balanced against structural hurdles such as demographic headwinds and the need for high-skilled labor to drive productivity.
 
 ## Governance & Rule of Law
 
@@ -45,4 +54,4 @@ Spain operates within the framework of the European Commission's economic and so
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Hungary]], [[Italy]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Labor Supply]], [[Commercial Real Estate (CRE)]], [[ESG Transition]], [[Systemic Risk]], [[IMF]], [[Automatic Wage Indexation]], [[Total Factor Productivity (TFP)]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Hungary]], [[Italy]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Labor Supply]], [[Commercial Real Estate (CRE)]], [[ESG Transition]], [[Systemic Risk]], [[IMF]], [[Automatic Wage Indexation]], [[Total Factor Productivity (TFP)]], [[Article IV Consultation]], [[National Recovery and Resilience Plan (NRRP)]], [[Primary Surplus]], [[Sovereign Risk]], [[Demographic Headwinds]], [[Systemic Risk Buffer (SyRB)]], [[Countercyclical Capital Buffer (CCyB)]], [[Lone Christiansen]], [[Riccardo Ercoli]]
