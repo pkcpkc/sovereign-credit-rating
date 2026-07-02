@@ -15,11 +15,15 @@ concepts:
   - Circular Economy
   - Digital Decade
   - Schengen Area
-timestamp: 2026-07-02T08:53:20Z
+  - Tax Wedge
+  - Human Capital
+  - Green Transition
+timestamp: 2026-07-02T09:13:44Z
 tags:
   - Economic Policy
   - France
   - Romania
+  - Slovakia
   - European Commission
   - Fiscal Policy
   - Labor Market
@@ -48,6 +52,14 @@ In the Romanian context, public procurement is a central component of the countr
 *   **Energy & Circular Economy:** Procurement serves as a tool to tackle high energy affordability and the low circular material use rate (1.3%). It is essential for procuring renewable energy technologies and establishing waste management systems to support the 2030 renewable targets.
 *   **Infrastructure & Social Fairness:** Given the severe housing deprivation and underdeveloped transport networks, public procurement is the primary vehicle for funding the modernization of railway infrastructure and addressing rural-urban disparities.
 
+## Context in Slovakia (2025 Country Report)
+In Slovakia, public procurement is identified as a critical tool for navigating structural weaknesses and accelerating the country's transition toward a high-value economy:
+
+*   **Innovation & Digital Infrastructure:** To bridge the "innovation gap" and address the low R&D intensity (1% of GDP), public procurement is essential for fostering the adoption of digital infrastructure and AI technologies. It serves as a primary vehicle to modernize public services and overcome the current "Digital Lag."
+*   **Green Transition & Decarbonization:** Given that manufacturing contributes 35% of Slovakia's GHG emissions, procurement is a vital instrument for scaling renewable energy and supporting the transition toward green technologies.
+*   **Economic Competitiveness:** Procurement is a key mechanism for improving the business environment by simplifying regulations and reducing the regulatory burden that currently hinders private and public investment.
+*   **Social and Human Capital:** Procurement plays a role in addressing social inclusion and human capital challenges, particularly in infrastructure development and public service delivery aimed at reducing disparities.
+
 ## Related Concepts
 - [[Fiscal Sustainability]]
 - [[Administrative Simplification]]
@@ -58,3 +70,6 @@ In the Romanian context, public procurement is a central component of the countr
 - [[R&D Intensity]]
 - [[Circular Economy]]
 - [[Digital Decade]]
+- [[Tax Wedge]]
+- [[Human Capital]]
+- [[Green Transition]]
