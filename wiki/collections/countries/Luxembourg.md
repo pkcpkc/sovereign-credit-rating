@@ -33,7 +33,7 @@ countries:
   - United Kingdom
   - Moldova
 ratings: []
-timestamp: 2026-07-02T09:02:28Z
+timestamp: 2026-07-02T09:22:57Z
 tags:
   - Economic Report
   - European Commission
@@ -74,4 +74,4 @@ Specific regional pressures include managing energy security and navigating the 
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[Malta]], [[United Kingdom]], [[Romania]], [[Moldova]], [[Circular Economy]], [[Digital Decade]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[Malta]], [[United Kingdom]], [[Romania]], [[Moldova]], [[Circular Economy]], [[Digital Decade]], [[Slovakia]]
