@@ -19,7 +19,7 @@ countries:
   - Ukraine
   - Moldova
 ratings: []
-timestamp: 2026-07-02T08:54:27Z
+timestamp: 2026-07-02T09:25:43Z
 tags:
   - Economic Report
   - European Commission
@@ -59,4 +59,4 @@ The outlook depends on the successful implementation of the Medium-Term Fiscal-S
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Poland]], [[Hungary]], [[Recovery and Resilience Plan]], [[Circular Economy]], [[Decarbonisation]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Poland]], [[Hungary]], [[Recovery and Resilience Plan]], [[Circular Economy]], [[Decarbonisation]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]], [[Slovakia]]
