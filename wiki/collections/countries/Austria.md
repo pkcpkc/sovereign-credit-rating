@@ -41,7 +41,7 @@ countries:
   - United Kingdom
   - Russia
 ratings: []
-timestamp: 2026-07-02T12:02:42Z
+timestamp: 2026-07-02T12:39:43Z
 tags:
   - Economics
   - Fiscal Policy
@@ -85,7 +85,7 @@ The economy is grappling with high nominal unit labor costs—which have risen 1
 
 The labor market remains resilient but faces severe structural headwinds, including a shrinking working-age population and acute shortages in ICT and care sectors (3.6% vacancy rate). To offset 20 years of demographic aging, the IMF emphasizes narrowing the gap in female and elderly labor force participation. There is a notable trend toward part-time employment, particularly among highly educated women. On the innovation front, Austria maintains high R&D intensity (3.29% of GDP), yet faces hurdles in translating these investments into business dynamism due to high administrative "red tape," complex permitting procedures, and an underdeveloped venture capital market.
 
-In comparison to regional peers like Italy—which saw a primary surplus of 0.4% of GDP in 2024 and a government deficit drop to 3.4%—Austria continues to focus on managing high industrial costs and labor market imbalances while addressing the risks of Non-Performing Loans (NPLs) in the commercial real estate sector.
+In comparison to regional peers like [[Italy]]—which saw a primary surplus of 0.4% of GDP in 2024 and a government deficit drop to 3.4%—Austria continues to focus on managing high industrial costs and labor market imbalances while addressing the risks of Non-Performing Loans (NPLs) in the commercial real estate sector.
 
 ## Governance & Rule of Law
 
