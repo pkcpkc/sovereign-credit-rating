@@ -16,7 +16,7 @@ countries:
   - Romania
   - Slovenia
 ratings: []
-timestamp: 2026-07-02T09:15:44Z
+timestamp: 2026-07-02T10:57:05Z
 tags:
   - Economic Report
   - European Commission
@@ -28,6 +28,10 @@ tags:
   - Economic Policy
   - Fiscal Surveillance
   - Innovation
+  - Rule of Law
+  - Judiciary
+  - Anti-Corruption
+  - Media Freedom
 ---
 
 # Slovakia
@@ -46,12 +50,18 @@ The country faces a delicate balance between maintaining industrial competitiven
 
 ## Governance & Rule of Law
 
-The country operates within the framework of European Commission fiscal and social policies, with current priorities including RRP reforms and "simplification of economic life" principles. However, institutional integrity remains a concern; issues persist regarding the judicial system's independence and the effectiveness of anti-corruption measures following the dismantling of specialized units in 2024. Slovakia ranks among the least favorable business environments in the EU due to rapid, often uncoordinated, legislative changes and a fragmented local governance structure that hinders private and public investment.
+Slovakia operates within the framework of European Commission fiscal and social policies, but faces significant challenges regarding institutional integrity. The 2025 Rule of Law Report highlights a complex landscape where legislative progress is tempered by regressions in judicial independence, media freedom, and anti-corruption efficacy. 
+
+Public and corporate trust in the judiciary remains low, with concerns that new "abuse of law" crime amendments create a chilling effect on independent decision-making. The efficiency of administrative courts has deteriorated significantly, with resolution times reaching 1,040 days in 2023. Anti-corruption efforts have been hampered by the dissolution of the National Crime Agency (NAKA) and the Special Prosecutor's Office (SPO), leading to a drop in corruption cases and a regression in the Corruption Perceptions Index (49/100). 
+
+Furthermore, the establishment of the new Slovak Television and Radio (STVR) entity is viewed as a regression in editorial independence. The government's frequent use of fast-track procedures for legislation (28 of 58 laws in 2024) often bypasses stakeholder consultation, while new legal frameworks impose heavy administrative burdens on NGOs. Issues persist regarding the judicial system's independence and the effectiveness of anti-corruption measures following the dismantling of specialized units in 2024.
 
 ## Key Risks & Outlook
 
-Key risks include the broader regional trend of rising public debt-to-GDP ratios, high government deficits, and a persistent "brain drain" of highly skilled workers in healthcare, education, and construction. Slovakia faces the dual challenge of maintaining economic competitiveness while meeting aggressive greenhouse gas reduction targets by 2030, especially as high electricity and gas prices for energy-intensive industries remain among the highest in the EU. The outlook is tied to the success of fiscal consolidation measures, the ability to attract investment despite high interest rates, and the successful navigation of structural transitions toward a greener, more digitally integrated economy. Significant hurdles remain in R&D intensity (currently 1%) and the digital infrastructure gap.
+Key risks include the broader regional trend of rising public debt-to-GDP ratios, high government deficits, and a persistent "brain drain" of highly skilled workers in healthcare, education, and construction. Slovakia faces the dual challenge of maintaining economic competitiveness while meeting aggressive greenhouse gas reduction targets by 2030, especially as high electricity and gas prices for energy-intensive industries remain among the highest in the EU. 
+
+The outlook is tied to the success of fiscal consolidation measures, the ability to attract investment despite high interest rates, and the successful navigation of structural transitions toward a greener, more digitally integrated economy. Significant hurdles remain in R&D intensity (currently 1%) and the digital infrastructure gap. Additionally, the country must address the "chilling effect" on the judiciary, the rising number of pending ECtHR judgments (33 as of June 2025), and the need to improve the safety and protection of journalists and whistleblowers.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]], [[Poland]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Denmark]], [[Romania]], [[Slovenia]], [[Decarbonisation]], [[Circular Economy]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Public Procurement]], [[Schengen Area]], [[Tax Wedge]], [[Human Capital]], [[Green Transition]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]], [[Poland]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Denmark]], [[Romania]], [[Slovenia]], [[Decarbonisation]], [[Circular Economy]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Public Procurement]], [[Schengen Area]], [[Tax Wedge]], [[Human Capital]], [[Green Transition]], [[Robert Fico]], [[Robert Kaliňák]], [[Judicial Independence]], [[PIF Directive]], [[Fast-track Procedure]], [[Public Service Media]], [[SLAPP]], [[Whistleblower Protection]], [[Conflict of Interest]], [[Asset Declaration]]
