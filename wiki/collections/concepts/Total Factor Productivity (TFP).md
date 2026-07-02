@@ -6,11 +6,19 @@ concepts:
   - Innovation
   - R&D Intensity
   - Business Dynamism
-timestamp: 2026-07-02T07:02:12Z
+  - Fiscal Consolidation
+  - Automatic Wage Indexation
+  - Sovereign Risk
+  - Macroprudential Policy
+  - Green Transition
+  - Capital Market Union
+timestamp: 2026-07-02T11:24:23Z
 tags:
   - Economics
   - Innovation
   - Productivity
+  - Macroeconomics
+  - Fiscal Policy
 ---
 # Total Factor Productivity (TFP)
 
@@ -25,9 +33,24 @@ In the context of the **2025 Country Report - Austria**, TFP highlights a signif
 - **Capital Structure:** A heavy reliance on traditional bank loans rather than a robust venture capital market hinders the growth of fast-growing SMEs, which are often the primary engines of TFP growth.
 - **Labor Dynamics:** While Austria maintains a resilient labor market, rising nominal unit labor costs and a shortage of skilled ICT and care specialists can create bottlenecks that suppress productivity gains.
 
+## Contextual Analysis: Belgium (2025)
+The IMF 2025 Article IV Consultation identifies a notable **Productivity Gap** in Belgium, where TFP growth lags behind peer economies. The report suggests that Belgium's productivity is constrained by structural rigidities and a lack of dynamism in the firm environment.
+
+### Structural Inhibitors in Belgium
+- **Wage Indexation:** The "automatic wage indexation" system is cited as a primary driver of fiscal deficits and a deterrent to international competitiveness, potentially suppressing the incentive for productivity-enhancing reforms.
+- **Regulatory and Insolvency Barriers:** To foster a more dynamic firm environment and improve TFP, the IMF recommends reducing regulatory barriers to entry and improving the insolvency regime.
+- **Labor Market Rigidities:** High hiring/dismissal costs and a need to widen the income gap between work and non-work are identified as factors that could unlock higher labor productivity.
+- **Education Efficiency:** Despite high spending, a lack of alignment between curricula and industry needs—coupled with higher grade repetition rates—limits the supply of high-productivity human capital.
+
 ## Related Concepts
 - [[Innovation]]
 - [[R&D Intensity]]
 - [[Business Dynamism]]
 - [[Fiscal Policy]]
 - [[Decarbonisation]]
+- [[Fiscal Consolidation]]
+- [[Automatic Wage Indexation]]
+- [[Sovereign Risk]]
+- [[Macroprudential Policy]]
+- [[Green Transition]]
+- [[Capital Market Union]]
