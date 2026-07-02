@@ -41,7 +41,7 @@ countries:
   - United Kingdom
   - Russia
 ratings: []
-timestamp: 2026-07-02T12:39:43Z
+timestamp: 2026-07-02T12:55:25Z
 tags:
   - Economics
   - Fiscal Policy
@@ -103,4 +103,4 @@ Structurally, Austria faces the dual challenge of industrial decarbonization—a
 
 ## Related Entities
 
-[[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[Germany]], [[Norway]], [[Italy]], [[Belgium]], [[Netherlands]], [[France]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Hungary]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Digital Transition]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Poland]], [[Romania]], [[Slovakia]], [[Judicial Independence]], [[Federal Prosecution Office]], [[Asset Declaration]], [[Lobbying Framework]], [[Revolving Doors]], [[Media Pluralism]], [[State Advertising]], [[Whistleblower Protection]], [[Freedom of Information Act]], [[Oya Celasun]], [[Bergljot Barkbu]], [[Fletcher]], [[Mohommad]], [[Pinat]], [[Saiyid]], [[Just]], [[Marterbauer]], [[Holzmann]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Labor Supply]], [[Commercial Real Estate (CRE)]], [[ESG Transition]], [[Systemic Risk]]
+[[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[Germany]], [[Norway]], [[Italy]], [[Belgium]], [[Netherlands]], [[France]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Hungary]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Digital Transition]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Poland]], [[Romania]], [[Slovakia]], [[Judicial Independence]], [[Federal Prosecution Office]], [[Asset Declaration]], [[Lobbying Framework]], [[Revolving Doors]], [[Media Pluralism]], [[State Advertising]], [[Whistleblower Protection]], [[Freedom of Information Act]], [[Oya Celasun]], [[Bergljot Barkbu]], [[Fletcher]], [[Mohommad]], [[Pinat]], [[Saiyid]], [[Just]], [[Marterbauer]], [[Holzmann]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Labor Supply]], [[Commercial Real Estate (CRE)]], [[ESG Transition]], [[Systemic Risk]], [[Malta]], [[Corporate Income Tax (CIT)]], [[OECD Pillar II]], [[AML/CFT Framework]]
