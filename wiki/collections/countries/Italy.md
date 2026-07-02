@@ -37,8 +37,9 @@ countries:
   - Azerbaijan
   - Qatar
   - United Kingdom
+  - Moldova
 ratings: []
-timestamp: 2026-07-02T08:37:06Z
+timestamp: 2026-07-02T09:01:27Z
 tags:
   - Economics
   - Fiscal Policy
@@ -53,6 +54,7 @@ tags:
   - Energy Transition
   - Digitalization
   - Social Fairness
+  - EU Compliance
 ---
 
 # Italy
@@ -83,4 +85,4 @@ The outlook is tied to the success of regional energy diversification, the abili
 
 ## Related Entities
 
-[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Digitalization]]
+[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Digitalization]], [[Romania]], [[Moldova]]
