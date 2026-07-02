@@ -22,7 +22,9 @@ concepts:
   - SLAPPs
   - European Media Freedom Act (EMFA)
   - National Broadcasting Council (KRRiT)
-timestamp: 2026-07-02T10:30:38Z
+  - Open Government
+  - Ownership Transparency
+timestamp: 2026-07-02T10:42:40Z
 tags:
   - Rule of Law
   - Media Freedom
@@ -105,6 +107,17 @@ The *EU Commission 2025 Rule of Law Report* for Poland highlights a period of mi
 *   **Public Service Instability:** While there has been a decrease in politically biased content, public broadcasters face significant instability due to the suspension of license fee funds and ongoing liquidation processes.
 *   **SLAPPs and Legal Risks:** While the number of **SLAPPs** has decreased, journalists continue to face risks from existing defamation and insult laws.
 
+## Contextual Analysis: Romania (2025)
+The *EU Commission 2025 Rule of Law Report* for Romania indicates significant risks to media pluralism stemming from ownership opacity and political interference:
+
+### Ownership and Transparency
+*   **Media Ownership Risk:** Transparency regarding media ownership remains at a "high risk" level (72%), with substantial difficulties in identifying the owners of various online news sites.
+*   **Political Influence:** There is evidence of heavy political spending on media (approximately EUR 24.5 million in 2023), often utilizing advertising agencies to obscure the distinction between editorial news and paid content.
+
+### Public Service Media and Journalist Safety
+*   **Public Service Governance:** Romania has seen no progress in enhancing the independent governance or editorial independence of its public service media.
+*   **Journalist Safety:** New alerts were recorded in 2025 regarding the harassment and intimidation of journalists, compounded by ongoing concerns regarding the use of **SLAPPs**.
+
 ## Related Concepts
 *   [[Judicial Independence]]
 *   [[Whistleblower Protection]]
@@ -121,3 +134,5 @@ The *EU Commission 2025 Rule of Law Report* for Poland highlights a period of mi
 *   [[Constitutional Reform]]
 *   [[SLAPPs]]
 *   [[European Media Freedom Act]]
+*   [[Open Government]]
+*   [[Ownership Transparency]]
