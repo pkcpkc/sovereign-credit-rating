@@ -37,7 +37,7 @@ countries:
   - Azerbaijan
   - Qatar
 ratings: []
-timestamp: 2026-07-02T08:55:17Z
+timestamp: 2026-07-02T09:16:34Z
 tags:
   - Economics
   - Fiscal Policy
@@ -81,4 +81,4 @@ Structurally, Austria faces the dual challenge of industrial decarbonization—a
 
 ## Related Entities
 
-[[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[Germany]], [[Norway]], [[Italy]], [[Belgium]], [[Netherlands]], [[France]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Hungary]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Digital Transition]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Poland]], [[Romania]]
+[[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[Germany]], [[Norway]], [[Italy]], [[Belgium]], [[Netherlands]], [[France]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Hungary]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Digital Transition]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Poland]], [[Romania]], [[Slovakia]]
