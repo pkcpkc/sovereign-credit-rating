@@ -36,8 +36,9 @@ countries:
   - Algeria
   - Azerbaijan
   - Qatar
+  - United Kingdom
 ratings: []
-timestamp: 2026-07-02T08:11:12Z
+timestamp: 2026-07-02T08:25:03Z
 tags:
   - Economics
   - Fiscal Policy
@@ -48,6 +49,7 @@ tags:
   - Economic Report
   - EU Commission
   - Economic Policy
+  - EU Governance
 ---
 
 # Germany
@@ -76,4 +78,4 @@ Key risks for Germany include the ongoing transition to a decarbonized industria
 
 ## Related Entities
 
-[[Austria]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Decarbonisation]], [[Energy Security]], [[Belgium]], [[Netherlands]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Italy]], [[Spain]], [[Slovenia]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]]
+[[Austria]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Decarbonisation]], [[Energy Security]], [[Belgium]], [[Netherlands]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Italy]], [[Spain]], [[Slovenia]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Malta]], [[United Kingdom]]
