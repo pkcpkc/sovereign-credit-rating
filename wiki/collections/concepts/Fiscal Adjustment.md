@@ -5,10 +5,18 @@ concepts:
   - Fiscal Adjustment
   - Excessive Deficit Procedure
   - Public Investment Efficiency
-timestamp: 2026-07-02T08:30:31Z
+  - Article IV Consultation
+  - Monetary Policy
+  - Structural Reforms
+  - Productivity
+  - Sovereign-Bank Nexus
+  - Geoeconomic Fragmentation
+  - Debt Sustainability
+timestamp: 2026-07-02T11:56:34Z
 tags:
   - Fiscal Policy
   - Economic Development
+  - Macroeconomics
 ---
 # Fiscal Adjustment
 
@@ -22,7 +30,16 @@ In the context of the 2025 Country Report for Poland, fiscal adjustment is a cri
 *   **Public Spending Dynamics:** The adjustment process must navigate a landscape where net expenditure grew by 12.7% in 2024, primarily driven by public consumption and increased defense spending.
 *   **Fiscal-Structural Plan:** The Council endorsed a medium-term fiscal-structural plan in January 2025, which serves as the roadmap for these adjustments.
 
+## Contextual Application: Hungary
+Based on the IMF 2025 Article IV Consultation, fiscal adjustment in Hungary is characterized by the need to rebuild fiscal buffers amidst stagnant output and elevated inflation. Key components include:
+
+*   **Adjustment Targets:** The IMF recommends a cumulative fiscal adjustment of approximately 2% of GDP between 2025-2028 to bring the headline deficit below 3% by 2027.
+*   **Spending Rationalization:** Specific focus is placed on phasing out retail energy subsidies, reducing administrative overhead, and addressing long-term pressures in pension and healthcare spending.
+*   **Debt Sustainability:** The adjustment is necessary to manage a projected public debt rise toward 79% of GDP by 2030, while navigating high refinancing costs and SOE contingent liabilities.
+
 ## Key Objectives and Challenges
 *   **Sustainability:** Balancing the need for immediate fiscal consolidation with the requirements for [[Public Investment Efficiency]] and long-term growth.
-*   **Structural Reform:** Transitioning from emergency deficit reduction to a sustainable fiscal framework that addresses underlying issues like tax complexity and labor productivity.
-*   **Economic Growth:** Ensuring that fiscal tightening does not stifle the projected GDP growth, which is expected to surpass 2.9% in 2025.
+*   **Structural Reform:** Transitioning from emergency deficit reduction to a sustainable fiscal framework that addresses underlying issues like tax complexity, labor productivity, and governance.
+*   **Economic Growth:** Ensuring that fiscal tightening does not stifle projected GDP growth (e.g., Hungary's projected 0.7% in 2025 and 2.0% in 2026).
+*   **External Risks:** Navigating downward pressures such as [[Geoeconomic Fragmentation]], trade measures (e.g., US tariffs), and the potential cancellation of EU funds.
+*   **Monetary Synergy:** Coordinating fiscal tightening with a restrictive [[Monetary Policy]] to anchor inflation expectations and maintain financial stability.
