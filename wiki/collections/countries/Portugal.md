@@ -4,7 +4,7 @@ title: "Portugal"
 countries:
   - Portugal
 ratings: []
-timestamp: 2026-07-02T07:33:16Z
+timestamp: 2026-07-02T07:57:54Z
 tags:
   - Economic Report
   - European Commission
@@ -35,4 +35,4 @@ Key risks for Portugal include the broader regional challenges of high public de
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Spain]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Spain]], [[Hungary]]
