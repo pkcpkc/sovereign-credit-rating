@@ -37,7 +37,7 @@ countries:
   - Azerbaijan
   - Qatar
 ratings: []
-timestamp: 2026-07-02T09:16:34Z
+timestamp: 2026-07-02T09:34:07Z
 tags:
   - Economics
   - Fiscal Policy
@@ -51,6 +51,11 @@ tags:
   - Energy Transition
   - Digitalization
   - Social Fairness
+  - Rule of Law
+  - Judiciary
+  - Anti-Corruption
+  - Media Freedom
+  - Human Rights
 ---
 
 # Austria
@@ -71,7 +76,11 @@ In comparison to regional peers like Italy—which saw a primary surplus of 0.4%
 
 ## Governance & Rule of Law
 
-Austria maintains a stable institutional framework, though the 2025 report highlights significant regulatory barriers. Administrative burdens and lengthy permitting processes (often exceeding 22 months for industrial projects) are identified as key obstacles to private investment and business dynamism. The government is currently focused on streamlining these procedures to foster a more growth-friendly environment, mirroring broader European trends toward "simplification of economic life" to reduce bureaucracy for businesses.
+Austria maintains a stable institutional framework with a high level of perceived judicial independence (86% public perception in 2025). However, the 2025 Rule of Law Report highlights critical areas for reform:
+- **Judicial & Prosecutorial Reform:** While the "Justice 3.0" initiative aims for 90% digital case management, there is a push to establish an independent Federal Prosecution Office as a collegiate body to limit the Minister of Justice's power to instruct prosecutors in individual cases.
+- **Anti-Corruption:** The National Anti-Corruption Strategy 2023-2025 is active, with the Federal Bureau of Anti-Corruption (BAK) seeing increased detections. However, progress remains limited on asset disclosure for Members of Parliament and expanding lobbying framework sanctions.
+- **Media & Transparency:** Media freedom is generally protected, though the ORF Act was reformed in 2025 to increase management independence. Concerns persist regarding state advertising concentration and the economic pressures on private media. The upcoming Freedom of Information Act (expected September 2025) is a key milestone for transparency.
+- **Administrative Barriers:** Significant regulatory hurdles and lengthy permitting processes (often exceeding 22 months) remain obstacles to private investment, prompting government efforts toward "simplification of economic life."
 
 ## Key Risks & Outlook
 
@@ -81,4 +90,4 @@ Structurally, Austria faces the dual challenge of industrial decarbonization—a
 
 ## Related Entities
 
-[[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[Germany]], [[Norway]], [[Italy]], [[Belgium]], [[Netherlands]], [[France]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Hungary]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Digital Transition]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Poland]], [[Romania]], [[Slovakia]]
+[[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[Germany]], [[Norway]], [[Italy]], [[Belgium]], [[Netherlands]], [[France]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Hungary]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Digital Transition]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Poland]], [[Romania]], [[Slovakia]], [[Judicial Independence]], [[Federal Prosecution Office]], [[Asset Declaration]], [[Lobbying Framework]], [[Revolving Doors]], [[Media Pluralism]], [[State Advertising]], [[Whistleblower Protection]], [[Freedom of Information Act]]
