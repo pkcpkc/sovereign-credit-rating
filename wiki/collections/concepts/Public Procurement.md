@@ -29,13 +29,15 @@ concepts:
   - Digitalisation of Justice
   - Lobbying Transparency
   - Artificial Intelligence in Justice
-timestamp: 2026-07-02T09:46:13Z
+  - Anti-Corruption Strategy
+timestamp: 2026-07-02T09:56:09Z
 tags:
   - Economic Policy
   - France
   - Romania
   - Slovakia
   - Austria
+  - Hungary
   - European Commission
   - Fiscal Policy
   - Labor Market
@@ -82,6 +84,14 @@ In the Austrian context, public procurement is analyzed through the lens of inst
 *   **State Advertising & Public Spending:** A significant area of focus is the management of public spending on state advertising. With expenditures doubling in 2024, there is a heightened emphasis on preventing the concentration of funding and ensuring that public procurement of media space remains fair and transparent.
 *   **Rule of Law & Governance:** The integrity of public procurement is underpinned by [[Judicial Independence]] and the transition toward a more independent [[Federal Prosecution Office]]. These structural reforms are essential to ensure that public contracts are awarded without undue influence and that corruption risks are mitigated.
 
+## Context in Hungary (2025 Rule of Law Report)
+In the Hungarian context, public procurement is situated within a broader framework of institutional integrity and anti-corruption challenges:
+
+*   **Anti-Corruption Oversight:** While high-level corruption remains a concern, the integrity of public procurement is linked to the broader [[Anti-Corruption Strategy]]. Challenges persist regarding the transparency of political party financing and the effectiveness of the Integrity Authority in accessing state databases to monitor public spending.
+*   **Transparency and Asset Declarations:** The report highlights significant shortcomings in the transparency and oversight of [[Asset Declarations]] for senior political functions, which is a critical component in ensuring that procurement processes are not influenced by illicit interests.
+*   **State Advertising and Media:** Public procurement of media space is heavily influenced by state advertising, with the state remaining the dominant advertiser. This concentration of resources to pro-government media outlets raises questions regarding [[Media Pluralism]] and the fair distribution of public funds.
+*   **Rule of Law Constraints:** The prolonged "state of danger" and the lack of public consultation on legislative drafts can create legal uncertainty for businesses participating in public procurement, potentially affecting the investment climate and the single market.
+
 ## Related Concepts
 - [[Fiscal Sustainability]]
 - [[Administrative Simplification]]
@@ -102,3 +112,4 @@ In the Austrian context, public procurement is analyzed through the lens of inst
 - [[Media Pluralism]]
 - [[Digitalisation of Justice]]
 - [[Artificial Intelligence in Justice]]
+- [[Anti-Corruption Strategy]]
