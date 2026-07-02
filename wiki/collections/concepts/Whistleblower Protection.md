@@ -17,7 +17,10 @@ concepts:
   - Artificial Intelligence in Justice
   - Asset Declarations
   - Emergency Powers
-timestamp: 2026-07-02T09:58:21Z
+  - Action Plan on the Rule of Law
+  - Venice Commission
+  - SLAPPs
+timestamp: 2026-07-02T10:32:59Z
 tags:
   - Rule of Law
   - Anti-Corruption
@@ -57,6 +60,14 @@ The *2025 Rule of Law Report - Hungary* places whistleblower protection within a
 *   **Institutional Pressures:** The "chilling effect" in the judiciary and the investigation of civil society organizations by the Sovereignty Protection Office may impact the perceived safety for individuals reporting misconduct.
 *   **Legislative Environment:** The use of [[Emergency Powers]] and the "state of danger" creates legal uncertainty that can overlap with the protections intended for those exposing governmental irregularities.
 
+## Current Status in Poland
+The *2025 Rule of Law Report - Poland* situates whistleblower protection within a broader restructuring of the anti-corruption landscape and judicial reform:
+
+*   **Institutional Transition:** The liquidation of the Central Anti-Corruption Bureau (CBA) and the transfer of its competencies to the police, Internal Security Agency (ABW), and National Revenue Administration (KAS) creates a new operational environment for reporting and investigating corruption.
+*   **EPPO Integration:** The full operationalization of the European Public Prosecutor's Office (EPPO) provides a significant mechanism for investigating crimes affecting EU financial interests, complementing national whistleblower protections.
+*   **Systemic Hurdles:** The effectiveness of whistleblower reporting in Poland is potentially hampered by the lack of a comprehensive national anti-corruption strategy and the persistence of "impunity clauses" for top executives.
+*   **Protection against Retaliation:** While the number of [[SLAPPs]] (Strategic Lawsuits Against Public Participation) has decreased, journalists and transparency-seeking actors still face risks from defamation laws, highlighting the need for robust protections against legal harassment.
+
 ## Related Concepts
 *   [[Anti-Corruption Framework]]
 *   [[Judicial Independence]]
@@ -70,3 +81,6 @@ The *2025 Rule of Law Report - Hungary* places whistleblower protection within a
 *   [[Artificial Intelligence in Justice]]
 *   [[Asset Declarations]]
 *   [[Emergency Powers]]
+*   [[Action Plan on the Rule of Law]]
+*   [[Venice Commission]]
+*   [[SLAPPs]]
