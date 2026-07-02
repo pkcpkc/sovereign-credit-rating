@@ -17,7 +17,12 @@ concepts:
   - Digital Transformation
   - Energy Subsidies
   - Real Estate Exposure
-timestamp: 2026-07-02T12:51:09Z
+  - Twin Deficits
+  - REER (Real Effective Exchange Rate)
+  - Sovereign-Bank Nexus
+  - ETS 2 (Emission Trading System)
+  - Next Generation EU (NGEU)
+timestamp: 2026-07-02T13:13:52Z
 tags:
   - Economy
   - Financial Stability
@@ -54,3 +59,9 @@ Recent IMF assessments indicate how macroprudential oversight interacts with bro
 - **Resilience and Buffers:** The banking sector is characterized as resilient, supported by robust capital buffers and high-quality debt management (long average maturity).
 - **Sectoral Risk - CRE:** Similar to the Austrian context, risks in the Commercial Real Estate (CRE) sector have increased due to contracting capital values and sharp drops in market activity.
 - **Macroeconomic Interplay:** Macroprudential stability is linked to broader structural reforms, including the management of [[Sovereign Risk]] (public debt projected at 123% of GDP by 2030), the impact of [[Automatic Wage Indexation]] on competitiveness, and efforts toward the [[Green Transition]].
+
+### Romania (2025)
+In the Romanian context, macroprudential policy is integrated into a broader framework of financial sector resilience and macroeconomic stability:
+- **Sovereign-Bank Nexus:** A critical macroprudential concern is the high holdings of government bonds by the banking sector, which links the health of the state's finances directly to the stability of the financial system.
+- **Credit Risk Management:** While the banking system is well-capitalized with strong liquidity buffers, oversight is required to manage sizable unhedged FX loans to non-financial corporations.
+- **Macroeconomic Integration:** Macroprudential stability in Romania is intertwined with efforts to address [[Twin Deficits]], manage the [[REER (Real Effective Exchange Rate)]], and navigate the transition toward a low-carbon economy via the [[ETS 2 (Emission Trading System)]].
