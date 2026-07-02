@@ -21,7 +21,11 @@ concepts:
   - Demographic Headwinds
   - Systemic Risk Buffer (SyRB)
   - Countercyclical Capital Buffer (CCyB)
-timestamp: 2026-07-02T12:31:32Z
+  - Demographics
+  - Energy Security
+  - Digitalization
+  - Excessive Deficit Procedure (EDP)
+timestamp: 2026-07-02T13:37:07Z
 tags:
   - Economic Policy
   - Innovation
@@ -61,3 +65,12 @@ The IMF's analysis of the Austrian economy provides a complementary perspective 
 *   **Fiscal Strategy:** Productivity growth is linked to [[Fiscal Consolidation]]. The IMF recommends structural reforms in pensions and healthcare to manage costs associated with an aging population, which otherwise drain resources from productive investments.
 *   **Financial Stability:** While productivity is a long-term driver, short-term risks such as rising Non-Performing Loans (NPLs) in the [[Commercial Real Estate (CRE)]] sector can threaten the capital availability necessary for industrial expansion. The activation of a [[Systemic Risk Buffer (SyRB)]] is noted as a tool to bolster resilience against these uncertainties.
 *   **Economic Recovery:** In Austria, a rebound in productivity is projected for 2026 as private consumption recovers and monetary easing takes effect, highlighting the cyclical nature of productivity realizations.
+
+## Regional Synthesis: Slovakia (IMF 2025 Report)
+The Slovak Republic's economic profile highlights how productivity growth is inextricably linked to demographic shifts and structural modernization:
+
+### Structural Barriers & Opportunities
+*   **Demographic Headwinds:** Similar to Italy and Austria, Slovakia faces a shrinking labor force due to aging and outward migration. To sustain productivity, the focus is on expanding the labor force through increased vocational training, facilitating migrant integration, and shortening parental leave.
+*   **Digitalization & Innovation:** Long-term growth is predicated on structural reforms focusing on innovation and [[Digitalization]] to offset labor shortages.
+*   **Fiscal Linkages:** Productive growth is a cornerstone of the proposed 4-year fiscal consolidation plan. The IMF emphasizes that to meet long-term targets, the government must move beyond simple deficit reduction toward expenditure-based measures, such as reducing subsidies and targeting social spending to free up resources for productive investment.
+*   **Macroprudential Oversight:** While productivity is the long-term goal, [[Macroprudential Policy]] remains essential to manage risks in residential and commercial real estate markets, ensuring that financial instability does not hamper the capital flow required for industrial expansion.
