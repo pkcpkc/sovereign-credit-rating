@@ -41,7 +41,7 @@ countries:
   - Canada
   - Russia
 ratings: []
-timestamp: 2026-07-02T11:29:31Z
+timestamp: 2026-07-02T12:01:31Z
 tags:
   - Economics
   - Fiscal Policy
@@ -73,7 +73,7 @@ While specific figures for Germany are nested within broader European dynamics, 
 
 In comparison to peers like Poland, Germany maintains a more established industrial base but faces similar pressures regarding the "skills gap" and the high cost of labor. While Poland struggles with a 67% productivity rate relative to the EU average and high tax complexity, Germany's challenge lies in maintaining its manufacturing leadership while navigating aggressive climate neutrality targets and the high capital costs that can subdue investment. Germany's role is further contextualized by regional trends seen in neighboring Slovakia, where labor productivity recovery is struggling to keep pace with unit labor costs and a significant innovation gap persists across the European manufacturing landscape. 
 
-Furthermore, Germany's economic environment is influenced by broader regional trends such as the necessity for fiscal consolidation to manage aging-related costs and the need for structural reforms to boost labor supply. The region is currently navigating a period of near-zero growth in some neighboring states (like Austria) with a projected recovery in 2026, driven by the recovery of private consumption and the effects of monetary easing.
+Furthermore, Germany's economic environment is influenced by broader regional trends such as the necessity for fiscal consolidation to manage aging-related costs and the need for structural reforms to boost labor supply. The region is currently navigating a period of near-zero growth in some neighboring states (like Austria) with a projected recovery in 2026, driven by the recovery of private consumption and the effects of monetary easing. Germany's position is further contextualized by the broader European effort to manage inflation and fiscal adjustments, as seen in neighboring states like Hungary, which are balancing high refinancing costs and the need for structural reforms to unlock growth.
 
 ## Governance & Rule of Law
 
@@ -85,4 +85,4 @@ Key risks for Germany include the ongoing transition to a decarbonized industria
 
 ## Related Entities
 
-[[Austria]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Decarbonisation]], [[Energy Security]], [[Belgium]], [[Netherlands]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Italy]], [[Spain]], [[Slovenia]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Malta]], [[United Kingdom]], [[Poland]], [[Romania]], [[Slovakia]], [[Japan]], [[Canada]], [[Russia]]
+[[Austria]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Decarbonisation]], [[Energy Security]], [[Belgium]], [[Netherlands]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Italy]], [[Spain]], [[Slovenia]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Malta]], [[United Kingdom]], [[Poland]], [[Romania]], [[Slovakia]], [[Japan]], [[Canada]], [[Russia]], [[Márton Nagy]], [[Barnabás Virág]], [[Anke Weber]]
