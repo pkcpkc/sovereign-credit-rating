@@ -41,7 +41,7 @@ countries:
   - United Kingdom
   - Russia
 ratings: []
-timestamp: 2026-07-02T11:40:44Z
+timestamp: 2026-07-02T12:02:42Z
 tags:
   - Economics
   - Fiscal Policy
