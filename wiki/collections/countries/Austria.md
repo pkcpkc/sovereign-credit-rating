@@ -8,8 +8,10 @@ countries:
   - Italy
   - Norway
   - France
+  - Belgium
+  - Netherlands
 ratings: []
-timestamp: 2026-07-02T07:05:22Z
+timestamp: 2026-07-02T07:13:57Z
 tags:
   - Economics
   - Fiscal Policy
@@ -45,4 +47,4 @@ Structurally, Austria faces the dual challenge of industrial decarbonization—a
 
 ## Related Entities
 
-[[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[Germany]], [[Norway]], [[Italy]]
+[[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[Germany]], [[Norway]], [[Italy]], [[Belgium]], [[Netherlands]]
