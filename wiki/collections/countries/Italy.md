@@ -36,8 +36,9 @@ countries:
   - Algeria
   - Azerbaijan
   - Qatar
+  - United Kingdom
 ratings: []
-timestamp: 2026-07-02T08:10:18Z
+timestamp: 2026-07-02T08:24:09Z
 tags:
   - Economics
   - Fiscal Policy
@@ -60,7 +61,7 @@ tags:
 
 ## Economic Overview
 
-Italy is currently positioned within a broader European economic context characterized by industrial cost pressures and energy transitions. The country has played a key role in securing diversified energy supplies following the termination of Russian gas imports, though it continues to face wholesale electricity prices significantly higher than peer countries like Germany due to high gas dependence and taxation. 
+Italy is currently positioned within a broader European economic context characterized by industrial cost pressures and energy transitions. The country has played a key role in securing diversified energy supplies following the termination of Russian gas imports, though it continues to face wholesale electricity prices significantly higher than peer countries like Germany due to high gas dependence and taxation.
 
 The Italian economy showed moderate growth in 2024, with real GDP stabilizing at 0.7%. While Italy achieved its first primary surplus since 2019 (0.4% of GDP) in 2024 and saw the government deficit drop to 3.4%, the debt-to-GDP ratio is projected to rise to 138.2% by 2026, driven by high interest costs and past housing renovation tax credits. Italy remains a significant stakeholder in the EU's fiscal consolidation efforts, navigating shared challenges with regional peers such as Belgium, Austria, and France regarding high public debt-to-GDP ratios and slowing growth rates.
 
@@ -78,4 +79,4 @@ The outlook is tied to the success of regional energy diversification, the abili
 
 ## Related Entities
 
-[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]]
+[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]]
