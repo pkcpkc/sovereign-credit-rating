@@ -33,7 +33,7 @@ countries:
   - Sweden
   - Ukraine
 ratings: []
-timestamp: 2026-07-02T07:22:14Z
+timestamp: 2026-07-02T07:46:00Z
 tags:
   - Economics
   - Fiscal Policy
@@ -55,7 +55,7 @@ tags:
 
 ## Economic Overview
 
-Austria is currently navigating a challenging economic period, facing its third consecutive year of recession with a projected GDP contraction of 0.3% in 2025. The economy is grappling with high nominal unit labor costs—which have risen 10% more than the Euro area average since 2019—and significant industrial production declines. While inflation peaked in 2022, it is expected to remain elevated (projected at 2.9% in 2025) due to the phase-out of energy relief measures. 
+Austria is currently navigating a challenging economic period, facing its third consecutive year of recession with a projected GDP contraction of 0.3% in 2025. The economy is grappling with high nominal unit labor costs—which have risen 10% more than the Euro area average since 2019—and significant industrial production declines. While inflation peaked in 2022, it is expected to remain elevated (projected at 2.9% in 2025) due to the phase-out of energy relief measures.
 
 The labor market remains resilient but faces severe structural headwinds, including a shrinking working-age population and acute shortages in ICT and care sectors (3.6% vacancy rate). There is a notable trend toward part-time employment, particularly among highly educated women. On the innovation front, Austria maintains high R&D intensity (3.29% of GDP), yet faces hurdles in translating these investments into business dynamism due to high administrative "red tape," complex permitting procedures, and an underdeveloped venture capital market.
 
@@ -71,4 +71,4 @@ Structurally, Austria faces the dual challenge of industrial decarbonization—a
 
 ## Related Entities
 
-[[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[Germany]], [[Norway]], [[Italy]], [[Belgium]], [[Netherlands]], [[France]], [[Fiscal Sustainability]], [[Renewable Energy]]
+[[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[Germany]], [[Norway]], [[Italy]], [[Belgium]], [[Netherlands]], [[France]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Hungary]]
