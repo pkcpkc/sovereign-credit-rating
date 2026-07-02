@@ -16,7 +16,9 @@ concepts:
   - Digital Justice
   - Anti-Corruption Strategy
   - Open Government
-timestamp: 2026-07-02T10:45:26Z
+  - Conflict of Interest
+  - PIF Directive
+timestamp: 2026-07-02T10:56:01Z
 tags:
   - Rule of Law
   - Judiciary
@@ -52,6 +54,13 @@ According to the **2025 Rule of Law Report - Romania**, the asset declaration la
 *   **Lobbying and Integrity:** Despite the adoption of some rules on gifts in March 2025, there remains a notable lack of progress regarding lobbying rules for Members of Parliament, which interacts with the broader efficacy of asset disclosure.
 *   **Strategic Framework:** Asset declaration remains a component of the **Anti-Corruption Strategy**, though the landscape is complicated by a "statute of limitations" crisis and the ongoing transition toward a new strategy for the post-2025 period.
 *   **Open Government:** Efforts to improve transparency are linked to the **Strategy for Open Government 2025-2030**, which aims to address the narrowing civic space and enhance public accountability.
+
+## Regional Context: Slovakia
+According to the **2025 Rule of Law Report - Slovakia**, the status of asset declaration is characterized by a lack of progress in strengthening systems and regulating surrounding influences:
+
+*   **Systemic Stagnation:** The report notes a lack of progress in strengthening asset declaration systems, which remains a critical gap in the country's anti-corruption efforts.
+*   **Lobbying and Transparency:** There is a noted lack of progress in regulating lobbying, which directly impacts the integrity of asset disclosure and the identification of external influences on public officials.
+*   **Regulatory Context:** The report highlights the broader push for financial transparency, including the adoption of laws regarding the financial transparency of NGOs and alignment with the **PIF Directive**, which creates a broader regulatory environment for monitoring financial interests.
 
 ## Significance
 Effective asset declaration serves as a primary tool for:
