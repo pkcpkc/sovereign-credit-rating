@@ -8,11 +8,14 @@ concepts:
   - Rule of Law
   - Judicial Independence
   - Whistleblower Protection
-timestamp: 2026-07-02T10:32:28Z
+  - Anti-Corruption Strategy
+  - Open Government
+timestamp: 2026-07-02T10:44:42Z
 tags:
   - Rule of Law
   - Italy
   - Poland
+  - Romania
   - Justice System
   - Media Freedom
   - Anti-Corruption
@@ -34,6 +37,13 @@ According to the **2025 Rule of Law Report - Poland**, SLAPPs continue to be a f
 *   **Media Reform:** Implementation of the European Media Freedom Act (EMFA) to improve the impartiality of regulatory bodies like the National Broadcasting Council (KRRiT).
 *   **Transparency:** Development of media ownership databases to provide clearer oversight of media influence.
 
+## Context in Romania
+The **2025 Rule of Law Report - Romania** identifies SLAPPs as an ongoing concern regarding **Journalist Safety**. In the Romanian landscape, these threats are situated within a broader media environment characterized by:
+
+*   **High Ownership Risk:** Transparency remains at "high risk" (72%), with significant difficulties in identifying the ownership of online news sites, which can provide cover for strategic litigation.
+*   **Political Influence:** The heavy spending by political parties on media (approx. EUR 24.5 million in 2023) and the use of advertising agencies to blur the line between news and paid content create a fertile ground for SLAPPs to target critical reporting.
+*   **Civic Space Pressures:** While a new **Strategy for Open Government (2025-2030)** has been adopted, the narrowing civic space and continued harassment of journalists remain key indicators of the threat posed by SLAPPs to democratic discourse.
+
 ## Related Concepts
 *   [[Media Pluralism]]
 *   [[Judicial Independence]]
@@ -41,3 +51,5 @@ According to the **2025 Rule of Law Report - Poland**, SLAPPs continue to be a f
 *   [[Constitutional Reform]]
 *   [[Whistleblower Protection]]
 *   [[Action Plan on the Rule of Law]]
+*   [[Anti-Corruption Strategy]]
+*   [[Open Government]]
