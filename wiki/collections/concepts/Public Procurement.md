@@ -37,7 +37,9 @@ concepts:
   - Action Plan on the Rule of Law
   - Venice Commission
   - SLAPPs
-timestamp: 2026-07-02T10:28:36Z
+  - Open Government
+  - Lobbying Rules
+timestamp: 2026-07-02T10:40:31Z
 tags:
   - Economic Policy
   - France
@@ -77,6 +79,7 @@ In the Romanian context, public procurement is a central component of the countr
 *   **Digitalization & Innovation:** As Romania seeks to address its "Digital Lag" and low R&D intensity (0.52% of GDP), public procurement is a primary mechanism for driving the adoption of AI and digital technologies in public services and infrastructure.
 *   **Energy & Circular Economy:** Procurement serves as a tool to tackle high energy affordability and the low circular material use rate (1.3%). It is essential for procuring renewable energy technologies and establishing waste management systems to support the 2030 renewable targets.
 *   **Infrastructure & Social Fairness:** Given the severe housing deprivation and underdeveloped transport networks, public procurement is the primary vehicle for funding the modernization of railway infrastructure and addressing rural-urban disparities.
+*   **Governance and Transparency:** While procurement is a vehicle for development, it is increasingly scrutinized under the [[Anti-Corruption Strategy]]. Recent developments include a Constitutional Court ruling that limits the requirement for officials to declare assets of spouses and children, potentially impacting the transparency of public spending oversight. Furthermore, the lack of [[Lobbying Rules]] for Members of Parliament remains a noted gap in the integrity of the public spending environment.
 
 ## Context in Slovakia (2025 Country Report)
 In Slovakia, public procurement is identified as a critical tool for navigating structural weaknesses and accelerating the country's transition toward a high-value economy:
@@ -143,3 +146,5 @@ In Poland, public procurement is analyzed as a component of the broader effort t
 - [[Action Plan on the Rule of Law]]
 - [[Venice Commission]]
 - [[SLAPPs]]
+- [[Open Government]]
+- [[Lobbying Rules]]
