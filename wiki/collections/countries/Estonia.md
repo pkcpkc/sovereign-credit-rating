@@ -31,7 +31,7 @@ countries:
   - Sweden
   - Ukraine
 ratings: []
-timestamp: 2026-07-02T12:08:32Z
+timestamp: 2026-07-02T13:53:23Z
 tags:
   - Economic Report
   - European Commission
@@ -53,16 +53,14 @@ tags:
 
 Estonia is positioned within the broader European economic framework characterized by a regional push for sustainable public debt management and fiscal consolidation. While specific granular data for Estonia was not isolated in the recent France-centric reports, it remains subject to the same structural scrutiny as its EU peers. 
 
-In the broader European context, including regional peers like Belgium, there is a significant focus on:
-- **Productivity & Labor:** Efforts to improve unit labour costs and total factor productivity (TFP), while addressing the "skills gap" in high-tech sectors. Regional trends highlight the need to reduce regulatory barriers and improve insolvency regimes to foster dynamic firm environments.
-- **Fiscal Frameworks:** Participation in regional trends of spending reviews and structural adjustments to ensure long-term economic stability, including efforts to rationalize social benefits and public wage bills.
-- **Green & Digital Transitions:** A shared commitment to achieving carbon neutrality, enhancing digital infrastructure, and implementing cohesive national strategies for climate goals, including carbon taxation and phasing out fossil fuel subsidies.
-
-As part of the regional economic landscape described in recent IMF consultations, Estonia is situated within a framework where peer nations are navigating stagnant output, high refinancing costs, and the necessity of rebuilding fiscal buffers. The region faces a push for structural reforms to address productivity gaps and unlock funding, while managing the transition toward carbon neutrality and digital infrastructure development.
+In the broader European context, including regional peers like Belgium and Slovakia, there is a significant focus on:
+- **Productivity & Labor:** Efforts to improve unit labour costs and total factor productivity (TFP), while addressing the "skills gap" in high-tech sectors. Regional trends highlight the need to reduce regulatory barriers and improve insolvency regimes to foster dynamic firm environments. In the broader region, there is a noted struggle with shrinking labor forces due to aging and migration, necessitating reforms in vocational training and migrant integration.
+- **Fiscal Frameworks:** Participation in regional trends of spending reviews and structural adjustments to ensure long-term economic stability, including efforts to rationalize social benefits and public wage bills. Regional peers are navigating stagnant output, high refinancing costs, and the necessity of rebuilding fiscal buffers through ambitious consolidation plans.
+- **Green & Digital Transitions:** A shared commitment to achieving carbon neutrality, enhancing digital infrastructure, and implementing cohesive national strategies for climate goals, including carbon taxation and phasing out fossil fuel subsidies. This includes navigating the transition toward digital infrastructure development while managing the transition toward carbon neutrality.
 
 ## Governance & Rule of Law
 
-Estonia remains a key participant in the European Commission's economic framework, adhering to the standards of transparency and administrative simplification (such as the "tell us once" principle) promoted in recent EU economic reports. It maintains a commitment to the institutional standards of the European Union regarding fiscal and social policy. It operates within a regional context where improving governance is vital for fostering a predictable business environment and ensuring the flow of EU funds.
+Estonia remains a key participant in the European Commission's economic framework, adhering to the standards of transparency and administrative simplification (such as the "tell us once" principle) promoted in recent EU economic reports. It maintains a commitment to the institutional standards of the European Union regarding fiscal and social policy. It operates within a regional context where improving governance is vital for fostering a predictable business environment and ensuring the flow of EU funds. This includes a regional emphasis on strengthening judicial independence and developing national anti-corruption strategies to improve the investment climate.
 
 ## Key Risks & Outlook
 
@@ -73,4 +71,4 @@ Estonia remains a key participant in the European Commission's economic framewor
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Total Factor Productivity]], [[Renewable Energy]], [[Digitalization]], [[France]], [[Hungary]], [[Belgium]], [[IMF]], [[Macroeconomics]], [[Monetary Policy]], [[Structural Reform]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Total Factor Productivity]], [[Renewable Energy]], [[Digitalization]], [[France]], [[Hungary]], [[Belgium]], [[IMF]], [[Macroeconomics]], [[Monetary Policy]], [[Structural Reform]], [[Slovakia]], [[Fiscal Consolidation]], [[Productivity Growth]]
