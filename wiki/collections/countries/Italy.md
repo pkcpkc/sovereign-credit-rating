@@ -33,7 +33,7 @@ countries:
   - Sweden
   - Ukraine
 ratings: []
-timestamp: 2026-07-02T07:29:30Z
+timestamp: 2026-07-02T07:53:16Z
 tags:
   - Economics
   - Fiscal Policy
@@ -59,7 +59,7 @@ Italy is currently positioned within a broader European economic context charact
 
 Italy remains a significant stakeholder in the EU's fiscal consolidation efforts and the transition toward a circular economy. The country operates alongside regional peers like Belgium and Austria, navigating shared challenges such as high regulatory complexity, the need for growth-friendly labor taxation, and the management of age-related expenditures. Italy's economic trajectory is tied to its ability to implement breakthrough technologies, improve business dynamism, and manage the structural costs of the green transition. 
 
-In the broader European landscape, Italy shares common macroeconomic pressures with neighbors like France, including the need to manage high public debt-to-GDP ratios and navigate slowing growth rates driven by restrictive monetary policies and high capital costs. Like its peers, Italy must address structural weaknesses in business R&D intensity and the necessity of improving labor market productivity to sustain long-term competitiveness.
+In the broader European landscape, Italy shares common macroeconomic pressures with neighbors like France, including the need to manage high public debt-to-GDP ratios and navigate slowing growth rates driven by restrictive monetary policies and high capital costs. Like its peers, Italy must address structural weaknesses in business R&D intensity and the necessity of improving labor market productivity to sustain long-term competitiveness. Within the context of the 2025 European economic landscape, Italy's trajectory is mirrored by regional peers like Hungary, which face similar pressures regarding high debt-servicing costs, rising unit labor costs (ULCs) that may undermine competitiveness if not matched by productivity gains, and the urgent need for skilled labor in STEM and green transition sectors.
 
 ## Governance & Rule of Law
 
@@ -69,8 +69,8 @@ Italy operates within the framework of the European Union, adhering to shared st
 
 Key risks for Italy include the broader Euro area's inflationary dynamics and the structural challenges of the green transition. Like its neighbors, Italy faces the necessity of moving away from heavy labor taxation toward growth-friendly bases while managing age-related expenditures. The outlook is tied to the success of regional energy diversification and the ability to implement breakthrough technologies to improve business dynamism. 
 
-Furthermore, Italy must navigate the tension between maintaining industrial competitiveness and meeting ambitious sustainability targets within the EU framework. Specific risks include managing high public debt levels, addressing regional disparities, and overcoming a shortage of skilled staff to support the twin green and digital transitions. The country's success depends on effective fiscal consolidation, administrative simplification, and enhanced investment in R&D and renewable energy infrastructure.
+Furthermore, Italy must navigate the tension between maintaining industrial competitiveness and meeting ambitious sustainability targets within the EU framework. Specific risks include managing high public debt levels, addressing regional disparities, and overcoming a shortage of skilled staff to support the twin green and digital transitions. The country's success depends on effective fiscal consolidation, administrative simplification, and enhanced investment in R&D and renewable energy infrastructure. Like other European economies, Italy must also contend with rising unit labor costs and the necessity of improving R&D intensity to mitigate stagnation in business dynamism.
 
 ## Related Entities
 
-[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]]
+[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]]
