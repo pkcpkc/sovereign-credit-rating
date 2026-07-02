@@ -32,7 +32,7 @@ countries:
   - Ukraine
   - Moldova
 ratings: []
-timestamp: 2026-07-02T08:56:16Z
+timestamp: 2026-07-02T09:17:32Z
 tags:
   - Economic Report
   - EU Commission
@@ -70,4 +70,4 @@ Socially, while the AROPE rate is lower than the EU average, there are stark reg
 
 ## Related Entities
 
-[[European Commission]], [[Net Expenditure]], [[Fiscal-Structural Plan]], [[Wage Indexation]], [[Circular Economy]], [[STEM Education]], [[Long-term Care]], [[Austria]], [[France]], [[Italy]], [[Germany]], [[Netherlands]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Total Factor Productivity]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Romania]], [[Moldova]]
+[[European Commission]], [[Net Expenditure]], [[Fiscal-Structural Plan]], [[Wage Indexation]], [[Circular Economy]], [[STEM Education]], [[Long-term Care]], [[Austria]], [[France]], [[Italy]], [[Germany]], [[Netherlands]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Total Factor Productivity]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Romania]], [[Moldova]], [[Slovakia]]
