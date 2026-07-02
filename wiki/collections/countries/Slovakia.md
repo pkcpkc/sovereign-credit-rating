@@ -32,8 +32,9 @@ countries:
   - Lithuania
   - Sweden
   - Denmark
+  - Bulgaria
 ratings: []
-timestamp: 2026-07-02T11:36:43Z
+timestamp: 2026-07-02T12:13:08Z
 tags:
   - Economic Report
   - European Commission
@@ -57,6 +58,7 @@ tags:
   - Sovereign Risk
   - Macroprudential Policy
   - Capital Market Union
+  - Structural Reform
 ---
 
 # Slovakia
@@ -69,7 +71,7 @@ tags:
 
 ## Economic Overview
 
-Slovakia is navigating a period of cautious growth and structural transition within the broader EU economic landscape. The economy grew by 2.1% in 2024, primarily driven by household and public consumption, though investment contracted. The outlook for 2025-2026 remains uncertain with forecasted GDP growth of 1.5% and 1.4% respectively, weighed down by trade tensions and high inflation. 
+Slovakia is navigating a period of cautious growth and structural transition within the broader EU economic landscape. The economy grew by 2.1% in 2024, primarily driven by household and public consumption, though investment contracted. The outlook for 2025-2026 remains uncertain with forecasted GDP growth of 1.5% and 1.4% respectively, weighed down by trade tensions, high inflation, and regional geoeconomic fragmentation. 
 
 The country faces a delicate balance between maintaining industrial competitiveness—particularly in manufacturing, which contributes 35% of national GHG emissions—and meeting aggressive greenhouse gas reduction targets. Slovakia is grappling with high capital costs, investment uncertainty, and a significant "skills gap" in green and digital transitions. While labor productivity recovery is struggling to keep pace with unit labor costs, the country is attempting to transition from a low-cost manufacturing model toward a high-value, innovation-driven economy. Current fiscal policy focuses on consolidation through tax increases (VAT, CIT, and a financial transaction tax) to manage a general government deficit projected at 4.9% of GDP in 2025 and a rising debt-to-GDP ratio expected to reach 63.0% by 2026.
 
@@ -85,8 +87,8 @@ Furthermore, the establishment of the new Slovak Television and Radio (STVR) ent
 
 Key risks include the broader regional trend of rising public debt-to-GDP ratios, high government deficits, and a persistent "brain drain" of highly skilled workers in healthcare, education, and construction. Slovakia faces the dual challenge of maintaining economic competitiveness while meeting aggressive greenhouse gas reduction targets by 2030, especially as high electricity and gas prices for energy-intensive industries remain among the highest in the EU. 
 
-The outlook is tied to the success of fiscal consolidation measures, the ability to attract investment despite high interest rates, and the successful navigation of structural transitions toward a greener, more digitally integrated economy. Significant hurdles remain in R&D intensity (currently 1%) and the digital infrastructure gap. Additionally, the country must address the "chilling effect" on the judiciary, the rising number of pending ECtHR judgments (33 as of June 2025), and the need to improve the safety and protection of journalists and whistleblowers.
+The outlook is tied to the success of fiscal consolidation measures, the ability to attract investment despite high interest rates, and the successful navigation of structural transitions toward a greener, more digitally integrated economy. Significant hurdles remain in R&D intensity (currently 1%) and the digital infrastructure gap. Additionally, the country must address the "chilling effect" on the judiciary, the rising number of pending ECtHR judgments (33 as of June 2025), and the need to improve the safety and protection of journalists and whistleblowers. Regional stability is further threatened by potential trade measure escalations, regional conflicts, and the risk of suspended EU funding due to governance concerns.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]], [[Poland]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Denmark]], [[Romania]], [[Slovenia]], [[Decarbonisation]], [[Circular Economy]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Public Procurement]], [[Schengen Area]], [[Tax Wedge]], [[Human Capital]], [[Green Transition]], [[Robert Fico]], [[Robert Kaliňák]], [[Judicial Independence]], [[PIF Directive]], [[Fast-track Procedure]], [[Public Service Media]], [[SLAPP]], [[Whistleblower Protection]], [[Conflict of Interest]], [[Asset Declaration]], [[Austria]], [[Spain]], [[Japan]], [[Canada]], [[United Kingdom]], [[United States]], [[Russia]], [[Croatia]], [[IMF]], [[Fiscal Consolidation]], [[Automatic Wage Indexation]], [[Total Factor Productivity (TFP)]], [[Sovereign Risk]], [[Macroprudential Policy]], [[Capital Market Union]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]], [[Poland]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Denmark]], [[Romania]], [[Slovenia]], [[Decarbonisation]], [[Circular Economy]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Public Procurement]], [[Schengen Area]], [[Tax Wedge]], [[Human Capital]], [[Green Transition]], [[Robert Fico]], [[Robert Kaliňák]], [[Judicial Independence]], [[PIF Directive]], [[Fast-track Procedure]], [[Public Service Media]], [[SLAPP]], [[Whistleblower Protection]], [[Conflict of Interest]], [[Asset Declaration]], [[Austria]], [[Spain]], [[Japan]], [[Canada]], [[United Kingdom]], [[United States]], [[Russia]], [[Croatia]], [[IMF]], [[Fiscal Consolidation]], [[Automatic Wage Indexation]], [[Total Factor Productivity (TFP)]], [[Sovereign Risk]], [[Macroprudential Policy]], [[Capital Market Union]], [[Bulgaria]], [[Article IV Consultation]], [[Structural Reform]]
