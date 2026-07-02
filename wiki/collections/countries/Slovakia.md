@@ -15,8 +15,15 @@ countries:
   - Poland
   - Romania
   - Slovenia
+  - Spain
+  - Japan
+  - Canada
+  - United Kingdom
+  - United States
+  - Russia
+  - Croatia
 ratings: []
-timestamp: 2026-07-02T10:57:05Z
+timestamp: 2026-07-02T11:13:04Z
 tags:
   - Economic Report
   - European Commission
@@ -32,6 +39,9 @@ tags:
   - Judiciary
   - Anti-Corruption
   - Media Freedom
+  - Economy
+  - Monetary Policy
+  - Financial Stability
 ---
 
 # Slovakia
@@ -64,4 +74,4 @@ The outlook is tied to the success of fiscal consolidation measures, the ability
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]], [[Poland]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Denmark]], [[Romania]], [[Slovenia]], [[Decarbonisation]], [[Circular Economy]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Public Procurement]], [[Schengen Area]], [[Tax Wedge]], [[Human Capital]], [[Green Transition]], [[Robert Fico]], [[Robert Kaliňák]], [[Judicial Independence]], [[PIF Directive]], [[Fast-track Procedure]], [[Public Service Media]], [[SLAPP]], [[Whistleblower Protection]], [[Conflict of Interest]], [[Asset Declaration]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]], [[Poland]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Denmark]], [[Romania]], [[Slovenia]], [[Decarbonisation]], [[Circular Economy]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Public Procurement]], [[Schengen Area]], [[Tax Wedge]], [[Human Capital]], [[Green Transition]], [[Robert Fico]], [[Robert Kaliňák]], [[Judicial Independence]], [[PIF Directive]], [[Fast-track Procedure]], [[Public Service Media]], [[SLAPP]], [[Whistleblower Protection]], [[Conflict of Interest]], [[Asset Declaration]], [[Austria]], [[Spain]], [[Japan]], [[Canada]], [[United Kingdom]], [[United States]], [[Russia]], [[Croatia]]
