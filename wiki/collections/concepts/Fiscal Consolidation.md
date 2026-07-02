@@ -25,7 +25,11 @@ concepts:
   - Sovereign-Bank Nexus
   - ETS 2 (Emission Trading System)
   - Next Generation EU (NGEU)
-timestamp: 2026-07-02T13:10:29Z
+  - Excessive Deficit Procedure (EDP)
+  - Demographics
+  - Energy Security
+  - Digitalization
+timestamp: 2026-07-02T13:34:06Z
 tags:
   - Economy
   - Fiscal Policy
@@ -35,6 +39,7 @@ tags:
   - Belgium
   - Malta
   - Romania
+  - Slovakia
   - EU Funds
 ---
 # Fiscal Consolidation
@@ -76,12 +81,22 @@ The IMF 2025 Article IV Consultation for Romania highlights the necessity of agg
 *   **Debt Stabilization:** Additional adjustments are projected for 2027 to stabilize public debt at approximately 60% of GDP by 2030.
 *   **Structural & Administrative Reform:** Emphasis on improving governance, increasing labor force participation, and overcoming administrative bottlenecks to improve the absorption of [[Next Generation EU (NGEU)]] funds.
 
+## Current Context: Slovakia (2025)
+Slovakia has committed to an ambitious 4-year fiscal consolidation plan (2025-2028) to reduce the headline deficit and stabilize public debt.
+
+### Key Strategies & Measures
+*   **Deficit Targeting:** The 2025 budget targets a deficit reduction to 4.7% of GDP. However, the IMF suggests additional measures totaling 3.1% of GDP over three years are required to meet long-term targets.
+*   **Expenditure Management:** Recommendations include reducing subsidies and targeting social spending to achieve consolidation goals.
+*   **Structural & Demographic Adjustments:** To counter a shrinking labor force due to aging and outward migration, recommendations include shortening parental leave, increasing vocational training, and facilitating the integration of migrants.
+*   **Governance:** Strengthening judicial independence and implementing a new national anti-corruption strategy to improve the investment climate.
+
 ## Related Economic Dynamics
 Fiscal consolidation is inextricably linked to several other macroeconomic factors:
 *   **[[Productivity Growth]] & [[Total Factor Productivity (TFP)]]**: Necessary to offset "red tape" and demographic headwinds. Belgium specifically faces a TFP growth lag, requiring reduced regulatory barriers and improved insolvency regimes to foster a dynamic firm environment. Malta similarly requires a transition toward productivity-driven growth to ensure long-term sustainability.
-*   **[[Labor Supply]] & Wage Dynamics**: Essential for maintaining economic dynamism. In Belgium, the "automatic wage indexation" system is identified as a primary driver of fiscal deficits and a deterrent to international competitiveness. In Romania, increasing labor force participation is a critical structural goal.
-*   **[[Commercial Real Estate (CRE)]] & [[Real Estate Exposure]]**: While fiscal policy manages the public balance sheet, the banking sector remains sensitive to NPLs in the CRE sector. Risks have increased due to contracting capital values. In Malta, banks have significant exposure to real estate (70% of loan portfolios), requiring tighter [[Macroprudential Policy]] and a raised sectoral systemic risk buffer (sSyRB).
+*   **[[Labor Supply]] & Wage Dynamics**: Essential for maintaining economic dynamism. In Belgium, the "automatic wage indexation" system is identified as a primary driver of fiscal deficits and a deterrent to international competitiveness. In Romania, increasing labor force participation is a critical structural goal. In Slovakia, labor force expansion via migration and vocational training is key to managing demographic shifts.
+*   **[[Commercial Real Estate (CRE)]] & [[Real Estate Exposure]]**: While fiscal policy manages the public balance sheet, the banking sector remains sensitive to NPLs in the CRE sector. Risks have increased due to contracting capital values. In Malta, banks have significant exposure to real estate (70% of loan portfolios), requiring tighter [[Macroprudential Policy]] and a raised sectoral systemic risk buffer (sSyRB). In Slovakia, risks persist in the residential real estate market due to high house prices and upcoming mortgage refixations.
 *   **[[Systemic Risk]] & Financial Stability**: Risks remain moderate in some regions, supported by robust capital buffers and high-quality debt management. Ongoing monitoring of cyber risks and implementation of the Digital Operational Resilience Act (DORA) are critical components of modern financial stability. In Romania, the "sovereign-bank nexus" (high holdings of government bonds) remains a key area of monitoring.
-*   **[[Green Transition]] / ESG Transition**: Consolidation must involve a cohesive national strategy, including carbon taxation and the phasing out of fossil fuel subsidies to meet 2030 climate targets. Romania is advancing this via the [[ETS 2 (Emission Trading System)]] and updated National Energy Strategies.
+*   **[[Green Transition]] / ESG Transition**: Consolidation must involve a cohesive national strategy, including carbon taxation and the phasing out of fossil fuel subsidies to meet 2030 climate targets. Romania is advancing this via the [[ETS 2 (Emission Trading System)]] and updated National Energy Strategies. Slovakia is also moving toward faster implementation of the ETS II scheme to meet climate goals.
 *   **External Imbalances & Currency**: Consolidation is often tied to managing the [[REER (Real Effective Exchange Rate)]] and current account deficits. Romania's experience suggests a need for exchange rate flexibility to enhance resilience against external shocks.
 *   **Inflationary Pressures**: Consolidation must be managed carefully as inflation remains higher than the euro-area average due to sticky services costs and the expiration of energy relief policies.
+*   **Regulatory & Compliance Frameworks**: Adherence to frameworks such as the [[AML/CFT Framework]] and managing responses to the [[Excessive Deficit Procedure (EDP)]] are critical for maintaining EU fiscal alignment.
