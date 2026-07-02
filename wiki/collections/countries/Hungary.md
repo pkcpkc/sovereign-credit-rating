@@ -29,7 +29,7 @@ countries:
   - Spain
   - Sweden
 ratings: []
-timestamp: 2026-07-02T09:21:07Z
+timestamp: 2026-07-02T09:59:17Z
 tags:
   - Economic Report
   - European Commission
@@ -38,6 +38,12 @@ tags:
   - Labor Market
   - Innovation
   - Energy Transition
+  - Rule of Law
+  - Human Rights
+  - Corruption
+  - Judiciary
+  - Media Freedom
+  - EU Conditionality
 ---
 
 # Hungary
@@ -56,7 +62,9 @@ The labor market is marked by rapid nominal wage growth between 2022–2024, tho
 
 ## Governance & Rule of Law
 
-The governance landscape is characterized by significant regulatory volatility, where a surge in decrees over laws and frequent legislative amendments create an unpredictable environment for long-term business planning. The state maintains a highly active role in business transactions—such as telecommunications and airport management—and the use of subsidized loans and framework agreements can limit market competition. Efforts toward administrative simplification are ongoing, but structural weaknesses in business R&D and a lack of transparency in the fiscal framework remain key institutional hurdles.
+The governance landscape is characterized by significant regulatory volatility, where a surge in decrees over laws and frequent legislative amendments create an unpredictable environment for long-term business planning. The state maintains a highly active role in business transactions—such as telecommunications and airport management—and the use of subsidized loans and framework agreements can limit market competition. 
+
+The 2025 Rule of Law Report highlights persistent systemic issues regarding judicial independence, corruption oversight, and media freedom. Perceived judicial independence remains low (37-38%), and while there has been progress in increasing salaries for judges and prosecutors, structural indexation remains absent. The National Judicial Council (NJC) has expressed concerns over a lack of consultation on legislative reforms. Anti-corruption efforts are hampered by the Integrity Authority's limited access to state databases and a lack of progress in high-level investigations. Furthermore, the prolonged "state of danger" allows the Government to override Acts of Parliament, creating legal uncertainty. Media pluralism is constrained by the state’s dominance in advertising and increasing pressure on journalists from the Sovereignty Protection Office.
 
 ## Key Risks & Outlook
 
@@ -65,9 +73,10 @@ Key risks for Hungary include:
 - **Innovation Stagnation:** R&D intensity remains well below the EU average (1.4% vs 2.2%), with concentration in a few large foreign-owned firms and a significant drop in venture capital investment.
 - **Energy & Environment:** A heavy dependence on Russian fossil fuels (over 70% of natural gas) and one of the highest fossil fuel subsidies in the EU (1.01% of GDP) present severe geopolitical and climate risks. Additionally, water scarcity and a low circular material use rate (5.9%) are critical environmental concerns.
 - **Social Fairness:** Rising poverty risks among vulnerable groups, a deteriorating housing affordability crisis (where prices rose 230% between 2010 and 2024), and a hospital-centric health system with high out-of-pocket costs are significant systemic risks.
+- **Rule of Law & Investment Protection:** Frequent legislative changes, the use of emergency powers, and an obstructed environment for civil society create risks for investment protection and legal certainty.
 
-The outlook depends on successful implementation of reforms to streamline administration, enhance R&D investment, and address the skills shortage to overcome labor productivity barriers.
+The outlook depends on successful implementation of reforms to streamline administration, enhance R&D investment, and address the skills shortage to overcome labor productivity barriers, alongside improvements in judicial transparency and anti-corruption frameworks.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Public Debt]], [[R&D Intensity]], [[Circular Economy]], [[Energy Security]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Romania]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)], [Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]], [[Slovakia]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Public Debt]], [[R&D Intensity]], [[Circular Economy]], [[Energy Security]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Romania]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption Strategy]], [[Media Pluralism]], [[Public Procurement]], [[Emergency Powers]], [[Asset Declarations]], [[Whistleblower Protection]], [[Bea Bodrogi]]
