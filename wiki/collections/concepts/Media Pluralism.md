@@ -20,7 +20,9 @@ concepts:
   - Asset Declarations
   - Constitutional Reform
   - SLAPPs
-timestamp: 2026-07-02T10:08:23Z
+  - European Media Freedom Act (EMFA)
+  - National Broadcasting Council (KRRiT)
+timestamp: 2026-07-02T10:30:38Z
 tags:
   - Rule of Law
   - Media Freedom
@@ -92,6 +94,17 @@ The *EU Commission 2025 Rule of Law Report* for Italy highlights a landscape whe
 *   **Legal Pressures:** Journalists in Italy face a "chilling effect" due to the *Costa amendment*, which restricts the publication of direct quotations from pre-trial custody orders, potentially limiting the flow of information regarding judicial proceedings.
 *   **Safety and Surveillance:** There has been a 16% increase in intimidations against journalists in 2024. While the COPASIR report found no evidence of state-sponsored use of "Graphite" spyware against journalists, the allegations and potential for surveillance remain a significant concern for media freedom.
 
+## Contextual Analysis: Poland (2025)
+The *EU Commission 2025 Rule of Law Report* for Poland highlights a period of mixed progress regarding media pluralism, characterized by ongoing legislative reforms and structural instability:
+
+### Regulatory Reform and Governance
+*   **European Media Freedom Act (EMFA):** A new media law reform is planned to implement the **EMFA**, specifically aimed at improving the impartiality of the **National Broadcasting Council (KRRiT)**.
+*   **Ownership Transparency:** Efforts are currently underway to establish a media ownership database to increase transparency, although challenges persist regarding foreign investment and media owned by local governments.
+
+### Public Service Media and Press Safety
+*   **Public Service Instability:** While there has been a decrease in politically biased content, public broadcasters face significant instability due to the suspension of license fee funds and ongoing liquidation processes.
+*   **SLAPPs and Legal Risks:** While the number of **SLAPPs** has decreased, journalists continue to face risks from existing defamation and insult laws.
+
 ## Related Concepts
 *   [[Judicial Independence]]
 *   [[Whistleblower Protection]]
@@ -107,3 +120,4 @@ The *EU Commission 2025 Rule of Law Report* for Italy highlights a landscape whe
 *   [[Asset Declarations]]
 *   [[Constitutional Reform]]
 *   [[SLAPPs]]
+*   [[European Media Freedom Act]]
