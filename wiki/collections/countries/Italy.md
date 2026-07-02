@@ -39,7 +39,7 @@ countries:
   - United Kingdom
   - Moldova
 ratings: []
-timestamp: 2026-07-02T09:21:59Z
+timestamp: 2026-07-02T10:02:29Z
 tags:
   - Economics
   - Fiscal Policy
@@ -76,6 +76,8 @@ Structural challenges persist, notably a significant innovation gap where R&D ex
 ## Governance & Rule of Law
 
 Italy operates within the framework of the European Union, adhering to shared standards of fiscal policy and social fairness. It is a key participant in the European Commission's efforts to reduce administrative "red tape" and improve the regulatory environment for private investment across the bloc. Italy works to align its regulatory frameworks with EU-wide goals for transparency and streamlined business operations, participating in initiatives aimed at the "simplification of economic life" to reduce bureaucracy for businesses. Recent progress has been noted in justice and public administration reforms.
+
+As a member of the EU, Italy's governance is increasingly linked to broader European standards regarding judicial independence and anti-corruption frameworks. While Italy focuses on streamlining business operations, it operates in a regional context where neighbors like Hungary face significant challenges regarding the "state of danger" and judicial autonomy—issues that Italy seeks to mitigate through its own administrative simplification and justice reforms.
 
 ## Key Risks & Outlook
 
