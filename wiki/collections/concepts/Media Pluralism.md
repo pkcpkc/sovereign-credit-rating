@@ -7,7 +7,9 @@ concepts:
   - Public Service Media
   - Freedom of Information
   - Regulatory Independence
-timestamp: 2026-07-02T09:31:38Z
+  - Digital Services Act (DSA)
+  - Anti-SLAPP Directive
+timestamp: 2026-07-02T09:39:52Z
 tags:
   - Rule of Law
   - Media Freedom
@@ -32,8 +34,21 @@ Based on the *EU Commission 2025 Rule of Law Report*, the state of media plurali
     *   A lack of effective sanction mechanisms for violations of advertising rules.
     *   The potential for state spending to distort the competitive landscape and favor certain viewpoints over others.
 
+## Contextual Analysis: Belgium (2025)
+The *EU Commission 2025 Rule of Law Report* highlights a different set of dynamics regarding media pluralism in Belgium, focusing on regulatory adaptation and journalist protections:
+
+### Regulatory Environment and Protections
+*   **Regulatory Independence:** Media regulators in Flanders (**VRM**) and the French-speaking community (**CSA**) maintain strong independence. These bodies are currently adapting to the requirements of the **Digital Services Act (DSA)**.
+*   **Journalist Protections:** Progress has been made through the decriminalization of defamation and the introduction of harsher penalties for crimes against journalists. Furthermore, work is ongoing to transpose the **Anti-SLAPP Directive** to protect against strategic lawsuits against public participation.
+*   **Administrative Transparency:** A 2024 federal law amended the framework on administrative transparency, though some procedural gaps and non-binding appeal bodies remain.
+
+### Public Service Media and Funding
+*   **Budgetary Pressures:** While the public service broadcaster in Flanders (**VRT**) received additional resources, the Wallonia-Brussels broadcaster (**RTBF**) faces a projected EUR 78 million shortfall until 2029, highlighting the structural economic challenges facing public service media.
+
 ## Related Concepts
 *   [[Judicial Independence]]
 *   [[Whistleblower Protection]]
 *   [[Public Procurement]]
 *   [[State Advertising]]
+*   [[Digital Services Act]]
+*   [[Anti-SLAPP Directive]]
