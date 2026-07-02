@@ -15,15 +15,32 @@ times:
   - date: 2025-02-21
     event: Concluding meeting with new DPM Jan Jambon
   - date: 2025-03-03
-    event: Completion of IMF Staff Report
+    event: Completion of IMF Staff Report (Belgium)
   - date: 2025-03-18
-    event: Executive Board conclusion of consultation
+    event: Executive Board conclusion of consultation (Belgium)
   - date: 2025-03-20
-    event: Press release of consultation results
-timestamp: 2026-07-02T11:54:20Z
+    event: Press release of consultation results (Belgium)
+  - date: 2025-06-05
+    event: Start of IMF Staff Mission in Budapest (Hungary)
+  - date: 2025-06-17
+    event: Conclusion of IMF Staff Discussions with Hungarian Officials
+  - date: 2025-07-25
+    event: Completion of IMF Staff Report (Hungary)
+  - date: 2025-08-29
+    event: IMF Executive Board Consideration of Hungary Report
+  - date: 2025
+    event: Projected GDP Growth of 0.7% (Hungary)
+  - date: 2026
+    event: Projected GDP Growth of 2.0% (Hungary)
+  - date: 2027
+    event: Targeted Inflation Return to 3.0% (Hungary)
+  - date: 2030
+    event: Projected Debt-to-GDP Ratio of 79% (Hungary)
+timestamp: 2026-07-02T12:25:40Z
 tags:
   - IMF
   - Belgium
+  - Hungary
   - Macroeconomics
   - Fiscal Policy
   - Labor Market
@@ -33,8 +50,12 @@ tags:
 
 ## Event Details
 
-The timeline surrounding the 2025 IMF Article IV Consultation with Belgium reflects a period of intense fiscal and structural review. Following the **Elections in Belgium** in June 2024, the economic landscape was shaped by the **expiration of one-year government bonds** in September 2024. By December 2024, the **last Article IV Consultation** concluded, setting the stage for the 2025 review.
+The timeline surrounding the 2025 IMF Article IV Consultations reflects a period of intense fiscal and structural review for both Belgium and Hungary. 
 
-The formal IMF engagement intensified in early 2025, with discussions beginning on January 22 and concluding on February 4. A pivotal moment occurred on February 21 with a **concluding meeting with the new Deputy Prime Minister, Jan Jambon**, which likely influenced the final report's focus on the government's 7-year adjustment plan.
+In **Belgium**, the economic landscape was shaped by the **Elections in Belgium** in June 2024, followed by the **expiration of one-year government bonds** in September 2024. By December 2024, the **last Article IV Consultation** concluded, setting the stage for the 2025 review. Formal engagement intensified in early 2025, with discussions beginning on January 22 and concluding on February 4. A pivotal moment occurred on February 21 with a **concluding meeting with the new Deputy Prime Minister, Jan Jambon**, which influenced the final report's focus on a 7-year adjustment plan. The process culminated in the **Completion of IMF Staff Report** on March 3, 2025, followed by the **Executive Board conclusion** on March 18 and the final **press release** on March 20.
 
-The process culminated in the **Completion of IMF Staff Report** on March 3, 2025. This was followed by the **Executive Board conclusion of the consultation** on March 18, and the final **press release of the consultation results** on March 20, 2025. The resulting report highlighted critical needs for fiscal consolidation to manage public debt (projected at 123% of GDP by 2030) and structural reforms to address automatic wage indexation and labor market inefficiencies.
+Simultaneously, the IMF conducted a review of **Hungary**, which began with the **Start of IMF Staff Mission in Budapest** on June 5, 2025. Following the **Conclusion of IMF Staff Discussions with Hungarian Officials** on June 17, the **Completion of IMF Staff Report** for Hungary was reached on July 25, 2025. The **IMF Executive Board Consideration of Hungary Report** took place on August 29, 2025.
+
+The reports highlight divergent but critical economic trajectories:
+- **Belgium:** Focuses on managing public debt (projected at 123% of GDP by 2030) and structural reforms to address automatic wage indexation and labor market inefficiencies.
+- **Hungary:** Faces a "challenging juncture" with stagnant output and high inflation. The report projects a modest recovery (0.7% in 2025, 2.0% in 2026) and sets a target for inflation to return to 3.0% by 2027, with a projected debt-to-GDP ratio of 79% by 2030. Key recommendations include a cumulative fiscal adjustment of 2% of GDP between 2025-2028 and structural reforms to improve productivity and governance.
