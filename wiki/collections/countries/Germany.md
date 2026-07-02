@@ -38,7 +38,7 @@ countries:
   - Qatar
   - United Kingdom
 ratings: []
-timestamp: 2026-07-02T08:25:03Z
+timestamp: 2026-07-02T08:38:02Z
 tags:
   - Economics
   - Fiscal Policy
@@ -66,7 +66,9 @@ Germany serves as a critical economic pillar and energy security partner for nei
 
 The German economy is deeply integrated into the European industrial framework, where it faces shared challenges regarding cost pressures—specifically in energy and labor—and the necessity of industrial decarbonization. As a major manufacturing hub, Germany's economic health is tied to the successful transition of energy-intensive sectors toward sustainable models and the management of high unit labor costs which impact regional competitiveness. 
 
-While specific figures for Germany are nested within broader European dynamics, the region faces a landscape of moderate growth (projected around 0.8% for some neighbors), high regulatory complexity, and significant pressure on fiscal sustainability due to aging populations and defense spending. Germany continues to navigate these pressures while maintaining its role as a manufacturing leader, operating within a broader European context characterized by high public debt (e.g., France reaching 116% of GDP), rising labor costs, and a persistent "skills gap" that hinders green and digital transitions. Notably, Germany faces significant competitive pressures from energy pricing; for instance, wholesale electricity prices in Italy remain approximately 60% higher than in Germany due to high gas dependence and taxation. Within the broader European sphere, Germany operates alongside nations like Hungary, which face high inflation and significant structural vulnerabilities, including high debt-servicing costs and a need for improved labor productivity to maintain regional stability.
+While specific figures for Germany are nested within broader European dynamics, the region faces a landscape of moderate growth (projected around 0.8% for some neighbors), high regulatory complexity, and significant pressure on fiscal sustainability due to aging populations and defense spending. Germany continues to navigate these pressures while maintaining its role as a manufacturing leader, operating within a broader European context characterized by high public debt (e.g., France reaching 116% of GDP), rising labor costs, and a persistent "skills gap" that hinders green and digital transitions. Notably, Germany faces significant competitive pressures from energy pricing; for instance, wholesale electricity prices in Italy remain approximately 60% higher than in Germany due to high gas dependence and taxation. Within the broader European sphere, Germany operates alongside nations like Hungary, which face high inflation and significant structural vulnerabilities, including high debt-servicing costs and a need for improved labor productivity to maintain regional stability. 
+
+In comparison to peers like Poland, Germany maintains a more established industrial base but faces similar pressures regarding the "skills gap" and the high cost of labor. While Poland struggles with a 67% productivity rate relative to the EU average and high tax complexity, Germany's challenge lies in maintaining its manufacturing leadership while navigating aggressive climate neutrality targets and the high capital costs that can subdue investment.
 
 ## Governance & Rule of Law
 
@@ -78,4 +80,4 @@ Key risks for Germany include the ongoing transition to a decarbonized industria
 
 ## Related Entities
 
-[[Austria]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Decarbonisation]], [[Energy Security]], [[Belgium]], [[Netherlands]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Italy]], [[Spain]], [[Slovenia]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Malta]], [[United Kingdom]]
+[[Austria]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Decarbonisation]], [[Energy Security]], [[Belgium]], [[Netherlands]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Italy]], [[Spain]], [[Slovenia]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Malta]], [[United Kingdom]], [[Poland]]
