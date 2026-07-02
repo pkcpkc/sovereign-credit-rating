@@ -20,7 +20,9 @@ concepts:
   - Action Plan on the Rule of Law
   - Venice Commission
   - SLAPPs
-timestamp: 2026-07-02T10:32:59Z
+  - Conflict of Interest
+  - PIF Directive
+timestamp: 2026-07-02T10:54:10Z
 tags:
   - Rule of Law
   - Anti-Corruption
@@ -68,6 +70,14 @@ The *2025 Rule of Law Report - Poland* situates whistleblower protection within 
 *   **Systemic Hurdles:** The effectiveness of whistleblower reporting in Poland is potentially hampered by the lack of a comprehensive national anti-corruption strategy and the persistence of "impunity clauses" for top executives.
 *   **Protection against Retaliation:** While the number of [[SLAPPs]] (Strategic Lawsuits Against Public Participation) has decreased, journalists and transparency-seeking actors still face risks from defamation laws, highlighting the need for robust protections against legal harassment.
 
+## Current Status in Slovakia
+The *2025 Rule of Law Report - Slovakia* provides a nuanced view of the environment for whistleblowers, characterized by existing frameworks but notable enforcement and systemic challenges:
+
+*   **Enforcement Issues:** Despite having established frameworks, actual reporting remains low. Notably, the Ministry of Interior faced a EUR 90,000 fine for improperly suspending protected whistleblowers, highlighting gaps in the practical application of protections.
+*   **Institutional Context:** The dissolution of the National Crime Agency (NAKA) and the Special Prosecutor's Office (SPO) has impacted the landscape for reporting and investigating corruption.
+*   **Systemic Pressures:** The broader environment is influenced by concerns over [[Judicial Independence]], where a "chilling effect" persists due to potential criminal liability for judicial decisions.
+*   **Transparency Links:** The efficacy of whistleblower reporting is inextricably linked to the state of [[Asset Declarations]] and the ongoing efforts (or lack thereof) to regulate lobbying.
+
 ## Related Concepts
 *   [[Anti-Corruption Framework]]
 *   [[Judicial Independence]]
@@ -84,3 +94,5 @@ The *2025 Rule of Law Report - Poland* situates whistleblower protection within 
 *   [[Action Plan on the Rule of Law]]
 *   [[Venice Commission]]
 *   [[SLAPPs]]
+*   [[Conflict of Interest]]
+*   [[PIF Directive]]
