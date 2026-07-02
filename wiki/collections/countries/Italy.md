@@ -38,7 +38,7 @@ countries:
   - Qatar
   - United Kingdom
 ratings: []
-timestamp: 2026-07-02T08:24:09Z
+timestamp: 2026-07-02T08:37:06Z
 tags:
   - Economics
   - Fiscal Policy
@@ -49,6 +49,10 @@ tags:
   - Economic Report
   - EU Commission
   - Economic Policy
+  - Economic Development
+  - Energy Transition
+  - Digitalization
+  - Social Fairness
 ---
 
 # Italy
@@ -79,4 +83,4 @@ The outlook is tied to the success of regional energy diversification, the abili
 
 ## Related Entities
 
-[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]]
+[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Digitalization]]
