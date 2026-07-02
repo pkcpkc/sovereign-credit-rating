@@ -23,7 +23,10 @@ concepts:
   - Lobbying Regulation
   - Whistleblowing
   - SLAPPs
-timestamp: 2026-07-02T10:06:09Z
+  - Magisterial Inquiry
+  - Anti-SLAPP
+  - Digital Justice
+timestamp: 2026-07-02T10:16:57Z
 tags:
   - Rule of Law
   - Judiciary
@@ -32,6 +35,8 @@ tags:
   - France
   - Hungary
   - Italy
+  - Malta
+  - Anti-Corruption
 ---
 # Judicial Independence
 
@@ -45,6 +50,7 @@ Perception of judicial independence varies significantly across European jurisdi
 *   **France (2025):** Perceived independence remains "average" (51% public, 53% companies). The Superior Council of Magistracy (CSM) has actively defended judges against personal attacks following high-profile decisions.
 *   **Hungary (2025):** Perceived independence remains notably low, with only 37% of the public and 38% of companies viewing it as "fairly or very good." The report highlights a lack of consultation between the government and the National Judicial Council (NJC) regarding legislative amendments, such as raising the minimum age for judges to 35 and extending service until age 70.
 *   **Italy (2025):** Perceived independence among the general public rose to 46% in 2025, a significant increase from 34% in 2021. However, tensions persist regarding the proposed separation of careers between judges and prosecutors.
+*   **Malta (2025):** Perceived judicial independence remains high, with 69% of the general public and 63% of companies viewing it as favorable.
 
 ## Key Challenges and Reform Areas
 
@@ -54,14 +60,19 @@ Perception of judicial independence varies significantly across European jurisdi
 *   **Budgetary Autonomy:** In Belgium, the Government intends to transfer budgetary management from the executive to the judiciary, though this remains linked to pending reforms of the evaluation and disciplinary systems.
 *   **Remuneration & Quality (Hungary):** Significant progress was made in increasing salaries for judges and prosecutors (aiming for a 48% increase by 2027), though structural indexation remains absent.
 *   **Constitutional Reform (Italy):** The Chamber of Deputies approved a reform to separate the careers of judges and prosecutors. However, the High Council for the Judiciary and various magistrates' associations expressed reservations regarding the authority of separate councils.
-*   **Resource Deficiencies:** Belgium faces challenges where the budget and number of judges per 100,000 inhabitants remain below EU averages, contributing to long-standing backlogs (notably in the Brussels Court of Appeal).
+*   **Constitutional Reform (Malta):** A comprehensive constitutional reform was tabled in May 2025 to involve the judiciary in the appointment of the Chief Justice. Additionally, the government proposed removing executive involvement in the appointment of members of specialized tribunals.
 
-### Prosecutorial and Integrity Frameworks
+### Prosecutorial and Judicial Efficiency
 *   **Prosecutorial Autonomy:** A primary area of concern in Austria is the ongoing right of the Minister of Justice to instruct prosecutors in individual cases. To mitigate this, the government has committed to establishing an independent [[Federal Prosecution Office]] as a collegiate body.
 *   **Prosecutorial Oversight (Hungary):** A new mechanism allows judges to review prosecutorial decisions not to investigate corruption, which has seen a doubling in usage since 2024.
+*   **Prosecutorial Transfer (Malta):** The transfer of non-summary case prosecutions from the Police to the Office of the Attorney General was completed in September 2024.
+*   **Resource Deficiencies:** Belgium faces challenges where the budget and number of judges per 100,000 inhabitants remain below EU averages, contributing to long-standing backlogs. Malta similarly faces a judge-to-inhabitant ratio among the lowest in the EU, leading to high disposition times and significant backlogs in civil, criminal, and administrative cases.
+
+### Integrity Frameworks
 *   **Integrity Frameworks:** Belgium is addressing integrity through plans for voluntary mergers of local police zones and the introduction of career-long integrity checks to standardize policies across various zones.
 *   **Anti-Corruption (France):** France is expanding its anti-corruption frameworks, including the reorganization of the Anti-Corruption Agency (AFA) and increased resources for the National Financial Prosecutor (PNF).
 *   **Lobbying & Conflicts of Interest (Italy):** Progress remains limited; while some ministries have voluntary registers, a comprehensive national lobbying register and rules for political office holders remain pending.
+*   **Anti-Corruption Strategy (Malta):** While high-level corruption investigations have progressed, a "robust track record of final judgments" is still lacking. The Permanent Commission Against Corruption (PCAC) remains under-resourced.
 
 ### Modernization and Access
 *   **Digitalisation:** Both nations are prioritizing modernization. Austria's "Justice 3.0" initiative aims for 90% digital case management. Belgium is seeking an overarching approach to [[Digitalisation of Justice]] to reduce reliance on external consultants. France is expanding the *Portalis* tool to all labor and local courts, aiming for full criminal court decision uploads by the end of 2025.
@@ -69,11 +80,11 @@ Perception of judicial independence varies significantly across European jurisdi
 *   **Artificial Intelligence:** The Government and the Court of Cassation (France) are actively studying safeguards for [[Artificial Intelligence in Justice]] regarding its use in drafting administrative decisions and judicial tasks.
 *   **Access to Justice:** Recent rulings by the Austrian Constitutional Court have expanded access to justice by declaring certain restrictions on legal aid in the Administrative Procedural Code as unconstitutional.
 
-## Systemic Risks to Independence
+### Systemic Risks and Rights
 *   **Emergency Powers:** The prolonged use of "state of danger" (as seen in Hungary) allows the government to override Acts of Parliament, creating legal uncertainty and undermining the rule of law.
 *   **Urgency Decrees (Italy):** Stakeholders expressed concern over the frequent use of government decrees (87 in the current legislature), which may impact the separation of powers.
-*   **Law-making Transparency:** Concerns persist regarding the lack of public consultation on key legislative drafts and the practice of introducing substantive amendments at late stages of the legislative process.
 *   **Media Pluralism:** The independence of the judiciary is often linked to [[Media Pluralism]]. In some regions, state-dominated advertising and pressure on journalists by agencies like the Sovereignty Protection Office can impact the public's ability to monitor judicial integrity. In Italy, the *Costa amendment* has been noted for creating a "chilling effect" on journalists regarding pre-trial custody orders.
+*   **Journalists' Rights and SLAPPs:** While Malta enacted a law on cross-border strategic lawsuits (anti-SLAPP) in July 2024, further safeguards for journalists' working conditions and improvements to public service media independence remain areas for progress.
 
 ## Related Concepts
 - [[Federal Prosecution Office]]
@@ -92,3 +103,5 @@ Perception of judicial independence varies significantly across European jurisdi
 - [[Lobbying Regulation]]
 - [[Whistleblowing]]
 - [[SLAPPs]]
+- [[Magisterial Inquiry]]
+- [[Anti-SLAPP]]
