@@ -15,7 +15,9 @@ concepts:
   - Lobbying Transparency
   - Public Procurement
   - Artificial Intelligence in Justice
-timestamp: 2026-07-02T09:48:37Z
+  - Asset Declarations
+  - Emergency Powers
+timestamp: 2026-07-02T09:58:21Z
 tags:
   - Rule of Law
   - Anti-Corruption
@@ -47,6 +49,14 @@ Based on the *2025 Rule of Law Report - France*, whistleblower protections are s
 *   **Institutional Strengthening:** The work of the Anti-Corruption Agency (AFA) and the High Authority for Transparency in Public Life (HATVP) provides the broader institutional context for reporting mechanisms and asset transparency.
 *   **Transparency & Ethics:** Improvements in [[Lobbying Transparency]] and the adoption of new ethics codes for public officials complement the protective environment required for whistleblowers to report misconduct safely.
 
+## Current Status in Hungary
+The *2025 Rule of Law Report - Hungary* places whistleblower protection within a complex landscape of anti-corruption efforts and institutional challenges:
+
+*   **Anti-Corruption Context:** While some low-level codes of conduct exist, high-level corruption remains a significant concern. The effectiveness of reporting is hampered by the [[Integrity Authority]] facing obstacles in accessing state databases.
+*   **Transparency Deficits:** The lack of transparency regarding [[Asset Declarations]] for senior political functions and the restricted scope of access to public funding information create a challenging environment for transparency-seeking actors.
+*   **Institutional Pressures:** The "chilling effect" in the judiciary and the investigation of civil society organizations by the Sovereignty Protection Office may impact the perceived safety for individuals reporting misconduct.
+*   **Legislative Environment:** The use of [[Emergency Powers]] and the "state of danger" creates legal uncertainty that can overlap with the protections intended for those exposing governmental irregularities.
+
 ## Related Concepts
 *   [[Anti-Corruption Framework]]
 *   [[Judicial Independence]]
@@ -58,3 +68,5 @@ Based on the *2025 Rule of Law Report - France*, whistleblower protections are s
 *   [[Lobbying Transparency]]
 *   [[Public Procurement]]
 *   [[Artificial Intelligence in Justice]]
+*   [[Asset Declarations]]
+*   [[Emergency Powers]]
