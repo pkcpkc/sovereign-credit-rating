@@ -37,7 +37,7 @@ countries:
   - Azerbaijan
   - Qatar
 ratings: []
-timestamp: 2026-07-02T09:34:07Z
+timestamp: 2026-07-02T10:00:21Z
 tags:
   - Economics
   - Fiscal Policy
