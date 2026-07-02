@@ -31,7 +31,7 @@ countries:
   - Sweden
   - Ukraine
 ratings: []
-timestamp: 2026-07-02T12:10:03Z
+timestamp: 2026-07-02T13:51:35Z
 tags:
   - Economic Report
   - European Commission
@@ -42,6 +42,7 @@ tags:
   - Macroeconomics
   - Monetary Policy
   - Structural Reform
+  - Economics
 ---
 
 # Lithuania
@@ -75,4 +76,4 @@ Key risks for Lithuania, in alignment with regional trends, include:
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Digitalization]], [[France]], [[Hungary]], [[GDP Growth]], [[Inflation]], [[Public Debt]], [[Labour Productivity]], [[R&D Intensity]], [[Decarbonisation]], [[Poland]], [[STEM Education]], [[Circular Economy]], [[Belgium]], [[Total Factor Productivity (TFP)]], [[Sovereign Risk]], [[Macroprudential Policy]], [[Green Transition]], [[Capital Market Union]], [[IMF]], [[Article IV Consultation]], [[Fiscal Adjustment]], [[Monetary Policy]], [[Structural Reforms]], [[Productivity]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Digitalization]], [[France]], [[Hungary]], [[GDP Growth]], [[Inflation]], [[Public Debt]], [[Labour Productivity]], [[R&D Intensity]], [[Decarbonisation]], [[Poland]], [[STEM Education]], [[Circular Economy]], [[Belgium]], [[Total Factor Productivity (TFP)]], [[Sovereign Risk]], [[Macroprudential Policy]], [[Green Transition]], [[Capital Market Union]], [[IMF]], [[Article IV Consultation]], [[Fiscal Adjustment]], [[Monetary Policy]], [[Structural Reforms]], [[Productivity]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]], [[Slovakia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Productivity Growth]], [[Demographics]], [[Energy Security]], [[Excessive Deficit Procedure (EDP)]]
