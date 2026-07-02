@@ -41,8 +41,10 @@ countries:
   - Japan
   - Canada
   - Russia
+  - France
+  - Spain
 ratings: []
-timestamp: 2026-07-02T12:05:09Z
+timestamp: 2026-07-02T12:34:02Z
 tags:
   - Economics
   - Fiscal Policy
@@ -81,11 +83,9 @@ tags:
 
 Italy is currently positioned within a broader European economic context characterized by industrial cost pressures and energy transitions. The country has played a key role in securing diversified energy supplies following the termination of Russian gas imports, though it continues to face wholesale electricity prices significantly higher than peer countries like Germany due to high gas dependence and taxation.
 
-The Italian economy showed moderate growth in 2024, with real GDP stabilizing at 0.7%. While Italy achieved its first primary surplus since 2019 (0.4% of GDP) in 2024 and saw the government deficit drop to 3.4%, the debt-to-GDP ratio is projected to rise to 138.2% by 2026, driven by high interest costs and past housing renovation tax credits. Italy remains a significant stakeholder in the EU's fiscal consolidation efforts, navigating shared challenges with regional peers such as Belgium, Austria, and France regarding high public debt-to-GDP ratios and slowing growth rates. 
+The Italian economy showed resilience in 2024 with a real GDP growth of 0.7%, supported by NRRP-related infrastructure investment and strong net exports. While Italy achieved its first primary surplus since 2019 (0.4% of GDP) in 2024—aided by improved tax compliance and the phasing out of housing-related tax credits—the headline deficit was halved to 3.4%. However, the debt-to-GDP ratio remains a critical concern, projected to rise toward 138.2% by 2026, with the IMF highlighting a need for more aggressive primary surplus targets (aiming for 3% by 2027) to stabilize the debt trajectory.
 
-In the broader Eurozone context, Italy faces regional peers like Belgium who are also navigating high public debt (projected to reach 123% of GDP by 2030) and structural deficits. Like its neighbors, Italy must contend with declining labor-cost competitiveness and the need for sustained fiscal consolidation to address rising debt and aging populations. The focus remains on rationalizing social benefits, managing public wage bills, and fostering growth through labor market reforms and improvements in product market dynamics to enhance Total Factor Productivity (TFP).
-
-Structural challenges persist, notably a significant innovation gap where R&D expenditure (1.31% of GDP) lags well behind the EU average (2.24%). The country faces a high macroeconomic skills mismatch, particularly in manufacturing and high-tech sectors, and struggles with a fragmented venture capital market. Furthermore, significant regional disparities remain, with the Mezzogiorno (Southern Italy) experiencing lower GDP per head and a notable "brain drain" compared to the North.
+Structural challenges persist, notably a significant innovation gap where R&D expenditure (1.31% of GDP) lags behind the EU average (2.24%). Productivity growth is hampered by a shortage of high-skilled workers and below-average female labor force participation. Furthermore, significant regional disparities remain, with the Mezzogiorno experiencing lower GDP per head and a "brain drain" compared to the North. The country faces high macroeconomic skills mismatches, particularly in manufacturing and high-tech sectors, and struggles with a fragmented venture capital market.
 
 ## Governance & Rule of Law
 
@@ -99,8 +99,10 @@ Italy’s anti-corruption framework remains stable with a Transparency Internati
 
 Key risks for Italy include the broader Euro area's inflationary dynamics, high public debt levels, and the structural challenges of the green transition. While Italy is a leader in solar PV and wind manufacturing, it lags in the adoption of electric vehicles. The country is highly exposed to hydrogeological risks and extreme weather, with significant annual infrastructure costs projected by 2030.
 
+Demographic headwinds are a primary concern, with the working-age population projected to decline significantly by 2050, increasing the old-age dependency ratio. The IMF assesses Italy's overall risk of sovereign stress as "Moderate," noting that while mechanical signals for the medium-term are high due to debt levels, mitigating factors include long debt maturities and healthy retail appetite for government bonds.
+
 The outlook is tied to the success of regional energy diversification, the ability to implement breakthrough technologies to improve business dynamism, and the management of age-related expenditures. Italy must navigate the tension between maintaining industrial competitiveness and meeting ambitious sustainability targets while addressing regional disparities and overcoming a shortage of skilled staff in STEM and green transition sectors. Success depends on effective fiscal consolidation, administrative simplification, and enhanced investment in R&D and renewable energy infrastructure. Furthermore, the country must address the backlog of European Court of Human Rights (ECHR) judgments and continue to strengthen institutional checks against the frequent use of government urgency decrees.
 
 ## Related Entities
 
-[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Digitalization]], [[Romania]], [[Moldova]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption]], [[Media Pluralism]], [[Constitutional Reform]], [[Japan]], [[Canada]], [[Russia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Capital Market Union]], [[IMF]], [[Article IV Consultation]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]]
+[[Austria]], [[Germany]], [[European Commission]], [[Total Factor Productivity]], [[Circular Economy]], [[Decarbonisation]], [[Belgium]], [[Netherlands]], [[France]], [[Renewable Energy]], [[Fiscal Sustainability]], [[Hungary]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Recovery and Resilience Plan (RRP)]], [[Public Debt-to-GDP]], [[Venture Capital]], [[Malta]], [[United Kingdom]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Digitalization]], [[Romania]], [[Moldova]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption]], [[Media Pluralism]], [[Constitutional Reform]], [[Japan]], [[Canada]], [[Russia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Capital Market Union]], [[IMF]], [[Article IV Consultation]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]], [[Lone Christiansen]], [[Riccardo Ercoli]], [[National Recovery and Resilience Plan (NRRP)]], [[Systemic Risk Buffer (SyRB)]], [[Countercyclical Capital Buffer (CCyB)]]
