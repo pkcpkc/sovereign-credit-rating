@@ -28,8 +28,9 @@ countries:
   - Slovenia
   - Spain
   - Sweden
+  - Cyprus
 ratings: []
-timestamp: 2026-07-02T11:15:13Z
+timestamp: 2026-07-02T11:38:50Z
 tags:
   - Economic Report
   - European Commission
@@ -44,6 +45,9 @@ tags:
   - Judiciary
   - Media Freedom
   - EU Conditionality
+  - IMF
+  - Macroeconomics
+  - Financial Stability
 ---
 
 # Hungary
@@ -79,4 +83,4 @@ The outlook depends on successful implementation of reforms to streamline admini
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Public Debt]], [[R&D Intensity]], [[Circular Economy]], [[Energy Security]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Romania]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption Strategy]], [[Media Pluralism]], [[Public Procurement]], [[Emergency Powers]], [[Asset Declarations]], [[Whistleblower Protection]], [[Bea Bodrogi]], [[Austria]], [[IMF (2025) Austria Country Report]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Public Debt]], [[R&D Intensity]], [[Circular Economy]], [[Energy Security]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Romania]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption Strategy]], [[Media Pluralism]], [[Public Procurement]], [[Emergency Powers]], [[Asset Declarations]], [[Whistleblower Protection]], [[Bea Bodrogi]], [[Austria]], [[IMF (2025) Austria Country Report]], [[Belgium]], [[Cyprus]], [[Malta]], [[Lithuania]], [[Croatia]], [[Estonia]], [[Latvia]], [[Sweden]], [[Portugal]], [[Greece]], [[Luxembourg]], [[Ireland]]
