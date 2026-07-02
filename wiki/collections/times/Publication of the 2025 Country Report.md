@@ -1,14 +1,18 @@
 ---
 type: Times
 title: Publication of the 2025 Country Report
-timestamp: 2026-07-02T08:01:07Z
+timestamp: 2026-07-02T08:28:24Z
 times:
   - date: 2024-01-01
     title: Implementation of new company car tax scheme
+  - date: 2024-01-01
+    title: GDP adjusted for inflation grew 6.0% (Malta)
   - date: 2024-12-31
     title: End of 2024 fiscal year data cut-off
   - date: 2025-01-01
     title: Legalization of plug-in solar systems
+  - date: 2025-01
+    title: Forecasted GDP growth of 4.1% (Malta)
   - date: 2025-02-18
     title: Council adopted Recommendation endorsing Hungary's plan and correcting excessive deficit
   - date: 2025-03-18
@@ -17,8 +21,10 @@ times:
     title: Deadline for implementation of RRP reforms
   - date: 2025-06-04
     title: Publication of the 2025 Country Report
-  - date: 2025-07-01
-    title: Planned introduction of eReceipt system
+  - date: 2025-08-31
+    title: Deadline for RRP measure completion (Malta)
+  - date: 2026-01
+    title: Forecasted GDP growth of 4.0% (Malta)
   - date: 2026-07-01
     title: Planned database for private equity funds to be available
   - date: 2027-01-01
@@ -36,12 +42,13 @@ tags:
   - Sustainability
   - Labour Market
   - Hungary
+  - Malta
 ---
 # Publication of the 2025 Country Report
 
 ## Event Details
 
-On **2025-06-04**, the European Commission released the **2025 Country Reports** (including SWD(2025) 201 final for Belgium, SWD(2025) 210 final for France, and SWD(2025) 217 final for Hungary). These comprehensive assessments evaluated member states' economic, social, and budgetary policies, highlighting progress toward EU targets and the transition to a green and digital economy.
+On **2025-06-04**, the European Commission released the **2025 Country Reports** (including SWD(2025) 201 final for Belgium, SWD(2025) 210 final for France, SWD(2025) 217 final for Hungary, and SWD(2025) 218 final for Malta). These comprehensive assessments evaluated member states' economic, social, and budgetary policies, highlighting progress toward EU targets and the transition to a green and digital economy.
 
 ### Regional Highlights:
 
@@ -60,6 +67,13 @@ On **2025-06-04**, the European Commission released the **2025 Country Reports**
 
 **Hungary**
 *   **Economic & Fiscal Outlook:** Hungary saw GDP growth of 0.5% in 2024, with forecasts reaching 0.8% in 2025 and 2.5% in 2026. Public debt reached 73.5% of GDP in 2024, with high debt-servicing costs and an implicit interest rate near 6% in 2025.
-*   **Business & Innovation:** The report highlights regulatory volatility and market distortions due to state intervention. R&D intensity remains low (1.4% vs 2.2% EU average), and venture capital investment has dropped significantly.
+*   **Business & Innovation:** The report highlights regulatory volatility and market distortions due to state intervention. R&D intensity remains low (1.4% vs. 2.2% EU average), and venture capital investment has dropped significantly.
 *   **Energy & Decarbonisation:** Hungary remains heavily dependent on Russian fossil fuels (over 70% of natural gas). While it leads in solar production (25% of EU share), it maintains high fossil fuel subsidies (1.01% of GDP) not planned for phase-out before 2030.
 *   **Labour & Social Fairness:** A significant shortage of skilled workers persists, and tertiary education attainment is low (32.3%). The country faces a severe housing crisis, with prices rising 230% between 2010 and 2024, and rising poverty risks among vulnerable groups.
+
+**Malta**
+*   **Economic Growth and Fiscal Policy:** Malta's economy showed strong momentum with 6.0% real GDP growth in 2024, projected to continue at 4.1% in 2025 and 4.0% in 2026. The general government deficit is expected to fall to 2.8% by 2026, with debt-to-GDP stabilizing below 50%.
+*   **Labor Market and Social Fairness:** While maintaining a high employment rate of 83.0% in 2024, Malta faces acute labor shortages in ICT, construction, and healthcare. Demographic pressures have led to high population density and housing affordability crises.
+*   **Business Environment and Innovation:** Malta faces significant regulatory burdens and an innovation deficit, with R&D intensity at only 0.64% of GDP (the second lowest in the EU). Judicial delays average 454 days for civil and commercial cases.
+*   **Sustainability and Climate Resilience:** The country faces severe water stress (WEI+ of 34.1%) and high fossil fuel subsidies (1.6% of GDP). Only 16.7% of the electricity mix is renewable, and waste management remains a challenge with a recycling rate of only 17.1%.
+*   **Recovery and Resilience Plan (RRP):** As of mid-2025, Malta has fulfilled 39% of RRP milestones, with 50.7% of grants disbursed toward green, digital, and healthcare transitions.
