@@ -45,7 +45,7 @@ countries:
   - Spain
   - Malta
 ratings: []
-timestamp: 2026-07-02T12:58:13Z
+timestamp: 2026-07-02T13:20:03Z
 tags:
   - Economics
   - Fiscal Policy
