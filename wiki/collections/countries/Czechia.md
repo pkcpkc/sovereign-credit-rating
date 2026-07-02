@@ -4,7 +4,7 @@ title: "Czechia"
 countries:
   - Czechia
 ratings: []
-timestamp: 2026-07-02T09:18:22Z
+timestamp: 2026-07-02T11:12:07Z
 tags:
   - Economic Report
   - European Commission
@@ -15,6 +15,9 @@ tags:
   - Energy Transition
   - Digital Transformation
   - Social Fairness
+  - Economy
+  - Monetary Policy
+  - Financial Stability
 ---
 
 # Czechia
@@ -51,4 +54,4 @@ Regional risks also include the impact of trade tensions and the necessity of tr
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[R&D Intensity]], [[Digital Transformation]], [[Fiscal Adjustment]], [[Decarbonisation]], [[Circular Economy]], [[Public Investment Efficiency]], [[STEM Education]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Romania]], [[Poland]], [[Macroeconomic Imbalance]], [[Schengen Area]], [[Slovakia]], [[Tax Wedge]], [[Human Capital]], [[Green Transition]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[R&D Intensity]], [[Digital Transformation]], [[Fiscal Adjustment]], [[Decarbonisation]], [[Circular Economy]], [[Public Investment Efficiency]], [[STEM Education]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Romania]], [[Poland]], [[Macroeconomic Imbalance]], [[Schengen Area]], [[Slovakia]], [[Tax Wedge]], [[Human Capital]], [[Green Transition]], [[Austria]], [[Germany]], [[Italy]], [[Netherlands]], [[Spain]], [[Japan]], [[Canada]], [[United Kingdom]], [[United States]], [[Russia]], [[Croatia]], [[Hungary]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Labor Supply]], [[Productivity Growth]], [[Commercial Real Estate (CRE)]], [[ESG Transition]], [[Systemic Risk]]
