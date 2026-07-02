@@ -32,7 +32,7 @@ countries:
   - Ukraine
   - Moldova
 ratings: []
-timestamp: 2026-07-02T09:04:24Z
+timestamp: 2026-07-02T09:24:55Z
 tags:
   - Economic Report
   - European Commission
@@ -56,9 +56,9 @@ tags:
 
 ## Economic Overview
 
-Poland is identified as one of the fastest-growing economies in the European Union, characterized by high private consumption and significant investment. In 2024, GDP grew by 2.9%, with projections for higher growth in 2025 driven by continued consumption and investment. The regional economic environment is shaped by a push toward decarbonization, digitalization, and addressing labor market "skills gaps." 
+Poland is identified as one of the fastest-growing economies in the European Union, characterized by high private consumption and significant investment. In 2024, GDP grew by 2.9%, with projections for higher growth in 2025 driven by continued consumption and investment. The economy faces a complex landscape of structural hurdles, including a rapidly aging population (expected to fall by 16% by 2070) and a shrinking working-age population. 
 
-Poland is a leader in lithium battery manufacturing (producing 60% of all European-made batteries), yet it faces structural hurdles including a rapidly aging population (expected to fall by 16% by 2070) and a shrinking working-age population. The economy currently faces high public debt-servicing costs and high wholesale electricity prices exacerbated by grid bottlenecks. Additionally, Poland ranks last among EU Member States in the Tax Complexity Index 2022, creating significant hurdles for SMEs and innovation.
+The Polish economy currently faces high public debt-servicing costs and high wholesale electricity prices exacerbated by grid bottlenecks. While Poland is a leader in lithium battery manufacturing (producing 60% of all European-made batteries), it struggles with a productivity gap, currently at 67% of the EU average. Furthermore, Poland ranks last among EU Member States in the Tax Complexity Index 2022, creating significant hurdles for SMEs and innovation. The regional economic environment is further shaped by a push toward decarbonization, digitalization, and addressing labor market "skills gaps."
 
 ## Governance & Rule of Law
 
@@ -70,9 +70,9 @@ Key risks for Poland, in alignment with the broader EU context, include:
 - **Fiscal Sustainability:** The need for aggressive fiscal consolidation to manage public debt and deficits, particularly as debt-servicing costs remain elevated.
 - **Energy Transition:** Challenges in decarbonizing heavy industry, transport, and buildings; fossil fuels still account for 70% of electricity generation.
 - **Labor Market:** Addressing structural weaknesses, closing "skills gaps" in STEM and construction (where 63% of manufacturing firms report shortages), and addressing the wide disability employment gap (35.6%).
-- **Innovation & Productivity:** Bridging the productivity gap (currently 67% of the EU average) and increasing R&D intensity to move beyond concentration in large foreign-owned firms.
+- **Innovation & Productivity:** Bridging the productivity gap and increasing R&D intensity to move beyond concentration in large foreign-owned firms.
 - **Social Infrastructure:** Addressing the housing crisis (prices rose 107% since 2015), modernizing a hospital-centric healthcare system, and improving regional productivity disparities.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[Recovery and Resilience Plan]], [[Stability and Growth Pact]], [[European Green Deal]], [[Quantum Computing]], [[Circular Economy]], [[STEM Education]], [[Romania]], [[Moldova]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[Recovery and Resilience Plan]], [[Stability and Growth Pact]], [[European Green Deal]], [[Quantum Computing]], [[Circular Economy]], [[STEM Education]], [[Romania]], [[Moldova]], [[Slovakia]]
