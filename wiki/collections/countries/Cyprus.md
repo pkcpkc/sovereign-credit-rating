@@ -4,13 +4,16 @@ title: Cyprus
 countries:
   - Cyprus
 ratings: []
-timestamp: 2026-07-02T07:24:36Z
+timestamp: 2026-07-02T11:43:27Z
 tags:
   - Economic Report
   - European Commission
   - Fiscal Policy
   - Sustainability
   - Labor Market
+  - IMF
+  - Macroeconomics
+  - Financial Stability
 ---
 
 # Cyprus
@@ -23,7 +26,9 @@ tags:
 
 ## Economic Overview
 
-While the provided 2025 Country Report focuses primarily on France, Cyprus is identified as a key member of the European Union economic landscape. As part of the broader EU fiscal framework, Cyprus is subject to the European Commission's oversight regarding fiscal sustainability, energy transition goals, and labor market productivity. The report context suggests that member states, including Cyprus, are navigating a period of high capital costs, the need for aggressive fiscal consolidation, and the dual challenge of green and digital transitions.
+Cyprus is a key member of the European Union economic landscape, operating within the broader EU fiscal framework. While the economy faces a period of high capital costs and the need for aggressive fiscal consolidation, it is subject to European Commission oversight regarding fiscal sustainability and energy transition goals. 
+
+As part of the wider Eurozone context (including peer analysis from the IMF's 2025 Article IV consultations), Cyprus navigates challenges common to the region: managing public debt, addressing labor market productivity, and transitioning toward a green and digital economy. The economic outlook involves balancing growth amidst restrictive monetary policies while navigating the "simplification of economic life" to reduce bureaucracy and improve the ease of doing business for firms.
 
 ## Governance & Rule of Law
 
@@ -31,12 +36,13 @@ Cyprus operates within the European Union's institutional framework, adhering to
 
 ## Key Risks & Outlook
 
-Key risks for Cyprus, in alignment with the broader EU economic climate described in the 2025 Country Report, include:
-*   **Fiscal Sustainability:** Navigating the requirements for spending reviews and rationalizing tax expenditures to manage public debt.
-*   **Energy Transition:** Meeting targets for decarbonization and infrastructure development.
-*   **Labor Market:** Addressing potential skills gaps that hinder productivity and the adoption of new technologies.
-*   **Economic Growth:** Managing growth amidst restrictive monetary policies and high capital costs.
+Key risks for Cyprus, in alignment with the broader EU economic climate and IMF observations on regional peers, include:
+*   **Fiscal Sustainability:** Navigating the requirements for spending reviews and rationalizing tax expenditures to manage public debt and ensure long-term stability.
+*   **Energy Transition:** Meeting targets for decarbonization, infrastructure development, and phasing out fossil fuel subsidies to meet 2030 climate goals.
+*   **Labor Market:** Addressing potential skills gaps, increasing labor force participation, and improving productivity to counteract the effects of high capital costs.
+*   **Economic Growth:** Managing growth amidst restrictive monetary policies and the dual challenge of green and digital transitions.
+*   **Structural Reforms:** Aligning with broader EU efforts to reduce regulatory barriers and improve the dynamism of the firm environment.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[IMF]], [[Macroeconomics]], [[Financial Stability]]
