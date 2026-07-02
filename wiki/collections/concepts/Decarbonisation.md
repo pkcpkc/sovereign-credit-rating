@@ -13,7 +13,13 @@ concepts:
   - Labor Productivity
   - STEM Education
   - Fiscal Adjustment
-timestamp: 2026-07-02T08:30:56Z
+  - R&D Intensity
+  - Tax Wedge
+  - Digital Decade
+  - Public Procurement
+  - Human Capital
+  - Green Transition
+timestamp: 2026-07-02T09:12:33Z
 tags:
   - Sustainability
   - Energy
@@ -35,6 +41,7 @@ Based on recent economic reports and regional analyses, decarbonisation involves
 
 ### Industrial & Economic Frameworks
 - **High-Emission Sectors:** Manufacturing remains a significant source of emissions (accounting for approximately 35% of emissions in certain contexts). Effective decarbonisation requires the rapid implementation of specific measures to transition energy-intensive industrial sectors away from carbon-heavy inputs. In some regions, the district heating sector remains heavily coal-dependent (e.g., 69% in Poland), presenting a significant hurdle for industrial decarbonisation.
+- **Slovakia Case Study:** Slovakia represents a critical industrial context where manufacturing contributes 35% of GHG emissions—the highest in the EU. This highlights the urgent need for industrial decarbonisation strategies to maintain competitiveness against high electricity and gas prices.
 - **Fossil Fuel Subsidies:** A significant barrier to decarbonisation is the persistence of fossil fuel subsidies, which can reach high percentages of GDP (e.g., 1.01% in some contexts) and require phased-out policies to align with climate goals.
 - **Circular Economy:** Decarbonisation is supported by [[Circular Economy]] practices, aiming to improve circular material use rates to mitigate environmental degradation and resource scarcity.
 
@@ -46,7 +53,8 @@ Based on recent economic reports and regional analyses, decarbonisation involves
 - **Climate Neutrality:** National and regional policies often set specific deadlines for climate neutrality (e.g., 2040 targets; some nations target 2050).
 - **Renewable Targets:** Specific milestones, such as 100% renewable electricity targets, serve as benchmarks for successful decarbonisation efforts.
 - **Green Skills & Labor Productivity:** The transition requires addressing the "skills shortage" in STEM and green technologies to facilitate the workforce shift necessary for a low-carbon economy. Low [[Labor Productivity]] and gaps in [[STEM Education]] are identified as primary barriers to the innovation required for rapid decarbonisation.
-- **Fiscal Alignment:** Successful decarbonisation often requires [[Fiscal Adjustment]] and public investment efficiency to manage the transition costs while maintaining economic stability.
+- **Innovation & R&D:** Accelerating the [[Green Transition]] is heavily dependent on [[R&D Intensity]]. Low R&D investment hinders the development of high-value, innovation-driven economies capable of leading in green technologies.
+- **Fiscal Alignment:** Successful decarbonisation often requires [[Fiscal Adjustment]] and public investment efficiency to manage the transition costs while maintaining economic stability. This includes managing the [[Tax Wedge]] and utilizing [[Public Procurement]] to drive demand for sustainable solutions.
 
 ## Related Concepts
 - [[Energy Intensity]]
@@ -57,3 +65,9 @@ Based on recent economic reports and regional analyses, decarbonisation involves
 - [[Climate Risks]]
 - [[Labor Productivity]]
 - [[STEM Education]]
+- [[R&D Intensity]]
+- [[Tax Wedge]]
+- [[Digital Decade]]
+- [[Public Procurement]]
+- [[Human Capital]]
+- [[Green Transition]]
