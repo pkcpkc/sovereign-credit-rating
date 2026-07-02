@@ -31,7 +31,7 @@ countries:
   - Sweden
   - Ukraine
 ratings: []
-timestamp: 2026-07-02T07:54:43Z
+timestamp: 2026-07-02T08:38:59Z
 tags:
   - Economic Report
   - European Commission
@@ -50,7 +50,9 @@ tags:
 
 ## Economic Overview
 
-Lithuania is part of the broader European economic landscape characterized by current trends in fiscal consolidation and structural transitions. Based on the 2025 European Commission Country Report context, the region is navigating a period of moderate growth amid high political uncertainty and restrictive monetary policies. Lithuania's economic position is situated within a European framework focusing on high labor productivity, the "skills gap" in digital and green transitions, and the necessity of administrative simplification to foster business growth. Within this regional context, Lithuania operates alongside peers facing varied fiscal challenges, such as high public debt and inflation pressures, while striving to improve R&D intensity and bridge the gap in equity financing for high-growth firms.
+Lithuania is part of the broader European economic landscape characterized by current trends in fiscal consolidation and structural transitions. Based on the 2025 European Commission Country Report context, the region is navigating a period of moderate growth amid high political uncertainty and restrictive monetary policies. Lithuania's economic position is situated within a European framework focusing on high labor productivity, the "skills gap" in digital and green transitions, and the necessity of administrative simplification to foster business growth. 
+
+Within this regional context, Lithuania operates alongside peers facing varied fiscal challenges, such as high public debt and inflation pressures, while striving to improve R&D intensity and bridge the gap in equity financing for high-growth firms. The regional outlook includes navigating high-interest-rate environments, managing public debt levels, and addressing labor market dynamics—particularly skilled labor shortages in STEM and the green transition.
 
 ## Governance & Rule of Law
 
@@ -67,4 +69,4 @@ Key risks for Lithuania, in alignment with regional trends, include:
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Digitalization]], [[France]], [[Hungary]], [[GDP Growth]], [[Inflation]], [[Public Debt]], [[Labour Productivity]], [[R&D Intensity]], [[Decarbonisation]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Digitalization]], [[France]], [[Hungary]], [[GDP Growth]], [[Inflation]], [[Public Debt]], [[Labour Productivity]], [[R&D Intensity]], [[Decarbonisation]], [[Poland]], [[STEM Education]], [[Circular Economy]]
