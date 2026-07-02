@@ -38,7 +38,7 @@ countries:
   - Qatar
   - United Kingdom
 ratings: []
-timestamp: 2026-07-02T08:38:02Z
+timestamp: 2026-07-02T08:58:45Z
 tags:
   - Economics
   - Fiscal Policy
@@ -80,4 +80,4 @@ Key risks for Germany include the ongoing transition to a decarbonized industria
 
 ## Related Entities
 
-[[Austria]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Decarbonisation]], [[Energy Security]], [[Belgium]], [[Netherlands]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Italy]], [[Spain]], [[Slovenia]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Malta]], [[United Kingdom]], [[Poland]]
+[[Austria]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Decarbonisation]], [[Energy Security]], [[Belgium]], [[Netherlands]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Italy]], [[Spain]], [[Slovenia]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Malta]], [[United Kingdom]], [[Poland]], [[Romania]]
