@@ -31,13 +31,17 @@ countries:
   - Sweden
   - Ukraine
 ratings: []
-timestamp: 2026-07-02T07:56:29Z
+timestamp: 2026-07-02T08:39:41Z
 tags:
   - Economic Report
   - EU Commission
   - Fiscal Policy
   - Sustainability
   - Labour Market
+  - Economic Development
+  - Energy Transition
+  - Digitalization
+  - Social Fairness
 ---
 
 # Netherlands
@@ -66,4 +70,4 @@ The outlook emphasizes the need for structural reforms in pension systems, educa
 
 ## Related Entities
 
-[[Belgium]], [[European Commission]], [[Net Expenditure]], [[Fiscal-Structural Plan]], [[Wage Indexation]], [[Circular Economy]], [[STEM Education]], [[Long-term Care]], [[Energy Transition]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Total Factor Productivity]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]]
+[[Belgium]], [[European Commission]], [[Net Expenditure]], [[Fiscal-Structural Plan]], [[Wage Indexation]], [[Circular Economy]], [[STEM Education]], [[Long-term Care]], [[Energy Transition]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Total Factor Productivity]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Poland]], [[Decarbonisation]], [[Public Investment Efficiency]], [[Labor Productivity]], [[Excessive Deficit Procedure]]
