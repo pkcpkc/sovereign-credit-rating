@@ -3,8 +3,22 @@ type: "Country"
 title: "Croatia"
 countries:
   - Croatia
+  - Slovakia
+  - Germany
+  - Austria
+  - France
+  - Italy
+  - Hungary
+  - Poland
+  - Czech Republic
+  - Lithuania
+  - Latvia
+  - Estonia
+  - Bulgaria
+  - Romania
+  - Slovenia
 ratings: []
-timestamp: 2026-07-02T12:07:10Z
+timestamp: 2026-07-02T13:55:04Z
 tags:
   - Economic Report
   - European Commission
@@ -13,6 +27,8 @@ tags:
   - Labor Market
   - IMF Article IV
   - Macroeconomic Outlook
+  - Economics
+  - Financial Stability
 ---
 
 # Croatia
@@ -47,4 +63,4 @@ Key risks for Croatia, consistent with regional trends in the 2025 report and IM
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Digitalization]], [[France]], [[Germany]], [[Italy]], [[Austria]], [[IMF]], [[Macroprudential Policy]], [[Productivity Growth]], [[Belgium]], [[Netherlands]], [[Spain]], [[Portugal]], [[Greece]], [[Luxembourg]], [[Sweden]], [[Slovakia]], [[Slovenia]], [[Hungary]], [[Ireland]], [[Estonia]], [[Latvia]], [[Cyprus]], [[Malta]], [[Lithuania]], [[Article IV Consultation]], [[Fiscal Adjustment]], [[Monetary Policy]], [[Structural Reforms]], [[Sovereign-Bank Nexus]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Digitalization]], [[France]], [[Germany]], [[Italy]], [[Austria]], [[IMF]], [[Macroprudential Policy]], [[Productivity Growth]], [[Belgium]], [[Netherlands]], [[Spain]], [[Portugal]], [[Greece]], [[Luxembourg]], [[Sweden]], [[Slovakia]], [[Slovenia]], [[Hungary]], [[Ireland]], [[Estonia]], [[Latvia]], [[Cyprus]], [[Malta]], [[Lithuania]], [[Article IV Consultation]], [[Fiscal Adjustment]], [[Monetary Policy]], [[Structural Reforms]], [[Sovereign-Bank Nexus]], [[Slovakia]], [[Poland]], [[Czech Republic]], [[Bulgaria]], [[Romania]]
