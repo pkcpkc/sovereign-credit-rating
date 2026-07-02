@@ -11,7 +11,13 @@ concepts:
   - Sovereign Risk
   - Green Transition
   - Capital Market Union
-timestamp: 2026-07-02T11:25:39Z
+  - Corporate Income Tax (CIT)
+  - OECD Pillar II
+  - AML/CFT Framework
+  - Digital Transformation
+  - Energy Subsidies
+  - Real Estate Exposure
+timestamp: 2026-07-02T12:51:09Z
 tags:
   - Economy
   - Financial Stability
@@ -26,9 +32,16 @@ The primary goal is to maintain [[Financial Stability]] by monitoring and regula
 - **Countercyclical Measures:** Implementing regulations that act as buffers during periods of excessive credit growth.
 - **Systemic Risk Mitigation:** Identifying and addressing "too big to fail" institutions and interconnected risks.
 - **Sectoral Oversight:** Monitoring specific high-risk sectors that could impact the broader economy.
+- **Digital Resilience:** Ensuring the implementation of frameworks like the Digital Operational Resilience Act (DORA) to mitigate cyber risks to the financial infrastructure.
 
 ## Contextual Application: Regional Perspectives
 Macroprudential vigilance is applied across various jurisdictions to address specific structural and market-driven risks:
+
+### Malta (2025)
+Recent IMF assessments highlight specific macroprudential priorities for the Maltese financial system:
+- **Real Estate Exposure:** With banks holding significant exposure to real estate (approximately 70% of loan portfolios), the IMF recommends raising the sectoral systemic risk buffer (sSyRB).
+- **Scope Expansion:** There is a recommendation to broaden the scope of these buffers to specifically include construction and [[Commercial Real Estate (CRE)]].
+- **Banking Health:** Despite a sound financial system with high capital buffers (Tier 1 ratio ~21%) and low non-performing loan (NPL) ratios (~2%), targeted macroprudential tightening is required to manage concentration risks.
 
 ### Austria (2025)
 In the Austrian economy, macroprudential vigilance is currently focused on:
