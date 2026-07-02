@@ -8,7 +8,7 @@ countries:
   - United Kingdom
   - Luxembourg
 ratings: []
-timestamp: 2026-07-02T08:23:24Z
+timestamp: 2026-07-02T10:22:46Z
 tags:
   - Economic Report
   - European Commission
@@ -17,6 +17,10 @@ tags:
   - Labor Market
   - Economic Policy
   - EU Governance
+  - Rule of Law
+  - Justice System
+  - Anti-Corruption
+  - Media Freedom
 ---
 
 # Malta
@@ -39,6 +43,13 @@ Sustainability is a critical area of focus and concern. Malta currently has low 
 
 Malta is navigating complex EU administrative goals, including the "tell us once" principle and efforts to simplify economic life. However, the country faces significant regulatory burdens, ranking among the weakest performers in the EU regarding Product Market Regulation (PMR). Judicial efficiency is a noted bottleneck, with civil and commercial cases at first instance averaging 454 days, creating uncertainty for private investment. Governance efforts are currently focused on judicial reform to reduce business uncertainty and addressing social exclusion risks for non-EU nationals and persons with disabilities.
 
+Recent developments in the Rule of Law landscape include:
+- **Judicial Independence:** Perceived independence remains high (69% of the general public, 63% of companies). A comprehensive constitutional reform was tabled in May 2025 to involve the judiciary in the appointment of the Chief Justice.
+- **Prosecutorial Reform:** The transfer of non-summary case prosecutions from the Police to the Office of the Attorney General was completed in September 2024.
+- **Anti-Corruption:** Malta scored 46/100 on the 2025 Corruption Perceptions Index (24th in the EU). While high-level investigations have progressed, a robust track record of final judgments is still lacking, and the Permanent Commission Against Corruption (PCAC) remains under-resourced.
+- **Media & Civil Society:** While an anti-SLAPP law was enacted in July 2024, public service media independence remains at "very high risk" according to the Media Pluralism Monitor. Efforts to establish a National Human Rights Institution and a regulatory framework for civil society are still in the draft phase.
+- **EU Compliance:** The European Court of Justice ruled in April 2025 that Malta's investor citizenship scheme is illegal under EU law.
+
 ## Key Risks & Outlook
 
 Key risks and challenges for Malta include:
@@ -47,7 +58,8 @@ Key risks and challenges for Malta include:
 - **Environmental Pressures:** High fossil fuel dependency, water scarcity, and high road transport emissions pose significant risks to climate resilience goals.
 - **Regulatory & Judicial Hurdles:** High administrative burdens for businesses and lengthy judicial delays may deter high-growth firms and investment.
 - **Implementation Progress:** While Malta has fulfilled 39% of its Recovery and Resilience Plan (RRP) milestones as of mid-2025, aggressive measures are still required to decarbonize the transport sector and improve water resilience.
+- **Institutional Integrity:** Addressing the lack of progress in media freedom, public service media independence, and the creation of a National Human Rights Institution remains critical for long-term stability.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Digitalization]], [[France]], [[Hungary]], [[Italy]], [[Germany]], [[United Kingdom]], [[Luxembourg]], [[Venture Capital]], [[Sustainable Development Goals]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Digitalization]], [[France]], [[Hungary]], [[Italy]], [[Germany]], [[United Kingdom]], [[Luxembourg]], [[Venture Capital]], [[Sustainable Development Goals]], [[Judicial Independence]], [[Anti-Corruption]], [[Media Freedom]]
