@@ -29,7 +29,7 @@ countries:
   - Spain
   - Sweden
 ratings: []
-timestamp: 2026-07-02T08:59:46Z
+timestamp: 2026-07-02T09:21:07Z
 tags:
   - Economic Report
   - European Commission
@@ -70,4 +70,4 @@ The outlook depends on successful implementation of reforms to streamline admini
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Public Debt]], [[R&D Intensity]], [[Circular Economy]], [[Energy Security]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Romania]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)], [Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Public Debt]], [[R&D Intensity]], [[Circular Economy]], [[Energy Security]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Romania]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)], [Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]], [[Slovakia]]
