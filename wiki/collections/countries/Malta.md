@@ -7,8 +7,25 @@ countries:
   - Germany
   - United Kingdom
   - Luxembourg
+  - Belgium
+  - France
+  - Netherlands
+  - Spain
+  - Portugal
+  - Greece
+  - Sweden
+  - Slovakia
+  - Slovenia
+  - Hungary
+  - Ireland
+  - Austria
+  - Estonia
+  - Latvia
+  - Cyprus
+  - Lithuania
+  - Croatia
 ratings: []
-timestamp: 2026-07-02T10:22:46Z
+timestamp: 2026-07-02T11:43:59Z
 tags:
   - Economic Report
   - European Commission
@@ -21,6 +38,9 @@ tags:
   - Justice System
   - Anti-Corruption
   - Media Freedom
+  - IMF
+  - Macroeconomics
+  - Financial Stability
 ---
 
 # Malta
@@ -33,7 +53,7 @@ tags:
 
 ## Economic Overview
 
-Malta's economy maintains strong momentum, characterized by robust GDP growth of 6.0% in 2024, with forecasts of 4.1% for 2025 and 4.0% for 2026. The nation is undergoing a period of fiscal consolidation, with the general government deficit projected to decrease from 3.7% in 2024 to 2.8% by 2026, while the debt-to-GDP ratio is expected to stabilize below 50%.
+Malta's economy maintains strong momentum, characterized by robust GDP growth of 6.0% in 2024, with forecasts of 4.1% for 2025 and 4.0% for 2026. The nation is undergoing a period of fiscal consolidation, with the general government deficit projected to decrease from 3.7% in 2024 to 2.8% by 2026, while the debt-to-GDP ratio is expected to stabilize below 50%. 
 
 The labor market is defined by a paradox of high employment (83.0% in 2024) and acute labor shortages, particularly in ICT, construction, and healthcare. This is exacerbated by a skills gap where one in three 15-year-olds lacks basic math, reading, and science skills. Furthermore, Malta faces significant structural hurdles in innovation; its R&D intensity is among the lowest in the EU (0.64% of GDP), hampered by underdeveloped venture capital and a shortage of skilled researchers.
 
@@ -62,4 +82,4 @@ Key risks and challenges for Malta include:
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Digitalization]], [[France]], [[Hungary]], [[Italy]], [[Germany]], [[United Kingdom]], [[Luxembourg]], [[Venture Capital]], [[Sustainable Development Goals]], [[Judicial Independence]], [[Anti-Corruption]], [[Media Freedom]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Digitalization]], [[France]], [[Hungary]], [[Italy]], [[Germany]], [[United Kingdom]], [[Luxembourg]], [[Venture Capital]], [[Sustainable Development Goals]], [[Judicial Independence]], [[Anti-Corruption]], [[Media Freedom]], [[Belgium]], [[IMF]], [[Fiscal Consolidation]], [[Automatic Wage Indexation]], [[Total Factor Productivity (TFP)]], [[Sovereign Risk]], [[Macroprudential Policy]], [[Green Transition]], [[Capital Market Union]]
