@@ -31,7 +31,7 @@ countries:
   - Sweden
   - Ukraine
 ratings: []
-timestamp: 2026-07-02T12:09:19Z
+timestamp: 2026-07-02T13:52:36Z
 tags:
   - Economic Report
   - European Commission
@@ -66,4 +66,4 @@ Additionally, Latvia is impacted by wider EU risks such as energy dependence on 
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Hungary]], [[GDP Growth]], [[Inflation]], [[Public Debt]], [[Labour Productivity]], [[Skills Shortage]], [[R&D Intensity]], [[Decarbonisation]], [[Energy Security]], [[Social Convergence]], [[Digital Transformation]], [[IMF]], [[Fiscal Consolidation]], [[Green Transition]], [[Article IV Consultation]], [[Structural Reform]], [[Debt Sustainability]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Hungary]], [[GDP Growth]], [[Inflation]], [[Public Debt]], [[Labour Productivity]], [[Skills Shortage]], [[R&D Intensity]], [[Decarbonisation]], [[Energy Security]], [[Social Convergence]], [[Digital Transformation]], [[IMF]], [[Fiscal Consolidation]], [[Green Transition]], [[Article IV Consultation]], [[Structural Reform]], [[Debt Sustainability]], [[Slovakia]]
