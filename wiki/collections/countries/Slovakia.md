@@ -4,7 +4,7 @@ title: Slovakia
 countries:
   - Slovakia
 ratings: []
-timestamp: 2026-07-02T07:58:51Z
+timestamp: 2026-07-02T08:42:14Z
 tags:
   - Economic Report
   - European Commission
@@ -23,7 +23,7 @@ tags:
 
 ## Economic Overview
 
-Slovakia is included in the European Commission's 2025 Country Report as part of the broader EU economic landscape. While specific granular data for Slovakia is often grouped within regional contexts, the country is navigating a period of cautious growth and structural transition. The economic trajectory is heavily influenced by regional trends, including labor productivity recovery, the "skills gap" in green and digital transitions, and the necessity of administrative simplification to bolster business competitiveness. Like its neighbors, Slovakia faces challenges from high capital costs and investment uncertainty, requiring a balance between maintaining industrial competitiveness and meeting aggressive greenhouse gas reduction targets.
+Slovakia is included in the European Commission's 2025 Country Report as part of the broader EU economic landscape. The country is navigating a period of cautious growth and structural transition, heavily influenced by regional trends including labor productivity recovery and the "skills gap" in green and digital transitions. While Slovakia's specific growth is often grouped within regional contexts, it shares broader EU challenges such as high capital costs and investment uncertainty. The economic trajectory requires a delicate balance between maintaining industrial competitiveness—particularly in sectors like manufacturing—and meeting aggressive greenhouse gas reduction targets. Like its neighbors, Slovakia is focused on administrative simplification to bolster business competitiveness and addressing regional disparities in productivity.
 
 ## Governance & Rule of Law
 
@@ -35,4 +35,4 @@ Key risks include the broader regional trend of rising public debt-to-GDP ratios
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]], [[Poland]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Denmark]], [[Romania]], [[Slovenia]], [[Decarbonisation]], [[Circular Economy]], [[Labor Productivity]], [[Excessive Deficit Procedure]]
