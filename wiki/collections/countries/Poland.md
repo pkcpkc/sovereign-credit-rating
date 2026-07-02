@@ -32,7 +32,7 @@ countries:
   - Ukraine
   - Moldova
 ratings: []
-timestamp: 2026-07-02T09:24:55Z
+timestamp: 2026-07-02T10:34:39Z
 tags:
   - Economic Report
   - European Commission
@@ -44,6 +44,11 @@ tags:
   - Economic Development
   - Social Fairness
   - EU Compliance
+  - Rule of Law
+  - Judiciary
+  - Anti-Corruption
+  - Media Freedom
+  - EU Policy
 ---
 
 # Poland
@@ -64,6 +69,10 @@ The Polish economy currently faces high public debt-servicing costs and high who
 
 The country operates within the framework of European Commission standards, which currently emphasize administrative simplification (the "tell us once" principle) and the rationalization of tax expenditures to ensure long-term fiscal sustainability. Governance is increasingly measured against EU standards for transparency in multiannual spending ceilings and the reduction of regulatory volatility. Currently, Poland is under an excessive deficit procedure, with a binding expenditure path aimed at reducing the deficit below 3% of GDP by 2028.
 
+In terms of judicial independence and rule of law, Poland has shown mixed progress. Significant strides were made in separating the office of the Minister of Justice from the Prosecutor General and improving procedural frameworks for judicial appointments. However, profound concerns persist regarding the independence of the Constitutional Tribunal and the National Council for the Judiciary (NCJ). While the government is consulting the Venice Commission on reforms to address "neo-judges," perceived judicial independence remains low.
+
+Anti-corruption efforts have improved through the operationalization of the European Public Prosecutor's Office (EPPO) and new police-led coordination, though the liquidation of the Central Anti-Corruption Bureau (CBA) and the lack of a comprehensive national strategy remain notable. Media pluralism is undergoing reform to align with the European Media Freedom Act (EMFA), while civic space has transitioned from "obstructed" to "narrowed."
+
 ## Key Risks & Outlook
 
 Key risks for Poland, in alignment with the broader EU context, include:
@@ -72,7 +81,8 @@ Key risks for Poland, in alignment with the broader EU context, include:
 - **Labor Market:** Addressing structural weaknesses, closing "skills gaps" in STEM and construction (where 63% of manufacturing firms report shortages), and addressing the wide disability employment gap (35.6%).
 - **Innovation & Productivity:** Bridging the productivity gap and increasing R&D intensity to move beyond concentration in large foreign-owned firms.
 - **Social Infrastructure:** Addressing the housing crisis (prices rose 107% since 2015), modernizing a hospital-centric healthcare system, and improving regional productivity disparities.
+- **Rule of Law & Institutions:** Navigating the ongoing reforms of the judiciary, ensuring the removal of "neo-judges," and establishing a robust national anti-corruption strategy to maintain EU compliance.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[Recovery and Resilience Plan]], [[Stability and Growth Pact]], [[European Green Deal]], [[Quantum Computing]], [[Circular Economy]], [[STEM Education]], [[Romania]], [[Moldova]], [[Slovakia]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[Recovery and Resilience Plan]], [[Stability and Growth Pact]], [[European Green Deal]], [[Quantum Computing]], [[Circular Economy]], [[STEM Education]], [[Romania]], [[Moldova]], [[Slovakia]], [[Venice Commission]], [[European Court of Human Rights (ECtHR)]], [[European Public Prosecutor's Office (EPPO)]], [[European Media Freedom Act (EMFA)]]
