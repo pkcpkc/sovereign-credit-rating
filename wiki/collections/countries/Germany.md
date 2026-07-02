@@ -40,8 +40,9 @@ countries:
   - Japan
   - Canada
   - Russia
+  - Czech Republic
 ratings: []
-timestamp: 2026-07-02T13:21:40Z
+timestamp: 2026-07-02T13:42:17Z
 tags:
   - Economics
   - Fiscal Policy
@@ -87,4 +88,4 @@ Key risks for Germany include the ongoing transition to a decarbonized industria
 
 ## Related Entities
 
-[[Austria]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Decarbonisation]], [[Energy Security]], [[Belgium]], [[Netherlands]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Italy]], [[Spain]], [[Slovenia]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Malta]], [[United Kingdom]], [[Poland]], [[Romania]], [[Slovakia]], [[Japan]], [[Canada]], [[Russia]], [[Márton Nagy]], [[Barnabás Virág]], [[Anke Weber]], [[IMF]], [[National Recovery and Resilience Plan (NRRP)]], [[Primary Surplus]], [[Sovereign Risk]], [[Productivity Growth]], [[Demographic Headwinds]], [[Systemic Risk Buffer (SyRB)]], [[Countercyclical Capital Buffer (CCyB)]]
+[[Austria]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Decarbonisation]], [[Energy Security]], [[Belgium]], [[Netherlands]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Italy]], [[Spain]], [[Slovenia]], [[Tunisia]], [[Algeria]], [[Azerbaijan]], [[Qatar]], [[Malta]], [[United Kingdom]], [[Poland]], [[Romania]], [[Slovakia]], [[Japan]], [[Canada]], [[Russia]], [[Márton Nagy]], [[Barnabás Virág]], [[Anke Weber]], [[IMF]], [[National Recovery and Resilience Plan (NRRP)]], [[Primary Surplus]], [[Sovereign Risk]], [[Productivity Growth]], [[Demographic Headwinds]], [[Systemic Risk Buffer (SyRB)]], [[Countercyclical Capital Buffer (CCyB)]], [[Czech Republic]]
