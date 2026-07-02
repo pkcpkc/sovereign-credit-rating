@@ -4,7 +4,7 @@ title: "Denmark"
 countries:
   - Denmark
 ratings: []
-timestamp: 2026-07-02T07:25:22Z
+timestamp: 2026-07-02T07:49:01Z
 tags:
   - Economic Report
   - European Commission
@@ -23,7 +23,7 @@ tags:
 
 ## Economic Overview
 
-Denmark is included in the 2025 European Commission Country Report as part of a broader analysis of EU economic performance. While the provided summary focuses heavily on France's specific fiscal challenges and growth deceleration (0.6%), Denmark is identified as part of the broader European economic landscape characterized by ongoing efforts in fiscal consolidation, labor market productivity, and the green transition. The regional context suggests that Denmark operates within a framework of high labor productivity and is subject to the overarching EU goals regarding renewable energy, carbon removals, and digitalization.
+Denmark is included in the 2025 European Commission Country Report as part of a broader analysis of EU economic performance. While the provided summary focuses heavily on France's specific fiscal challenges and growth deceleration (0.6%), Denmark is identified as part of the broader European economic landscape characterized by ongoing efforts in fiscal consolidation, labor market productivity, and the green transition. The regional context suggests that Denmark operates within a framework of high labor productivity and is subject to the overarching EU goals regarding renewable energy, carbon removals, and digitalization. As part of the 2025 report landscape, Denmark is positioned within a framework aiming for a 50% reduction in greenhouse gas emissions by 2030 and significant expansion of recharging infrastructure.
 
 ## Governance & Rule of Law
 
@@ -35,4 +35,4 @@ The primary outlook for Denmark involves navigating the twin transitions: green 
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]]
