@@ -31,8 +31,13 @@ countries:
   - Sweden
   - Ukraine
   - Moldova
+  - Japan
+  - Canada
+  - United Kingdom
+  - United States
+  - Russia
 ratings: []
-timestamp: 2026-07-02T09:23:50Z
+timestamp: 2026-07-02T11:08:29Z
 tags:
   - Economic Report
   - EU Commission
@@ -47,6 +52,9 @@ tags:
   - Economic Policy
   - Fiscal Surveillance
   - Innovation
+  - Economy
+  - Monetary Policy
+  - Financial Stability
 ---
 
 # Netherlands
@@ -75,4 +83,4 @@ The outlook emphasizes the need for structural reforms in pension systems, educa
 
 ## Related Entities
 
-[[Belgium]], [[European Commission]], [[Net Expenditure]], [[Fiscal-Structural Plan]], [[Wage Indexation]], [[Circular Economy]], [[STEM Education]], [[Long-term Care]], [[Energy Transition]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Total Factor Productivity]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Poland]], [[Decarbonisation]], [[Public Investment Efficiency]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Romania]], [[Moldova]], [[Macroeconomic Imbalance]], [[Energy Affordability]], [[Schengen Area]], [[Slovakia]], [[R&D Intensity]], [[Tax Wedge]], [[Digital Decade]], [[Human Capital]], [[Green Transition]]
+[[Belgium]], [[European Commission]], [[Net Expenditure]], [[Fiscal-Structural Plan]], [[Wage Indexation]], [[Circular Economy]], [[STEM Education]], [[Long-term Care]], [[Energy Transition]], [[France]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Total Factor Productivity]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Hungary]], [[Poland]], [[Decarbonisation]], [[Public Investment Efficiency]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Romania]], [[Moldova]], [[Macroeconomic Imbalance]], [[Energy Affordability]], [[Schengen Area]], [[Slovakia]], [[R&D Intensity]], [[Tax Wedge]], [[Digital Decade]], [[Human Capital]], [[Green Transition]], [[Austria]], [[Germany]], [[Italy]], [[Spain]], [[Japan]], [[Canada]], [[United Kingdom]], [[United States]], [[Russia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Labor Supply]], [[Productivity Growth]], [[Commercial Real Estate (CRE)]], [[ESG Transition]], [[Systemic Risk]]
