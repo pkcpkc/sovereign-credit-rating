@@ -4,7 +4,7 @@ title: "France"
 countries:
   - France
 ratings: []
-timestamp: 2026-07-02T12:04:04Z
+timestamp: 2026-07-02T12:37:01Z
 tags:
   - Economics
   - Fiscal Policy
@@ -30,7 +30,7 @@ tags:
 
 ## Economic Overview
 
-France is navigating a period of decelerating growth, with Real GDP projected to slow to 0.6% in 2025. This slowdown is primarily attributed to high political uncertainty and a restrictive monetary policy environment, which have caused investment to remain subdued and net exports to stall due to high energy costs and tariffs. The fiscal landscape is characterized by significant sustainability risks; the general government deficit rose to 5.8% in 2024, and public debt is projected to reach 116% of GDP by the end of 2025. 
+France is navigating a period of decelerating growth, with Real GDP projected to slow to 0.6% in 2025. This slowdown is primarily attributed to high political uncertainty and a restrictive monetary policy environment, which have caused investment to remain subdued and net exports to stall due to high energy costs and tariffs. The fiscal landscape is characterized by significant sustainability risks; the general government deficit rose to 5.8% in 2024, and public debt is projected to reach 116% of GDP by the end of 2025. In comparison to regional peers like Italy—which saw a headline deficit of 3.4% in 2024 and achieved a primary surplus of 0.4%—France faces substantial pressure to rationalize tax expenditures and manage high social infrastructure costs.
 
 The labor market maintains a high employment rate of 75.1% (2024), yet unemployment remains high at 7.4%. While labor productivity is recovering from pandemic-era lows, the economy is hampered by a persistent "skills gap," structural weaknesses in business R&D intensity (currently at 1.44%, lagging behind the 3% target), and a shortage of skilled staff. Furthermore, France faces widening regional disparities, with five regions falling below 75% of the EU GDP per head in 2023, and extreme poverty rates in outermost regions like French Guiana (59.5%). Social challenges remain acute, with a rising poverty rate (20.5% at risk of social exclusion) and child poverty levels (26.2%) exceeding the EU average.
 
