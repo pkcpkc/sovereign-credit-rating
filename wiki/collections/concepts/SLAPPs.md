@@ -6,12 +6,16 @@ concepts:
   - Media Pluralism
   - Justice System
   - Rule of Law
-timestamp: 2026-07-02T10:11:12Z
+  - Judicial Independence
+  - Whistleblower Protection
+timestamp: 2026-07-02T10:32:28Z
 tags:
   - Rule of Law
   - Italy
+  - Poland
   - Justice System
   - Media Freedom
+  - Anti-Corruption
 ---
 # SLAPPs
 
@@ -24,8 +28,16 @@ In the context of the **2025 Rule of Law Report - Italy**, SLAPPs are identified
 *   **Intimidation:** There has been a noted 16% increase in intimidations against journalists in 2024, creating a hostile environment for investigative reporting.
 *   **Judicial Barriers:** While Italy has made strides in **Judicial Independence** and the **Digitalisation of Courts**, the efficiency of the criminal justice system remains uneven, which can be exploited by those seeking to use the legal system as a tool for harassment.
 
+## Context in Poland
+According to the **2025 Rule of Law Report - Poland**, SLAPPs continue to be a factor in the assessment of media freedom, though recent trends show a decrease in their frequency. Despite this decline, journalists remain vulnerable to risks posed by defamation and insult laws. Efforts to mitigate these threats are linked to broader regulatory reforms, including:
+
+*   **Media Reform:** Implementation of the European Media Freedom Act (EMFA) to improve the impartiality of regulatory bodies like the National Broadcasting Council (KRRiT).
+*   **Transparency:** Development of media ownership databases to provide clearer oversight of media influence.
+
 ## Related Concepts
 *   [[Media Pluralism]]
 *   [[Judicial Independence]]
 *   [[Rule of Law]]
 *   [[Constitutional Reform]]
+*   [[Whistleblower Protection]]
+*   [[Action Plan on the Rule of Law]]
