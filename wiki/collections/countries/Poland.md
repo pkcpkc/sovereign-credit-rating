@@ -31,8 +31,9 @@ countries:
   - Sweden
   - Ukraine
   - Moldova
+  - Czech Republic
 ratings: []
-timestamp: 2026-07-02T12:10:57Z
+timestamp: 2026-07-02T13:49:46Z
 tags:
   - Economic Report
   - European Commission
@@ -86,4 +87,4 @@ Key risks for Poland, in alignment with the broader EU context, include:
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[Recovery and Resilience Plan]], [[Stability and Growth Pact]], [[European Green Deal]], [[Quantum Computing]], [[Circular Economy]], [[STEM Education]], [[Romania]], [[Moldova]], [[Slovakia]], [[Venice Commission]], [[European Court of Human Rights (ECtHR)]], [[European Public Prosecutor's Office (EPPO)]], [[European Media Freedom Act (EMFA)]], [[IMF]], [[Macroeconomics]], [[Monetary Policy]], [[Structural Reforms]], [[Productivity]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[Recovery and Resilience Plan]], [[Stability and Growth Pact]], [[European Green Deal]], [[Quantum Computing]], [[Circular Economy]], [[STEM Education]], [[Romania]], [[Moldova]], [[Slovakia]], [[Venice Commission]], [[European Court of Human Rights (ECtHR)]], [[European Public Prosecutor's Office (EPPO)]], [[European Media Freedom Act (EMFA)]], [[IMF]], [[Macroeconomics]], [[Monetary Policy]], [[Structural Reforms]], [[Productivity]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]], [[Czech Republic]], [[Germany]], [[Austria]], [[Italy]], [[Lithuania]], [[Latvia]], [[Estonia]], [[Bulgaria]], [[Croatia]], [[Slovenia]]
