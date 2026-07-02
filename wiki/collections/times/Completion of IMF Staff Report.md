@@ -6,14 +6,22 @@ times:
     event: Elections in Belgium
   - date: 2024-09
     event: Expiration of one-year government bond
+  - date: 2024-11-15
+    event: End of economic policy discussions with Malta officials
   - date: 2024-12
     event: Last Article IV Consultation conclusion
+  - date: 2024-12-17
+    event: Completion of IMF Staff Report (Malta)
+  - date: 2025-01-15
+    event: IMF Executive Board concludes Article IV consultation (Malta)
   - date: 2025-01-22
     event: IMF discussions with Belgian officials begin
   - date: 2025-02-04
     event: End of IMF discussions with Belgian officials
   - date: 2025-02-21
     event: Concluding meeting with new DPM Jan Jambon
+  - date: 2025-03
+    event: Expected publication of Malta Vision 2050 details
   - date: 2025-03-03
     event: Completion of IMF Staff Report (Belgium)
   - date: 2025-03-18
@@ -44,14 +52,17 @@ times:
     event: Projected GDP Growth of 2.0% (Hungary)
   - date: 2027
     event: Targeted Inflation Return to 3.0% (Hungary)
+  - date: 2027
+    event: Next scheduled general election in Malta
   - date: 2030
     event: Projected Debt-to-GDP Ratio of 79% (Hungary)
-timestamp: 2026-07-02T12:46:42Z
+timestamp: 2026-07-02T13:07:12Z
 tags:
   - IMF
   - Belgium
   - Hungary
   - Italy
+  - Malta
   - Macroeconomics
   - Fiscal Policy
   - Labor Market
@@ -61,9 +72,11 @@ tags:
 
 ## Event Details
 
-The timeline surrounding the 2025 IMF Article IV Consultations reflects a period of intense fiscal and structural review for Belgium, Hungary, and Italy.
+The timeline surrounding the 2025 IMF Article IV Consultations reflects a period of intense fiscal and structural review for Belgium, Hungary, Italy, and Malta.
 
 In **Belgium**, the economic landscape was shaped by the **Elections in Belgium** in June 2024, followed by the **expiration of one-year government bonds** in September 2024. By December 2024, the **last Article IV Consultation** concluded, setting the stage for the 2025 review. Formal engagement intensified in early 2025, with discussions beginning on January 22 and concluding on February 4. A pivotal moment occurred on February 21 with a **concluding meeting with the new Deputy Prime Minister, Jan Jambon**, which influenced the final report's focus on a 7-year adjustment plan. The process culminated in the **Completion of IMF Staff Report** on March 3, 2025, followed by the **Executive Board conclusion** on March 18 and the final **press release** on March 20.
+
+In **Malta**, the consultation process involved an end to economic policy discussions on November 15, 2024. The **Completion of the IMF Staff Report** for Malta occurred on December 17, 2024, with the **IMF Executive Board concluding the Article IV consultation** on January 15, 2025. Looking forward, the government expects to publish details of **Malta Vision 2050** in March 2025, with the next general election scheduled for 2027.
 
 Simultaneously, the IMF conducted a review of **Hungary**, which began with the **Start of IMF Staff Mission in Budapest** on June 5, 2025. Following the **Conclusion of IMF Staff Discussions with Hungarian Officials** on June 17, the **Completion of IMF Staff Report** for Hungary was reached on July 25, 2025. The **IMF Executive Board Consideration of Hungary Report** took place on August 29, 2025.
 
@@ -73,3 +86,4 @@ The reports highlight divergent but critical economic trajectories:
 - **Belgium:** Focuses on managing public debt (projected at 123% of GDP by 2030) and structural reforms to address automatic wage indexation and labor market inefficiencies.
 - **Hungary:** Faces a "challenging juncture" with stagnant output and high inflation. The report projects a modest recovery (0.7% in 2025, 2.0% in 2026) and sets a target for inflation to return to 3.0% by 2027, with a projected debt-to-GDP ratio of 79% by 2030. Key recommendations include a cumulative fiscal adjustment of 2% of GDP between 2025-2028 and structural reforms to improve productivity and governance.
 - **Italy:** Characterized by economic resilience with moderate growth (0.7% in 2024) and a return to a primary surplus. While fiscal discipline is noted, the IMF highlights severe structural challenges including low productivity, rapid population aging (projected to increase the old-age dependency ratio by 2050), and high public debt (135.3% of GDP in 2024). Recommendations include a target of a 3% primary surplus by 2027, rationalizing tax expenditures, and accelerating the transition to renewables.
+- **Malta:** Demonstrates high growth driven by export-oriented services, but faces structural challenges like a tight labor market and infrastructure strain. Key priorities include transitioning from fixed energy price models to R&D investment, aligning Corporate Income Tax (CIT) with EU Pillar II, and managing high real estate exposure in the banking sector.
