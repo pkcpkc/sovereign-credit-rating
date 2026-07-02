@@ -32,7 +32,7 @@ countries:
   - Ukraine
   - Moldova
 ratings: []
-timestamp: 2026-07-02T10:34:39Z
+timestamp: 2026-07-02T12:10:57Z
 tags:
   - Economic Report
   - European Commission
@@ -82,7 +82,8 @@ Key risks for Poland, in alignment with the broader EU context, include:
 - **Innovation & Productivity:** Bridging the productivity gap and increasing R&D intensity to move beyond concentration in large foreign-owned firms.
 - **Social Infrastructure:** Addressing the housing crisis (prices rose 107% since 2015), modernizing a hospital-centric healthcare system, and improving regional productivity disparities.
 - **Rule of Law & Institutions:** Navigating the ongoing reforms of the judiciary, ensuring the removal of "neo-judges," and establishing a robust national anti-corruption strategy to maintain EU compliance.
+- **Geoeconomic Factors:** Potential risks from regional conflicts, escalation of global trade measures (such as US tariffs), and the impact of geoeconomic fragmentation on regional stability.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[Recovery and Resilience Plan]], [[Stability and Growth Pact]], [[European Green Deal]], [[Quantum Computing]], [[Circular Economy]], [[STEM Education]], [[Romania]], [[Moldova]], [[Slovakia]], [[Venice Commission]], [[European Court of Human Rights (ECtHR)]], [[European Public Prosecutor's Office (EPPO)]], [[European Media Freedom Act (EMFA)]]
+[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[Recovery and Resilience Plan]], [[Stability and Growth Pact]], [[European Green Deal]], [[Quantum Computing]], [[Circular Economy]], [[STEM Education]], [[Romania]], [[Moldova]], [[Slovakia]], [[Venice Commission]], [[European Court of Human Rights (ECtHR)]], [[European Public Prosecutor's Office (EPPO)]], [[European Media Freedom Act (EMFA)]], [[IMF]], [[Macroeconomics]], [[Monetary Policy]], [[Structural Reforms]], [[Productivity]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]]
