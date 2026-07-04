@@ -1,29 +1,49 @@
 ---
-type: "Person"
-title: "Moheb Malak"
-persons:
-  - Moheb Malak
-relationships:
-  - personA: Moheb Malak
-    relation: IMF Staff Member
-    personB: Hungary Authorities
-timestamp: 2026-07-02T12:16:52Z
+name: Moheb Malak
+affiliations:
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Kristina Kostial
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Jacques Miniane
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Anke Weber
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Jakree Koosakul
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Augustus Panton
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Atticus Weller
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Aleksandra Alferova
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Estefania Cohn Bech
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Ninfa Gonzales
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Rafael Machado Parente
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Hugo Rojas-Romagosa
+timestamp: 2026-07-04T15:32:40Z
 tags:
+  - Economy
   - IMF
-  - Macroeconomics
   - Hungary
+  - Fiscal Policy
+  - Monetary Policy
 ---
 
 # Moheb Malak
 
 ## Affiliations & Roles
 
-- IMF Staff Member at [[International Monetary Fund]]
+- IMF Staff Member involved in the 2025 Article IV Consultation for Hungary.
 
 ## Biography & Context
 
-Moheb Malak is identified as a key staff member involved in the International Monetary Fund's (IMF) 2025 Article IV Consultation regarding Hungary. His work contributed to the assessment of the Hungarian economy's transition through a "challenging juncture" marked by stagnant output and elevated inflation. His role involved analyzing fiscal sustainability, sovereign-bank nexus risks, and the structural reforms necessary to address productivity gaps and governance issues within the Hungarian economic framework.
+Moheb Malak is a professional associated with the International Monetary Fund (IMF), specifically contributing to the 2025 Article IV Consultation and Staff Report for Hungary. In this capacity, he participated in the assessment of Hungary's economic outlook, which faced challenges including stagnant output and high inflation. 
+
+His work involved analyzing critical macroeconomic factors such as fiscal adjustment requirements, debt sustainability (projected at 79% of GDP by 2030), and the necessity of a tight monetary policy stance to anchor inflation. The context of his involvement included evaluating structural reforms regarding firm dynamism, energy security, and governance, as well as assessing risks related to geoeconomic fragmentation and sovereign-bank linkages.
 
 ## Collaborators
 
-[[Kristina Kostial]], [[Jacques Miniane]], [[Anke Weber]], [[Jakree Koosakul]], [[Augustus Panton]], [[Atticus Weller]], [[Aleksandra Alferova]], [[Estefania Cohn Bech]], [[Ninfa Gonzales]], [[Rafael Machado Parente]], [[Hugo Rojas-Romagosa]], [[Gábor Meizer]], [[Dániel Palotai]], [[Márton Nagy]], [[Máté Lóga]], [[Bence Gerlaki]], [[Kornél Kisgergely]], [[Barnabás Virág]], [[Csaba Kandrács]], [[Zoltán Kurali]], [[Pál Péter Kolozsi]], [[András Bebes]], [[Szabolcs Ágostházy]], [[Károly Mátrai]], [[Réka Martini]], [[Gábor Horváth]], [[Attila Steiner]]
+[[Kristina Kostial]], [[Jacques Miniane]], [[Anke Weber]], [[Jakree Koosakul]], [[Augustus Panton]], [[Atticus Weller]], [[Aleksandra Alferova]], [[Estefania Cohn Bech]], [[Ninfa Gonzales]], [[Rafael Machado Parente]], [[Hugo Rojas-Romagosa]]

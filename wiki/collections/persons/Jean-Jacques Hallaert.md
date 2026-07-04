@@ -1,20 +1,15 @@
 ---
-type: "Person"
-title: "Jean-Jacques Hallaert"
-persons:
-  - Jean-Jacques Hallaert
-relationships:
-  - personA: Jean-François Dauphin
-    relation: Head of IMF Mission
-    personB: Belgium Authorities
-  - personA: Jan Jambon
-    relation: Deputy Prime Minister (Finance and Pensions)
-    personB: Belgium Government
-timestamp: 2026-07-02T11:48:16Z
+name: Jean-Jacques Hallaert
+affiliations:
+  - relation: IMF Staff Team member
+    person: Jean-François Dauphin
+  - relation: IMF Executive Director (Belgium)
+    person: Jeroen Clicq
+timestamp: 2026-07-04T13:54:06Z
 tags:
   - IMF
   - Belgium
-  - Macroeconomics
+  - Economics
   - Fiscal Policy
 ---
 
@@ -22,17 +17,14 @@ tags:
 
 ## Affiliations & Roles
 
-- Representative of the Belgian Authorities during the IMF 2025 Article IV Consultation.
+- IMF Staff member involved in the Article IV Consultation for Belgium.
 
 ## Biography & Context
 
-Jean-Jacques Hallaert is involved in the high-level economic oversight and policy discussions regarding Belgium's macroeconomic stability. He participated in the 2025 IMF Article IV Consultation, which focused on Belgium's fiscal consolidation strategy, labor market competitiveness, and structural reforms. 
+Jean-Jacques Hallaert is associated with the International Monetary Fund (IMF) and participated in the 2025 Article IV consultation regarding the economy of Belgium. His work involved assessing Belgium's economic resilience, fiscal sustainability, and structural challenges. 
 
-During these consultations, he engaged with the International Monetary Fund (IMF) regarding critical issues such as:
-- **Fiscal Sustainability:** Addressing a public debt projected to reach 123% of GDP by 2030 and implementing a 7-year adjustment plan.
-- **Labor Market Dynamics:** Navigating the challenges of automatic wage indexation and improving labor force participation.
-- **Structural Reforms:** Discussing shifts in taxation from labor to capital and pension reforms to counter demographic pressures.
+During the consultation period (January 22 – February 4, 2025), Hallaert contributed to the analysis of Belgium's high public debt (104.1% of GDP) and the proposed seven-year fiscal adjustment under the new EU economic governance framework. Key areas of focus included the impact of automatic wage indexation on labor-cost competitiveness, the need for spending rationalization in public wages and social benefits, and strategies to improve Total Factor Productivity (TFP) through product market reforms.
 
 ## Collaborators
 
-[[Jean-François Dauphin]], [[Jan Jambon]], [[De Croo]], [[Wunsch]], [[Van Peteghem]], [[Bertrand]], [[Sven Gatz]], [[Ben Weyts]]
+[[Jean-François Dauphin]], [[Jeroen Clicq]], [[Mark Horton]], [[Koshy Mathai]], [[Yu Ching Wong]], [[Karen Coulibaly]], [[Ed Hearne]], [[Xun Li]], [[Victoria Timonova]], [[Stijn Verhelst]]

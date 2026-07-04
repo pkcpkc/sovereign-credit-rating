@@ -1,28 +1,55 @@
 ---
-type: "Person"
-title: "Alexander Pitt"
-persons:
-  - Alexander Pitt
-relationships:
-  - personA: Alexander Pitt
-    relation: Involved in IMF Article IV Consultation
-    personB: Malta
-timestamp: 2026-07-02T13:01:52Z
-tags:
-  - Finance
-  - Economics
-  - IMF
+name: Alexander Pitt
+affiliations:
+  - relation: IMF Staff / Collaborator
+    person: Mark Horton
+  - relation: IMF Staff / Collaborator
+    person: Geremia Palomba
+  - relation: IMF Staff / Collaborator
+    person: Kotaro Ishi
+  - relation: IMF Staff / Collaborator
+    person: Thomas Gade
+  - relation: IMF Staff / Collaborator
+    person: Fuad Hasanov
+  - relation: IMF Staff / Collaborator
+    person: Yueshu Zhao
+  - relation: IMF Staff / Collaborator
+    person: Miguel De Asis
+  - relation: IMF Staff / Collaborator
+    person: Claudia Mastrapasqua
+  - relation: IMF Staff / Collaborator
+    person: Elisa Sales
+  - relation: IMF Staff / Collaborator
+    person: Riccardo Ercoli
+  - relation: IMF Staff / Collaborator
+    person: Clyde Caruana
+  - relation: IMF Staff / Collaborator
+    person: Miriam Dalli
+  - relation: IMF Staff / Collaborator
+    person: Chris Bonett
+  - relation: IMF Staff / Collaborator
+    person: Byron Camilleri
+  - relation: IMF Staff / Collaborator
+    person: Silvio Schembri
+  - relation: IMF Staff / Collaborator
+    person: Alexander Demarco
+  - relation: IMF Staff / Collaborator
+    person: Kenneth Farrugia
+timestamp: 2026-07-04T15:53:12Z
+tags: [Economics, Finance, Malta, IMF, Fiscal Policy]
 ---
 
 # Alexander Pitt
 
 ## Affiliations & Roles
 
-- Staff member involved in the [[IMF]] 2025 Malta Country Report - Article IV Consultation.
+- IMF Staff Member involved in the 2024 Article IV Consultation for Malta.
 
 ## Biography & Context
 
-Alexander Pitt is identified as a key individual associated with the International Monetary Fund's (IMF) 2025 Article IV Consultation for Malta. His work involves the analysis of Malta's economic growth, fiscal sustainability, and financial stability. This includes oversight of policy recommendations regarding the transition to a productivity-driven growth model, the phasing out of fixed energy price policies, and the implementation of Corporate Income Tax (CIT) reforms aligned with EU Pillar II.
+Alexander Pitt is associated with the International Monetary Fund (IMF) and was involved in the 2024 Article IV Consultation for Malta. His work contributed to the development of the IMF Staff Report (completed December 17, 2024) and the subsequent Executive Board conclusion on January 15, 2025. 
+
+His professional focus includes analyzing Malta's economic growth, fiscal consolidation, and structural reforms. This includes evaluating the transition toward a productivity-driven growth model, the phasing out of energy subsidies, and the development of Corporate Income Tax (CIT) reform roadmaps aligned with EU Pillar II. Additionally, his work touches upon financial stability—specifically managing real estate exposure in the banking sector—and governance improvements within the Maltese judicial system.
 
 ## Collaborators
 

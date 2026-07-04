@@ -1,37 +1,28 @@
 ---
-type: "Country"
-title: "United States"
-countries:
-  - United States
-ratings: []
-timestamp: 2026-07-02T12:39:13Z
-tags:
-  - Economy
-  - Fiscal Policy
-  - Monetary Policy
-  - Financial Stability
+timestamp: 2026-07-04T14:59:06Z
+tags: [IMF, Macroeconomics, Fiscal Policy]
 ---
 
 # United States
 
 ## Credit Ratings
 
-| Agency | Rating | Outlook | Date |
-| :----- | :----- | :------ | :--- |
-| N/A | N/A | N/A | N/A |
+| Agency   | Rating   | Outlook   | Date   |
+| :------- | :------- | :-------- | :----- |
+| [Pending] | [Pending] | [Pending] | [Pending] |
 
 ## Economic Overview
 
-The United States is identified as a key global economic actor within the context of international economic assessments, including the IMF 2025 Article IV Consultations. While specific domestic metrics are not detailed in the current summary, the United States is central to global macroeconomic discussions regarding international trade dynamics, inflation trends, and monetary policy coordination. It operates within a global framework involving fiscal consolidation strategies across major economies to navigate trade uncertainties and systemic risks.
+The United States is identified as a key peer and comparative benchmark in the context of global macroeconomic assessments, including those conducted by the [[IMF]]. While specific domestic performance metrics for the United States were not detailed in the recent Italy-focused Article IV Consultation, the country remains a central pillar of global fiscal and monetary policy discussions. It serves as a primary point of reference for analyzing sovereign risk, debt dynamics, and productivity growth trends within the broader international economic landscape.
 
 ## Governance & Rule of Law
 
-Information regarding the specific governance and rule of law metrics for the United States is not provided in the current summary context.
+[Information not provided in the current summary context.]
 
 ## Key Risks & Outlook
 
-The United States remains a central figure in global macroeconomic discussions, particularly regarding international trade dynamics and monetary policy coordination. The current outlook is tied to global fiscal strategies and the management of systemic risks in international markets. It is positioned as a primary stakeholder alongside other major economies in addressing global macroeconomic stability and trade balances.
+The United States is included in comparative assessments regarding sovereign risk and global economic stability. Its economic trajectory is monitored alongside major European economies (Italy, Germany, France, Spain) to assess systemic risks and fiscal sustainability.
 
 ## Related Entities
 
-[[IMF]], [[Austria]], [[Germany]], [[France]], [[Italy]], [[Netherlands]], [[Spain]], [[Japan]], [[Canada]], [[United Kingdom]], [[Czechia]], [[Slovakia]], [[Romania]], [[Hungary]], [[Russia]], [[Croatia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Labor Supply]], [[Productivity Growth]], [[Commercial Real Estate (CRE)]], [[ESG Transition]], [[Systemic Risk]], [[Article IV Consultation]], [[National Recovery and Resilience Plan (NRRP)]], [[Primary Surplus]], [[Sovereign Risk]], [[Demographic Headwinds]], [[Systemic Risk Buffer (SyRB)]], [[Countercyclical Capital Buffer (CCyB)]]
+[[IMF]], [[Sovereign Risk]], [[Productivity Growth]], [[Public Debt Dynamics]], [[Fiscal Policy]], [[Italy]], [[Germany]], [[France]], [[Spain]]

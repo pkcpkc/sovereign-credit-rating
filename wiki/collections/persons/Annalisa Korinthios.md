@@ -1,29 +1,26 @@
 ---
-type: "Person"
-title: "Annalisa Korinthios"
-persons:
-  - Annalisa Korinthios
-relationships:
-  - personA: Annalisa Korinthios
-    relation: involved in IMF Article IV Consultation
-    personB: Italy
-timestamp: 2026-07-02T12:44:10Z
+name: Annalisa Korinthios
+affiliations:
+  - relation: Executive Director for Italy (Counterpart)
+    person: Riccardo Ercoli
+timestamp: 2026-07-04T15:48:47Z
 tags:
   - IMF
   - Italy
   - Macroeconomics
+  - Fiscal Policy
 ---
 
 # Annalisa Korinthios
 
 ## Affiliations & Roles
 
-- Official involved in the IMF 2025 Article IV Consultation for Italy.
+- Participant in the IMF 2025 Article IV Consultation for Italy.
 
 ## Biography & Context
 
-Annalisa Korinthios is identified as a key stakeholder in the International Monetary Fund's (IMF) 2025 Article IV Consultation regarding Italy. Her involvement pertains to the assessment of Italy's economic resilience, fiscal performance, and structural challenges, including high public debt and demographic headwinds. She is part of the group of officials engaged in the IMF staff discussions held in Rome between May and July 2025.
+Annalisa Korinthios was involved in the IMF's 2025 Article IV Consultation regarding Italy. During this period, she engaged with the IMF staff and Italian officials to assess the country's economic resilience, fiscal performance, and structural challenges. The consultation focused on Italy's return to a primary surplus, its progress on the National Recovery and Resilience Plan (NRRP), and the pressing need for structural reforms to address productivity malaise and demographic headwinds. She was part of the high-level dialogue involving key figures such as Riccardo Ercoli, the Executive Director for Italy.
 
 ## Collaborators
 
-[[Lone Christiansen]], [[Riccardo Ercoli]], [[Helge Berger]], [[Rishi Goyal]], [[Thomas Elkjaer]]
+[[Riccardo Ercoli]], [[Helge Berger]], [[Rishi Goyal]], [[Lone Christiansen]], [[Thomas Elkjaer]], [[Gee Hee Hong]], [[Yueling Huang]], [[Sylwia Nowak]], [[Alain Kabundi]], [[Carolina Claver]], [[Yao Deng]], [[Emily Fisher]], [[Jenny Lee]], [[Giorgetti]], [[Signorini]]

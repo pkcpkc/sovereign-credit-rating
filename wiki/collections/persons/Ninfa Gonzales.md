@@ -1,28 +1,26 @@
 ---
-type: "Person"
-title: "Ninfa Gonzales"
-persons:
-  - Ninfa Gonzales
-relationships:
-  - personA: Ninfa Gonzales
-    relation: IMF Staff Member
-    personB: Hungarian Government
-timestamp: 2026-07-02T12:18:41Z
+name: Ninfa Gonzales
+affiliations:
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Hungary
+timestamp: 2026-07-04T15:35:04Z
 tags:
   - IMF
+  - Economy
   - Hungary
-  - Macroeconomics
 ---
 
 # Ninfa Gonzales
 
 ## Affiliations & Roles
 
-- IMF Staff Member at [[International Monetary Fund]]
+- IMF Staff Member involved in the 2025 Hungary Article IV Consultation.
 
 ## Biography & Context
 
-Ninfa Gonzales is a professional associated with the International Monetary Fund (IMF), specifically involved in the 2025 Article IV Consultation for Hungary. Her work contributes to the assessment of Hungary's macroeconomic stability, including analysis of fiscal adjustments, monetary policy, and structural reforms aimed at addressing productivity gaps and governance issues.
+Ninfa Gonzales is associated with the International Monetary Fund (IMF) as part of the staff team responsible for the 2025 Article IV Consultation regarding Hungary's economy. Her work involves analyzing Hungary's fiscal adjustment, monetary policy stance, and debt sustainability analysis (DSA). 
+
+During the 2025 mission to Budapest, she contributed to the assessment of Hungary's "challenging juncture," which includes navigating stagnant output, high inflation, and geoeconomic fragmentation. Her involvement covers key areas such as structural reforms for firm dynamism, energy security, and governance improvements aimed at unlocking EU funding and addressing the country's productivity gap.
 
 ## Collaborators
 

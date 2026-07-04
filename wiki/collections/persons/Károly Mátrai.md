@@ -1,33 +1,37 @@
 ---
-type: "Person"
-title: "Károly Mátrai"
-persons:
-  - Károly Mátrai
-relationships:
-  - personA: Károly Mátrai
-    relation: Official / Authority
-    personB: Hungarian Government
-  - personA: Károly Mátrai
-    relation: Official / Authority
-    personB: Magyar Nemzeti Bank (MNB)
-timestamp: 2026-07-02T12:23:15Z
+name: Károly Mátrai
+affiliations:
+  - relation: Colleague/Official
+    person: Márton Nagy
+  - relation: Colleague/Official
+    person: Máté Lóga
+  - relation: Colleague/Official
+    person: Bence Gerlaki
+  - relation: Colleague/Official
+    person: Gábor Meizer
+  - relation: Colleague/Official
+    person: Dániel Palotai
+timestamp: 2026-07-04T15:42:10Z
 tags:
+  - Economy
   - Hungary
-  - Finance
-  - Economics
+  - IMF
+  - Fiscal Policy
+  - Monetary Policy
 ---
 
 # Károly Mátrai
 
 ## Affiliations & Roles
 
-- Official / Authority at [[Hungarian Government]]
-- Official / Authority at [[Magyar Nemzeti Bank (MNB)]]
+- Official involved in Hungarian economic policy and IMF Article IV Consultations.
 
 ## Biography & Context
 
-Károly Mátrai is identified as a key official within the Hungarian economic framework, involved in high-level discussions regarding the nation's fiscal and monetary policies. He participated in the 2025 IMF Article IV Consultation, a critical assessment of Hungary's economic stability, debt sustainability, and structural reforms. His role involves navigating the "challenging juncture" of stagnant output, high refinancing costs, and the transition toward a more sustainable fiscal position as outlined in the IMF's 2025 Country Report.
+Károly Mátrai is a key figure involved in the economic management of Hungary, specifically during the 2025 IMF Article IV Consultation period. He is identified as a primary stakeholder alongside the Hungarian Ministry for National Economy and the Magyar Nemzeti Bank (MNB). 
+
+His involvement pertains to the complex fiscal and monetary landscape of Hungary, which includes navigating high public debt (projected at 79% of GDP by 2030), managing inflation targets, and addressing structural reforms. Mátrai’s context includes discussions on debt sustainability analysis (DSA), the sovereign-bank nexus, and industrial policy reforms aimed at closing Hungary's productivity gap and unlocking EU Cohesion funds.
 
 ## Collaborators
 
-[[Márton Nagy]], [[Barnabás Virág]], [[Kristina Kostial]], [[Anke Weber]]
+[[Márton Nagy]], [[Máté Lóga]], [[Bence Gerlaki]], [[Gábor Meizer]], [[Dániel Palotai]]

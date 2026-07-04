@@ -1,31 +1,31 @@
 ---
-type: "Person"
-title: "Bergljot Barkbu"
-persons:
-  - Bergljot Barkbu
-relationships:
-  - personA: Oya Celasun
-    relation: Approved report for
-    personB: Bergljot Barkbu
-timestamp: 2026-07-02T13:23:42Z
+name: Bergljot Barkbu
+affiliations:
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Ilie Bolojan
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Joong Shik Kang
+timestamp: 2026-07-04T16:05:07Z
 tags:
   - IMF
-  - Austria
   - Romania
-  - Economy
   - Macroeconomics
+  - Fiscal Policy
+  - Monetary Policy
 ---
 
 # Bergljot Barkbu
 
 ## Affiliations & Roles
 
-- IMF Staff (implied via Article IV Consultations)
+- IMF Staff Member involved in the 2025 Article IV Consultation for Romania.
 
 ## Biography & Context
 
-Bergljot Barkbu is an economist associated with the International Monetary Fund (IMF). Her work involves high-level macroeconomic analysis and Article IV Consultations for various nations. She has participated in the 2025 Article IV Consultation for Austria, where her work focused on analyzing post-recession growth, fiscal consolidation strategies, and risks related to commercial real estate and demographic shifts. Additionally, she contributed to the IMF 2025 Article IV Consultation for Romania, which evaluated the country's fiscal sustainability, "twin deficits," and structural reforms regarding EU fund absorption and labor force participation.
+Bergljot Barkbu is associated with the International Monetary Fund (IMF) as part of the staff involved in the 2025 Article IV Consultation for Romania. Her work contributed to the assessment of Romania's macroeconomic stability, specifically focusing on fiscal consolidation, inflation management, and the resilience of the banking sector. 
+
+The consultation involved analyzing Romania's "twin deficits," evaluating the impact of the government's 2025–26 fiscal reform package (including VAT rate increases and public sector wage freezes), and providing recommendations on monetary policy stance and exchange rate flexibility. Her involvement touched upon critical issues such as the "sovereign-bank nexus," EU fund absorption under the Next Generation EU (NGEU) framework, and structural reforms aimed at improving labor force participation and energy transition.
 
 ## Collaborators
 
-[[Oya Celasun]], [[Helge Berger]], [[Joong Shik Kang]], [[Ezequiel Cabezon]], [[Nan Geng]], [[Fazurin Jamaludin]], [[Carlos Granados]], [[Georgia Babici]], [[Mihai Copaciu]], [[Tina Kang]], [[Cheryl Li]], [[Maciej Onoszko]], [[Ilie Bolojan]], [[Alexandru Nazare]], [[Mugur Isarescu]]
+[[Joong Shik Kang]], [[Ilie Bolojan]], [[Carlos Granados]], [[Mugur Isarescu]], [[Helge Berger]], [[Ezequiel Cabezon]], [[Nan Geng]], [[Fazurin Jamaludin]], [[Georgia Babici]], [[Mihai Copaciu]], [[Tina Kang]], [[Cheryl Li]], [[Maciej Onoszko]]

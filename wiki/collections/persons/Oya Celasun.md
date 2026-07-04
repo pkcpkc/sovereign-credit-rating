@@ -1,56 +1,53 @@
 ---
-type: "Person"
-title: "Oya Celasun"
-persons:
-  - Oya Celasun
-  - Bergljot Barkbu
-  - Fletcher
-  - Mohommad
-  - Pinat
-  - Saiyid
-  - Just
-  - Marterbauer
-  - Holzmann
-  - Stefania Fabrizio
-  - Kažimír (National Bank of Slovakia Governor)
-  - Kamenický (Minister of Finance)
-  - Taraba (Minister of the Environment)
-relationships:
-  - personA: Oya Celasun
-    relation: Approved report for
-    personB: Bergljot Barkbu
-  - personA: Fletcher
-    relation: Head of mission team
-    personB: Mohommad
-  - personA: Marterbauer
-    relation: Minister of Finance (Interlocutor)
-    personB: Holzmann
-  - personA: Oya Celasun
-    relation: Approved Report
-    personB: Stefania Fabrizio
-timestamp: 2026-07-02T13:58:35Z
+name: Oya Celasun
+affiliations:
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Stefania Fabrizio
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Kažimír
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Kamenický
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Taraba
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Saxegaard
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Mooi
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Kotera
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Bogmans
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Alasal
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Mitchell
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Ogawa
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Pampolina
+  - relation: Colleague / IMF Staff involved in Slovakia Country Report
+    person: Hagara
+timestamp: 2026-07-04T14:13:35Z
 tags:
-  - Economy
-  - Fiscal Policy
-  - Monetary Policy
-  - Financial Stability
-  - Austrian Economy
-  - Slovakia
   - IMF
+  - Slovakia
+  - Macroeconomics
+  - Fiscal Policy
+  - Financial Stability
 ---
 
 # Oya Celasun
 
 ## Affiliations & Roles
 
-- IMF Staff (Report Approver)
+- IMF Staff Member (implied by involvement in 2025 Article IV Consultation)
 
 ## Biography & Context
 
-Oya Celasun is a staff member at the International Monetary Fund (IMF) involved in high-level economic assessments and Article IV Consultations. She played a key role in the oversight of the 2025 Article IV Consultation for Austria, where she was responsible for approving the economic assessment report prepared by Bergljot Barkbu. Her work involves analyzing fiscal consolidation strategies, economic recovery, and systemic risks within the commercial real estate sector.
+Oya Celasun is associated with the International Monetary Fund (IMF) and was involved in the 2025 Article IV Consultation for the Slovak Republic. This work focused on analyzing Slovakia's economic recovery, which saw growth accelerate to 2.0% in 2024. 
 
-Additionally, Oya Celasun has been involved in the IMF's 2025 Article IV Consultation for the Slovak Republic. In this capacity, she oversaw and approved reports related to Slovakia's economic recovery, fiscal policy, and financial sector resilience, specifically regarding the government's 4-year fiscal consolidation plan and structural reforms.
+The context of Celasun's work involved evaluating the Slovak government's 4-year fiscal consolidation plan (2025-2028), addressing structural headwinds such as geoeconomic fragmentation, an aging population, and low labor productivity. Key thematic areas included financial sector resilience, macroprudential policy for real estate markets, and the necessity of structural reforms to improve governance and anti-corruption frameworks in Slovakia.
 
 ## Collaborators
 
-[[Bergljot Barkbu]], [[Fletcher]], [[Mohommad]], [[Pinat]], [[Saiyid]], [[Just]], [[Marterbauer]], [[Holzmann]], [[Stefania Fabrizio]], [[Kažimír (National Bank of Slovakia Governor)]], [[Kamenický (Minister of Finance)]], [[Taraba (Minister of the Environment)]]
+[[Stefania Fabrizio]], [[Kažimír]], [[Kamenický]], [[Taraba]], [[Saxegaard]], [[Mooi]], [[Kotera]], [[Bogmans]], [[Alasal]], [[Mitchell]], [[Ogawa]], [[Pampolina]], [[Hagara]]

@@ -1,29 +1,28 @@
 ---
-type: "Person"
-title: "Byron Camilleri"
-persons:
-  - Byron Camilleri
-relationships:
-  - personA: Byron Camilleri
-    relation: Official involved in IMF Article IV Consultation
-    personB: Malta Government
-timestamp: 2026-07-02T13:05:20Z
+name: Byron Camilleri
+affiliations:
+  - relation: Official / Stakeholder
+    person: IMF Executive Board
+  - relation: Government Representative
+    person: Ministry of Finance and Employment (Malta)
+timestamp: 2026-07-04T15:57:29Z
 tags:
-  - Economics
   - Malta
+  - Economics
   - Finance
+  - IMF
 ---
 
 # Byron Camilleri
 
 ## Affiliations & Roles
 
-- Government Official / Representative for Malta in IMF Economic Policy Discussions
+- Representative / Stakeholder involved in the 2024 Article IV Consultation with the [[International Monetary Fund (IMF)]]
 
 ## Biography & Context
 
-Byron Camilleri is a key figure involved in Malta's economic policy and fiscal strategy. He participated in the 2024-2025 IMF Article IV Consultation process, contributing to discussions regarding Malta's economic growth, fiscal consolidation, and structural reforms. His involvement encompasses critical policy areas such as the transition toward a productivity-driven growth model, the phasing out of fixed energy price models, and the development of a Corporate Income Tax (CIT) roadmap aligned with EU Pillar II requirements.
+Byron Camilleri is identified as a key stakeholder in the economic and fiscal policy discussions between Malta and the International Monetary Fund (IMF). He was involved in the high-level consultations held in Valletta, Malta, between November 4 and 15, 2024. These discussions centered on Malta's transition toward a productivity-driven growth model, the phasing out of energy subsidies, and the implementation of Corporate Income Tax (CIT) reforms aligned with EU Pillar II. His involvement relates to the broader national strategy of "Malta Vision 2050," addressing infrastructure strain, labor shortages, and financial stability regarding real estate exposure in the banking sector.
 
 ## Collaborators
 
-[[Miriam Dalli]], [[Chris Bonett]], [[Silvio Schembri]], [[Geremia Palomba]]
+[[Mark Horton]], [[Geremia Palomba]], [[Kotaro Ishi]], [[Thomas Gade]], [[Fuad Hasanov]], [[Alexander Pitt]], [[Yueshu Zhao]], [[Miguel De Asis]], [[Claudia Mastrapasqua]], [[Elisa Sales]], [[Riccardo Ercoli]], [[Clyde Caruana]], [[Miriam Dalli]], [[Chris Bonett]], [[Silvio Schembri]], [[Alexander Demarco]], [[Kenneth Farrugia]]

@@ -1,38 +1,28 @@
 ---
-type: "Country"
-title: "Denmark"
-countries:
-  - Denmark
-ratings: []
-timestamp: 2026-07-02T08:41:11Z
-tags:
-  - Economic Report
-  - European Commission
-  - Fiscal Policy
-  - Sustainability
-  - Labor Market
+timestamp: 2026-07-04T14:52:13Z
+tags: [IMF, Economics, Fiscal Policy, Labor Market]
 ---
 
 # Denmark
 
 ## Credit Ratings
 
-| Agency | Rating | Outlook | Date |
-| :----- | :----- | :------ | :--- |
-| N/A | N/A | N/A | N/A |
+| Agency   | Rating   | Outlook   | Date   |
+| :------- | :------- | :-------- | :----- |
+| | | | |
 
 ## Economic Overview
 
-Denmark is included in the 2025 European Commission Country Report as part of a broader analysis of EU economic performance. The country operates within a framework characterized by high labor productivity and is subject to overarching EU goals regarding renewable energy, carbon removals, and digitalization. As part of the 2025 report landscape, Denmark is positioned within a framework aiming for a 50% reduction in greenhouse gas emissions by 2030 and significant expansion of recharging infrastructure. While the broader European context includes varying growth rates and fiscal challenges, Denmark remains a key participant in the EU's collective efforts toward fiscal consolidation and the green transition.
+Denmark is mentioned within the context of the IMF's 2025 Article IV Consultation for the Eurozone and neighboring economies. While the primary focus of the provided report is on Belgium, Denmark is identified as a peer country within the regional economic analysis involving fiscal consolidation, green transitions, and labor market dynamics.
 
 ## Governance & Rule of Law
 
-As a member of the European Union, Denmark maintains high standards of institutional quality and judicial independence. The country adheres to the EU's "simplification of economic life" principles and participates in the collective effort to reduce administrative burdens for businesses.
+[Information not provided in the current summary context.]
 
 ## Key Risks & Outlook
 
-The primary outlook for Denmark involves navigating the twin transitions: green and digital. Like its peers, Denmark faces challenges regarding the "skills gap" and the necessity for significant investment in R&D to maintain long-term competitiveness. The report highlights that while the EU faces a period of high capital costs and restrictive monetary policy, countries like Denmark are positioned within a framework aiming for 50% reduction in greenhouse gas emissions by 2030 and significant expansion of recharging infrastructure.
+The regional economic outlook, which includes Denmark, emphasizes the need for sustained fiscal consolidation, addressing labor-cost competitiveness, and navigating the green transition. Key regional themes include managing public debt levels, improving Total Factor Productivity (TFP), and mitigating sovereign risk through high-quality debt management profiles.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[Poland]], [[Austria]], [[Italy]], [[Germany]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Czechia]], [[Slovakia]], [[Romania]], [[Slovenia]]
+[[IMF]], [[Fiscal Consolidation]], [[Green Transition]], [[Total Factor Productivity (TFP)]], [[Sovereign Risk]], [[Belgium]]

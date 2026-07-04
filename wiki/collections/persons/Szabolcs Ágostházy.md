@@ -1,19 +1,17 @@
 ---
-type: "Person"
-title: "Szabolcs Ágostházy"
-persons:
-  - Szabolcs Ágostházy
-relationships:
-  - personA: Márton Nagy
-    relation: Minister of National Economy
-    personB: Hungarian Government
-  - personA: Barnabás Virág
-    relation: Deputy Central Bank Governor
-    personB: Magyar Nemzeti Bank (MNB)
-timestamp: 2026-07-02T12:22:54Z
+name: Szabolcs Ágostházy
+affiliations:
+  - relation: Hungarian official involved in IMF Article IV Consultation
+    person: [[Márton Nagy]]
+  - relation: Hungarian official involved in IMF Article IV Consultation
+    person: [[Máté Lóga]]
+  - relation: Hungarian official involved in IMF Article IV Consultation
+    person: [[Bence Gerlaki]]
+timestamp: 2026-07-04T15:41:50Z
 tags:
+  - Economy
   - Hungary
-  - Economics
+  - Fiscal Policy
   - IMF
 ---
 
@@ -21,14 +19,14 @@ tags:
 
 ## Affiliations & Roles
 
-- Government Official / Economic Representative at the Hungarian Government
+- Hungarian Official involved in IMF Article IV Consultation (2025)
 
 ## Biography & Context
 
-Szabolcs Ágostházy is identified as a key representative of the Hungarian authorities during the IMF's 2025 Article IV Consultation. He participated in high-level discussions regarding Hungary's macroeconomic stability, fiscal adjustment requirements, and structural reforms. 
+Szabolcs Ágostházy is a key Hungarian official involved in the country's economic engagement with the International Monetary Fund (IMF). He participated in the 2025 Article IV Consultation, a high-level assessment of Hungary's economic health, fiscal policy, and monetary stance. 
 
-During the IMF staff mission in Budapest (June 2025), he was involved in negotiations concerning the country's fiscal deficit, the transition toward a 3% headline deficit by 2027, and the management of sovereign-bank linkages. His role involves navigating the complexities of Hungary's stagnant output, high refinancing costs, and the implementation of productivity-focused reforms in coordination with the Ministry for National Economy and the Magyar Nemzeti Bank (MNB).
+During the staff mission in Budapest (June 2025), he was part of the group of officials providing input on Hungary's economic outlook, which included addressing challenges such as stagnant output, high inflation, and the need for a structural primary surplus to ensure debt sustainability. His involvement pertains to the strategic discussions regarding fiscal adjustments, the transition to renewable energy, and governance reforms aimed at unlocking EU Cohesion funds.
 
 ## Collaborators
 
-[[Márton Nagy]], [[Barnabás Virág]], [[Kristina Kostial]], [[Jacques Miniane]]
+[[Márton Nagy]], [[Máté Lóga]], [[Bence Gerlaki]], [[Károly Mátrai]], [[Réka Martini]]

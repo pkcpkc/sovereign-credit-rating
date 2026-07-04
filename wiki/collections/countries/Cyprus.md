@@ -1,48 +1,28 @@
 ---
-type: Country
-title: Cyprus
-countries:
-  - Cyprus
-ratings: []
-timestamp: 2026-07-02T11:43:27Z
-tags:
-  - Economic Report
-  - European Commission
-  - Fiscal Policy
-  - Sustainability
-  - Labor Market
-  - IMF
-  - Macroeconomics
-  - Financial Stability
+timestamp: 2026-07-04T14:50:08Z
+tags: [IMF, Economics, Fiscal Policy, Sovereign Risk]
 ---
 
 # Cyprus
 
 ## Credit Ratings
 
-| Agency | Rating | Outlook | Date |
-| :----- | :----- | :------ | :--- |
-| N/A | N/A | N/A | N/A |
+| Agency   | Rating   | Outlook   | Date   |
+| :------- | :------- | :-------- | :----- |
+| [Pending] | [Pending] | [Pending] | [Pending] |
 
 ## Economic Overview
 
-Cyprus is a key member of the European Union economic landscape, operating within the broader EU fiscal framework. While the economy faces a period of high capital costs and the need for aggressive fiscal consolidation, it is subject to European Commission oversight regarding fiscal sustainability and energy transition goals. 
-
-As part of the wider Eurozone context (including peer analysis from the IMF's 2025 Article IV consultations), Cyprus navigates challenges common to the region: managing public debt, addressing labor market productivity, and transitioning toward a green and digital economy. The economic outlook involves balancing growth amidst restrictive monetary policies while navigating the "simplification of economic life" to reduce bureaucracy and improve the ease of doing business for firms.
+While the provided summary focuses primarily on Belgium, Cyprus is identified as a country of interest within the broader IMF 2025 Article IV Consultation context for the European region. The report highlights regional economic themes including fiscal consolidation, the management of sovereign risk, and the necessity of balancing social spending with public investment in infrastructure and the green transition.
 
 ## Governance & Rule of Law
 
-Cyprus operates within the European Union's institutional framework, adhering to EU standards for administrative simplification and economic policy. The report highlights a broader EU movement toward "simplification of economic life" to reduce bureaucracy and improve the ease of doing business for firms navigating complex licensing and regulations.
+[Information not provided in current summary context]
 
 ## Key Risks & Outlook
 
-Key risks for Cyprus, in alignment with the broader EU economic climate and IMF observations on regional peers, include:
-*   **Fiscal Sustainability:** Navigating the requirements for spending reviews and rationalizing tax expenditures to manage public debt and ensure long-term stability.
-*   **Energy Transition:** Meeting targets for decarbonization, infrastructure development, and phasing out fossil fuel subsidies to meet 2030 climate goals.
-*   **Labor Market:** Addressing potential skills gaps, increasing labor force participation, and improving productivity to counteract the effects of high capital costs.
-*   **Economic Growth:** Managing growth amidst restrictive monetary policies and the dual challenge of green and digital transitions.
-*   **Structural Reforms:** Aligning with broader EU efforts to reduce regulatory barriers and improve the dynamism of the firm environment.
+The summary context indicates that regional peers face challenges such as slowing growth, persistent core inflation, and declining labor-cost competitiveness. For Cyprus, the broader regional outlook emphasizes the need for structural reforms to boost Total Factor Productivity (TFP), reducing regulatory barriers, and navigating the transition toward green energy while maintaining fiscal sustainability under the new EU economic governance framework.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[IMF]], [[Macroeconomics]], [[Financial Stability]]
+[[IMF]], [[Fiscal Consolidation]], [[Sovereign Risk]], [[Belgium]], [[France]], [[Germany]], [[Netherlands]], [[Italy]], [[Spain]], [[Portugal]], [[Greece]], [[Austria]], [[Luxembourg]], [[Sweden]], [[Slovakia]], [[Slovenia]], [[Hungary]], [[Latvia]], [[Malta]], [[Lithuania]], [[Estonia]], [[Croatia]], [[Poland]], [[Denmark]]

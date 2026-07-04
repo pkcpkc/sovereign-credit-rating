@@ -1,51 +1,36 @@
 ---
-type: "Country"
-title: "France"
-countries:
-  - France
-ratings: []
-timestamp: 2026-07-02T13:45:17Z
-tags:
-  - Economics
-  - Fiscal Policy
-  - Innovation
-  - Sustainability
-  - Labour Market
-  - Social Policy
-  - Economic Report
-  - European Commission
-  - Rule of Law
-  - Justice System
-  - Anti-Corruption
-  - Media Freedom
+timestamp: 2026-07-04T15:15:00Z
+tags: [IMF, Economics, Fiscal Policy, Macroeconomics, Eurozone, Structural Reform, EU Pillar II, Debt Sustainability]
 ---
 
 # France
 
 ## Credit Ratings
 
-| Agency | Rating | Outlook | Date |
-| :----- | :----- | :------ | :--- |
-| N/A | N/A | N/A | N/A |
+| Agency   | Rating   | Outlook   | Date   |
+| :------- | :------- | :-------- | :----- |
+| | | | |
 
 ## Economic Overview
 
-France is navigating a period of decelerating growth, with Real GDP projected to slow to 0.6% in 2025. This slowdown is primarily attributed to high political uncertainty and a restrictive monetary policy environment, which have caused investment to remain subdued and net exports to stall due to high energy costs and tariffs. The fiscal landscape is characterized by significant sustainability risks; the general government deficit rose to 5.8% in 2024, and public debt is projected to reach 116% of GDP by the end of 2025. In comparison to regional peers like Italy—which saw a headline deficit of 3.4% in 2024 and achieved a primary surplus of 0.4%—France faces substantial pressure to rationalize tax expenditures and manage high social infrastructure costs.
+France is identified as a key economic subject within the broader European context of the IMF's 2025 Article IV consultations. As a major Eurozone economy, France faces shared structural challenges including the need for sustained fiscal consolidation to manage public debt, addressing persistent core inflation, and navigating labor-cost competitiveness. The economic landscape emphasizes the importance of Total Factor Productivity (TFP) and the necessity of rationalizing social spending while maintaining public investment in infrastructure, healthcare, and the green transition.
 
-The labor market maintains a high employment rate of 75.1% (2024), yet unemployment remains high at 7.4%. While labor productivity is recovering from pandemic-era lows, the economy is hampered by a persistent "skills gap," structural weaknesses in business R&D intensity (currently at 1.44%, lagging behind the 3% target), and a shortage of skilled staff. Furthermore, France faces widening regional disparities, with five regions falling below 75% of the EU GDP per head in 2023, and extreme poverty rates in outermost regions like French Guiana (59.5%). Social challenges remain acute, with a rising poverty rate (20.5% at risk of social exclusion) and child poverty levels (26.2%) exceeding the EU average.
+In a regional context shared with neighbors like [[Italy]], [[Germany]], and [[Spain]], France is part of a broader Eurozone effort to balance social protections with labor-market efficiency. Similar to the regional trends noted in the 2025 IMF reports, there is a collective focus on managing high sovereign risk related to public debt, improving human capital, and addressing demographic headwinds that could constrain long-term potential growth. France is tasked with enhancing overall competitiveness by reducing regulatory barriers and improving insolvency regimes to boost productivity. Furthermore, as a key member of the Eurozone, France operates within the broader framework of EU-wide tax reforms, including alignment with the [[Pillar II Minimum Tax]] and Corporate Income Tax (CIT) reforms to prevent revenue leakage and ensure fiscal stability across the bloc.
 
 ## Governance & Rule of Law
 
-France maintains a robust institutional framework within the European Union, currently emphasizing a "simplification of economic life" law to reduce administrative "red tape" and simplify licensing. Regarding the rule of law, the 2025 report highlights a period of significant legislative reform. Judicial independence remains stable, supported by the Superior Council of Magistracy (CSM), though public perception remains at an average level. Key reforms include the 2023 law reforming magistrate status (removing admission age limits) and the expansion of the *Portalis* tool to digitalize judicial procedures.
-
-Anti-corruption efforts have been intensified through the reorganization of the Anti-Corruption Agency (AFA) and a 48% increase in asset declarations examined by the High Authority for Transparency in Public Life (HATVP). New legislation (Law Warsmann) has improved the seizure of criminal assets, and a new 2024-2029 national anti-corruption plan is expected to focus on organized crime. However, challenges persist in the efficiency of the justice system—specifically in bribery cases which have the highest resolution times in the EU—and in ensuring full transparency for top-executive level officials. Media freedom is marked by progress in ownership transparency, though public broadcasting governance and journalist safety remain under scrutiny.
+France operates within the EU economic governance framework (EGF). The current economic climate necessitates cooperation with international bodies like the [[International Monetary Fund]] to ensure fiscal sustainability and adherence to regional economic standards. France participates in the coordinated effort to implement EU-wide regulatory standards, including those concerning tax transparency and corporate governance.
 
 ## Key Risks & Outlook
 
-The outlook for France is shaped by significant fiscal sustainability risks, necessitating aggressive fiscal consolidation and a permanent spending review strategy to rationalize tax expenditures. Key structural risks include labor shortages in the ICT and care sectors, demographic headwinds from an aging population, and the necessity of rapid decarbonization in the transport and building sectors—which are currently slowed by administrative complexity and a shortage of skilled renovation workers. 
-
-While France is a leader in producing "unicorns," it faces challenges in securing sufficient equity financing for the scale-up phase of high-growth firms. The long-term outlook depends on the successful implementation of green transitions (including targets for 50% greenhouse gas reduction and 7 million recharging points by 2030), the ability to translate R&D investments into high-impact business dynamism, and the management of substantial social infrastructure costs. Additionally, France must address the implementation of 22 pending European Court of Human Rights judgments and manage the risks associated with integrating Artificial Intelligence into judicial and administrative tasks.
+The primary risks for France involve high sovereign risk related to public debt levels and the need for structural reforms to boost labor participation. Key focus areas for the outlook include:
+- **Fiscal Sustainability:** The need to reduce structural primary deficits and manage debt-to-GDP ratios in alignment with regional economic standards, mirroring the fiscal adjustment goals seen across the Eurozone.
+- **Productivity:** Addressing lagging Total Factor Productivity through the reduction of regulatory barriers and improved insolvency regimes to combat "productivity malaise."
+- **Green Transition:** Implementing coherent national strategies to meet climate targets, including carbon taxation and phasing out fossil fuel subsidies to enhance energy security.
+- **Labor Market:** Balancing social protections with the need for labor-market efficiency and competitiveness, specifically looking at labor supply and participation.
+- **Regional Dynamics:** Navigating shared Eurozone challenges including inflation management, managing the "Moderate" sovereign risk profile of peers, and maintaining economic stability amidst geoeconomic fragmentation.
+- **Taxation & Regulation:** Navigating the implementation of [[Pillar II Minimum Tax]] and ensuring corporate tax frameworks remain competitive while adhering to EU-wide mandates.
 
 ## Related Entities
 
-[[Austria]], [[Germany]], [[USA]], [[Italy]], [[Norway]], [[European Commission]], [[Total Factor Productivity (TFP)]], [[Tax Wedge]], [[Gross Fixed Capital Formation]], [[Net International Investment Position (NIIP)]], [[Energy Intensity]], [[E-health]], [[Circular Economy]], [[Decarbonisation]], [[STEM Education]], [[Wage Indexation]], [[Real GDP]], [[Unit Labour Costs]], [[Fiscal Sustainability]], [[Renewable Energy]], [[Carbon Removals]], [[Digitalization]], [[Venture Capital]], [[Public Procurement]], [[Richard Feynman]], [[Hungary]], [[Recovery and Resilience Plan (RRP)]], [[Productivity Growth]], [[Skills Mismatch]], [[Public Debt-to-GDP]], [[Judicial Independence]], [[Digitalisation of Justice]], [[Lobbying Transparency]], [[Media Pluralism]], [[Whistleblower Protection]], [[Artificial Intelligence in Justice]], [[Belgium]], [[Netherlands]], [[Spain]], [[Portugal]], [[Greece]], [[Luxembourg]], [[Sweden]], [[Slovakia]], [[Slovenia]], [[Ireland]], [[Estonia]], [[Latvia]], [[Cyprus]], [[Malta]], [[Lithuania]], [[Croatia]], [[Fiscal Consolidation]], [[Corporate Income Tax (CIT)]], [[OECD Pillar II]], [[Macroprudential Policy]], [[AML/CFT Framework]], [[Digital Transformation]], [[Energy Subsidies]], [[Real Estate Exposure]], [[Romania]], [[Macroeconomics]], [[Monetary Policy]], [[EU Funds]], [[Twin Deficits]], [[REER (Real Effective Exchange Rate)]], [[Sovereign-Bank Nexus]], [[ETS 2 (Emission Trading System)]], [[Next Generation EU (NGEU)]]
+[[International Monetary Fund]], [[Fiscal Consolidation]], [[Total Factor Productivity (TFP)]], [[Green Transition]], [[Sovereign Risk]], [[Belgium]], [[Germany]], [[Italy]], [[Spain]], [[Hungary]], [[Austria]], [[Poland]], [[Slovakia]], [[Czech Republic]], [[National Recovery and Resilience Plan (NRRP)]], [[Primary Surplus]], [[Public Debt Dynamics]], [[Demographic Headwinds]], [[Pillar II Minimum Tax]], [[Corporate Income Tax (CIT) Reform]], [[Next Generation EU (NGEU) Funds]], [[Excessive Deficit Procedure (EDP)]], [[Real Effective Exchange Rate (REER)]], [[Countercyclical Buffer (CCyB)]], [[Debt Sustainability Analysis (DSA)]]

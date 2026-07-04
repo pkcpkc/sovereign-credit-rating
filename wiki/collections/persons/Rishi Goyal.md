@@ -1,29 +1,25 @@
 ---
-type: "Person"
-title: "Rishi Goyal"
-persons:
-  - Rishi Goyal
-relationships:
-  - personA: Rishi Goyal
-    relation: IMF Staff Member (implied by context)
-    personB: Italy
-timestamp: 2026-07-02T12:41:34Z
+name: Rishi Goyal
+affiliations:
+  - relation: Approver
+    person: Helge Berger
+timestamp: 2026-07-04T15:45:15Z
 tags:
   - IMF
-  - Italy
   - Macroeconomics
+  - Italy
 ---
 
 # Rishi Goyal
 
 ## Affiliations & Roles
 
-- IMF Staff Member (implied) at [[International Monetary Fund]]
+- IMF Staff involved in the 2025 Article IV Consultation for Italy.
 
 ## Biography & Context
 
-Rishi Goyal is associated with the International Monetary Fund (IMF) and was involved in the 2025 Article IV Consultation for Italy. His work contributed to the analysis of Italy's economic resilience, fiscal performance, and structural challenges, including productivity growth and demographic headwinds.
+Rishi Goyal is associated with the International Monetary Fund (IMF) and was involved in the 2025 Article IV Consultation regarding Italy's economic outlook. His work contributed to the assessment of Italy's fiscal consolidation, the implementation of the National Recovery and Resilience Plan (NRRP), and the analysis of structural challenges such as productivity growth and demographic headwinds. He worked under the approval of [[Helge Berger]] during the staff discussions held in Rome between May and July 2025.
 
 ## Collaborators
 
-[[Helge Berger]], [[Lone Christiansen]], [[Thomas Elkjaer]], [[Gee Hee Hong]], [[Yueling Huang]], [[Sylwia Nowak]], [[Alain Kabundi]], [[Carolina Claver]], [[Riccardo Ercoli]], [[Annalisa Korinthios]], [[Yao Deng]], [[Emily Fisher]], [[Jenny Lee]], [[Giorgetti]]
+[[Helge Berger]]

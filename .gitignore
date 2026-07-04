@@ -74,3 +74,5 @@ web_modules/
 *.iws
 *.iml
 *.ipr
+
+dist/

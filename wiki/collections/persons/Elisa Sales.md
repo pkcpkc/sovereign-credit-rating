@@ -1,34 +1,25 @@
 ---
-type: "Person"
-title: "Elisa Sales"
-persons:
-  - Elisa Sales
-relationships:
-  - personA: Mark Horton
-    relation: Approved report with
-    personB: Geremia Palomba
-  - personA: Kotaro Ishi
-    relation: Head of staff team
-    personB: Thomas Gade
-timestamp: 2026-07-02T13:03:24Z
+name: Elisa Sales
+affiliations:
+  - relation: IMF Staff / Stakeholder
+    person: International Monetary Fund
+timestamp: 2026-07-04T15:55:39Z
 tags:
   - Economics
   - Finance
-  - Fiscal Policy
-  - Monetary Policy
-  - Macroeconomics
   - Malta
+  - IMF
 ---
 
 # Elisa Sales
 
 ## Affiliations & Roles
 
-- Representative/Official associated with the [[IMF]] 2025 Malta Country Report.
+- Stakeholder/Participant in IMF Article IV Consultation regarding Malta
 
 ## Biography & Context
 
-Elisa Sales is identified in the context of the International Monetary Fund (IMF) 2025 Malta Country Report - Article IV Consultation. Her involvement pertains to the economic analysis and policy oversight of Malta, specifically regarding fiscal consolidation, Corporate Income Tax (CIT) reforms aligned with OECD Pillar II, and the transition toward a productivity-driven growth model.
+Elisa Sales is identified as a key stakeholder involved in the IMF's 2024 Article IV Consultation with Malta. Her involvement relates to the economic assessment and policy discussions held in Valletta in November 2024. These discussions focused on Malta's transition toward a productivity-driven growth model, fiscal consolidation strategies—specifically the phasing out of energy subsidies—and the implementation of Corporate Income Tax (CIT) reforms to align with EU Pillar II requirements. She is associated with the oversight of Malta's economic trajectory, including its real estate exposure risks, labor market challenges, and "Malta Vision 2050" objectives.
 
 ## Collaborators
 

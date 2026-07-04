@@ -1,34 +1,27 @@
 ---
-type: "Person"
-title: "Alexandru Nazare"
-persons:
-  - Alexandru Nazare
-relationships:
-  - personA: Ilie Bolojan
-    relation: Prime Minister (Colleague)
-    personB: Alexandru Nazare
-  - personA: Mugur Isarescu
-    relation: Governor of National Bank of Romania (Colleague)
-    personB: Alexandru Nazare
-timestamp: 2026-07-02T13:27:33Z
+name: Alexandru Nazare
+affiliations:
+  - relation: IMF Staff Discussion Participant
+    person: Ilie Bolojan
+  - relation: IMF Staff Discussion Participant
+    person: Mugur Isarescu
+timestamp: 2026-07-04T16:10:04Z
 tags:
   - Romania
-  - Finance
-  - Government
+  - IMF
+  - Macroeconomics
 ---
 
 # Alexandru Nazare
 
 ## Affiliations & Roles
 
-- Finance Minister of Romania
+- IMF Staff Discussion Participant (Romania Article IV Consultation)
 
 ## Biography & Context
 
-Alexandru Nazare serves as the Finance Minister of Romania. He is a key stakeholder in the country's macroeconomic management, specifically overseeing fiscal policy and the implementation of structural reforms. 
-
-In 2025, Nazare was instrumental in adopting a large fiscal reform package aimed at reducing Romania's fiscal deficit to below 6% of GDP by 2026. His role involves navigating complex economic challenges, including high headline inflation driven by energy price caps and VAT increases, as well as managing the country's "twin deficits" (fiscal and current account). Under his leadership, the government has sought to stabilize public debt toward a target of 60% of GDP by 2030 while attempting to improve the absorption of EU funds and address structural bottlenecks in public investment.
+Alexandru Nazare was involved in the IMF's 2025 Article IV Consultation for Romania. During this period, he participated in the staff discussions held between September 3 and September 12, 2025, which aimed to evaluate Romania's economic stability, fiscal policy, and structural reforms. The consultation focused on addressing the "twin deficits," managing elevated inflation, and ensuring the resilience of the banking sector amidst sovereign debt risks.
 
 ## Collaborators
 
-[[Ilie Bolojan]], [[Mugur Isarescu]]
+[[Ilie Bolojan]], [[Mugur Isarescu]], [[Joong Shik Kang]], [[Carlos Granados]]

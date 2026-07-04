@@ -1,29 +1,26 @@
 ---
-type: "Person"
-title: "Ilie Bolojan"
-persons:
-  - Ilie Bolojan
-relationships:
-  - personA: Joong Shik Kang
-    relation: Head of mission team
-    personB: Ilie Bolojan
-timestamp: 2026-07-02T13:27:14Z
+name: Ilie Bolojan
+affiliations:
+  - relation: Mission Lead
+    person: Joong Shik Kang
+timestamp: 2026-07-04T16:09:50Z
 tags:
-  - Romania
-  - Government
   - IMF
+  - Romania
+  - Macroeconomics
+  - Fiscal Policy
 ---
 
 # Ilie Bolojan
 
 ## Affiliations & Roles
 
-- Prime Minister of Romania
+- Participant in the IMF 2025 Article IV Consultation for Romania.
 
 ## Biography & Context
 
-Ilie Bolojan is a key political figure in Romania, serving as the Prime Minister. He is a primary stakeholder in Romania's economic management and was a central figure during the IMF's 2025 Article IV Consultation. Under his leadership, the Romanian government adopted a significant fiscal reform package in mid-2025 aimed at reducing the national deficit to below 6% of GDP by 2026 through measures such as VAT hikes and excise duty adjustments. He is involved in navigating the country's macroeconomic challenges, including high inflation, "twin deficits," and the structural reforms necessary to improve the absorption of EU funds.
+Ilie Bolojan is involved in the economic oversight and policy analysis regarding Romania's fiscal and monetary landscape. He participated in the IMF staff discussions held between September 3 and September 12, 2025, which culminated in the Article IV Consultation report. His work context includes addressing Romania's "twin deficits," evaluating the sustainability of the 2025–26 fiscal reform package (including VAT increases and public sector wage freezes), and monitoring the banking sector's resilience against sovereign debt exposure.
 
 ## Collaborators
 
-[[Joong Shik Kang]], [[Alexandru Nazare]], [[Mugur Isarescu]]
+[[Joong Shik Kang]]

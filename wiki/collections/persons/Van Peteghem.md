@@ -1,29 +1,25 @@
 ---
-type: "Person"
-title: "Van Peteghem"
-persons:
-  - Van Peteghem
-relationships:
-  - personA: Van Peteghem
-    relation: Member of
-    personB: Belgium Government
-timestamp: 2026-07-02T11:50:37Z
+name: Van Peteghem
+affiliations:
+  - relation: Belgian Authority/Government Official
+    person: Belgium Authorities
+timestamp: 2026-07-04T15:29:34Z
 tags:
   - Belgium
-  - Government
   - Economics
+  - Fiscal Policy
 ---
 
 # Van Peteghem
 
 ## Affiliations & Roles
 
-- Government Official at [[Belgium Government]]
+- Government Official / Authority at [[Belgium]]
 
 ## Biography & Context
 
-Van Peteghem is a figure associated with the Belgian government during the period of the 2025 IMF Article IV Consultation. He is identified as a key stakeholder in the national administration during a period of significant fiscal and structural reform, including the implementation of a 7-year adjustment plan to address public debt and labor market competitiveness.
+Van Peteghem is identified as a key representative of the Belgian authorities during the IMF's 2025 Article IV consultation. He was involved in the high-level discussions held between January 22 and February 4, 2025, regarding Belgium's economic outlook. The consultations focused on critical structural issues including fiscal consolidation to manage a public debt of 104.1% of GDP, the impacts of automatic wage indexation on labor-cost competitiveness, and the implementation of the new EU economic governance framework. His role involves navigating the balance between rationalizing social spending and preserving public investment in the green transition, healthcare, and infrastructure.
 
 ## Collaborators
 
-[[Jan Jambon]], [[De Croo]], [[Wunsch]]
+[[Jeroen Clicq]], [[Jean-François Dauphin]], [[De Croo]], [[Jan Jambon]], [[Sven Gatz]], [[Ben Weyts]]

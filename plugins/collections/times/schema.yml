@@ -1,0 +1,4 @@
+$meta:
+  type: Schema
+  title: "Times Schema"
+  description: "Defines chronological properties extracted into summaries."

@@ -1,16 +1,9 @@
 ---
-type: "Person"
-title: "Mr. Clicq"
-persons:
-  - Mr. Clicq
-relationships:
-  - personA: Joong Shik Kang
-    relation: Head of mission team
-    personB: Ilie Bolojan
-  - personA: Carlos Granados
-    relation: Senior Regional Resident Representative
-    personB: Mugur Isarescu
-timestamp: 2026-07-02T13:28:17Z
+name: Mr. Clicq
+affiliations:
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Romania
+timestamp: 2026-07-04T16:10:34Z
 tags:
   - IMF
   - Romania
@@ -21,12 +14,12 @@ tags:
 
 ## Affiliations & Roles
 
-- Participant in the IMF 2025 Article IV Consultation mission to Romania.
+- IMF Staff Member involved in the 2025 Article IV Consultation for Romania.
 
 ## Biography & Context
 
-Mr. Clicq was identified as a key participant in the International Monetary Fund (IMF) 2025 Article IV Consultation regarding Romania. The mission focused on Romania's macroeconomic stability, specifically addressing high inflation (9.9% in September 2025), "twin deficits," and the necessity of fiscal consolidation to stabilize public debt at approximately 60% of GDP by 2030. During this period, Mr. Clicq was involved in discussions concerning the transition to a low-carbon economy via ETS 2, the management of the sovereign-bank nexus, and the structural reforms required to improve the absorption of Next Generation EU (NGEU) funds.
+Mr. Clicq is identified as a member of the International Monetary Fund (IMF) staff involved in the 2025 Article IV Consultation for Romania. His work contributed to the evaluation of Romania's macroeconomic stability, specifically focusing on fiscal consolidation, inflation management, and banking sector resilience. The consultation addressed critical issues such as "twin deficits," the transition to a low-carbon economy, and the necessity of structural reforms to improve EU fund absorption.
 
 ## Collaborators
 
-[[Joong Shik Kang]], [[Ilie Bolojan]], [[Carlos Granados]], [[Mugur Isarescu]], [[Alexandru Nazare]]
+[[Helge Berger]], [[Bergljot Barkbu]], [[Joong Shik Kang]], [[Ezequiel Cabezon]], [[Nan Geng]], [[Fazurin Jamaludin]], [[Carlos Granados]], [[Georgia Babici]], [[Mihai Copaciu]], [[Tina Kang]], [[Cheryl Li]], [[Maciej Onoszko]], [[Ilie Bolojan]], [[Alexandru Nazare]], [[Mugur Isarescu]]

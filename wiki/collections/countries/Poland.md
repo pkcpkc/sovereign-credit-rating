@@ -1,90 +1,37 @@
 ---
-type: Country
-title: Poland
-countries:
-  - France
-  - Austria
-  - Belgium
-  - Bulgaria
-  - Croatia
-  - Cyprus
-  - Czechia
-  - Denmark
-  - Estonia
-  - Finland
-  - Germany
-  - Greece
-  - Hungary
-  - Ireland
-  - Italy
-  - Latvia
-  - Lithuania
-  - Luxembourg
-  - Malta
-  - Netherlands
-  - Poland
-  - Portugal
-  - Romania
-  - Slovakia
-  - Slovenia
-  - Spain
-  - Sweden
-  - Ukraine
-  - Moldova
-  - Czech Republic
-ratings: []
-timestamp: 2026-07-02T13:49:46Z
-tags:
-  - Economic Report
-  - European Commission
-  - Fiscal Policy
-  - Sustainability
-  - Labor Market
-  - Energy Transition
-  - Digitalization
-  - Economic Development
-  - Social Fairness
-  - EU Compliance
-  - Rule of Law
-  - Judiciary
-  - Anti-Corruption
-  - Media Freedom
-  - EU Policy
+timestamp: 2026-07-04T15:20:49Z
+tags: [IMF, Economics, Fiscal Policy, Labor Market, Sovereign Risk, Article IV Consultation, Debt Sustainability, Monetary Policy]
 ---
 
 # Poland
 
 ## Credit Ratings
 
-| Agency | Rating | Outlook | Date |
-| :----- | :----- | :------ | :--- |
-| N/A | N/A | N/A | N/A |
+| Agency   | Rating   | Outlook   | Date   |
+| :------- | :------- | :-------- | :----- |
+| N/A      | N/A      | N/A        | N/A    |
 
 ## Economic Overview
 
-Poland is identified as one of the fastest-growing economies in the European Union, characterized by high private consumption and significant investment. In 2024, GDP grew by 2.9%, with projections for higher growth in 2025 driven by continued consumption and investment. The economy faces a complex landscape of structural hurdles, including a rapidly aging population (expected to fall by 16% by 2070) and a shrinking working-age population. 
+Poland's economy is currently in a recovery phase, with GDP growth estimated at 2.8% in 2024 and projected to accelerate to approximately 3.5% in 2025-2026. This growth is primarily driven by domestic demand and the absorption of [[Next Generation EU (NGEU) Funds]]. While headline inflation peaked in early 2023, it is expected to reach the target range (2.5±1%) by late 2025, though it remains elevated due to a tight labor market and robust wage growth.
 
-The Polish economy currently faces high public debt-servicing costs and high wholesale electricity prices exacerbated by grid bottlenecks. While Poland is a leader in lithium battery manufacturing (producing 60% of all European-made batteries), it struggles with a productivity gap, currently at 67% of the EU average. Furthermore, Poland ranks last among EU Member States in the Tax Complexity Index 2022, creating significant hurdles for SMEs and innovation. The regional economic environment is further shaped by a push toward decarbonization, digitalization, and addressing labor market "skills gaps."
+The fiscal position is under pressure, with the deficit widening to 5.9% of GDP in 2024—largely due to high defense spending and permanent increases in public sector wages—placing the country under the EU's [[Excessive Deficit Procedure (EDP)]]. In response, authorities have introduced a Medium-Term Fiscal Structural Plan (MTFSP) to reduce the deficit to 2.9% by 2028 and stabilize debt at 60% of GDP. The banking sector remains resilient with high capital and liquidity buffers, though policy recommendations include eliminating the mortgage credit holiday and redesigning the bank asset tax.
 
 ## Governance & Rule of Law
 
-The country operates within the framework of European Commission standards, which currently emphasize administrative simplification (the "tell us once" principle) and the rationalization of tax expenditures to ensure long-term fiscal sustainability. Governance is increasingly measured against EU standards for transparency in multiannual spending ceilings and the reduction of regulatory volatility. Currently, Poland is under an excessive deficit procedure, with a binding expenditure path aimed at reducing the deficit below 3% of GDP by 2028.
-
-In terms of judicial independence and rule of law, Poland has shown mixed progress. Significant strides were made in separating the office of the Minister of Justice from the Prosecutor General and improving procedural frameworks for judicial appointments. However, profound concerns persist regarding the independence of the Constitutional Tribunal and the National Council for the Judiciary (NCJ). While the government is consulting the Venice Commission on reforms to address "neo-judges," perceived judicial independence remains low.
-
-Anti-corruption efforts have improved through the operationalization of the European Public Prosecutor's Office (EPPO) and new police-led coordination, though the liquidation of the Central Anti-Corruption Bureau (CBA) and the lack of a comprehensive national strategy remain notable. Media pluralism is undergoing reform to align with the European Media Freedom Act (EMFA), while civic space has transitioned from "obstructed" to "narrowed."
+Information regarding Poland's specific governance, institutional quality, and judicial independence is not provided in the current summary context.
 
 ## Key Risks & Outlook
 
-Key risks for Poland, in alignment with the broader EU context, include:
-- **Fiscal Sustainability:** The need for aggressive fiscal consolidation to manage public debt and deficits, particularly as debt-servicing costs remain elevated.
-- **Energy Transition:** Challenges in decarbonizing heavy industry, transport, and buildings; fossil fuels still account for 70% of electricity generation.
-- **Labor Market:** Addressing structural weaknesses, closing "skills gaps" in STEM and construction (where 63% of manufacturing firms report shortages), and addressing the wide disability employment gap (35.6%).
-- **Innovation & Productivity:** Bridging the productivity gap and increasing R&D intensity to move beyond concentration in large foreign-owned firms.
-- **Social Infrastructure:** Addressing the housing crisis (prices rose 107% since 2015), modernizing a hospital-centric healthcare system, and improving regional productivity disparities.
-- **Rule of Law & Institutions:** Navigating the ongoing reforms of the judiciary, ensuring the removal of "neo-judges," and establishing a robust national anti-corruption strategy to maintain EU compliance.
-- **Geoeconomic Factors:** Potential risks from regional conflicts, escalation of global trade measures (such as US tariffs), and the impact of geoeconomic fragmentation on regional stability.
+The economic outlook for Poland is characterized by a transition from tight monetary policy to fiscal consolidation to rebuild buffers. Key risks and strategic themes include:
+
+- **Fiscal Sustainability:** Implementing the MTFSP to manage debt levels, rationalize public spending, and rebuild fiscal buffers.
+- **Labor Market & Migration:** Addressing population aging by increasing labor supply through the integration of refugees and women. A new migration strategy (October 2024) aims to streamline labor market access for foreigners.
+- **Productivity & Innovation:** Reducing regulatory barriers, improving insolvency regimes, and fostering innovation through private equity to boost [[Total Factor Productivity (TFP)]].
+- **Green Transition:** Decarbonizing the economy with a target to halve coal-fueled power generation by 2030, necessitating significant investment in renewable infrastructure and the phasing out of fossil fuel subsidies.
+- **Monetary Policy:** The National Bank of Poland (NBP) maintains a tight stance (5.75% policy rate), with potential for gradual cuts in mid-2025 contingent on wage growth deceleration.
+- **Geoeconomic & External Risks:** Navigating geoeconomic fragmentation, trade policy shocks, and maintaining investor confidence amidst regional uncertainty.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[Recovery and Resilience Plan]], [[Stability and Growth Pact]], [[European Green Deal]], [[Quantum Computing]], [[Circular Economy]], [[STEM Education]], [[Romania]], [[Moldova]], [[Slovakia]], [[Venice Commission]], [[European Court of Human Rights (ECtHR)]], [[European Public Prosecutor's Office (EPPO)]], [[European Media Freedom Act (EMFA)]], [[IMF]], [[Macroeconomics]], [[Monetary Policy]], [[Structural Reforms]], [[Productivity]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]], [[Czech Republic]], [[Germany]], [[Austria]], [[Italy]], [[Lithuania]], [[Latvia]], [[Estonia]], [[Bulgaria]], [[Croatia]], [[Slovenia]]
+[[IMF]], [[Fiscal Consolidation]], [[Total Factor Productivity (TFP)]], [[Green Transition]], [[Sovereign Risk]], [[Belgium]], [[France]], [[Germany]], [[Netherlands]], [[Italy]], [[Spain]], [[Portugal]], [[Greece]], [[Austria]], [[Luxembourg]], [[Sweden]], [[Slovakia]], [[Slovenia]], [[Hungary]], [[Latvia]], [[Cyprus]], [[Malta]], [[Lithuania]], [[Estonia]], [[Croatia]], [[Czech Republic]], [[Article IV Consultation]], [[Debt Sustainability Analysis (DSA)]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Next Generation EU (NGEU) Funds]], [[Excessive Deficit Procedure (EDP)]], [[Real Effective Exchange Rate (REER)]], [[Countercyclical Buffer (CCyB)]], [[Ukraine]], [[Romania]], [[Bulgaria]], [[Albania]], [[Bosnia and Herzegovina]], [[Montenegro]], [[Kosovo]], [[North Macedonia]], [[Serbia]], [[Uma Ramakrishnan]], [[Fabian Bornhorst]], [[Jan Kees Martijn]], [[Kareem Ismail]], [[Alla Myrvoda]], [[Yang Yang]], [[Geoff Gottlieb]], [[Robert Sierhej]], [[Krzysztof Krogulski]], [[Maciej Onoszko]], [[Patryk Łoszewski]], [[Marta Pietrzak]], [[Kelly MacKinnon Mukherjee]], [[Can Ugur]]

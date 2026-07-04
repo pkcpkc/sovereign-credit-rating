@@ -1,28 +1,26 @@
 ---
-type: "Person"
-title: "Yu Ching Wong"
-persons:
-  - Yu Ching Wong
-relationships:
-  - personA: Yu Ching Wong
-    relation: IMF Staff Member (Article IV Consultation)
-    personB: Belgium Authorities
-timestamp: 2026-07-02T11:47:39Z
+name: Yu Ching Wong
+affiliations:
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: International Monetary Fund
+timestamp: 2026-07-04T15:26:21Z
 tags:
   - IMF
+  - Economics
   - Belgium
-  - Macroeconomics
 ---
 
 # Yu Ching Wong
 
 ## Affiliations & Roles
 
-- IMF Staff Member at [[International Monetary Fund]]
+- IMF Staff Member involved in the 2025 Article IV Consultation for Belgium.
 
 ## Biography & Context
 
-Yu Ching Wong is a member of the International Monetary Fund (IMF) staff involved in the 2025 Article IV Consultation with Belgium. In this capacity, Wong contributed to the analysis of Belgium's economic resilience, fiscal sustainability, and structural challenges. The work involved evaluating Belgium's high public debt (projected to reach 123% of GDP by 2030), the impact of automatic wage indexation on international competitiveness, and the country's progress toward green transition targets. Wong's role included assessing the government's 7-year adjustment plan and providing recommendations on labor market reforms, productivity gaps, and fiscal consolidation strategies.
+Yu Ching Wong is associated with the International Monetary Fund (IMF) and participated in the 2025 Article IV consultation regarding Belgium's economic situation. This consultation focused on addressing structural headwinds such as slowing growth, persistent core inflation, and declining labor-cost competitiveness resulting from automatic wage indexation. 
+
+Wong's work involved analyzing Belgium's fiscal sustainability, specifically the transition toward a seven-year adjustment period under the new EU economic governance framework (EGF). Key areas of focus included fiscal consolidation to bring the deficit below 3% of GDP, rationalizing social spending, and recommending structural reforms to boost labor productivity and manage sovereign risk.
 
 ## Collaborators
 

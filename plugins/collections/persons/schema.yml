@@ -1,0 +1,9 @@
+$meta:
+  type: Schema
+  title: "Person Concept Schema"
+  description: "Defines the custom fields extracted into summary frontmatter for Person entities."
+
+name: [string] # String | Required | The name of the $VALUE.
+affiliations: # Array | Required | List of relationships between extracted persons.
+  - relation: string # String | Required | The nature of the relationship (e.g. co-founder, colleague).
+    person: string # String | Required | The name of the person.

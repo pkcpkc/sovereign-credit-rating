@@ -1,19 +1,13 @@
 ---
-type: "Person"
-title: "Alexander Demarco"
-persons:
-  - Alexander Demarco
-relationships:
-  - personA: Mark Horton
-    relation: Approved report with
-    personB: Geremia Palomba
-  - personA: Kotaro Ishi
-    relation: Head of staff team
-    personB: Thomas Gade
-timestamp: 2026-07-02T13:05:58Z
+name: Alexander Demarco
+affiliations:
+  - relation: IMF Staff / Stakeholder
+    person: International Monetary Fund
+timestamp: 2026-07-04T15:58:10Z
 tags:
   - Economics
   - Finance
+  - IMF
   - Malta
 ---
 
@@ -21,11 +15,11 @@ tags:
 
 ## Affiliations & Roles
 
-- Involved in the IMF 2025 Malta Country Report - Article IV Consultation.
+- Staff / Stakeholder involved in the [[IMF (2025) Malta Country Report]]
 
 ## Biography & Context
 
-Alexander Demarco is identified as a key figure associated with the International Monetary Fund (IMF) 2025 Malta Country Report. His involvement pertains to the analysis of Malta's economic landscape, specifically regarding fiscal consolidation, corporate income tax (CIT) reform aligned with OECD Pillar II, and the management of real estate exposure within the banking sector. The context of his work includes monitoring Malta's transition toward a productivity-driven growth model and the implementation of AML/CFT framework improvements.
+Alexander Demarco is identified as a key stakeholder associated with the International Monetary Fund's (IMF) 2024 Article IV Consultation with Malta. His involvement pertains to the economic assessment and policy recommendations provided for Malta, which include discussions on fiscal consolidation, Corporate Income Tax (CIT) reform aligned with EU Pillar II, and macroprudential policies to manage real estate exposure in the banking sector. The context of his work involves navigating Malta's transition toward a productivity-driven growth model and addressing structural challenges such as labor shortages and green energy transitions.
 
 ## Collaborators
 

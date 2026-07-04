@@ -1,87 +1,36 @@
 ---
-type: Country
-title: Hungary
-countries:
-  - Hungary
-  - Austria
-  - Belgium
-  - Bulgaria
-  - Croatia
-  - Czechia
-  - Denmark
-  - Estonia
-  - Finland
-  - France
-  - Germany
-  - Greece
-  - Ireland
-  - Italy
-  - Latvia
-  - Lithuania
-  - Luxembourg
-  - Malta
-  - Netherlands
-  - Poland
-  - Portugal
-  - Romania
-  - Slovakia
-  - Slovenia
-  - Spain
-  - Sweden
-  - Cyprus
-  - Czech Republic
-ratings: []
-timestamp: 2026-07-02T13:48:14Z
-tags:
-  - Economic Report
-  - European Commission
-  - Fiscal Policy
-  - Sustainability
-  - Labor Market
-  - Innovation
-  - Energy Transition
-  - Rule of Law
-  - Human Rights
-  - Corruption
-  - Judiciary
-  - Media Freedom
-  - EU Conditionality
-  - IMF
-  - Macroeconomics
-  - Financial Stability
+timestamp: 2026-07-04T15:19:21Z
+tags: [IMF, Economics, Fiscal Policy, Labor Market, Monetary Policy, Debt Sustainability, NGEU, EDP, REER, CCyB, DSA, TFP, Green Transition, Sovereign Risk]
 ---
 
 # Hungary
 
 ## Credit Ratings
 
-| Agency | Rating | Outlook | Date |
-| :----- | :----- | :------ | :--- |
-| N/A | N/A | N/A | N/A |
+| Agency   | Rating   | Outlook   | Date   |
+| :------- | :------- | :-------- | :----- |
+| | | | |
 
 ## Economic Overview
 
-Hungary is navigating a period of slow economic recovery characterized by stagnant output over the last three years and high inflation remaining above the 3% target. While GDP growth is forecast to accelerate to 0.8% in 2025 and 2.5% in 2026 (with IMF projections suggesting 0.7% for 2025 and 2.0% for 2026), the economy faces significant fiscal pressure with public debt reaching 73.5% of GDP in 2024 and projected to rise toward 79% by 2030. Debt-servicing costs are among the highest in the EU, with an implicit interest rate near 6% in 2025.
+Hungary's economy is at a "challenging juncture," characterized by stagnant output over the last three years. While a modest recovery is projected with GDP growth of 0.7% in 2025 rising to 2.0% in 2026, inflation remains above the Magyar Nemzeti Bank's (MNB) 3% target, though it is expected to decelerate to that target by 2027. 
 
-The fiscal framework currently lacks transparency and multiannual spending ceilings, leading to an expansionary budgetary bias. The IMF recommends a cumulative fiscal adjustment of approximately 2% of GDP between 2025-2028 to bring the headline deficit below 3% by 2027. The labor market is marked by rapid nominal wage growth between 2022–2024, though rising unit labor costs (ULCs) pose a threat to competitiveness. Furthermore, Hungary faces a significant "skills gap" in STEM and green transition sectors, compounded by one of the lowest tertiary education attainment rates in the EU (32.3%). In terms of trade, high capital costs and energy prices continue to affect net exports, while the business environment is hampered by regulatory volatility and market distortions caused by state intervention.
+The fiscal landscape is defined by elevated public debt, projected to reach 79% of GDP by 2030. To ensure debt sustainability, the IMF recommends a structural primary surplus of approximately 1.75% of GDP. On the monetary side, a restrictive interest rate stance is advised through 2026 to anchor inflation. The broader regional context highlights the need for fiscal consolidation, labor-cost competitiveness, and structural reforms to boost Total Factor Productivity (TFP), while navigating the green transition and addressing macroeconomic imbalances within the EU economic governance framework.
 
 ## Governance & Rule of Law
 
-The governance landscape is characterized by significant regulatory volatility, where a surge in decrees over laws and frequent legislative amendments create an unpredictable environment for long-term business planning. The state maintains a highly active role in business transactions—such as telecommunications and airport management—and the use of subsidized loans and framework agreements can limit market competition. 
-
-The 2025 Rule of Law Report highlights persistent systemic issues regarding judicial independence, corruption oversight, and media freedom. Perceived judicial independence remains low (37-38%), and while there has been progress in increasing salaries for judges and prosecutors, structural indexation remains absent. The National Judicial Council (NJC) has expressed concerns over a lack of consultation on legislative reforms. Anti-corruption efforts are hampered by the Integrity Authority's limited access to state databases and a lack of progress in high-level investigations. Furthermore, the prolonged "state of danger" allows the Government to override Acts of Parliament, creating legal uncertainty. Media pluralism is constrained by the state’s dominance in advertising and increasing pressure on journalists from the Sovereignty Protection Office.
+The IMF emphasizes that advancing governance reforms is essential to improve the business environment and unlock suspended EU Cohesion funds. Key priorities include reducing state aid distortions and addressing barriers to factor mobility. Regional analysis suggests a continued focus on strengthening judicial independence and anti-corruption frameworks to improve institutional quality.
 
 ## Key Risks & Outlook
 
-Key risks for Hungary include:
-- **Fiscal Sustainability:** High public debt-to-GDP ratios and elevated debt-servicing costs require aggressive consolidation, spending rationalization (including phasing out retail energy subsidies), and transparent spending reviews.
-- **Innovation Stagnation:** R&D intensity remains well below the EU average (1.4% vs 2.2%), with concentration in a few large foreign-owned firms and a significant drop in venture capital investment.
-- **Energy & Environment:** A heavy dependence on Russian fossil fuels (over 70% of natural gas) and one of the highest fossil fuel subsidies in the EU (1.01% of GDP) present severe geopolitical and climate risks.
-- **Social Fairness & Housing:** Rising poverty risks among vulnerable groups, a deteriorating housing affordability crisis (where prices rose 230% between 2010 and 2024), and a hospital-centric health system with high out-of-pocket costs are significant systemic risks.
-- **Geoeconomic & Regulatory Risks:** Escalation of trade measures (particularly US tariffs), regional conflicts, and the potential cancellation of EU funds pose significant threats. Frequent legislative changes and an obstructed environment for civil society create risks for investment protection.
+The risk of sovereign stress is rated as "Moderate." Significant downside risks include geoeconomic fragmentation, potential trade barriers (particularly from the US), and high external uncertainty. Key risks to the outlook include a potential loss of investor confidence, trade policy shocks, and long-term demographic pressures on healthcare and pensions.
 
-The outlook depends on successful implementation of reforms to streamline administration, enhance R&D investment, and address the skills shortage to overcome labor productivity barriers, alongside improvements in judicial transparency, anti-corruption frameworks, and the removal of barriers to factor mobility.
+Structural reform priorities to mitigate these risks include:
+- Expanding access to risk capital for high-growth startups.
+- Phasing out fossil fuel subsidies and transitioning to renewable energy.
+- Addressing vulnerabilities in corporate FX exposures, sovereign-bank linkages, and commercial real estate overvaluation.
+- Intensifying Active Labor Market Policies (ALMPs) and increasing R&D spending to counter secular declines in labor productivity.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Public Debt]], [[R&D Intensity]], [[Circular Economy]], [[Energy Security]], [[Poland]], [[STEM Education]], [[Labor Productivity]], [[Romania]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption Strategy]], [[Media Pluralism]], [[Public Procurement]], [[Emergency Powers]], [[Asset Declarations]], [[Whistleblower Protection]], [[Bea Bodrogi]], [[Austria]], [[IMF (2025) Austria Country Report]], [[Belgium]], [[Cyprus]], [[Malta]], [[Lithuania]], [[Croatia]], [[Estonia]], [[Latvia]], [[Sweden]], [[Portugal]], [[Greece]], [[Luxembourg]], [[Ireland]], [[Kristina Kostial]], [[Jacques Miniane]], [[Anke Weber]], [[Jakree Koosakul]], [[Moheb Malak]], [[Augustus Panton]], [[Atticus Weller]], [[Aleksandra Alferova]], [[Estefania Cohn Bech]], [[Ninfa Gonzales]], [[Rafael Machado Parente]], [[Hugo Rojas-Romagosa]], [[Gábor Meizer]], [[Dániel Palotai]], [[Márton Nagy]], [[Máté Lóga]], [[Bence Gerlaki]], [[Kornél Kisgergely]], [[Barnabás Virág]], [[Csaba Kandrács]], [[Zoltán Kurali]], [[Pál Péter Kolozsi]], [[András Bebes]], [[Szabolcs Ágostházy]], [[Károly Mátrai]], [[Réka Martini]], [[Gábor Horváth]], [[Attila Steiner]]
+[[IMF]], [[Fiscal Consolidation]], [[Total Factor Productivity (TFP)]], [[Green Transition]], [[Sovereign Risk]], [[Belgium]], [[France]], [[Germany]], [[Netherlands]], [[Italy]], [[Spain]], [[Portugal]], [[Greece]], [[Austria]], [[Luxembourg]], [[Sweden]], [[Slovakia]], [[Slovenia]], [[Latvia]], [[Cyprus]], [[Malta]], [[Lithuania]], [[Estonia]], [[Croatia]], [[Poland]], [[Denmark]], [[Czech Republic]], [[Magyar Nemzeti Bank]], [[Márton Nagy]], [[Máté Lóga]], [[Bence Gerlaki]], [[Anke Weber]], [[Jakree Koosakul]], [[Next Generation EU (NGEU) Funds]], [[Excessive Deficit Procedure (EDP)]], [[Real Effective Exchange Rate (REER)]], [[Countercyclical Buffer (CCyB)]], [[Debt Sustainability Analysis (DSA)]], [[Uma Ramakrishnan]], [[Fabian Bornhorst]], [[Jan Kees Martijn]], [[Kareem Ismail]], [[Alla Myrvoda]], [[Yang Yang]], [[Geoff Gottlieb]], [[Robert Sierhej]], [[Krzysztof Krogulski]], [[Maciej Onoszko]], [[Patryk Łoszewski]], [[Marta Pietrzak]], [[Kelly MacKinnon Mukherjee]], [[Can Ugur]], [[Slovak Republic]]

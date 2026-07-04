@@ -1,32 +1,30 @@
 ---
-type: "Person"
-title: "Mihai Copaciu"
-persons:
-  - Mihai Copaciu
-relationships:
-  - personA: Joong Shik Kang
-    relation: Head of mission team
-    personB: Ilie Bolojan
-  - personA: Carlos Granados
-    relation: Senior Regional Resident Representative
-    personB: Mugur Isarescu
-timestamp: 2026-07-02T13:26:00Z
+name: Mihai Copaciu
+affiliations:
+  - relation: Romanian official (implied participant in IMF discussions)
+    person: Joong Shik Kang
+  - relation: Romanian official (implied participant in IMF discussions)
+    person: Ilie Bolojan
+  - relation: Romanian official (implied participant in IMF discussions)
+    person: Mugur Isarescu
+timestamp: 2026-07-04T16:07:41Z
 tags:
-  - IMF
   - Romania
-  - Macroeconomics
+  - IMF
+  - Finance
+  - Public Policy
 ---
 
 # Mihai Copaciu
 
 ## Affiliations & Roles
 
-- Official involved in the IMF 2025 Article IV Consultation - Romania.
+- Romanian Government Official (Participant in IMF Article IV Consultation)
 
 ## Biography & Context
 
-Mihai Copaciu is identified as a key stakeholder in the 2025 IMF Article IV Consultation regarding Romania's economic performance. He was involved in the period of mission discussions and reporting (September–October 2025) focused on Romania's fiscal consolidation, inflation management, and structural reforms. His involvement relates to the assessment of Romania's "twin deficits," the banking system's sovereign-bank nexus, and the country's progress in absorbing EU funds.
+Mihai Copaciu is a key figure involved in Romania's economic policy and fiscal governance. He participated in the IMF staff discussions held in September 2025 regarding Romania's Article IV Consultation. These discussions focused on critical macroeconomic issues, including the implementation of a large fiscal reform package for 2025–26, which includes VAT rate increases and public sector wage freezes. Copaciu's involvement relates to the management of Romania's "twin deficits," efforts toward debt sustainability, and structural reforms aimed at improving labor force participation and accelerating the absorption of Next Generation EU (NGEU) funds.
 
 ## Collaborators
 
-[[Joong Shik Kang]], [[Ilie Bolojan]], [[Carlos Granados]], [[Mugur Isarescu]], [[Alexandru Nazare]]
+[[Joong Shik Kang]], [[Ilie Bolojan]], [[Mugur Isarescu]]

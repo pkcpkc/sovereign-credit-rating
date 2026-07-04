@@ -8,11 +8,10 @@ tags:
   - Sovereign Debt
   - Methodology
 assets:
-  - wiki/assets/2026-07-02/processed/overview.md
-  - wiki/assets/2026-07-02/sources/overview.md
+  - wiki/assets/2026-07-04/processed/overview.md
+  - wiki/assets/2026-07-04/sources/overview.md
 concepts:
   - Sovereign Credit Rating
-  - Institutional Assessment
   - Fiscal Flexibility
   - Contingent Liabilities
   - Exchange Rate Regime
@@ -26,47 +25,35 @@ persons:
 relationships: []
 times:
   - date: "2017"
-    title: S&P Sovereign Credit Rating Methodology Publication
+    event: Publication of S&P's methodology for sovereign credit rating
   - date: "2024"
-    title: Presentation by Alex Stomper at HU Berlin
-timestamp: 2026-07-02T06:54:08Z
+    event: Presentation by Alex Stomper at HU Berlin
+timestamp: 2026-07-04T14:16:15Z
 ---
 # Summary of: The S&P Rating Methodology - Overview
 
 ## Context Metadata
-*   **Source:** Presentation by Alex Stomper (HU Berlin, 2024) based on S&P's 2017 methodology.
-*   **Subject:** Analysis of the framework used to determine sovereign credit ratings.
-*   **Purpose:** To understand the components of S&P's rating process and identify areas where discretionary judgment limits replicability.
+- **Source:** Presentation by Alex Stomper (HU Berlin, 2024) based on S&P's 2017 methodology.
+- **Subject:** Analysis of the multi-dimensional framework used to determine sovereign credit ratings.
+- **Objective:** To deconstruct the components of S&P’s rating process and identify areas of subjective discretion.
 
 ## Executive Summary
-The document outlines the multi-dimensional framework used by S&P to assess sovereign creditworthiness. The methodology is divided into five core pillars: Institutional, Economic, External, Fiscal, and Monetary assessments. While the process provides a structured "indicative rating," it incorporates significant room for analyst discretion—particularly regarding "event risk" and subjective institutional stability—which poses challenges for the replicability of these ratings.
+The document outlines the comprehensive framework employed by S&P to assess sovereign creditworthiness. The methodology is divided into five primary pillars: Institutional, Economic, External, Fiscal, and Monetary assessments. While the process provides a structured approach to evaluating debt sustainability and economic health, the text highlights significant "room for discretionary judgment." Key areas of subjectivity include institutional stability, debt payment culture, and "supplemental adjustment factors" like event risk. The ultimate goal of the analysis is to evaluate the replicability of these ratings through a "Citizen Science" approach applied to European countries.
 
 ## Key Highlights
 
-### 🏛️ Institutional Assessment
-*   **Focus:** Evaluates government policymaking, transparency, and accountability.
-*   **Key Metrics:** Stability of policies, debt repayment culture, and external security risks (e.g., risk of war).
-*   **Adjustments:** Initial assessments are adjusted downward for weak debt payment cultures or looming security threats.
+### 1. Core Assessment Pillars
+- **Institutional Assessment:** Evaluates policymaking stability, transparency, and accountability. It is adjusted based on "debt payment culture" and external security risks (e.g., potential war).
+- **Economic Assessment:** Focuses on GDP per capita (tax base), growth prospects, and economic diversity/volatility.
+- **External Assessment:** Analyzes the country's position in international transactions, including currency status, external liquidity, and resident assets/liabilities.
+- **Fiscal Assessment:** The "heart" of the process; it evaluates "flows" (fiscal performance and flexibility) and "stocks" (debt burden and contingent liabilities).
+- **Monetary Assessment:** Measures the central bank's ability to maintain price stability, its independence, and the effectiveness of its exchange rate regime.
 
-### 📈 Economic Assessment
-*   **Focus:** Measures a country's capacity to generate tax revenue and sustain growth.
-*   **Key Metrics:** GDP per capita, growth prospects, economic diversity, and volatility.
+### 2. Fiscal and Debt Nuances
+- **Contingent Liabilities:** Includes financial institution risks (subject to BICRA), nonfinancial public-sector enterprises (NFPEs), and off-budget guarantees.
+- **Adjustment Factors:** The initial fiscal assessment is refined by accounting for specific liabilities and "supplemental" risks like extremely weak liquidity or very high institutional risk.
 
-### 🌍 External Assessment
-*   **Focus:** Evaluates the nation's position relative to the global economy.
-*   **Key Metrics:** Currency status in international transactions, external liquidity (foreign exchange generation), and the net asset/liability position of residents.
-
-### 💰 Fiscal Assessment (The "Heart" of the Process)
-*   **Structure:** Divided into "Flows" (fiscal performance/flexibility) and "Stocks" (debt burden).
-*   **Contingent Liabilities:** Analyzes risks from financial institutions (via BICRA), nonfinancial public-sector enterprises (NFPEs), and off-budget guarantees.
-*   **Flexibility:** Includes the ability to respond to shocks and the long-term sustainability of debt trends.
-
-### 🏦 Monetary Assessment
-*   **Focus:** The central bank's ability to maintain a balanced economy and manage shocks.
-*   **Key Metrics:** Exchange rate regimes, inflation trends, independence of the monetary authority, and the depth of domestic capital markets.
-
-### ⚖️ Discretion and Replicability
-*   **Subjectivity:** Criteria such as "cohesive civil society" and "policy predictability" are inherently subjective.
-*   **Override Authority:** Analysts can override indicative ratings by more than one notch based on "unspecified factors."
-*   **Supplemental Adjustments:** Factors like "event risk" and "extremely weak liquidity" are applied at analyst discretion.
-*   **Citizen Science Project:** A planned initiative to apply this methodology to European countries to document specific instances where the lack of replicability occurs.
+### 3. Discretionary Judgment and Replicability
+- **Subjective Criteria:** Terms like "cohesive civil society" and "predictability of policymaking" rely on analyst interpretation.
+- **Override Authority:** Analysts can override indicative ratings by more than one notch based on unspecified factors.
+- **Citizen Science Project:** A planned initiative to apply this methodology to European countries to document specific instances where the rating process lacks replicability.

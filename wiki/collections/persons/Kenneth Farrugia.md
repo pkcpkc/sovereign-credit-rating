@@ -1,31 +1,30 @@
 ---
-type: "Person"
-title: "Kenneth Farrugia"
-persons:
-  - Kenneth Farrugia
-relationships:
-  - personA: Mark Horton
-    relation: Approved report with
-    personB: Geremia Palomba
-  - personA: Kotaro Ishi
-    relation: Head of staff team
-    personB: Thomas Gade
-timestamp: 2026-07-02T13:06:21Z
+name: Kenneth Farrugia
+affiliations:
+  - relation: Involved in IMF Article IV Consultation discussions
+    person: IMF Executive Board
+  - relation: Involved in IMF Article IV Consultation discussions
+    person: Ministry of Finance and Employment (Malta)
+timestamp: 2026-07-04T15:58:29Z
 tags:
   - Economics
   - Finance
   - Malta
+  - IMF
+  - Fiscal Policy
 ---
 
 # Kenneth Farrugia
 
 ## Affiliations & Roles
 
-- Government Official/Representative of Malta (Contextual)
+- Participant in the IMF 2024 Article IV Consultation for Malta.
 
 ## Biography & Context
 
-Kenneth Farrugia is identified in the context of the IMF 2025 Malta Country Report - Article IV Consultation. He is involved in the economic policy discussions and reporting surrounding Malta's fiscal consolidation, tax reforms (specifically Corporate Income Tax alignment with EU Pillar II), and the transition toward a productivity-driven growth model. His role relates to the oversight of Malta's economic trajectory, including the management of energy subsidies and the implementation of the "Vision 2050" strategic initiative.
+Kenneth Farrugia is identified as a key stakeholder involved in the economic policy discussions and the 2024 Article IV Consultation for Malta conducted by the International Monetary Fund (IMF). These discussions, which took place in Valletta between November 4 and 15, 2024, focused on Malta's transition toward a productivity-driven growth model.
+
+Farrugia's involvement relates to critical national economic issues, including the phasing out of energy subsidies, the implementation of Corporate Income Tax (CIT) reforms aligned with EU Pillar II, and the management of significant real estate exposure within the banking sector. The overarching goal of these consultations is to support "Malta Vision 2050" by addressing infrastructure strain, labor shortages, and the necessity for green transition and judicial reform.
 
 ## Collaborators
 

@@ -1,16 +1,12 @@
 ---
-type: "Person"
-title: "Stijn Verhelst"
-persons:
-  - Stijn Verhelst
-relationships:
-  - personA: Stijn Verhelst
-    relation: Belgian Official
-    personB: Belgium Government
-timestamp: 2026-07-02T11:49:49Z
+name: Stijn Verhelst
+affiliations:
+  - relation: Participant in IMF Article IV Consultation
+    person: Belgium Authorities
+timestamp: 2026-07-04T15:28:31Z
 tags:
   - Belgium
-  - Finance
+  - Economics
   - IMF
 ---
 
@@ -18,12 +14,14 @@ tags:
 
 ## Affiliations & Roles
 
-- Official at [[Belgium Government]]
+- Representative of [[Belgium Authorities]] during IMF Article IV Consultation
 
 ## Biography & Context
 
-Stijn Verhelst is identified as a key representative of the Belgian authorities during the International Monetary Fund (IMF) 2025 Article IV Consultation. He was involved in high-level discussions regarding Belgium's fiscal sustainability, labor market reforms, and the country's 7-year adjustment plan under the EU Economic Governance Framework. The consultations focused on addressing structural challenges such as automatic wage indexation, public debt management (projected to reach 123% of GDP by 2030), and improving Total Factor Productivity (TFP).
+Stijn Verhelst is identified as a key representative of the Belgian authorities during the International Monetary Fund's (IMF) 2025 Article IV consultation. He participated in the high-level discussions held between January 22 and February 4, 2025, regarding Belgium's economic trajectory.
+
+The consultation involved assessing Belgium's fiscal sustainability, specifically the need for a seven-year adjustment period under the new EU economic governance framework. Verhelst was involved in discussions concerning structural reforms, including fiscal consolidation to reduce the deficit below 3% of GDP, managing public debt (which reached 104.1% of GDP in 2024), and addressing labor-market inefficiencies caused by automatic wage indexation.
 
 ## Collaborators
 
-[[Jan Jambon]], [[Jean-François Dauphin]]
+[[Mark Horton]], [[Koshy Mathai]], [[Jean-François Dauphin]], [[Yu Ching Wong]], [[Karen Coulibaly]], [[Jean-Jacques Hallaert]], [[Ed Hearne]], [[Xun Li]], [[Victoria Timonova]], [[Jeroen Clicq]], [[De Croo]], [[Wunsch]], [[Van Peteghem]], [[Bertrand]], [[Jan Jambon]], [[Sven Gatz]], [[Ben Weyts]]

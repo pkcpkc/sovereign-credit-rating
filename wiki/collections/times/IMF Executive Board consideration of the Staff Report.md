@@ -1,33 +1,14 @@
 ---
-type: "Times"
-title: "IMF Executive Board consideration of the Staff Report"
-times:
-  - date: 2025-05-14
-    title: Start of IMF staff discussions in Rome
-  - date: 2025-05-28
-    title: Conclusion of IMF staff discussions with Italian officials
-  - date: 2025-07-01
-    title: Completion of IMF Staff Report
-  - date: 2025-07-18
-    title: IMF Executive Board consideration of the Staff Report
-  - date: 2025-07-22
-    title: Press Release of Executive Board conclusion
-timestamp: 2026-07-02T12:48:05Z
-tags:
-  - IMF
-  - Italy
-  - Macroeconomics
-  - Fiscal Policy
-  - Debt Sustainability
+timestamp: 2026-07-04T16:19:28Z
+tags: [Economy, IMF, Hungary, Fiscal Policy]
 ---
 # IMF Executive Board consideration of the Staff Report
 
 ## Event Details
 
-The timeline for the **IMF 2025 Article IV Consultation - Italy** involved a series of key milestones culminating in the Executive Board's review:
+On August 29, 2025, the IMF Executive Board is scheduled to consider the Staff Report regarding Hungary's 2025 Article IV Consultation. This follows a series of key milestones:
+- **June 5, 2025:** Commencement of the IMF staff mission in Budapest.
+- **June 17, 2025:** Conclusion of formal discussions with Hungarian officials.
+- **July 25, 2025:** Completion of the IMF Staff Report.
 
-*   **May 14, 2025:** The process began with the start of IMF staff discussions in Rome to assess Italy's economic position.
-*   **May 28, 2025:** The IMF staff concluded their formal discussions with Italian officials.
-*   **July 1, 2025:** The IMF Staff Report was completed, detailing Italy's 0.7% growth in 2024, its primary surplus of 0.4%, and the status of the National Recovery and Resilience Plan (NRRP).
-*   **July 18, 2025:** The IMF Executive Board officially considered the Staff Report. The report highlighted a "Moderate" sovereign risk assessment despite high debt levels (135.3% of GDP) and emphasized the need for structural reforms to counter demographic headwinds.
-*   **July 22, 2025:** The IMF issued the Press Release regarding the Executive Board's conclusions, confirming the resilience of the Italian economy while recommending a more aggressive primary surplus target of 3% by 2027.
+The Board's consideration will focus on the "challenging juncture" of the Hungarian economy, specifically addressing stagnant output and inflation remaining above the 3% target. Key points of deliberation include the necessity of a high-quality fiscal adjustment (targeting a structural primary surplus of approximately 1.75% of GDP) and the maintenance of a tight monetary policy stance by the Magyar Nemzeti Bank (MNB) into 2026. The review will also weigh structural reform priorities such as reducing state aid distortions, transitioning away from fossil fuel subsidies, and governance reforms aimed at unlocking EU Cohesion funds.
