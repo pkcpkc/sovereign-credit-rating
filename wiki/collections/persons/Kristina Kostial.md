@@ -1,28 +1,24 @@
 ---
-type: "Person"
-title: "Kristina Kostial"
-persons:
-  - Kristina Kostial
-relationships:
-  - personA: Kristina Kostial
-    relation: IMF Staff Member
-    personB: Hungarian Government
-timestamp: 2026-07-02T12:15:18Z
+name: Kristina Kostial
+affiliations:
+  - relation: IMF Staff Member
+    person: Kristina Kostial
+timestamp: 2026-07-04T15:31:03Z
 tags:
   - IMF
+  - Economy
   - Hungary
-  - Macroeconomics
 ---
 
 # Kristina Kostial
 
 ## Affiliations & Roles
 
-- IMF Staff Member (involved in 2025 Article IV Consultation)
+- IMF Staff Member involved in the 2025 Article IV Consultation for Hungary.
 
 ## Biography & Context
 
-Kristina Kostial is associated with the International Monetary Fund (IMF) staff involved in the 2025 Article IV Consultation for Hungary. She contributed to the assessment of the Hungarian economy, which faced a "challenging juncture" marked by stagnant output and persistent inflation. Her work involved analyzing fiscal adjustments, monetary policy stances, and structural reforms necessary to address productivity gaps and sovereign-bank linkages within the Hungarian economic landscape.
+Kristina Kostial is associated with the International Monetary Fund (IMF) and participated in the 2025 Article IV Consultation for Hungary. Her work involved analyzing the Hungarian economy's "challenging juncture," characterized by stagnant output and persistent inflation. She contributed to the assessment of high-quality fiscal adjustments, debt sustainability, and the necessity of a tight monetary policy stance to anchor inflation. Her involvement included evaluating structural reforms related to firm dynamism, energy security, and governance to address Hungary's productivity gap.
 
 ## Collaborators
 

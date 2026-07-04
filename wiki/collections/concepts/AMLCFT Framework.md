@@ -1,30 +1,16 @@
 ---
-type: "Concept"
-title: "AML/CFT Framework"
-concepts:
-  - AML/CFT Framework
-  - National Risk Assessments
-  - Beneficial Ownership
-  - Judicial Reform
-timestamp: 2026-07-02T12:52:00Z
-tags:
-  - Finance
-  - Governance
-  - Regulation
+timestamp: 2026-07-04T14:27:46Z
+tags: [Finance, Governance, Regulation, Malta]
 ---
+
 # AML/CFT Framework
 
-The **AML/CFT Framework** (Anti-Money Laundering and Countering the Financing of Terrorism) refers to the set of laws, regulations, and procedures implemented by a jurisdiction to prevent criminals from disguising the origins of illegally obtained funds and to stop the financing of terrorist activities.
+The **AML/CFT Framework** (Anti-Money Laundering and Countering the Financing of Terrorism) refers to the regulatory and judicial structures designed to prevent illicit financial activities. 
 
-## Current Status in Malta
-As of the 2025 IMF Article IV Consultation, Malta has demonstrated significant progress in strengthening its AML/CFT infrastructure. Key developments include:
+In the context of Malta's economic landscape, as highlighted in the **IMF (2025) Malta Country Report**, the framework is a critical component of national governance and investor confidence. The report emphasizes that continued progress in the judicial system is necessary to support this framework, specifically regarding:
 
-*   **Beneficial Ownership:** Improved transparency and accessibility of information regarding the ultimate beneficial owners of entities.
-*   **National Risk Assessments:** Implementation of updated National Risk Assessments to identify and mitigate specific vulnerabilities within the Maltese financial system.
-*   **Governance & Judicial Reform:** Ongoing efforts to bolster the framework through judicial reforms, including strengthening the chief justice appointment process and enhancing overall court efficiency to increase investor confidence.
+*   **Judicial Efficiency:** Strengthening the justice system to improve the processing of cases related to financial crimes.
+*   **Governance:** Improving the appointment process of the chief justice to bolster international investor confidence.
+*   **Regulatory Oversight:** Ensuring that Malta's financial services—particularly the export-oriented online gaming and tourism sectors—remain compliant with international standards to mitigate risks of money laundering or terrorism financing.
 
-## Related Concepts
-*   [[Fiscal Policy]]
-*   [[Financial Stability]]
-*   [[Judicial Reform]]
-*   [[Corporate Income Tax (CIT)]]
+The integrity of this framework is essential for maintaining Malta's position in the global financial market and ensuring the stability of its service-oriented economy.

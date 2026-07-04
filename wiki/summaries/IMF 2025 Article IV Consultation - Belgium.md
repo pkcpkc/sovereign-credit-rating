@@ -4,20 +4,19 @@ title: IMF 2025 Article IV Consultation - Belgium
 tags:
   - IMF
   - Belgium
-  - Macroeconomics
+  - Economics
   - Fiscal Policy
   - Labor Market
-  - Financial Stability
 assets:
-  - wiki/assets/2026-07-02/processed/IMF (2025) Belgium Country Report.md
-  - wiki/assets/2026-07-02/sources/IMF (2025) Belgium Country Report.md
+  - wiki/assets/2026-07-04/processed/IMF (2025) Belgium Country Report.md
+  - wiki/assets/2026-07-04/sources/IMF (2025) Belgium Country Report.md
 concepts:
   - Fiscal Consolidation
   - Automatic Wage Indexation
   - Total Factor Productivity (TFP)
-  - Sovereign Risk
   - Macroprudential Policy
   - Green Transition
+  - Sovereign Risk
   - Capital Market Union
 countries:
   - Belgium
@@ -28,19 +27,20 @@ countries:
   - Spain
   - Portugal
   - Greece
+  - Austria
   - Luxembourg
   - Sweden
   - Slovakia
   - Slovenia
   - Hungary
-  - Ireland
-  - Austria
-  - Estonia
   - Latvia
   - Cyprus
   - Malta
   - Lithuania
+  - Estonia
   - Croatia
+  - Poland
+  - Denmark
 ratings: []
 persons:
   - Mark Horton
@@ -63,63 +63,46 @@ persons:
   - Ben Weyts
 relationships:
   - personA: Jean-François Dauphin
-    relation: Head of IMF Mission
+    relation: Head of IMF Staff Team
     personB: Belgium Authorities
-  - personA: Jan Jambon
-    relation: Deputy Prime Minister (Finance and Pensions)
-    personB: Belgium Government
+  - personA: Jeroen Clicq
+    relation: IMF Executive Director
+    personB: Belgium Authorities
 times:
   - date: 2024-06
-    event: Elections in Belgium
+    event: Belgian Federal Elections
   - date: 2024-09
     event: Expiration of one-year government bond
-  - date: 2024-12
-    event: Last Article IV Consultation conclusion
-  - date: 2025-01-22
   - date: 2025-02-04
-    event: End of IMF discussions with Belgian officials
+    event: Conclusion of discussions with Belgian officials
   - date: 2025-02-21
-    event: Concluding meeting with new DPM Jan Jambon
+    event: Virtual meeting with new DPM Jan Jambon
   - date: 2025-03-03
     event: Completion of IMF Staff Report
   - date: 2025-03-18
-    event: Executive Board conclusion of consultation
+    event: IMF Executive Board conclusion of consultation
   - date: 2025-03-20
-    event: Press release of consultation results
-timestamp: 2026-07-02T06:30:20Z
+    event: Press release of Article IV consultation results
+timestamp: 2026-07-04T13:54:06Z
 ---
 # Summary of: IMF 2025 Article IV Consultation - Belgium
 
 ## Context Metadata
 *   **Source:** International Monetary Fund (IMF)
-*   **Date of Release:** March 20, 2025
-*   **Subject:** Article IV Consultation with Belgium
-*   **Key Entities:** Belgian Federal Government, National Bank of Belgium (NBB), European Commission.
+*   **Report Date:** March 20, 2025
+*   **Subject Country:** Belgium
+*   **Consultation Period:** January 22 – February 4, 2025
+*   **Key Entities:** IMF Executive Board, Belgian Federal and Regional Governments, National Bank of Belgium (NBB).
 
 ## Executive Summary
-The IMF concludes its 2025 Article IV consultation with Belgium, noting an economy that has shown resilience to recent shocks but faces significant structural challenges. Key issues include slowing growth, persistent core inflation, and a declining labor-cost competitiveness driven by automatic wage indexation. The report emphasizes the urgent need for **sustained fiscal consolidation** to address a rising public debt (projected to reach 123% of GDP by 2030) and structural deficits caused by an aging population. The IMF supports the new government's 7-year adjustment plan under the EU Economic Governance Framework (EGF), provided it is accompanied by growth-enhancing reforms in labor markets, education, and product market dynamics.
+The IMF's 2025 Article IV consultation with Belgium highlights an economy that remains resilient despite successive shocks but faces significant structural headwinds. Key challenges include slowing growth, persistent core inflation, and declining labor-cost competitiveness due to automatic wage indexation. The report emphasizes the urgent need for **sustained fiscal consolidation** to bring the deficit below 3% of GDP and manage rising public debt, which reached 104.1% of GDP in 2024. The IMF recommends a seven-year adjustment period under the new EU economic governance framework (EGF), focusing on rationalizing social spending, preserving public investment in infrastructure and healthcare, and implementing structural reforms to boost labor participation and productivity.
 
 ## Key Highlights
 
-### 1. Fiscal Sustainability and Debt Management
-*   **Debt Outlook:** Public debt is among the highest in the euro area, projected to reach 123% of GDP by 2030 under current policies.
-*   **Consolidation Strategy:** The IMF supports a 7-year adjustment plan aimed at bringing the deficit below 3% of GDP. This requires an annual reduction in the structural primary balance of approximately 0.6 percentage points of GDP until 2031.
-*   **Spending Rationalization:** Consolidation should focus on rationalizing social benefits and the public wage bill while preserving/increasing public investment in infrastructure, healthcare, and education.
-
-### 2. Labor Market and Productivity
-*   **Wage Indexation:** The "automatic wage indexation" system is highlighted as a primary driver of fiscal deficits and a deterrent to international competitiveness. The IMF suggests considering the abolition of automatic indexation and the 1996 wage law.
-*   **Labor Participation:** Reforms are needed to widen the income gap between work and nonwork, limit unemployment benefit durations, and reduce hiring/dismissal costs to increase labor force participation.
-*   **Productivity Gap:** Belgium's Total Factor Productivity (TFP) growth lags behind peers. The IMF recommends reducing regulatory barriers to entry and improving the insolvency regime to foster a more dynamic firm environment.
-
-### 3. Financial Stability and External Sector
-*   **Systemic Risk:** Risks remain "moderate." The banking sector is resilient, supported by robust capital buffers and high-quality debt management (long average maturity).
-*   **Real Estate:** While residential risks have moderated, risks in the Commercial Real Estate (CRE) sector have increased due to contracting capital values and sharp drops in market activity.
-*   **External Position:** The 2024 external position was weaker than expected, though the current account deficit narrowed to 0.3% of GDP.
-
-### 4. Education and Green Transition
-*   **Education Efficiency:** Belgium spends significantly more on education (over 6% of GDP) than peers but faces lower student-teacher ratios and higher grade repetition rates. Reforms should align curricula with industry needs.
-*   **Climate Goals:** Significant effort is still required to meet 2030 targets. The IMF calls for a cohesive national strategy, carbon taxation, and the phasing out of fossil fuel subsidies.
-
-### 5. Structural Reforms
-*   **Taxation:** The government intends to shift the tax burden from labor to capital, introduce capital gains taxation, and reduce tax expenditures.
-*   **Pension Reform:** To counter aging pressures, the IMF supports raising the effective retirement age and reviewing eligibility for specific pension regimes.
+*   **[Fiscal Sustainability]** The IMF supports Belgium's intention to pursue a seven-year adjustment under the EGF. This requires an annual reduction in the structural primary balance of approximately 0.6 percentage points (ppt) of GDP until 2031.
+*   **[Spending Rationalization]** Consolidation should target the public wage bill and social benefits while protecting investment in education, healthcare, and the green transition.
+*   **[Labor & Productivity]** Reforms are needed to widen the income gap between work and non-work. The IMF specifically suggests reviewing the 1996 wage law and automatic indexation to improve labor-market efficiency and competitiveness.
+*   **[Financial Stability]** Systemic risks are assessed as moderate. The IMF advises maintaining current capital buffer requirements and prudential limits on mortgage loans while progressing with 2023 FSAP recommendations.
+*   **[Product Market Reform]** To address lagging Total Factor Productivity (TFP), Belgium should reduce regulatory barriers to entry and improve the insolvency regime to lower exit costs.
+*   **[Green Transition]** A coherent national strategy is required to meet climate targets, including carbon taxation and the phasing out of fossil fuel subsidies.
+*   **[Sovereign Risk]** Belgium’s risk of sovereign stress is "Moderate." While debt levels are high, the risk is mitigated by a high-quality debt management profile and a long average residual maturity (11.1 years).

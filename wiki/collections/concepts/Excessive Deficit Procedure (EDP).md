@@ -1,37 +1,24 @@
 ---
-type: "Concept"
-title: "Excessive Deficit Procedure (EDP)"
-concepts:
-  - Fiscal Consolidation
-  - Macroprudential Policy
-  - Productivity Growth
-  - Demographics
-  - Energy Security
-  - Digitalization
-  - Excessive Deficit Procedure (EDP)
-timestamp: 2026-07-02T13:40:09Z
-tags:
-  - Economics
-  - Fiscal Policy
-  - EU Law
+timestamp: 2026-07-04T14:29:53Z
+tags: [Economics, Fiscal Policy, European Union, Debt Sustainability]
 ---
+
 # Excessive Deficit Procedure (EDP)
 
-The **Excessive Deficit Procedure (EDP)** is a formal mechanism used by the European Union to ensure that member states adhere to the fiscal rules established by the Stability and Growth Pact (SGP). It is designed to prevent excessive government borrowing and to ensure that national fiscal policies are sustainable in the long term.
+The **Excessive Deficit Procedure (EDP)** is a fiscal surveillance mechanism used by the European Union to ensure that member states maintain sustainable public finances. It is designed to prevent countries from running excessively high budget deficits or accumulating unsustainable levels of public debt, which could threaten the stability of the Eurozone and the broader EU economy.
 
-## Key Characteristics and Context
-- **Trigger Mechanism:** The procedure is initiated when a member state's deficit exceeds the established thresholds (typically 3% of GDP) or when public debt levels are deemed unsustainable.
-- **Current Application:** In July 2024, the European Council initiated the EDP for the Slovak Republic, signaling concerns over fiscal sustainability and the need for structured correction.
-- **Fiscal Consolidation:** The EDP serves as a catalyst for [[Fiscal Consolidation]]. In the case of Slovakia, this involves a commitment to an ambitious 4-year fiscal consolidation plan (2025-2028) to reduce the headline deficit and stabilize public debt.
+## Contextual Application: Poland
+As of 2024, the Republic of Poland has been placed under the **Excessive Deficit Procedure (EDP)** due to a widening fiscal deficit, which reached an estimated **5.9% of GDP** in 2024. This expansion was primarily driven by:
+*   Permanent increases in public sector wages.
+*   High levels of defense spending.
 
-## Implications for Member States
-When a country is under the EDP, it is required to:
-1. **Develop Action Plans:** Submit specific measures to reduce deficits and debt levels.
-2. **Implement Structural Reforms:** Often involves expenditure-based measures, such as reducing subsidies and optimizing social spending.
-3. **Monitor Compliance:** The IMF and European authorities monitor the progress of these measures to ensure they align with long-term economic stability.
+## Fiscal Response and Mitigation
+To address the EDP status and ensure long-term stability, the Polish authorities have introduced a **Medium-Term Fiscal Structural Plan (MTFSP)**. The objectives of this plan include:
+*   **Deficit Reduction:** Targeting a reduction of the fiscal deficit to **2.9% of GDP by 2028**.
+*   **Debt Stabilization:** Aiming to stabilize the national debt at approximately **60% of GDP**.
+*   **Policy Rebalancing:** Shifting the policy mix from tight monetary policy toward fiscal consolidation to rebuild economic buffers.
 
-## Related Economic Factors
-The success of an EDP intervention is often tied to broader economic indicators, including:
-- **Productivity Growth:** Essential for sustaining economic output while reducing debt.
-- **Demographics:** Shrinking labor forces and aging populations can complicate fiscal planning.
-- **Financial Stability:** Ensuring that fiscal corrections do not destabilize the banking sector or real estate markets.
+## Related Concepts
+*   [[Next Generation EU (NGEU) Funds]]
+*   [[Debt Sustainability Analysis (DSA)]]
+*   [[Fiscal Policy]]

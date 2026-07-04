@@ -1,101 +1,37 @@
 ---
-type: Country
-title: Slovakia
-countries:
-  - Slovakia
-  - Austria
-  - Belgium
-  - Czechia
-  - France
-  - Germany
-  - Hungary
-  - Italy
-  - Luxembourg
-  - Netherlands
-  - Poland
-  - Romania
-  - Slovenia
-  - Spain
-  - Japan
-  - Canada
-  - United Kingdom
-  - United States
-  - Russia
-  - Croatia
-  - Portugal
-  - Greece
-  - Ireland
-  - Estonia
-  - Latvia
-  - Cyprus
-  - Malta
-  - Lithuania
-  - Sweden
-  - Denmark
-  - Bulgaria
-  - Latvia
-  - Czech Republic
-ratings: []
-timestamp: 2026-07-02T13:40:40Z
-tags:
-  - Economic Report
-  - European Commission
-  - Fiscal Policy
-  - Sustainability
-  - Labor Market
-  - Digitalization
-  - Energy Transition
-  - Economic Policy
-  - Fiscal Surveillance
-  - Innovation
-  - Rule of Law
-  - Judiciary
-  - Anti-Corruption
-  - Media Freedom
-  - Economy
-  - Monetary Policy
-  - Financial Stability
-  - IMF
-  - Macroeconomics
-  - Sovereign Risk
-  - Macroprudential Policy
-  - Capital Market Union
-  - Structural Reform
-  - Economics
+timestamp: 2026-07-04T15:17:15Z
+tags: [IMF, Economics, Fiscal Policy, Labor Market, Debt Sustainability, Structural Reforms, Central and Eastern Europe, Macroeconomics, Financial Stability]
 ---
 
 # Slovakia
 
 ## Credit Ratings
 
-| Agency | Rating | Outlook | Date |
-| :----- | :----- | :------ | :--- |
-| N/A | N/A | N/A | N/A |
+| Agency   | Rating   | Outlook   | Date   |
+| :------- | :------- | :-------- | :----- |
+| | | | |
 
 ## Economic Overview
 
-Slovakia is navigating a period of cautious growth and structural transition within the broader EU economic landscape. The economy grew by 2.1% in 2024, primarily driven by household and public consumption, though investment contracted. The outlook for 2025-2026 remains uncertain with forecasted GDP growth of 1.8% in 2025 and 2.1% in 2026, weighed down by trade tensions, high inflation, and regional geoeconomic fragmentation. 
+Slovakia is part of the IMF's 2025 Article IV Consultation framework, showing a recovering economy with growth accelerating to 2.0% in 2024, outpacing the euro area. Growth is projected to moderate to 1.8% in 2025 due to fiscal consolidation before rising to 2.1% in 2026. Inflation is expected to peak at 4.1% in 2025, moving toward a 2% target by 2027.
 
-The country faces a delicate balance between maintaining industrial competitiveness—particularly in manufacturing, which contributes 35% of national GHG emissions—and meeting aggressive greenhouse gas reduction targets. Slovakia is grappling with high capital costs, investment uncertainty, and a significant "skills gap" in green and digital transitions. While labor productivity recovery is struggling to keep pace with unit labor costs, the country is attempting to transition from a low-cost manufacturing model toward a high-value, innovation-driven economy. Current fiscal policy focuses on consolidation through tax increases (VAT, CIT, and a financial transaction tax) to manage a general government deficit projected at 4.9% of GDP in 2025 and a rising debt-to-GDP ratio expected to reach 63.0% by 2026.
-
-The government has committed to an ambitious 4-year fiscal consolidation plan (2025-2028) to reduce the headline deficit and stabilize public debt. The IMF suggests that additional measures totaling 3.1% of GDP will be needed over the next three years to meet long-term targets, specifically recommending expenditure-based measures like reducing subsidies and targeting social spending. Inflation is expected to rise temporarily to 4.1% in 2025 before reaching the 2% target by early 2027.
+The country is navigating significant structural headwinds, including a "secular decline" in labor productivity and high risks of automation. Key economic themes involve managing labor-cost competitiveness, improving Total Factor Productivity (TFP), and addressing regulatory barriers to product market competition. The government has committed to a 4-year fiscal consolidation plan (2025-2028) to reduce the headline deficit to 4.7% of GDP in 2025 and stabilize public debt. The financial sector remains resilient with high capital ratios and ample liquidity, though vulnerabilities persist in the residential and commercial real estate markets.
 
 ## Governance & Rule of Law
 
-Slovakia operates within the framework of European Commission fiscal and social policies, but faces significant challenges regarding institutional integrity. The 2025 Rule of Law Report highlights a complex landscape where legislative progress is tempered by regressions in judicial independence, media freedom, and anti-corruption efficacy. 
-
-Public and corporate trust in the judiciary remains low, with concerns that new "abuse of law" crime amendments create a chilling effect on independent decision-making. The efficiency of administrative courts has deteriorated significantly, with resolution times reaching 1,040 days in 2023. Anti-corruption efforts have been hampered by the dissolution of the National Crime Agency (NAKA) and the Special Prosecutor's Office (SPO), leading to a drop in corruption cases and a regression in the Corruption Perceptions Index (49/100). 
-
-Furthermore, the establishment of the new Slovak Television and Radio (STVR) entity is viewed as a regression in editorial independence. The government's frequent use of fast-track procedures for legislation (28 of 58 laws in 2024) often bypasses stakeholder consultation, while new legal frameworks impose heavy administrative burdens on NGOs. Issues persist regarding the judicial system's independence and the effectiveness of anti-corruption measures following the dismantling of specialized units in 2024. The IMF emphasizes the need for a new national anti-corruption strategy and strengthening judicial independence to improve the investment climate.
+The IMF highlights a need to strengthen judicial independence and anti-corruption frameworks in Slovakia, noting that perceptions of corruption have not improved significantly in recent years. Strengthening these institutional pillars is considered a key recommendation for long-term stability and economic health.
 
 ## Key Risks & Outlook
 
-Key risks include the broader regional trend of rising public debt-to-GDP ratios, high government deficits, and a persistent "brain drain" of highly skilled workers in healthcare, education, and construction. Slovakia faces the dual challenge of maintaining economic competitiveness while meeting aggressive greenhouse gas reduction targets by 2030, especially as high electricity and gas prices for energy-intensive industries remain among the highest in the EU. 
+The outlook for Slovakia is tempered by geoeconomic fragmentation, an aging population, and low productivity growth. A primary fiscal risk is the long-term rise in public debt due to aging-related costs; without permanent adjustments to the pension system, fiscal costs may become unsustainable. 
 
-The outlook is tied to the success of fiscal consolidation measures, the ability to attract investment despite high interest rates, and the successful navigation of structural transitions toward a greener, more digitally integrated economy. Significant hurdles remain in R&D intensity (currently 1%) and the digital infrastructure gap. Additionally, the country must address the "chilling effect" on the judiciary, the rising number of pending ECtHR judgments (33 as of June 2025), and the need to improve the safety and protection of journalists and whistleblowers. 
-
-From a financial perspective, while the banking sector remains well-capitalized with ample liquidity, risks persist in residential and commercial real estate markets due to high house prices and upcoming mortgage refixations. Regional stability is further threatened by potential trade measure escalations, regional conflicts, and the risk of suspended EU funding due to governance concerns.
+Key priorities for the country include:
+- **Fiscal Sustainability:** Shifting toward expenditure-based rationalization, such as reducing subsidies and targeting social spending.
+- **Structural Reforms:** Intensifying Active Labor Market Policies (ALMPs), increasing R&D spending, and deepening integration into the European single market.
+- **Green Transition:** Navigating the transition toward green energy and managing sovereign risk through high-quality debt management.
+- **Financial Oversight:** Monitoring the impact of the new Financial Transaction Tax (FTT) and refining macroprudential tools for real estate.
+- **Regional Dynamics:** Navigating geoeconomic fragmentation, managing sovereign-bank linkages, and addressing long-term demographic pressures.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Czechia]], [[Hungary]], [[Poland]], [[Lithuania]], [[Netherlands]], [[Sweden]], [[Denmark]], [[Romania]], [[Slovenia]], [[Decarbonisation]], [[Circular Economy]], [[Labor Productivity]], [[Excessive Deficit Procedure]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Public Procurement]], [[Schengen Area]], [[Tax Wedge]], [[Human Capital]], [[Green Transition]], [[Robert Fico]], [[Robert Kaliňák]], [[Judicial Independence]], [[PIF Directive]], [[Fast-track Procedure]], [[Public Service Media]], [[SLAPP]], [[Whistleblower Protection]], [[Conflict of Interest]], [[Asset Declaration]], [[Austria]], [[Spain]], [[Japan]], [[Canada]], [[United Kingdom]], [[United States]], [[Russia]], [[Croatia]], [[IMF]], [[Fiscal Consolidation]], [[Automatic Wage Indexation]], [[Total Factor Productivity (TFP)]], [[Sovereign Risk]], [[Macroprudential Policy]], [[Capital Market Union]], [[Bulgaria]], [[Article IV Consultation]], [[Structural Reform]], [[Oya Celasun]], [[Stefania Fabrizio]], [[Kažimír]], [[Kamenický]], [[Taraba]]
+[[IMF]], [[Fiscal Consolidation]], [[Total Factor Productivity (TFP)]], [[Green Transition]], [[Sovereign Risk]], [[Capital Market Union]], [[Debt Sustainability Analysis (DSA)]], [[Structural Reforms]], [[Poland]], [[Austria]], [[France]], [[Italy]], [[Germany]], [[Ukraine]], [[Hungary]], [[Czech Republic]], [[Lithuania]], [[Latvia]], [[Estonia]], [[Romania]], [[Slovenia]], [[Bulgaria]], [[Croatia]], [[Albania]], [[Bosnia and Herzegovina]], [[Montenegro]], [[Kosovo]], [[North Macedonia]], [[Serbia]], [[Macroprudential Policy]], [[Digitalization]], [[Energy Security]], [[AML/CFT]], [[Oya Celasun]], [[Stefania Fabrizio]], [[Kažimír]], [[Kamenický]], [[Taraba]], [[Saxegaard]], [[Mooi]], [[Kotera]], [[Bogmans]], [[Alasal]], [[Mitchell]], [[Ogawa]], [[Pampolina]], [[Hagara]]

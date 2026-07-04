@@ -1,17 +1,13 @@
 ---
-type: "Person"
-title: "Anke Weber"
-persons:
-  - Anke Weber
-relationships:
-  - personA: Anke Weber
-    relation: Head of Staff Team
-    personB: Hungary Authorities
-timestamp: 2026-07-02T12:16:04Z
+name: Anke Weber
+affiliations:
+  - relation: Head of Staff Team (Reporting to)
+    person: Jakree Koosakul
+timestamp: 2026-07-04T13:57:28Z
 tags:
   - IMF
   - Hungary
-  - Macroeconomics
+  - Economy
 ---
 
 # Anke Weber
@@ -22,8 +18,8 @@ tags:
 
 ## Biography & Context
 
-Anke Weber serves as the Head of Staff Team for the IMF's 2025 Article IV Consultation regarding Hungary. In this capacity, she oversaw the staff mission to Budapest and the subsequent preparation of the country report. Her work involved evaluating Hungary's economic challenges, including stagnant output, elevated inflation, and the necessity of fiscal adjustments. She played a key role in synthesizing recommendations for rebuilding fiscal buffers, maintaining a tight monetary stance, and implementing structural reforms to address productivity gaps and governance issues.
+Anke Weber served as the Head of the Staff Team for the IMF's 2025 Article IV Consultation regarding Hungary. In this capacity, she oversaw the analysis and production of the Staff Report, which evaluated Hungary's economic trajectory, fiscal adjustment requirements, and monetary policy stance. Her work involved coordinating the assessment of Hungary's debt sustainability, structural reform priorities—such as energy security and governance—and the risks posed by geoeconomic fragmentation.
 
 ## Collaborators
 
-[[Kristina Kostial]], [[Jacques Miniane]], [[Jakree Koosakul]], [[Moheb Malak]], [[Augustus Panton]], [[Atticus Weller]], [[Aleksandra Alferova]], [[Estefania Cohn Bech]], [[Ninfa Gonzales]], [[Rafael Machado Parente]], [[Hugo Rojas-Romagosa]], [[Gábor Meizer]], [[Dániel Palotai]], [[Márton Nagy]], [[Máté Lóga]], [[Bence Gerlaki]], [[Kornél Kisgergely]], [[Barnabás Virág]], [[Csaba Kandrács]], [[Zoltán Kurali]], [[Pál Péter Kolozsi]], [[András Bebes]], [[Szabolcs Ágostházy]], [[Károly Mátrai]], [[Réka Martini]], [[Gábor Horváth]], [[Attila Steiner]]
+[[Jakree Koosakul]], [[Kristina Kostial]], [[Jacques Miniane]], [[Moheb Malak]], [[Augustus Panton]], [[Atticus Weller]], [[Aleksandra Alferova]], [[Estefania Cohn Bech]], [[Ninfa Gonzales]], [[Rafael Machado Parente]], [[Hugo Rojas-Romagosa]], [[Gábor Meizer]], [[Dániel Palotai]], [[Márton Nagy]], [[Máté Lóga]], [[Bence Gerlaki]], [[Kornél Kisgergely]], [[Barnabás Virág]], [[Csaba Kandrács]], [[Zoltán Kurali]], [[Pál Péter Kolozsi]], [[András Bebes]], [[Szabolcs Ágostházy]], [[Károly Mátrai]], [[Réka Martini]], [[Gábor Horváth]], [[Attila Steiner]]

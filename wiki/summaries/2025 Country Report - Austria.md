@@ -2,87 +2,86 @@
 type: Summary
 title: 2025 Country Report - Austria
 tags:
-  - Economics
+  - Economic Analysis
+  - EU Commission
+  - Austria
   - Fiscal Policy
-  - Innovation
-  - Sustainability
-  - Labour Market
-  - Social Policy
+  - Labor Market
 assets:
-  - wiki/assets/2026-07-02/processed/EU Commission (2025) 2025 Country Report
+  - wiki/assets/2026-07-04/processed/EU Commission (2025) 2025 Country Report
     Austria.md
-  - wiki/assets/2026-07-02/sources/EU Commission (2025) 2025 Country Report
+  - wiki/assets/2026-07-04/sources/EU Commission (2025) 2025 Country Report
     Austria.md
 concepts:
-  - Total Factor Productivity (TFP)
-  - Tax Wedge
-  - Gross Fixed Capital Formation
-  - Net International Investment Position (NIIP)
-  - Energy Intensity
-  - E-health
+  - GDP Recession
+  - Fiscal Consolidation
+  - Labor Productivity
+  - Decarbonization
+  - Quantum Computing
+  - Digital Transformation
   - Circular Economy
-  - Decarbonisation
 countries:
   - Austria
   - Germany
   - USA
-  - Italy
   - Norway
+  - Italy
   - France
 ratings: []
 persons: []
 relationships: []
 times:
   - date: 2025-06-04
-    title: Publication of the 2025 Country Report - Austria
-  - date: "2019"
-    title: Austria loses cost competitiveness
+    event: Publication of 2025 Country Report - Austria
   - date: "2024"
-    title: Real disposable household incomes surpass 2008 peak
+    event: Austria experiences recession contracting by 1.2%
+  - date: "2023"
+    event: Austria experiences recession contracting by 1%
   - date: "2025"
-    title: Projected GDP fall of 0.3%
+    event: Expected GDP fall of 0.3%
+  - date: "2024"
+    event: OMV ends long-term gas supply contract with Gazprom
+  - date: "2027"
+    event: Envisaged completion of West-Austria-Gas pipeline (WAG Loop 1)
   - date: "2030"
-    title: Target for 100% renewable electricity and VHCN coverage
+    event: Target for 100% VHCN coverage and 1 GW electrolysis capacity
   - date: "2040"
-    title: Target for climate neutrality
-  - date: "2070"
-    title: Projected increase in public healthcare expenditure to 8.9% of GDP
-timestamp: 2026-07-02T05:24:39Z
+    event: Target for climate neutrality
+timestamp: 2026-07-04T12:32:18Z
 ---
 # Summary of: 2025 Country Report - Austria
 
 ## Context Metadata
-- **Source Document:** European Commission Staff Working Document (SWD(2025) 220 final)
-- **Publication Date:** June 4, 2025
-- **Subject:** Economic, social, employment, structural, and budgetary policies of Austria.
+*   **Source:** European Commission Staff Working Document (SWD(2025) 220 final).
+*   **Date:** June 4, 2025.
+*   **Subject:** Economic, social, employment, structural, and budgetary policies of Austria.
+*   **Scope:** Comprehensive analysis of Austria's current economic recession, fiscal position, innovation landscape, energy transition, and social fairness.
 
 ## Executive Summary
-Austria is currently navigating a three-year recession, with GDP expected to contract by 0.3% in 2025. The economic landscape is characterized by a decline in industrial production, broad-based cost pressures (particularly energy and labor), and a significant structural shortfall in skilled labor. While the labor market remains resilient, it faces demographic headwinds, including a shrinking working-age population and a high reliance on part-time work. Fiscal policy is focused on consolidation to address high deficits and rising age-related expenditures (pensions and healthcare). Innovation remains a strength, but Austria struggles to translate R&D into high-impact business dynamism. Key priorities include accelerating the green transition, reducing administrative "red tape," and improving the tax mix to move away from heavy labor taxation toward more growth-friendly bases.
+Austria is navigating a three-year recession (2023–2025) characterized by industrial weakness, high unit labor costs, and stagnant private consumption. While the labor market remains resilient, it is hampered by significant skills shortages and a declining working-age population. The government is pursuing fiscal consolidation to address high deficits driven by inflation and aging-related costs (pensions and healthcare). Key strategic priorities include accelerating the green transition (decarbonization), enhancing business dynamism through reduced bureaucracy, and improving social fairness by addressing child poverty and the gender employment gap.
 
 ## Key Highlights
 
-### Economic & Fiscal Developments
-*   **Recessionary Trend:** Austria is projected to face its third consecutive year of recession in 2025, following contractions of 1.2% (2024) and 1% (2023).
-*   **Fiscal Consolidation:** The government aims to achieve savings of EUR 6.4 billion in 2025 and EUR 8.4 billion in 2026 to manage a deficit that remains above the treaty threshold.
-*   **Cost Pressures:** Nominal unit labor costs have risen 10% more than the Euro area average since 2019, significantly impacting industrial competitiveness.
-*   **Inflation Dynamics:** After peaking at 8.6% in 2022, inflation is expected to remain above 2% in 2025 (projected 2.9%) due to the phase-out of energy relief measures.
+### Economic Overview & Fiscal Policy
+*   **Recessionary Trend:** GDP is expected to contract by 0.3% in 2025, following declines in 2023 and 2024.
+*   **Cost Competitiveness:** Austria has lost competitiveness since 2019, with nominal unit labor costs 16.5% higher than the euro area average in 2024.
+*   **Fiscal Consolidation:** The government aims to save EUR 6.4 billion in 2025 and EUR 8.4 billion in 2026 to address a deficit that exceeded the treaty threshold in 2024.
+*   **Expenditure Pressures:** Public spending is heavily influenced by inflation-indexed pensions and healthcare costs, with age-related spending projected to reach 30% of GDP by 2070.
 
 ### Innovation & Business Environment
-*   **R&D Excellence:** Austria ranks high in R&D intensity (3.29% of GDP in 2023), yet it lags behind innovation leaders in translating these investments into business dynamism and "breakthrough" technologies.
-*   **Regulatory Barriers:** High administrative burdens and complex permitting procedures (often taking 22-23 months for industrial projects) remain significant obstacles to private investment.
-*   **Risk Capital Gap:** The venture capital market is underdeveloped, with a heavy reliance on bank loans hindering the growth of fast-growing SMEs and start-ups.
+*   **Innovation Paradox:** Despite high R&D expenditure (3.29% of GDP in 2023), Austria struggles with business dynamism and high-impact breakthrough innovation.
+*   **Regulatory Barriers:** High administrative burdens and complex permitting procedures (often taking 22-23 months) act as significant hurdles to private investment.
+*   **Start-up Ecosystem:** The new "Flexible Kapitalgesellschaft" (FlexCo) form was introduced to simplify share issuance and support growth-oriented startups.
+*   **Digital Infrastructure:** While 5G coverage is high (96%), VHCN coverage in rural areas remains one of the lowest in the EU.
 
-### Energy & Decarbonisation
-*   **Renewable Leadership:** Austria achieved a record 87% renewable electricity generation in 2024 but faces grid expansion challenges, requiring an estimated EUR 53 billion in investments by 2040.
-*   **Energy Security:** The country successfully diversified gas supplies following the termination of Russian imports in early 2025, securing supplies from Norway, Germany, and Italy.
-*   **Industrial Decarbonisation:** Manufacturing remains a major polluter (35% of emissions); the report calls for faster implementation of measures to decarbonize energy-intensive sectors.
+### Energy & Decarbonization
+*   **Renewable Leadership:** Austria generated 87% of its electricity from renewables in 2024, but faces grid expansion challenges and high energy prices for industrial users.
+*   **Energy Security:** Transition from Russian gas is complete, with imports secured from Norway, Germany, and Italy.
+*   **Industrial Decarbonization:** Manufacturing remains a primary source of emissions; Austria needs to accelerate the phase-out of fossil fuel subsidies and improve energy efficiency.
+*   **Circular Economy:** Austria produces the highest waste per capita in the EU (803 kg), necessitating higher investment in circularity and resource productivity.
 
-### Labour Market & Social Fairness
-*   **Skills Shortages:** A high vacancy rate (3.6% in 2024) and a shortage of ICT and care specialists are major bottlenecks for growth.
-*   **Working Hours:** Average weekly hours worked are declining due to a rise in part-time employment, particularly among highly educated women.
-*   **Poverty Risks:** While the AROPE rate remains below the EU average, severe material deprivation has doubled since 2022, with single parents and migrants facing the highest risks.
-*   **Ageing Population:** Public spending on age-related items is projected to reach 30% of GDP by 2070, posing a significant long-term fiscal risk.
-
-### Infrastructure & Digitalisation
-*   **Digital Maturity:** Austria performs well in mobile-friendly public services and 5G coverage (96%) but lags in rural gigabit infrastructure.
-*   **Housing Affordability:** While house prices stabilized in 2024, they remain overvalued by approximately 15%, with a standard price-to-income ratio that has risen 22% since 2015.
+### Labor Market & Social Fairness
+*   **Skills Shortages:** Vacancy rates remain high (3.6%), with a critical shortage of ICT specialists and skilled workers in the green transition.
+*   **Working Hours:** Average weekly hours worked are declining due to a rise in part-time work, particularly among highly educated women.
+*   **Gender & Poverty:** Austria faces a significant gender pay gap (18.3%) and a high AROPE rate for single parents (45.3%).
+*   **Education:** Underachievement in basic skills among disadvantaged pupils and a shortage of teachers (due to an aging workforce) are critical long-term risks.

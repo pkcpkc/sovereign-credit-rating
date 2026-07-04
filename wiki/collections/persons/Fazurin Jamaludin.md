@@ -1,34 +1,27 @@
 ---
-type: "Person"
-title: "Fazurin Jamaludin"
-persons:
-  - Fazurin Jamaludin
-relationships:
-  - personA: Joong Shik Kang
-    relation: Head of mission team
-    personB: Ilie Bolojan
-  - personA: Carlos Granados
-    relation: Senior Regional Resident Representative
-    personB: Mugur Isarescu
-timestamp: 2026-07-02T13:25:03Z
+name: Fazurin Jamaludin
+affiliations:
+  - relation: IMF Staff Member (Article IV Consultation)
+    person: Romania
+timestamp: 2026-07-04T16:06:41Z
 tags:
   - IMF
-  - Romania
   - Macroeconomics
+  - Romania
 ---
 
 # Fazurin Jamaludin
 
 ## Affiliations & Roles
 
-- IMF Staff / Mission Member (associated with the 2025 Article IV Consultation for Romania)
+- IMF Staff Member involved in the 2025 Article IV Consultation for Romania.
 
 ## Biography & Context
 
-Fazurin Jamaludin is identified as a key participant in the International Monetary Fund's (IMF) 2025 Article IV Consultation regarding Romania. This mission was tasked with evaluating Romania's economic performance, specifically addressing the "twin deficits" (fiscal and current account), high inflation rates driven by energy price cap removals, and the country's progress toward fiscal consolidation. 
+Fazurin Jamaludin is a professional associated with the International Monetary Fund (IMF), specifically involved in the 2025 Article IV Consultation for Romania. As part of the IMF staff, Jamaludin contributed to the assessment of Romania's macroeconomic stability, focusing on fiscal consolidation, inflation management, and the resilience of the banking sector.
 
-The consultation involved assessing Romania's transition toward a low-carbon economy, the resilience of its banking system in relation to the "sovereign-bank nexus," and the administrative bottlenecks hindering the absorption of Next Generation EU (NGEU) funds.
+The work involved analyzing Romania's "twin deficits," the impact of VAT rate increases, and the sustainability of public debt. Jamaludin's role included evaluating the transition to a low-carbon economy, labor market participation rates, and the absorption of Next Generation EU (NGEU) funds.
 
 ## Collaborators
 
-[[Joong Shik Kang]], [[Ilie Bolojan]], [[Carlos Granados]], [[Mugur Isarescu]], [[Alexandru Nazare]]
+[[Helge Berger]], [[Bergljot Barkbu]], [[Joong Shik Kang]], [[Ezequiel Cabezon]], [[Nan Geng]], [[Carlos Granados]], [[Georgia Babici]], [[Mihai Copaciu]], [[Tina Kang]], [[Cheryl Li]], [[Maciej Onoszko]], [[Ilie Bolojan]], [[Alexandru Nazare]], [[Mugur Isarescu]]

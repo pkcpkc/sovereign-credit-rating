@@ -1,34 +1,18 @@
 ---
-type: "Times"
-title: "Presentation by Alex Stomper at HU Berlin"
-times:
-  - date: "2017"
-    title: S&P Sovereign Credit Rating Methodology Publication
-  - date: "2024"
-    title: Presentation by Alex Stomper at HU Berlin
-timestamp: 2026-07-02T14:11:01Z
-tags:
-  - Finance
-  - Economics
-  - Credit Ratings
-  - Sovereign Debt
-  - Methodology
+timestamp: 2026-07-04T16:32:44Z
+tags: [Finance, Economics, Credit Ratings, Sovereign Debt, Methodology]
 ---
 # Presentation by Alex Stomper at HU Berlin
 
 ## Event Details
 
-**2017: S&P Sovereign Credit Rating Methodology Publication**
-S&P released its comprehensive methodology for determining sovereign credit ratings. The framework established five core pillars for assessment:
-*   **Institutional Assessment:** Focuses on policy transparency, debt repayment culture, and external security risks.
-*   **Economic Assessment:** Measures GDP per capita, growth prospects, and economic diversity.
-*   **External Assessment:** Evaluates currency status, external liquidity, and net asset/liability positions.
-*   **Fiscal Assessment:** Analyzes "Flows" (fiscal flexibility) and "Stocks" (debt burden), including contingent liabilities from financial institutions (via BICRA) and off-budget guarantees.
-*   **Monetary Assessment:** Evaluates central bank independence, exchange rate regimes, and inflation trends.
+In 2024, [[Alex Stomper]] delivered a presentation at HU Berlin regarding the S&P rating methodology for sovereign credit ratings. The session provided a deep dive into the multi-dimensional framework used to assess sovereign creditworthiness, which was originally established in 2017.
 
-**2024: Presentation by Alex Stomper at HU Berlin**
-Alex Stomper presented an analysis of the S&P methodology, highlighting the tension between the structured "indicative rating" and the significant room for analyst discretion. Key points of the presentation included:
-*   **Subjectivity in Ratings:** Criteria such as "cohesive civil society" and "policy predictability" are inherently subjective.
-*   **Analyst Override Authority:** Analysts possess the authority to override indicative ratings by more than one notch based on "unspecified factors" or "event risk."
-*   **Replicability Challenges:** The presentation identified significant hurdles in replicating these ratings due to the discretionary nature of supplemental adjustments.
-*   **Citizen Science Project:** A planned initiative was discussed to apply the methodology to European countries specifically to document and map instances where a lack of replicability occurs.
+The presentation deconstructed the five primary pillars of S&P's assessment:
+- **Institutional Assessment:** Evaluating policymaking stability, transparency, and "debt payment culture."
+- **Economic Assessment:** Analyzing GDP per capita, growth prospects, and economic diversity.
+- **External Assessment:** Reviewing international transaction positions, currency status, and external liquidity.
+- **Fiscal Assessment:** Examining both "flows" (fiscal performance and flexibility) and "stocks" (debt burden and contingent liabilities).
+- **Monetary Assessment:** Measuring central bank independence and price stability.
+
+A significant portion of the presentation focused on the "room for discretionary judgment" within the methodology, specifically regarding subjective criteria like "cohesive civil society" and the authority of analysts to override indicative ratings. The context also introduced a "Citizen Science" project aimed at applying this methodology to European countries to identify areas where the rating process lacks replicability.

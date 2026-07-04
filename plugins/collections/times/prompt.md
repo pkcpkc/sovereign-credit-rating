@@ -24,14 +24,16 @@ $SUMMARY_CONTENT
 
 Ensure your output matches this exact structure.
 
+```markdown
 ---
-[YAML frontmatter matching the Schema Specification above. Ensure type is "Times", title is "$VALUE", timestamp is "$TIMESTAMP", and other fields match the schema.]
+$SCHEMA
 ---
 # $VALUE
 
 ## Event Details
 
 [Chronological event narrative synthesized from summaries...]
+```
 
 ## Instructions
 Merge the details from the summary context into the existing times page for `$VALUE`.

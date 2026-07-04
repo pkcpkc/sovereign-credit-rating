@@ -1,38 +1,13 @@
 ---
-type: Times
-title: Start of IMF Staff Mission in Budapest
-timestamp: 2026-07-02T12:24:23Z
-times:
-  - date: 2025-06-05
-    title: Start of IMF Staff Mission in Budapest
-  - date: 2025-06-17
-    title: Conclusion of IMF Staff Discussions with Hungarian Officials
-  - date: 2025-07-25
-    title: Completion of IMF Staff Report
-  - date: 2025-08-29
-    title: IMF Executive Board Consideration of Hungary Report
-  - date: "2025"
-    title: Projected GDP Growth of 0.7%
-  - date: "2026"
-    title: Projected GDP Growth of 2.0%
-  - date: "2027"
-    title: Targeted Inflation Return to 3.0%
-  - date: "2030"
-    title: Projected Debt-to-GDP Ratio of 79%
-tags:
-  - IMF
-  - Hungary
-  - Macroeconomics
+timestamp: 2026-07-04T16:18:35Z
+tags: [Economy, IMF, Hungary, Fiscal Policy, Monetary Policy]
 ---
-# Start of IMF Staff Mission in Budapest
+# Start of IMF staff mission in Budapest
 
 ## Event Details
 
-The IMF initiated a staff mission in Budapest on **2025-06-05** to conduct an Article IV Consultation regarding the Hungarian economy. This mission was led by a staff team headed by [[Anke Weber]], who engaged in extensive discussions with Hungarian authorities, including the Ministry for National Economy and the [[Magyar Nemzeti Bank (MNB)]].
+On June 5, 2025, the IMF staff mission commenced in Budapest to conduct an Article IV Consultation for Hungary. The mission, led by staff team head [[Anke Weber]], was initiated to assess Hungary's economic trajectory during a "challenging juncture" characterized by stagnant output and inflation exceeding the central bank's 3% target.
 
-Key milestones during this period included:
-- **2025-06-17**: Conclusion of official staff discussions with Hungarian officials, including [[Márton Nagy]] (Minister of National Economy) and [[Barnabás Virág]] (Deputy Central Bank Governor).
-- **2025-07-25**: Completion of the formal IMF Staff Report, which highlighted a "challenging juncture" for Hungary characterized by stagnant output and elevated inflation.
-- **2025-08-29**: The IMF Executive Board considered the final report, which projected a modest GDP recovery of 0.7% in 2025 and 2.0% in 2026.
+The mission's primary objectives included evaluating the country's fiscal adjustment needs—specifically the requirement for a structural primary surplus of approximately 1.75% of GDP to address elevated public debt—and analyzing the [[Magyar Nemzeti Bank]]'s tight monetary policy stance. Key areas of inquiry included debt sustainability, the sovereign-bank nexus, and structural reforms related to firm dynamism and energy security.
 
-The mission's findings emphasized the need for a cumulative fiscal adjustment of approximately 2% of GDP between 2025-2028 to bring the headline deficit below 3% by 2027. It also underscored structural reforms to address productivity gaps, governance issues, and the need for a restrictive monetary stance (currently 6.5%) to anchor inflation expectations toward a 3.0% target by 2027. Long-term projections suggest a public debt-to-GDP ratio of 79% by 2030.
+The mission involved high-level discussions with Hungarian officials, including [[Márton Nagy]] and [[Máté Lóga]], to address productivity gaps, geoeconomic fragmentation risks, and the transition toward renewable energy. The findings from this mission culminated in the IMF Staff Report, which provides a roadmap for fiscal consolidation and structural reforms to unlock EU funding and ensure long-term economic stability.

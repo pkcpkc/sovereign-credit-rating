@@ -1,29 +1,31 @@
 ---
-type: "Person"
-title: "Wunsch"
-persons:
-  - Wunsch
-relationships:
-  - personA: Wunsch
-    relation: Member of Belgian Government
-    personB: Belgium Government
-timestamp: 2026-07-02T11:50:24Z
+name: Wunsch
+affiliations:
+  - relation: Belgian Government Official
+    person: Belgium Authorities
+timestamp: 2026-07-04T15:29:11Z
 tags:
   - Belgium
-  - Government
-  - IMF
+  - Economics
+  - Fiscal Policy
 ---
 
 # Wunsch
 
 ## Affiliations & Roles
 
-- Government Official at [[Belgium Government]]
+- Government Official involved in the [[IMF 2025 Article IV Consultation - Belgium]]
 
 ## Biography & Context
 
-Wunsch is identified as a key figure within the Belgian government context during the 2025 IMF Article IV Consultation. The individual is associated with the federal government's economic and fiscal management, specifically during a period of significant structural reform aimed at addressing public debt, labor market competitiveness, and the "automatic wage indexation" system.
+Wunsch is identified as a key representative of the Belgian authorities during the IMF's 2025 Article IV consultation. This consultation, which took place between January 22 and February 4, 2025, focused on Belgium's economic resilience, fiscal sustainability, and structural reforms. 
+
+During this period, Wunsch was part of the official delegation engaged with the IMF Staff Team to discuss critical economic issues, including:
+- **Fiscal Consolidation:** Addressing the need to bring the deficit below 3% of GDP and managing public debt which reached 104.1% in 2024.
+- **Labor Market Reforms:** Discussions regarding automatic wage indexation and the 1996 wage law to improve labor-market efficiency.
+- **Productivity & Growth:** Strategies to address lagging Total Factor Productivity (TFP) and regulatory barriers.
+- **Green Transition:** Coordinating national strategies for carbon taxation and fossil fuel subsidy phase-outs.
 
 ## Collaborators
 
-[[Jan Jambon]], [[De Croo]], [[Ben Weyts]]
+[[Mark Horton]], [[Koshy Mathai]], [[Jean-François Dauphin]], [[Yu Ching Wong]], [[Karen Coulibaly]], [[Jean-Jacques Hallaert]], [[Ed Hearne]], [[Xun Li]], [[Victoria Timonova]], [[Jeroen Clicq]], [[Stijn Verhelst]], [[De Croo]], [[Van Peteghem]], [[Bertrand]], [[Jan Jambon]], [[Sven Gatz]], [[Ben Weyts]]

@@ -1,43 +1,60 @@
 ---
-type: Person
-title: Helge Berger
-persons:
-  - Helge Berger
-relationships:
-  - personA: Lone Christiansen
-    relation: Head of IMF Staff Team
-    personB: Italy
-  - personA: Riccardo Ercoli
-    relation: Executive Director for Italy
-    personB: Italy
-  - personA: Joong Shik Kang
-    relation: Head of mission team
-    personB: Ilie Bolojan
-  - personA: Carlos Granados
-    relation: Senior Regional Resident Representative
-    personB: Mugur Isarescu
-timestamp: 2026-07-02T13:23:08Z
+name: Helge Berger
+affiliations:
+  - relation: Approver
+    person: Rishi Goyal
+  - relation: Colleague/Collaborator
+    person: Bergljot Barkbu
+  - relation: Colleague/Collaborator
+    person: Joong Shik Kang
+  - relation: Colleague/Collaborator
+    person: Ezequiel Cabezon
+  - relation: Colleague/Collaborator
+    person: Nan Geng
+  - relation: Colleague/Collaborator
+    person: Fazurin Jamaludin
+  - relation: Colleague/Collaborator
+    person: Carlos Granados
+  - relation: Colleague/Collaborator
+    person: Georgia Babici
+  - relation: Colleague/Collaborator
+    person: Mihai Copaciu
+  - relation: Colleague/Collaborator
+    person: Tina Kang
+  - relation: Colleague/Collaborator
+    person: Cheryl Li
+  - relation: Colleague/Collaborator
+    person: Maciej Onoszko
+  - relation: Colleague/Collaborator
+    person: Ilie Bolojan
+  - relation: Colleague/Collaborator
+    person: Alexandru Nazare
+  - relation: Colleague/Collaborator
+    person: Mugur Isarescu
+  - relation: Colleague/Collaborator
+    person: Mr. Clicq
+timestamp: 2026-07-04T16:04:33Z
 tags:
   - IMF
-  - Italy
-  - Romania
   - Macroeconomics
   - Fiscal Policy
-  - Debt Sustainability
+  - Romania
+  - Monetary Policy
 ---
 
 # Helge Berger
 
 ## Affiliations & Roles
 
-- Associated with the IMF 2025 Article IV Consultation reports for both Italy and Romania.
+- Approver for [[Rishi Goyal]] at the International Monetary Fund (IMF)
+- Involved in the IMF 2025 Article IV Consultation for Romania
 
 ## Biography & Context
 
-Helge Berger is identified as a key stakeholder or participant in the IMF's 2025 Article IV Consultations. His work involves assessing complex economic landscapes, specifically regarding Italy's fiscal performance—including primary surplus achievements, debt sustainability (135.3% of GDP), and the National Recovery and Resilience Plan (NRRP)—and Romania's economic trajectory. 
+Helge Berger is associated with the International Monetary Fund (IMF), specifically involved in the oversight and approval processes related to country reports. His role includes reviewing and approving work conducted by staff members, such as [[Rishi Goyal]], regarding macroeconomic assessments and fiscal policy evaluations. 
 
-His involvement encompasses navigating structural challenges such as low productivity growth, demographic headwinds, and financial sector stability (e.g., the Systemic Risk Buffer in Italy). Additionally, his context includes monitoring Romania's fiscal consolidation efforts, "twin deficits," inflationary pressures driven by energy price caps, and the structural reforms required to absorb EU funds (NGEU) while managing the sovereign-bank nexus.
+He is also associated with the IMF's 2025 Article IV Consultation for Romania, which focused on fiscal consolidation, inflation management, and banking sector resilience. This work involved evaluating the Romanian government's fiscal reform package, addressing "twin deficits," and assessing the sovereign-bank nexus and labor market participation.
 
 ## Collaborators
 
-[[Lone Christiansen]], [[Riccardo Ercoli]], [[Rishi Goyal]], [[Thomas Elkjaer]], [[Gee Hee Hong]], [[Yueling Huang]], [[Sylwia Nowak]], [[Alain Kabundi]], [[Carolina Claver]], [[Annalisa Korinthios]], [[Yao Deng]], [[Emily Fisher]], [[Jenny Lee]], [[Giorgetti]], [[Bergljot Barkbu]], [[Joong Shik Kang]], [[Ezequiel Cabezon]], [[Nan Geng]], [[Fazurin Jamaludin]], [[Carlos Granados]], [[Georgia Babici]], [[Mihai Copaciu]], [[Tina Kang]], [[Cheryl Li]], [[Maciej Onoszko]], [[Ilie Bolojan]], [[Alexandru Nazare]], [[Mugur Isarescu]]
+[[Rishi Goyal]], [[Bergljot Barkbu]], [[Joong Shik Kang]], [[Ezequiel Cabezon]], [[Nan Geng]], [[Fazurin Jamaludin]], [[Carlos Granados]], [[Georgia Babici]], [[Mihai Copaciu]], [[Tina Kang]], [[Cheryl Li]], [[Maciej Onoszko]], [[Ilie Bolojan]], [[Alexandru Nazare]], [[Mugur Isarescu]], [[Mr. Clicq]]

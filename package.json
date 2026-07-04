@@ -1,0 +1,20 @@
+{
+  "name": "sovereign-credit-rating-wiki",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "sync": "mm sync .",
+    "sync:verbose": "mm sync . --verbose",
+    "sync:pr": "mm sync . --pr",
+    "resync": "mm resync .",
+    "resync:verbose": "mm resync . --verbose",
+    "overviews": "mm overviews .",
+    "publish": "mm publish . ./dist/site",
+    "serve": "mm serve .",
+    "serve:dist": "mm serve ./dist/site",
+    "check": "mm check-plugins"
+  },
+  "dependencies": {
+    "mycelium-mind": "file:../mycelium-mind"
+  }
+}

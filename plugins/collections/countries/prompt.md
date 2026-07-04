@@ -2,12 +2,6 @@
 
 You are an expert knowledge extraction agent. Your task is to create or merge information into a Country sovereign profile card.
 
-## Schema Specification
-
-```schema
-$SCHEMA
-```
-
 ## Context
 
 - Country Name: $VALUE
@@ -28,16 +22,26 @@ $SUMMARY_CONTENT
 
 Ensure your output matches this exact structure.
 
+## Instructions
+
+Merge the details from the summary context into the existing country profile for `$VALUE`.
+
+- If the existing country content is empty, generate a new Country page from scratch matching the Target Output Format template exactly.
+- If the page already exists, merge the new details, ratings, and economic data without overwriting existing content. Update the Credit Ratings table with any new rating actions.
+- All internal links must be simple Obsidian wikilinks (e.g. `[[European Commission]]`).
+- Output ONLY the valid markdown content. Do not include markdown code block wraps.
+
+```markdown
 ---
-[YAML frontmatter matching the Schema Specification above. Ensure type is "Country", title is "$VALUE", timestamp is "$TIMESTAMP", and other fields match the schema.]
+$SCHEMA
 ---
 
 # $VALUE
 
 ## Credit Ratings
 
-| Agency | Rating | Outlook | Date |
-| :----- | :----- | :------ | :--- |
+| Agency   | Rating   | Outlook   | Date   |
+| :------- | :------- | :-------- | :----- |
 | [Agency] | [Rating] | [Outlook] | [Date] |
 
 ## Economic Overview
@@ -55,12 +59,4 @@ Ensure your output matches this exact structure.
 ## Related Entities
 
 [[Person A]], [[Concept B]], [[Related Country]]
-
-## Instructions
-
-Merge the details from the summary context into the existing country profile for `$VALUE`.
-
-- If the existing country content is empty, generate a new Country page from scratch matching the Target Output Format template exactly.
-- If the page already exists, merge the new details, ratings, and economic data without overwriting existing content. Update the Credit Ratings table with any new rating actions.
-- All internal links must be simple Obsidian wikilinks (e.g. `[[European Commission]]`).
-- Output ONLY the valid markdown content. Do not include markdown code block wraps.
+```

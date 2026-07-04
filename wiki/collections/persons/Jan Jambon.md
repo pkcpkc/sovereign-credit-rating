@@ -1,31 +1,25 @@
 ---
-type: "Person"
-title: "Jan Jambon"
-persons:
-  - Jan Jambon
-relationships:
-  - personA: Jan Jambon
-    relation: Deputy Prime Minister (Finance and Pensions)
-    personB: Belgium Government
-timestamp: 2026-07-02T11:51:05Z
+name: Jan Jambon
+affiliations:
+  - relation: Deputy Prime Minister (DPM) of Belgium
+    person: Belgium Authorities
+timestamp: 2026-07-04T15:30:08Z
 tags:
   - Belgium
-  - Finance
   - Government
+  - Economics
 ---
 
 # Jan Jambon
 
 ## Affiliations & Roles
 
-- Deputy Prime Minister (Finance and Pensions) at [[Belgium Government]]
+- Deputy Prime Minister (DPM) of Belgium
 
 ## Biography & Context
 
-Jan Jambon serves as the Deputy Prime Minister of Belgium, specifically overseeing the Finance and Pensions portfolios. He is a key figure in the Belgian government's economic management, notably involved in discussions with the International Monetary Fund (IMF) regarding Belgium's fiscal trajectory. 
-
-In early 2025, Jambon was central to the concluding meetings with IMF officials regarding the 2025 Article IV Consultation. His role involves navigating complex structural challenges, including the management of high public debt (projected to reach 123% of GDP by 2030), the reform of the automatic wage indexation system, and the implementation of a 7-year fiscal adjustment plan aimed at reducing the national deficit.
+Jan Jambon serves as a key figure in the Belgian government, notably holding the position of Deputy Prime Minister. In early 2025, he participated in high-level economic consultations with the International Monetary Fund (IMF). Specifically, on February 21, 2025, he held a virtual meeting with the IMF to discuss Belgium's economic trajectory, including fiscal consolidation efforts, labor market reforms (such as addressing automatic wage indexation), and the country's transition toward green energy and fiscal sustainability under the new EU economic governance framework.
 
 ## Collaborators
 
-[[Belgium Government]], [[Jean-François Dauphin]]
+[[Jean-François Dauphin]], [[Jeroen Clicq]], [[De Croo]], [[Wunsch]], [[Van Peteghem]], [[Bertrand]], [[Sven Gatz]], [[Ben Weyts]]

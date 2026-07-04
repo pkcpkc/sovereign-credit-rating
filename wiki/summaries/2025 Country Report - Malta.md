@@ -2,83 +2,81 @@
 type: Summary
 title: 2025 Country Report - Malta
 tags:
-  - Economic Policy
-  - Sustainability
-  - Labor Market
+  - Economic Report
+  - European Commission
+  - Malta
   - Fiscal Policy
-  - EU Governance
+  - Sustainability
 assets:
-  - wiki/assets/2026-07-02/processed/EU Commission (2025) 2025 Country Report
+  - wiki/assets/2026-07-04/processed/EU Commission (2025) 2025 Country Report
     Malta.md
-  - wiki/assets/2026-07-02/sources/EU Commission (2025) 2025 Country Report
+  - wiki/assets/2026-07-04/sources/EU Commission (2025) 2025 Country Report
     Malta.md
 concepts:
-  - Real GDP Growth
-  - Net Expenditure
-  - Product Market Regulation
-  - R&D Intensity
-  - Carbon Rate
-  - Water Exploitation Index (WEI+)
-  - Venture Capital
-  - Digital Decade
-  - Sustainable Development Goals
+  - GDP Growth
+  - Fiscal Sustainability
+  - Renewable Energy
+  - Skills Mismatch
+  - Aggressive Tax Planning
+  - Circular Economy
+  - Digital Transformation
 countries:
   - Malta
   - Italy
+  - Luxembourg
   - Germany
   - United Kingdom
-  - Luxembourg
 ratings: []
 persons: []
 relationships: []
 times:
-  - date: 2024-01-01
-    title: GDP adjusted for inflation grew 6.0%
-  - date: 2025-01
-    title: Forecasted GDP growth of 4.1%
-  - date: 2026-01
-    title: Forecasted GDP growth of 4.0%
   - date: 2025-06-04
-    title: Publication of the 2025 Country Report
-  - date: 2025-08-31
-    title: Deadline for RRP measure completion
-timestamp: 2026-07-02T05:51:18Z
+    event: Publication of 2025 Country Report - Malta
+  - date: "2024"
+    event: Real GDP growth of 6.0% in Malta
+  - date: "2025"
+    event: Forecasted Real GDP growth of 4.1%
+  - date: "2026"
+    event: Forecasted Real GDP growth of 4.0%
+  - date: "2023"
+    event: R&D intensity at 0.64% of GDP
+  - date: "2030"
+    event: Target for national poverty reduction and renewable energy goals
+timestamp: 2026-07-04T12:58:55Z
 ---
 # Summary of: 2025 Country Report - Malta
 
 ## Context Metadata
-- **Source Document**: European Commission Staff Working Document SWD(2025) 218 final.
-- **Reporting Period**: 2024 (Outturn) and Forecasts for 2025-2026.
-- **Core Objective**: Assessment of Malta's economic, social, employment, structural, and budgetary policies, including progress on the Recovery and Resilience Plan (RRP).
+*   **Source:** European Commission (SWD(2025) 218 final)
+*   **Date:** June 4, 2025
+*   **Scope:** Economic, social, employment, structural, and budgetary policies of Malta.
+*   **Key Focus Areas:** Fiscal sustainability, labor market shortages, energy transition, and innovation.
 
 ## Executive Summary
-Malta's economy maintains strong momentum, characterized by high employment rates (83.0% in 2024) and robust GDP growth. However, the report highlights systemic challenges: acute labor shortages (reported by 68.5% of service employers), very low R&D investment (0.64% of GDP), and significant regulatory burdens that rank Malta among the weakest performers in the EU. While fiscal indicators are improving—with the deficit projected to fall to 2.8% of GDP by 2026—Malta faces long-term fiscal pressures from an aging population and high healthcare costs. Sustainability remains a critical hurdle, with low renewable energy uptake (16.7% in 2024), high fossil fuel subsidies, and severe water stress. The report emphasizes the need for structural reforms in education to address skills mismatches, judicial efficiency to reduce business uncertainty, and aggressive measures to decarbonize the transport sector.
+The Maltese economy demonstrates robust growth momentum, driven by strong domestic demand and a thriving services sector (tourism, IT, and financial services). While the country maintains a high employment rate (83.0%) and a stabilizing debt-to-GDP ratio, it faces significant structural hurdles. These include acute labor shortages in high-skill sectors, a substantial gap in R&D investment (the second lowest in the EU), and high administrative burdens for businesses. Additionally, Malta faces critical environmental challenges, including water scarcity, high municipal waste generation, and a slow transition to renewable energy. The report highlights the need for targeted reforms in skills development, green energy infrastructure, and tax transparency to ensure long-term competitiveness and social fairness.
 
 ## Key Highlights
 
-### Economic Growth and Fiscal Policy
-- **Growth Momentum**: Real GDP grew by 6.0% in 2024, with continued expansion expected at 4.1% (2025) and 4.0% (2026).
-- **Fiscal Consolidation**: The general government deficit is projected to decrease from 3.7% (2024) to 2.8% (2026).
-- **Debt Sustainability**: The debt-to-GDP ratio is expected to stabilize below 50% by 2026.
-- **Expenditure Management**: Net expenditure growth in 2025 is forecast at a modest 0.8%, though cumulative growth over 2024-2025 exceeds Council recommendations.
+### 📈 Economic Growth & Fiscal Position
+*   **Growth Momentum:** Real GDP grew by 6.0% in 2024 and is projected to expand by 4.1% in 2025 and 4.0% in 2026.
+*   **Deficit Reduction:** The general government deficit is expected to fall from 3.7% of GDP in 2024 to 2.8% by 2026.
+*   **Debt Stability:** The debt-to-GDP ratio is projected to stabilize below 50% by 2026.
+*   **Fiscal Risks:** Age-related spending (pensions and healthcare) is projected to rise significantly, potentially straining long-term fiscal sustainability.
 
-### Labor Market and Social Fairness
-- **High Employment, High Vacancy**: Malta maintains one of the EU's highest employment rates (83%), yet faces a job-vacancy rate of 2.9% (Q4 2024), driven by severe shortages in ICT, construction, and healthcare.
-- **Demographic Pressure**: Rapid population growth (34% increase since 2003) has led to the highest population density in the EU, creating housing affordability crises.
-- **Inequality**: While overall poverty is below the EU average, non-EU nationals and persons with disabilities face significantly higher risks of social exclusion.
-- **Education Gaps**: One in three 15-year-olds lacks basic skills in math, reading, and science; STEM enrollment remains critically low at 13.9%.
+### 🏗️ Competitiveness & Innovation
+*   **Skills Shortages:** 68.5% of employers in the services sector report labor shortages, significantly higher than the EU average (24.1%).
+*   **R&D Underinvestment:** Malta’s R&D intensity is only 0.64% of GDP, far below the EU average of 2.24%.
+*   **Regulatory Burden:** Malta ranks as one of the weakest performers in the EU regarding "administrative and regulatory burden" for businesses.
+*   **Judicial Inefficiency:** The average duration for civil and commercial cases remains high (454 days in 2023), impacting business investment.
 
-### Business Environment and Innovation
-- **Regulatory Burden**: Malta ranks as one of the weakest performers in the EU regarding Product Market Regulation (PMR) and administrative burdens for businesses.
-- **Innovation Deficit**: R&D intensity (0.64% of GDP) is the second lowest in the EU, hampered by a lack of skilled researchers and underdeveloped venture capital.
-- **Judicial Delays**: Civil and commercial cases at first instance average 454 days, creating uncertainty for private investment.
+### 🌿 Sustainability & Energy Transition
+*   **Slow Renewable Uptake:** Renewables accounted for only 17% of Malta’s electricity mix in 2024, compared to the EU average of 47%.
+*   **Fossil Fuel Subsidies:** Environmentally harmful subsidies represented 1.6% of GDP in 2023, exceeding the EU weighted average.
+*   **Waste Management:** Malta generates 606 kg of municipal waste per capita, with a recycling rate (17.1%) far below the EU average (48%).
+*   **Water Stress:** High demand from tourism and agriculture has led to a Water Exploitation Index (WEI+) of 34.1%, indicating over-use of freshwater resources.
 
-### Sustainability and Climate Resilience
-- **Energy Transition**: Renewables account for only 16.7% of the electricity mix (vs. EU average of 47%). Fossil fuel subsidies remain high at 1.6% of GDP.
-- **Water Scarcity**: Malta is over-using freshwater resources, with a Water Exploitation Index (WEI+) of 34.1%, exacerbated by agriculture and tourism demands.
-- **Waste Management**: Municipal waste generation is among the highest in the EU (606 kg/capita), with a recycling rate of only 17.1%.
-- **Transport Emissions**: Road transport is a primary polluter; only 3% of the vehicle fleet uses alternative fuels.
-
-### Recovery and Resilience Plan (RRP)
-- **Implementation Progress**: Malta has fulfilled 39% of RRP milestones and targets as of mid-2025.
-- **Funding Status**: 50.7% of grants have been disbursed, with a focus on green transition, digital transformation, and healthcare.
+### 👥 Social Fairness & Labor Market
+*   **Employment Gaps:** Despite high overall employment, Malta maintains one of the widest gender employment gaps in the EU (13.4 pps).
+*   **Poverty Risks:** While overall poverty is below the EU average, non-EU nationals and persons with disabilities face significantly higher risks.
+*   **Education Quality:** One-third of 15-year-olds lack basic skills in math, reading, and science; participation in STEM subjects remains one of the lowest in the EU.
+*   **Workplace Safety:** Fatal workplace accidents in Malta are significantly higher than the EU average (3.34 per 100,000 workers).

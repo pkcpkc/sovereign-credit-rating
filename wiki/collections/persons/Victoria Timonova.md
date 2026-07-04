@@ -1,29 +1,25 @@
 ---
-type: "Person"
-title: "Victoria Timonova"
-persons:
-  - Victoria Timonova
-relationships:
-  - personA: Victoria Timonova
-    relation: IMF Staff Member
-    personB: Belgium Authorities
-timestamp: 2026-07-02T11:49:14Z
+name: Victoria Timonova
+affiliations:
+  - relation: IMF Staff Member
+    person: International Monetary Fund
+timestamp: 2026-07-04T15:27:55Z
 tags:
   - IMF
+  - Economics
   - Belgium
-  - Macroeconomics
 ---
 
 # Victoria Timonova
 
 ## Affiliations & Roles
 
-- IMF Staff Member at [[International Monetary Fund]]
+- IMF Staff at [[International Monetary Fund]]
 
 ## Biography & Context
 
-Victoria Timonova is an IMF staff member involved in the 2025 Article IV Consultation with Belgium. Her work contributes to the analysis of the Belgian economy, specifically focusing on fiscal sustainability, labor market dynamics (including automatic wage indexation), and structural reforms required to manage public debt and improve Total Factor Productivity.
+Victoria Timonova is associated with the International Monetary Fund (IMF), specifically involved in the 2025 Article IV Consultation regarding Belgium. Her work contributed to the analysis of Belgium's economic resilience, fiscal consolidation strategies, and structural reforms. The consultation focused on addressing challenges such as slowing growth, core inflation, and labor-cost competitiveness issues related to automatic wage indexation. Her involvement touched upon critical policy areas including sovereign risk assessment, green transition strategies, and the implementation of the new EU economic governance framework (EGF).
 
 ## Collaborators
 
-[[Jean-François Dauphin]], [[Jan Jambon]], [[Mark Horton]], [[Koshy Mathai]]
+[[Mark Horton]], [[Koshy Mathai]], [[Jean-François Dauphin]], [[Yu Ching Wong]], [[Karen Coulibaly]], [[Jean-Jacques Hallaert]], [[Ed Hearne]], [[Xun Li]], [[Jeroen Clicq]], [[Stijn Verhelst]], [[De Croo]], [[Wunsch]], [[Van Peteghem]], [[Bertrand]], [[Jan Jambon]], [[Sven Gatz]], [[Ben Weyts]]

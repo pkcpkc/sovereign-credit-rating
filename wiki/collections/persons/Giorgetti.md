@@ -1,34 +1,30 @@
 ---
-type: "Person"
-title: "Giorgetti"
-persons:
-  - Giorgetti
-relationships:
-  - personA: Riccardo Ercoli
-    relation: Executive Director for Italy
-    personB: Italy
-  - personA: Lone Christiansen
-    relation: Head of IMF Staff Team
-    personB: Italy
-timestamp: 2026-07-02T12:45:18Z
+name: Giorgetti
+affiliations:
+  - relation: Italian Official (Negotiator)
+    person: Riccardo Ercoli
+  - relation: Italian Official (Negotiator)
+    person: Annalisa Korinthios
+timestamp: 2026-07-04T15:50:35Z
 tags:
   - Italy
   - Finance
-  - Economy
+  - Economics
+  - IMF
 ---
 
 # Giorgetti
 
 ## Affiliations & Roles
 
-- Italian official involved in IMF Article IV Consultation discussions (implied context)
+- Italian Government Official involved in IMF Article IV Consultations.
 
 ## Biography & Context
 
-Giorgetti is a key figure in the Italian economic landscape, involved in the 2025 Article IV Consultation with the International Monetary Fund (IMF). During the staff discussions held in Rome between May and July 2025, Giorgetti was part of the Italian delegation engaged with the IMF to address critical fiscal and structural issues.
+Giorgetti is a key figure in the Italian government's economic management, specifically involved in high-level fiscal and structural policy discussions with international bodies. In 2025, Giorgetti participated in the IMF Staff Discussions in Rome (May 2025) regarding Italy's economic outlook and fiscal consolidation efforts. 
 
-The discussions focused on Italy's economic resilience, characterized by a return to a primary surplus and record-high employment. Giorgetti's role involves navigating the challenges of high public debt (135.3% of GDP), low productivity growth, and severe demographic headwinds. Key policy areas under consideration include the rationalization of tax expenditures, the implementation of the National Recovery and Resilience Plan (NRRP), and measures to boost human capital and female labor force participation.
+His role involves navigating the complexities of Italy's National Recovery and Resilience Plan (NRRP) implementation, managing sovereign debt dynamics, and addressing structural headwinds such as productivity growth and demographic challenges. He is part of the leadership team coordinating with the IMF to establish primary surplus targets and modernization reforms for the Italian economy.
 
 ## Collaborators
 
-[[Riccardo Ercoli]], [[Lone Christiansen]]
+[[Riccardo Ercoli]], [[Annalisa Korinthios]], [[Signorini]]

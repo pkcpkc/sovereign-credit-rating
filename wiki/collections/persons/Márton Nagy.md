@@ -1,13 +1,9 @@
 ---
-type: "Person"
-title: "Márton Nagy"
-persons:
-  - Márton Nagy
-relationships:
-  - personA: Márton Nagy
-    relation: Minister of National Economy
-    personB: Hungarian Government
-timestamp: 2026-07-02T12:20:31Z
+name: Márton Nagy
+affiliations:
+  - relation: Minister (Superior to)
+    person: Máté Lóga
+timestamp: 2026-07-04T15:38:10Z
 tags:
   - Hungary
   - Government
@@ -18,12 +14,12 @@ tags:
 
 ## Affiliations & Roles
 
-- Minister of National Economy at [[Hungarian Government]]
+- Minister at the Hungarian Ministry for National Economy
 
 ## Biography & Context
 
-Márton Nagy serves as the Minister of National Economy for the Hungarian Government. In his capacity as a key government official, he is a primary point of contact for international financial institutions regarding Hungary's macroeconomic stability and fiscal policy. He participated in the IMF Staff Mission in Budapest (June 2025) to discuss the country's economic recovery, debt sustainability, and necessary structural reforms.
+Márton Nagy serves as a key government official in Hungary, holding the position of Minister. He was a primary stakeholder during the 2025 IMF Article IV Consultation, representing the Hungarian government's position on fiscal policy, debt sustainability, and structural reforms. During the IMF staff mission in Budapest (June 2025), he was involved in high-level discussions regarding the country's economic outlook, including strategies to manage elevated public debt, address stagnant output, and implement structural reforms to improve the business environment and unlock EU Cohesion funds.
 
 ## Collaborators
 
-[[Hungarian Government]], [[IMF]]
+[[Máté Lóga]], [[Bence Gerlaki]]

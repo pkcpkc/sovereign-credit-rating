@@ -2,96 +2,83 @@
 type: Summary
 title: 2025 Country Report - Slovakia
 tags:
-  - Economic Policy
-  - Fiscal Surveillance
+  - Economic Development
+  - Fiscal Policy
   - Sustainability
   - Labor Market
   - Innovation
 assets:
-  - wiki/assets/2026-07-02/processed/EU Commission (2025) 2025 Country Report
+  - wiki/assets/2026-07-04/processed/EU Commission (2025) 2025 Country Report
     Slovakia.md
-  - wiki/assets/2026-07-02/sources/EU Commission (2025) 2025 Country Report
+  - wiki/assets/2026-07-04/sources/EU Commission (2025) 2025 Country Report
     Slovakia.md
 concepts:
   - R&D Intensity
-  - Tax Wedge
-  - Digital Decade
-  - Decarbonisation
-  - Public Procurement
-  - Human Capital
+  - Unit Labour Costs
+  - Fiscal Sustainability
+  - Digital Decade Targets
+  - Net International Investment Position (NIIP)
+  - Circular Economy
   - Green Transition
 countries:
   - Slovakia
   - Austria
   - Belgium
   - Czechia
+  - Croatia
+  - Denmark
+  - Estonia
+  - Finland
   - France
   - Germany
+  - Greece
   - Hungary
+  - Ireland
   - Italy
+  - Latvia
+  - Lithuania
   - Luxembourg
+  - Malta
   - Netherlands
   - Poland
+  - Portugal
   - Romania
   - Slovenia
+  - Spain
+  - Sweden
 ratings: []
 persons: []
 relationships: []
 times:
+  - date: 2024-01-01
+    event: Fiscal consolidation package approved by Slovak Parliament
+  - date: 2024-10-01
+    event: New Public Procurement Act effective date
+  - date: 2025-01-01
+    event: Implementation of new adult education law
   - date: 2025-06-04
-    title: Publication of 2025 Country Report
-  - date: "2024"
-    title: Economic growth of 2.1%
-  - date: "2025"
-    title: Forecasted GDP growth of 1.5%
-  - date: "2026"
-    title: Forecasted GDP growth of 1.4%
-  - date: 2025-01-21
-    title: Council adoption of fiscal and structural plans
-  - date: 2025-06-30
-    title: Deadline for Social Climate Plan submission
-timestamp: 2026-07-02T06:07:21Z
+    event: Report Publication Date
+timestamp: 2026-07-04T13:14:10Z
 ---
 # Summary of: 2025 Country Report - Slovakia
 
 ## Context Metadata
-- **Source:** European Commission (SWD(2025) 225 final)
-- **Date:** June 4, 2025
-- **Scope:** Economic, social, employment, structural, and budgetary policies of Slovakia.
-- **Key Focus Areas:** Competitiveness, Fiscal Sustainability, Innovation, Green Transition, and Social Fairness.
+*   **Source Document:** European Commission Staff Working Document (SWD(2025) 225 final)
+*   **Publication Date:** June 4, 2025
+*   **Subject:** Economic, social, employment, structural, and budgetary policies of Slovakia.
+*   **Key Objective:** Evaluation of Slovakia's competitiveness, innovation gap, fiscal sustainability, and progress toward Sustainable Development Goals (SDGs).
 
 ## Executive Summary
-Slovakia's economy grew by 2.1% in 2024, primarily driven by household and public consumption, though investment contracted. The outlook for 2025-2026 remains uncertain due to trade tensions, high government deficits, and a persistent shortage of skilled labor. While the unemployment rate reached historic lows in 2024, structural weaknesses—including an innovation gap, a fragmented governance structure, and a high tax wedge on lower-income earners—hinder long-term productivity. 
+Slovakia's economy grew by 2.1% in 2024, driven primarily by household and public consumption, though investment contracted following a peak in EU fund absorption. The report highlights a deteriorating competitive position caused by low labor productivity growth, a widening innovation gap with the EU, and a significant drop in Foreign Direct Investment (FDI). While the job market remains tight with record-low unemployment (5.1% in Q3-2024), the country faces severe worker shortages in healthcare and education, alongside significant skills mismatches. 
 
-Fiscal policy is undergoing consolidation through tax increases (VAT, CIT, and a new financial transaction tax), but high spending on pensions and healthcare due to an aging population poses long-term sustainability risks. To remain competitive, Slovakia must accelerate its Recovery and Resilience Plan (RRP), improve its business environment by simplifying regulations, and transition from a low-cost manufacturing model toward a high-value, innovation-driven economy focused on green technologies and digital infrastructure.
+Fiscal sustainability is a primary concern; despite consolidation efforts (VAT and corporate tax increases), the government deficit remains high, and debt-to-GDP is projected to rise to 63.0% by 2026. Structural weaknesses include a fragmented governance structure, an underdeveloped capital market, and a business environment ranked as one of the least favorable in the EU. The report calls for urgent reforms in the tax system, R&D investment, digital infrastructure, and anti-corruption measures to foster a diversified, resilient, and inclusive economy.
 
 ## Key Highlights
 
-### Economic Outlook & Competitiveness
-- **Growth Uncertainty:** GDP growth is forecast at 1.5% in 2025 and 1.4% in 2026, weighed down by trade tensions and high inflation (expected to rise to 4.0% in 2025).
-- **Productivity Gap:** Labor productivity recovery is failing to keep pace with unit labor costs, exacerbated by a significant innovation gap compared to other EU countries.
-- **Investment Barriers:** High levels of regulatory uncertainty, fragmented local governance, and limited access to capital markets hinder private and public investment.
-
-### Fiscal Policy & Sustainability
-- **Deficit Management:** The general government deficit is projected to decrease slightly to 4.9% of GDP in 2025, but remains elevated due to permanent spending measures (e.g., 13th pension payment).
-- **Debt Projections:** Government debt-to-GDP is expected to rise from 59.3% (2024) to 63.0% by 2026.
-- **Tax Reform:** The new tax mix aims to be fairer by introducing value-based property taxation and reducing the high tax wedge on lower-income earners, while increasing VAT to 23%.
-
-### Innovation & Digitalization
-- **R&D Underperformance:** Slovakia’s R&D intensity is at 1%, significantly below the EU average of 2.2%.
-- **Digital Infrastructure:** Only 69.12% of households have very high-capacity networks in 2023, falling short of EU targets.
-- **AI Adoption:** While AI adoption among businesses saw a 53% increase in 2024, it remains below the EU average of 13.48%.
-
-### Labor Market & Social Fairness
-- **Skills Shortage:** Severe shortages exist in healthcare, education, and construction, compounded by a "brain drain" of highly skilled workers.
-- **Social Inclusion:** The marginalized Roma community faces a 53.4% unemployment rate, highlighting the need for targeted active labor market policies.
-- **Education Challenges:** Slovakia has some of the highest underachievement rates in the EU for students in mathematics, reading, and science.
-
-### Energy & Green Transition
-- **Decarbonization:** Manufacturing contributes 35% of Slovakia's GHG emissions, the highest in the EU.
-- **Renewable Energy:** Renewables accounted for only 24% of the electricity mix in 2024, well below the EU average of 47%.
-- **Energy Costs:** High electricity and gas prices for energy-intensive industries (among the highest in the EU) hinder industrial competitiveness.
-
-### Governance & Rule of Law
-- **Institutional Integrity:** Concerns persist regarding the judicial system's independence and the effectiveness of anti-corruption measures following the dismantling of specialized units in 2024.
-- **Regulatory Burden:** Slovakia ranks among the least favorable business environments in the EU due to rapid, often uncoordinated, legislative changes.
+*   **Economic Outlook & Competitiveness [ECON]:** GDP growth is forecast at 1.5% for 2025. Competitiveness is hindered by unit labor costs rising faster than productivity and a persistent shortage of skilled labor.
+*   **Fiscal Strategy & Debt [FISC]:** The government deficit is projected to remain high (5.1% in 2026). Aging population trends suggest pension spending could reach 11.3% of GDP by 2070, creating long-term fiscal pressure.
+*   **Innovation & Digitalization [INNO]:** Slovakia's R&D intensity (1%) is significantly below the EU average (2.2%). SME digital intensity (62.9%) also lags behind the EU target of 72.9%.
+*   **Business Environment [BIZ]:** Slovakia ranks as having the worst conditions for doing business in the EU due to complex administrative procedures and rapid, often unconsulted, legislative changes.
+*   **Energy & Decarbonization [ENV]:** Manufacturing accounts for 35% of emissions (highest in the EU). The transition to electric vehicles is slow, with only 2.9% of new registrations being zero-emission in 2023.
+*   **Labor Market & Social Fairness [SOC]:** While unemployment is low, youth and long-term unemployment remain high. The marginalized Roma community faces extreme exclusion, with a 53.4% unemployment rate in 2022.
+*   **Healthcare & Education [EDU]:** Slovakia has some of the highest rates of treatable mortality in the EU. The education system faces a severe teacher shortage and underperformance in basic skills (math/reading) among students.

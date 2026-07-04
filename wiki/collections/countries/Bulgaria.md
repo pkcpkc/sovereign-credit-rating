@@ -1,69 +1,28 @@
 ---
-type: Country
-title: Bulgaria
-countries:
-  - France
-  - Austria
-  - Belgium
-  - Bulgaria
-  - Croatia
-  - Cyprus
-  - Czechia
-  - Denmark
-  - Estonia
-  - Finland
-  - Germany
-  - Greece
-  - Hungary
-  - Ireland
-  - Italy
-  - Latvia
-  - Lithuania
-  - Luxembourg
-  - Malta
-  - Netherlands
-  - Poland
-  - Portugal
-  - Romania
-  - Slovakia
-  - Slovenia
-  - Spain
-  - Sweden
-  - Ukraine
-ratings: []
-timestamp: 2026-07-02T13:54:17Z
-tags:
-  - Economic Report
-  - European Commission
-  - Fiscal Policy
-  - Sustainability
-  - Labor Market
+timestamp: 2026-07-04T15:21:42Z
+tags: [Economics, Fiscal Policy, Monetary Policy, IMF, Debt Sustainability, Regional Integration]
 ---
 
 # Bulgaria
 
 ## Credit Ratings
 
-| Agency | Rating | Outlook | Date |
-| :----- | :----- | :------ | :--- |
-| N/A | N/A | N/A | N/A |
+| Agency   | Rating   | Outlook   | Date   |
+| :------- | :------- | :-------- | :----- |
+| | | | |
 
 ## Economic Overview
 
-Bulgaria is included in the European Commission's 2025 Country Report alongside other EU member states. While specific granular data for Bulgaria is not detailed in the current summary, it is positioned within the broader EU economic context of 2025, which is characterized by a slowdown in real GDP growth (averaging 0.6% across key regions) and a significant focus on fiscal consolidation. The report highlights the necessity for member states to address high public debt-to-GDP ratios, improve labor market productivity, and navigate the "skills gap" hindering the twin green and digital transitions. 
-
-In the broader regional context, including neighboring states like Hungary and Slovakia, there is a trend of high inflation, debt-servicing costs, and a pressing need for improved R&D intensity to maintain competitiveness. Bulgaria's economic trajectory is influenced by these regional dynamics, specifically the need to balance fiscal sustainability with the requirements for structural reforms and administrative simplification. The regional outlook includes a focus on managing high fiscal deficits, improving productivity growth, and navigating energy security challenges.
+Bulgaria is identified as a key economic focus within the regional context of the IMF's 2025 Article IV consultations. While specific localized macro-indicators for Bulgaria are grouped within the broader Eastern European and Balkan economic assessments, the country is monitored for its fiscal position and integration into regional growth trends. The broader regional context highlights a transition toward stabilizing debt levels, managing inflation trajectories, and utilizing European Union funding mechanisms (such as [[Next Generation EU (NGEU) Funds]]) to drive domestic demand and structural transformation. Like neighboring economies in the region, Bulgaria's long-term growth depends on labor market integration, innovation through private investment, and the successful decarbonization of the energy sector.
 
 ## Governance & Rule of Law
 
-The country's economic trajectory is linked to the broader European Commission framework for administrative simplification and the "tell us once" principle to reduce bureaucracy. It is subject to the fiscal sustainability requirements and structural reforms outlined in the 2025 Country Report. The focus remains on improving labor market productivity and addressing structural barriers to investment, while navigating the broader European requirements for governance and transparency. Like neighboring peers, there is an emphasis on strengthening institutional quality and addressing perceptions of corruption to improve the investment climate.
+[Information not available in the provided summary context.]
 
 ## Key Risks & Outlook
 
-Key risks for Bulgaria include regional disparities and the challenge of transitioning to a low-carbon economy. Like other EU nations, Bulgaria faces hurdles in decarbonizing transport and buildings due to administrative complexity. The outlook remains tied to the successful implementation of RRP reforms and the ability to maintain competitiveness through R&D investment and labor market modernization. 
-
-Furthermore, Bulgaria must navigate broader regional challenges including energy security, high public debt-to-GDP ratios, and the need for social convergence to mitigate poverty and housing affordability issues. The overarching regional risk includes geoeconomic fragmentation and the high cost of refinancing in a volatile interest rate environment, alongside structural challenges such as shrinking labor forces and the need for innovation-led growth.
+The outlook for Bulgaria is tied to regional fiscal stability and the management of public debt. Key considerations include the broader regional trend of addressing high defense spending and the need for structural reforms to counter population aging and facilitate the climate transition. Like neighboring economies, Bulgaria's long-term growth depends on labor market integration, innovation through private investment, and the successful decarbonization of the energy sector. The regional assessment emphasizes the importance of addressing "secular declines" in labor productivity and the need for intensified Active Labor Market Policies (ALMPs) to counter demographic headwinds.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Hungary]], [[IMF]], [[Article IV Consultation]], [[Structural Reform]], [[Slovakia]], [[Fiscal Consolidation]], [[Productivity Growth]], [[Energy Security]]
+[[Next Generation EU (NGEU) Funds]], [[Excessive Deficit Procedure (EDP)]], [[Real Effective Exchange Rate (REER)]], [[Countercyclical Buffer (CCyB)]], [[Debt Sustainability Analysis (DSA)]], [[Total Factor Productivity (TFP)]], [[Poland]], [[Austria]], [[France]], [[Italy]], [[Germany]], [[Ukraine]], [[Hungary]], [[Czech Republic]], [[Slovakia]], [[Lithuania]], [[Latvia]], [[Estonia]], [[Romania]], [[Slovenia]], [[Croatia]], [[Albania]], [[Bosnia and Herzegovina]], [[Montenegro]], [[Kosovo]], [[North Macedonia]], [[Serbia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Labor Productivity]], [[Digitalization]], [[Energy Security]], [[AML/CFT]]

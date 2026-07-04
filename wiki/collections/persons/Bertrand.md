@@ -1,29 +1,25 @@
 ---
-type: "Person"
-title: "Bertrand"
-persons:
-  - Bertrand
-relationships:
-  - personA: Bertrand
-    relation: Member of the Belgian Government
-    personB: Belgium Government
-timestamp: 2026-07-02T11:50:50Z
+name: Bertrand
+affiliations:
+  - relation: Belgian Government official involved in IMF Article IV Consultation
+    person: Belgium Authorities
+timestamp: 2026-07-04T13:54:06Z
 tags:
   - Belgium
-  - Government
-  - Finance
+  - Economics
+  - IMF
 ---
 
 # Bertrand
 
 ## Affiliations & Roles
 
-- Member of the Belgian Government
+- Government Official at [[Belgium Authorities]]
 
 ## Biography & Context
 
-Bertrand is a member of the Belgian government involved in the country's economic and fiscal landscape during the 2025 IMF Article IV Consultation period. He is part of the political leadership navigating Belgium's structural challenges, including high public debt (projected at 123% of GDP by 2030), the "automatic wage indexation" system, and the implementation of a 7-year fiscal adjustment plan under the EU Economic Governance Framework.
+Bertrand is identified as a key representative of the Belgian authorities during the IMF's 2025 Article IV consultation. He was involved in the official discussions held between January 22 and February 4, 2025, which aimed to assess Belgium's economic resilience, fiscal sustainability, and structural reforms. The consultations focused on addressing issues such as automatic wage indexation, fiscal consolidation targets under the new EU economic governance framework (EGF), and strategies to improve labor-market efficiency and productivity.
 
 ## Collaborators
 
-[[Jan Jambon]], [[De Croo]], [[Van Peteghem]]
+[[Mark Horton]], [[Koshy Mathai]], [[Jean-François Dauphin]], [[Yu Ching Wong]], [[Karen Coulibaly]], [[Jean-Jacques Hallaert]], [[Ed Hearne]], [[Xun Li]], [[Victoria Timonova]], [[Jeroen Clicq]], [[Stijn Verhelst]], [[De Croo]], [[Wunsch]], [[Van Peteghem]], [[Jan Jambon]], [[Sven Gatz]], [[Ben Weyts]]

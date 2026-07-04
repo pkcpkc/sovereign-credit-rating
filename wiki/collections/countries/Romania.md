@@ -1,96 +1,36 @@
 ---
-type: Country
-title: Romania
-countries:
-  - Romania
-  - Austria
-  - Belgium
-  - Czechia
-  - France
-  - Germany
-  - Hungary
-  - Ireland
-  - Italy
-  - Luxembourg
-  - Netherlands
-  - Poland
-  - Slovakia
-  - Slovenia
-  - Ukraine
-  - Moldova
-  - Spain
-  - Japan
-  - Canada
-  - United Kingdom
-  - United States
-  - Russia
-  - Croatia
-  - Czech Republic
-  - Lithuania
-  - Latvia
-  - Estonia
-  - Bulgaria
-ratings: []
-timestamp: 2026-07-02T13:56:10Z
-tags:
-  - Economic Report
-  - European Commission
-  - Fiscal Policy
-  - Sustainability
-  - Labor Market
-  - Energy Transition
-  - Digitalization
-  - Economic Development
-  - Social Fairness
-  - EU Compliance
-  - Rule of Law
-  - Justice System
-  - Anti-Corruption
-  - Media Freedom
-  - Human Rights
-  - Economy
-  - Monetary Policy
-  - Financial Stability
-  - IMF
-  - Macroeconomics
-  - Fiscal Consolidation
-  - Twin Deficits
-  - REER (Real Effective Exchange Rate)
-  - Sovereign-Bank Nexus
-  - Macroprudential Policy
-  - ETS 2 (Emission Trading System)
-  - Next Generation EU (NGEU)
-  - Economics
-  - Slovakia
-  - Financial Stability
+timestamp: 2026-07-04T15:22:37Z
+tags: [Economics, Fiscal Policy, Monetary Policy, Debt Sustainability, IMF, Macroeconomics]
 ---
 
 # Romania
 
 ## Credit Ratings
 
-| Agency | Rating | Outlook | Date |
-| :----- | :----- | :------ | :--- |
-| N/A | N/A | N/A | N/A |
+| Agency   | Rating   | Outlook   | Date   |
+| :------- | :------- | :-------- | :----- |
+| [Data Not Provided] | [Data Not Provided] | Negative Outlook | 2025-11-14 |
 
 ## Economic Overview
 
-Romania is navigating a complex economic landscape characterized by steady convergence toward EU income levels (reaching nearly 80% of the average in 2024), though progress is tempered by significant macroeconomic vulnerabilities. Real GDP growth has shown signs of deceleration, recorded at 0.8% in 2024 and 0.9% in the subsequent period, hampered by weak net exports and high inflation (9.9% as of September 2025). The country faces a high public deficit of 9.3% of GDP in 2024, driven by substantial wage and pension hikes, though a large fiscal reform package adopted in mid-2025 (including VAT hikes and excise duties) aims to reduce the deficit to below 6% by 2026. Government debt has risen rapidly toward 55% of GDP, with a target to stabilize at approximately 60% by 2030.
+Romania is a key regional economy within the EU's fiscal and monetary landscape, currently navigating a period of subdued growth (0.9% in 2024) and elevated inflation (9.9% in Sept 2025). The economy is characterized by a transition toward stabilizing debt levels and managing the "twin deficits" (fiscal and current account). 
 
-The labor market is defined by a dual reality: nominal wages rose by 15% in 2024, outpacing productivity growth and eroding external cost competitiveness. Romania suffers from a massive shortage of skilled workers (STEM) and low labor force participation, which remains among the lowest in the EU. Furthermore, the economy remains heavily reliant on internal funding (73%) due to underdeveloped capital markets and a significant real effective exchange rate (REER) overvaluation. The country also faces high electricity prices due to fiscal burdens and a lagging digital transformation, with AI adoption in businesses at only 3%.
+To address these, the government has implemented a fiscal reform package for 2025–26, featuring VAT rate increases to 21% and a freeze on public sector wages and pensions in 2026. The goal is to reduce the fiscal deficit to below 6% of GDP in 2026 and eventually below 3% by 2030. While the banking sector remains robust with high capital adequacy (24.2%) and strong profitability (ROE of 18.2%), it faces vulnerabilities regarding the "sovereign-bank nexus" and unhedged FX loans. Labor market challenges persist, notably one of the lowest labor force participation rates in the EU (under 70%), making improvements in female participation and education critical for future growth.
 
 ## Governance & Rule of Law
 
-The governance context is centered on the "simplification of economic life" and the implementation of Recovery and Resilience Plan (RRP) reforms. These measures aim to reduce bureaucratic hurdles, improve transparency in public procurement, and manage State-Owned Enterprises (SOEs) through a proposed independent oversight agency. 
-
-Recent developments in the Rule of Law landscape show mixed progress. While the government has aligned Justice Laws with Venice Commission recommendations and improved judicial HR recruitment (83% occupancy), public perception of judicial independence declined to 44% in 2025. The anti-corruption framework remains active via the National Anti-Corruption Directorate (DNA), though a "statute of limitations" crisis has emerged regarding the *lex mitior* principle. Significant challenges persist in media pluralism (72% risk in ownership transparency) and the continued use of Government Emergency Ordinances. To counter a narrowing civic space, a new Strategy for Open Government (2025-2030) was adopted in April 2025.
+[Data Not Provided]
 
 ## Key Risks & Outlook
 
-Key risks include a slowing GDP growth trend, high capital costs, and persistent "twin deficits" (fiscal and current account). The current account deficit reached 8.2% of GDP in 2024, driven by weak exports and high imports. Structural risks include the need for labor market reforms to address skilled worker shortages and a transition to a low-carbon economy. Romania faces "innovation stagnation" with the lowest R&D intensity in the EU (0.52% of GDP), far below the 2% target for 2027.
-
-The outlook depends on the successful implementation of the Medium-Term Fiscal-Structural Plan (MTP) to cap expenditure growth and the ability to attract equity financing. Long-term sustainability requires addressing the housing crisis, improving infrastructure density, and overcoming regulatory barriers to increase renewable energy integration via the ETS 2 and updated National Energy Strategies. The banking system remains resilient but faces risks from the "sovereign-bank nexus" and unhedged FX loans.
+Romania's outlook is tied to broader regional trends including the transition to a green economy, managing population aging, and the integration of labor markets. Key risks include:
+- **Fiscal Sustainability:** A "High" risk of sovereign stress in the medium term if debt-to-GDP (projected toward 70% by 2030) is not managed via continued adjustments.
+- **Inflationary Pressures:** Temporary elevation due to the removal of electricity price caps and VAT hikes, requiring a cautious monetary stance by the National Bank of Romania (NBR).
+- **Structural Bottlenecks:** Slow absorption of [[Next Generation EU (NGEU) Funds]] (currently at 38%) due to administrative hurdles in the National Recovery and Resilience Plan (NRRP).
+- **External Shocks:** The need for increased exchange rate flexibility to enhance resilience and competitiveness.
+- **Regulatory Compliance:** Balancing high defense spending and public investment with the [[Excessive Deficit Procedure (EDP)]].
+- **Regional Dynamics:** Romania remains integrated with the economic trajectories of neighboring states including [[Slovakia]], [[Hungary]], [[Poland]], and [[Bulgaria]], particularly regarding shared fiscal consolidation efforts and regional labor market integration.
 
 ## Related Entities
 
-[[European Commission]], [[Real GDP]], [[Fiscal Sustainability]], [[Renewable Energy]], [[France]], [[Germany]], [[Poland]], [[Hungary]], [[Recovery and Resilience Plan]], [[Circular Economy]], [[Decarbonisation]], [[Macroeconomic Imbalance]], [[Fiscal-Structural Plan (MTP)]], [[R&D Intensity]], [[Unit Labour Costs]], [[Energy Affordability]], [[Digital Decade]], [[Schengen Area]], [[Slovakia]], [[Judicial Independence]], [[Anti-Corruption Strategy]], [[Public Procurement]], [[Media Pluralism]], [[SLAPPs]], [[Asset Declaration]], [[Lobbying Rules]], [[Open Government]], [[Austria]], [[Spain]], [[Japan]], [[Canada]], [[United Kingdom]], [[United States]], [[Russia]], [[Croatia]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Labor Supply]], [[Productivity Growth]], [[Commercial Real Estate (CRE)]], [[ESG Transition]], [[Systemic Risk]], [[IMF]], [[Article IV Consultation]], [[Fiscal Adjustment]], [[Monetary Policy]], [[Structural Reforms]], [[Productivity]], [[Sovereign-Bank Nexus]], [[Geoeconomic Fragmentation]], [[Debt Sustainability]], [[Ilie Bolojan]], [[Alexandru Nazare]], [[Mugur Isarescu]], [[Twin Deficits]], [[REER (Real Effective Exchange Rate)]], [[ETS 2 (Emission Trading System)]], [[Next Generation EU (NGEU)]], [[Slovak Republic]], [[Excessive Deficit Procedure (EDP)]]
+[[Next Generation EU (NGEU) Funds]], [[Excessive Deficit Procedure (EDP)]], [[Real Effective Exchange Rate (REER)]], [[Countercyclical Buffer (CCyB)]], [[Debt Sustainability Analysis (DSA)]], [[Total Factor Productivity (TFP)]], [[Poland]], [[Austria]], [[France]], [[Italy]], [[Germany]], [[Ukraine]], [[Hungary]], [[Czech Republic]], [[Slovakia]], [[Lithuania]], [[Latvia]], [[Estonia]], [[Slovenia]], [[Bulgaria]], [[Croatia]], [[Albania]], [[Bosnia and Herzegovina]], [[Montenegro]], [[Kosovo]], [[North Macedonia]], [[Serbia]], [[Mugur Isarescu]], [[Ilie Bolojan]], [[Joong Shik Kang]], [[Carlos Granados]], [[Twin Deficits]], [[Fiscal Consolidation]], [[Macroprudential Policy]], [[Sovereign-Bank Nexus]], [[Slovakia]]

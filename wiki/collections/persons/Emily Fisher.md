@@ -1,29 +1,49 @@
 ---
-type: "Person"
-title: "Emily Fisher"
-persons:
-  - Emily Fisher
-relationships:
-  - personA: Emily Fisher
-    relation: Involved in IMF 2025 Article IV Consultation
-    personB: Italy
-timestamp: 2026-07-02T12:44:45Z
+name: Emily Fisher
+affiliations:
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Helge Berger
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Rishi Goyal
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Lone Christiansen
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Thomas Elkjaer
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Gee Hee Hong
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Yueling Huang
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Sylwia Nowak
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Alain Kabundi
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Carolina Claver
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Riccardo Ercoli
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Annalisa Korinthios
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Yao Deng
+  - relation: IMF Staff Member (Collaborator on Italy Article IV Consultation)
+    person: Jenny Lee
+timestamp: 2026-07-04T15:49:39Z
 tags:
   - IMF
-  - Italy
   - Macroeconomics
+  - Italy
 ---
 
 # Emily Fisher
 
 ## Affiliations & Roles
 
-- Participant in the IMF 2025 Article IV Consultation - Italy
+- IMF Staff Member involved in the 2025 Article IV Consultation for Italy.
 
 ## Biography & Context
 
-Emily Fisher is identified as a key stakeholder involved in the International Monetary Fund's (IMF) 2025 Article IV Consultation regarding Italy. Her involvement relates to the assessment of Italy's economic resilience, fiscal performance, and structural challenges, including the implementation of the National Recovery and Resilience Plan (NRRP).
+Emily Fisher is identified as a key staff member involved in the International Monetary Fund (IMF) 2025 Article IV Consultation for Italy. Her work contributed to the analysis of the Italian economy's fiscal performance, including its primary surplus achievements and the progress of the National Recovery and Resilience Plan (NRRP). Her involvement encompasses the evaluation of Italy's structural challenges, such as productivity malaise and demographic headwinds, as well as the assessment of financial stability and sovereign risk within the Eurozone context.
 
 ## Collaborators
 
-[[Lone Christiansen]], [[Riccardo Ercoli]], [[Giorgetti]]
+[[Helge Berger]], [[Rishi Goyal]], [[Lone Christiansen]], [[Thomas Elkjaer]], [[Gee Hee Hong]], [[Yueling Huang]], [[Sylwia Nowak]], [[Alain Kabundi]], [[Carolina Claver]], [[Riccardo Ercoli]], [[Annalisa Korinthios]], [[Yao Deng]], [[Jenny Lee]]

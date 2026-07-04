@@ -2,94 +2,87 @@
 type: Summary
 title: 2025 Country Report - France
 tags:
-  - Economic Report
-  - European Commission
-  - France
+  - Economic Policy
   - Fiscal Policy
-  - Sustainability
+  - Energy Transition
   - Labor Market
+  - Social Fairness
+  - Innovation
 assets:
-  - wiki/assets/2026-07-02/processed/EU Commission (2025) 2025 Country Report
+  - wiki/assets/2026-07-04/processed/EU Commission (2025) 2025 Country Report
     France.md
-  - wiki/assets/2026-07-02/sources/EU Commission (2025) 2025 Country Report
+  - wiki/assets/2026-07-04/sources/EU Commission (2025) 2025 Country Report
     France.md
 concepts:
   - Real GDP
-  - Unit Labour Costs
+  - Labor Productivity
   - Fiscal Sustainability
-  - Total Factor Productivity
+  - Net Expenditure
   - Renewable Energy
-  - Carbon Removals
+  - Green Transition
+  - R&D Intensity
   - Digitalization
-  - Venture Capital
-  - Public Procurement
+  - Circular Economy
+  - SMEs
 countries:
   - France
-  - Austria
-  - Belgium
-  - Bulgaria
-  - Croatia
-  - Cyprus
-  - Czechia
-  - Denmark
-  - Estonia
-  - Finland
-  - France
-  - Germany
-  - Greece
-  - Hungary
-  - Ireland
-  - Italy
-  - Latvia
-  - Lithuania
-  - Luxembourg
-  - Malta
-  - Netherlands
-  - Poland
-  - Portugal
-  - Romania
-  - Slovakia
-  - Slovenia
-  - Spain
-  - Sweden
-  - Ukraine
 ratings: []
-persons:
-  - Richard Feynman
+persons: []
 relationships: []
 times:
-  - date: 2025-06-04
-    title: Publication of the 2025 Country Report
-  - date: 2024-12-31
-    title: End of 2024 fiscal year data cut-off
-  - date: 2025-04-30
-    title: Deadline for implementation of RRP reforms
-  - date: 2030-01-01
-    title: Target for 50% reduction in greenhouse gas emissions
-  - date: 2030-01-01
-    title: Target for 7 million public and private recharging points
-  - date: 2027-01-01
-    title: Planned phase-out of coal use
-timestamp: 2026-07-02T05:34:52Z
+  - date: "2024"
+    event: Real GDP grew by 1.2% (up from 0.9% in 2023)
+  - date: "2024"
+    event: Public debt reached 113% of GDP
+  - date: "2025"
+    event: Forecasted real GDP growth of 0.6%
+  - date: "2025"
+    event: Forecasted real GDP growth of 1.3% in 2026
+  - date: "2025"
+    event: Projected general government deficit of 5.6% of GDP
+  - date: "2025"
+    event: Projected public debt of 116% of GDP
+  - date: "2030"
+    event: Target to reduce greenhouse gas emissions by 50% compared to 1990 levels
+  - date: "2030"
+    event: Target for 7 million public and private recharging points
+  - date: "2030"
+    event: Target for 90% of SMEs to be digitalised
+timestamp: 2026-07-04T12:42:40Z
 ---
 # Summary of: 2025 Country Report - France
 
 ## Context Metadata
-*   **Source:** European Commission (SWD(2025) 210 final)
-*   **Date of Issue:** June 4, 2025
-*   **Scope:** Economic, social, employment, structural, and budgetary policies of France.
-*   **Key Focus:** Fiscal consolidation, energy transition, labor market productivity, and regional disparities.
+*   **Source Document:** European Commission Staff Working Document (SWD(2025) 210 final).
+*   **Reporting Date:** June 4, 2025.
+*   **Scope:** Analysis of economic, social, employment, structural, and budgetary policies in France.
+*   **Key Objectives:** Evaluation of fiscal sustainability, competitiveness, innovation, decarbonization, and social fairness.
 
 ## Executive Summary
-France's economy faces a period of slowing growth in 2025 (forecast at 0.6%) driven by high political uncertainty and restrictive monetary policy. While the country has shown strong resilience in its energy mix (95% low-carbon electricity) and maintained high labor productivity, it faces significant structural hurdles. Key challenges include a rising public debt-to-GDP ratio (projected at 116% in 2025), a high unemployment rate compared to EU averages, and a persistent "skills gap" hindering the twin green and digital transitions. The report emphasizes the need for aggressive fiscal consolidation, administrative simplification (the "tell us once" principle), and enhanced investment in R&D and renewable energy infrastructure to maintain long-term competitiveness.
+France's economy is experiencing a slowdown in 2025 characterized by high political and economic uncertainty. While real GDP grew by 1.2% in 2024, growth is expected to moderate to 0.6% in 2025. A primary concern is the rising public debt (reaching 113% of GDP in 2024) and high general government deficits. The report highlights a "dual challenge": maintaining industrial competitiveness—hampered by high production taxes and skills shortages—while aggressively pursuing a decarbonization pathway. France remains a leader in low-carbon electricity (95% nuclear/renewable), yet faces significant hurdles in renewable energy permitting, building renovation, and social inequality, particularly regarding child poverty and regional disparities.
 
 ## Key Highlights
 
-*   **Economic Slowdown & Investment:** Real GDP growth is expected to decelerate to 0.6% in 2025. Investment remains subdued due to high capital costs and uncertainty, while net exports are expected to stall due to energy costs and tariffs.
-*   **Fiscal Sustainability Risks:** The general government deficit rose to 5.8% of GDP in 2024. Public debt is projected to reach 116% of GDP by the end of 2025. The report calls for a permanent spending review strategy to rationalize tax expenditures.
-*   **Labor Market & Productivity:** France maintains a high employment rate (75.1% in 2024) but faces high unemployment (7.4%). Labour productivity is recovering from pandemic-era lows, but structural weaknesses in business R&D and a shortage of skilled staff remain primary barriers.
-*   **Energy Transition & Decarbonization:** France has reached a milestone of 95% low-carbon electricity. However, it faces challenges in decarbonizing the transport and building sectors due to administrative complexity and a shortage of skilled renovation workers.
-*   **Innovation & Digitalization:** Business R&D intensity (1.44%) lags behind the 3% target. While France is a leader in "unicorns," it lacks sufficient equity financing for the scale-up phase of high-growth firms.
-*   **Regional Disparities:** Territorial gaps are widening; five regions fell below 75% of the EU GDP per head in 2023. Outermost regions face extreme poverty rates, with French Guiana reaching 59.5%.
-*   **Social Fairness & Poverty:** The poverty rate is increasing, with 20.5% of the population at risk of social exclusion in 2024. Child poverty remains a critical issue, with France's rate (26.2%) exceeding the EU average.
-*   **Administrative Simplification:** The government is moving toward a "simplification of economic life" law to reduce bureaucracy, aiming to help businesses navigate complex licensing and retail regulations.
+### ⚓ Economic Growth & Fiscal Outlook
+*   **Growth Slowdown:** GDP growth is projected to slow markedly in 2025 (0.6%) due to restrictive monetary policy and high costs of capital.
+*   **Debt Trajectory:** Public debt rose to 113% of GDP in 2024. Projections suggest it will reach 116% in 2025 and 118.4% in 2026.
+*   **Deficit Management:** The 2024 deficit reached 5.8% of GDP. While the 2025 budget shows a slight reduction to 5.6%, fiscal consolidation remains a major medium-term challenge.
+
+### ⚓ Competitiveness & Innovation
+*   **Productivity Recovery:** Labour productivity is showing signs of recovery as temporary pandemic-era factors fade, though it remains hampered by low business R&D intensity (1.44%).
+*   **Innovation Gaps:** France lags behind the EU in business R&D investment and has a lower share of high-growth firms.
+*   **Regulatory Burden:** Despite improvements, 84% of French businesses still cite the complexity of administrative procedures as a major problem.
+
+### ⚓ Labor Market & Social Fairness
+*   **Employment Trends:** The employment rate reached a record 75.1% in 2024, but the unemployment rate (7.4%) remains higher than the EU average (5.9%).
+*   **Skills Shortages:** Significant recruitment difficulties persist in the automotive, construction, and care sectors due to a lack of adequately trained workers.
+*   **Poverty & Inequality:** France faces a worsening poverty situation, with the AROPE rate increasing to 20.5% in 2024. Child poverty remains a critical issue, with 26.2% of children at risk.
+
+### ⚓ Decarbonization & Energy
+*   **Green Transition:** France aims for a 50% reduction in greenhouse gas emissions by 2030. Transport and buildings remain the most difficult sectors to decarbonize.
+*   **Renewable Energy:** While 95% of electricity is low-carbon, France has not yet set a firm 2030 target for renewable energy gross final consumption.
+*   **Energy Affordability:** Retail electricity prices for households rose 20.7% in the first half of 2024, impacting vulnerable populations significantly.
+
+### ⚓ Regional Disparities
+*   **Territorial Gaps:** Pronounced differences exist between dynamic regions (e.g., Île-de-France) and lagging areas in the north, centre, and east.
+*   **Outermost Regions:** Territories like French Guiana and Mayotte face extreme poverty rates (up to 59.5%) and severe isolation from essential services.

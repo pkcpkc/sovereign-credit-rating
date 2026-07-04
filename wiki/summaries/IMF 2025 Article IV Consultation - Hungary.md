@@ -2,40 +2,33 @@
 type: Summary
 title: IMF 2025 Article IV Consultation - Hungary
 tags:
+  - Economy
   - IMF
   - Hungary
-  - Macroeconomics
   - Fiscal Policy
   - Monetary Policy
-  - Structural Reform
+  - Debt Sustainability
 assets:
-  - wiki/assets/2026-07-02/processed/IMF (2025) Hungary Country Report.md
-  - wiki/assets/2026-07-02/sources/IMF (2025) Hungary Country Report.md
+  - wiki/assets/2026-07-04/processed/IMF (2025) Hungary Country Report.md
+  - wiki/assets/2026-07-04/sources/IMF (2025) Hungary Country Report.md
 concepts:
   - Article IV Consultation
   - Fiscal Adjustment
-  - Monetary Policy
+  - Monetary Policy Stance
+  - Debt Sustainability Analysis (DSA)
   - Structural Reforms
-  - Productivity
   - Sovereign-Bank Nexus
   - Geoeconomic Fragmentation
-  - Debt Sustainability
+  - Industrial Policy
 countries:
   - Hungary
-  - Germany
   - Austria
   - France
   - Italy
-  - Bulgaria
-  - Croatia
-  - Czech Republic
-  - Estonia
-  - Latvia
-  - Lithuania
+  - Germany
   - Poland
-  - Romania
   - Slovakia
-  - Slovenia
+  - Czech Republic
 ratings: []
 persons:
   - Kristina Kostial
@@ -69,61 +62,43 @@ persons:
 relationships:
   - personA: Anke Weber
     relation: Head of Staff Team
-    personB: Hungary Authorities
+    personB: Jakree Koosakul
   - personA: Márton Nagy
-    relation: Minister of National Economy
-    personB: Hungarian Government
-  - personA: Barnabás Virág
-    relation: Deputy Central Bank Governor
-    personB: Magyar Nemzeti Bank (MNB)
+    relation: Minister
+    personB: Máté Lóga
+  - personA: Máté Lóga
+    relation: State Secretary
+    personB: Bence Gerlaki
 times:
   - date: 2025-06-05
-    title: Start of IMF Staff Mission in Budapest
+    event: Start of IMF staff mission in Budapest
   - date: 2025-06-17
-    title: Conclusion of IMF Staff Discussions with Hungarian Officials
+    event: Conclusion of discussions with Hungarian officials
   - date: 2025-07-25
-    title: Completion of IMF Staff Report
+    event: Completion of the IMF Staff Report
   - date: 2025-08-29
-    title: IMF Executive Board Consideration of Hungary Report
-  - date: "2025"
-    title: Projected GDP Growth of 0.7%
-  - date: "2026"
-    title: Projected GDP Growth of 2.0%
-  - date: "2027"
-    title: Targeted Inflation Return to 3.0%
-  - date: "2030"
-    title: Projected Debt-to-GDP Ratio of 79%
-timestamp: 2026-07-02T06:37:12Z
+    event: IMF Executive Board consideration of the Staff Report
+timestamp: 2026-07-04T13:57:28Z
 ---
 # Summary of: IMF (2025) Hungary Country Report
 
 ## Context Metadata
 *   **Source:** International Monetary Fund (IMF)
-*   **Document Type:** 2025 Article IV Consultation Press Release & Staff Report
-*   **Reporting Date:** August 29, 2025
+*   **Document Type:** Article IV Consultation Staff Report and Press Release
+*   **Reporting Period:** 2025 (with projections to 2030)
 *   **Key Stakeholders:** Hungarian Ministry for National Economy, Magyar Nemzeti Bank (MNB), IMF Executive Board.
 
 ## Executive Summary
-The IMF concludes that the Hungarian economy is at a "challenging juncture," characterized by stagnant output over the last three years and inflation remaining above the 3% target. While a modest recovery is projected for 2025 (0.7%) and 2026 (2.0%), significant downside risks persist due to geoeconomic fragmentation, high refinancing costs, and potential delays in fiscal adjustments. The IMF emphasizes the necessity of rebuilding fiscal buffers, maintaining a tight monetary stance, and implementing structural reforms to address productivity gaps and governance issues.
+The Hungarian economy is currently at a "challenging juncture," characterized by stagnant output over the last three years and inflation that remains above the central bank's 3% target. While a modest recovery is expected in 2025-2026, significant downside risks persist due to geoeconomic fragmentation, potential trade barriers (particularly from the US), and high external uncertainty. The IMF emphasizes the urgent need for **high-quality fiscal adjustment** to rebuild buffers and ensure debt sustainability, alongside a **tight monetary policy stance** to anchor inflation. Structural reforms focusing on firm dynamism, energy security, and governance are deemed essential to close Hungary's productivity gap and unlock suspended EU funding.
 
 ## Key Highlights
-
-### ⚓ Economic Outlook & Risks
-*   **Stagnant Growth:** Output has stalled, with a contraction noted in Q1:2025. Productivity remains below regional peers due to heavy state presence and regulatory distortions.
-*   **Inflationary Pressures:** Core inflation remains elevated (projected 4.5% in Q4:2025). While disinflation is underway, price and margin caps are viewed as unsustainable distortions.
-*   **Downside Risks:** Escalation of trade measures (particularly US tariffs), regional conflicts, and the potential cancellation of EU funds pose significant threats to stability.
-
-### ⚓ Fiscal Policy & Sustainability
-*   **Debt Position:** Public debt is projected to rise toward 79% of GDP by 2030. The IMF notes a "moderate" risk of sovereign stress but warns of high refinancing costs and SOE contingent liabilities.
-*   **Adjustment Requirements:** The IMF recommends a cumulative fiscal adjustment of approximately 2% of GDP between 2025-2028 to bring the headline deficit below 3% by 2027.
-*   **Spending Rationalization:** Recommendations include phasing out retail energy subsidies, reducing administrative overhead, and addressing long-term pension/healthcare spending pressures.
-
-### ⚓ Monetary & Financial Stability
-*   **Tight Monetary Stance:** The MNB is advised to keep the base rate restrictive (currently 6.5%) to anchor inflation expectations, using a data-dependent approach.
-*   **Banking Sector:** The sector is broadly sound and well-capitalized, but vulnerabilities exist in corporate FX exposures, sovereign-bank linkages, and buoyant housing prices.
-*   **Housing Market:** The IMF urges the phase-out of housing-related fiscal incentives and voluntary APR caps to moderate price pressures.
-
-### ⚓ Structural Reforms
-*   **Productivity & Competition:** Key priorities include removing barriers to factor mobility, improving governance to unlock EU funding, and fostering firm dynamism.
-*   **Energy Security:** Efforts to diversify supply and expand renewables are commended, but the IMF suggests a more coordinated phase-out of fossil fuel subsidies to bolster competitiveness.
-*   **Governance:** Addressing rule-of-law and corruption concerns is deemed vital for a predictable business environment and the release of suspended EU funds.
+*   **Economic Outlook:** GDP growth is projected at 0.7% in 2025, rising to 2.0% in 2026. Inflation is expected to decelerate to the 3% target by 2027.
+*   **Fiscal Challenges:** Public debt is elevated (projected at 79% of GDP by 2030). The IMF recommends a structural primary surplus of approximately 1.75% of GDP to balance debt sustainability with output growth.
+*   **Monetary Stance:** The MNB is advised to keep interest rates restrictive into 2026. The report highlights that price and margin caps are not sustainable for long-term disinflation.
+*   **Financial Stability:** While the banking sector is "broadly sound," vulnerabilities exist in corporate FX exposures, sovereign-bank linkages, and commercial real estate overvaluation.
+*   **Structural Reform Priorities:**
+    *   Eliminating barriers to factor mobility and reducing state aid distortions.
+    *   Expanding access to risk capital for high-growth startups.
+    *   Phasing out fossil fuel subsidies and transitioning to renewable energy.
+    *   Advancing governance reforms to improve the business environment and unlock EU Cohesion funds.
+*   **Risk Assessment:** The risk of sovereign stress is rated as "Moderate." Key risks include a potential loss of investor confidence, trade policy shocks, and long-term demographic pressures on healthcare and pensions.

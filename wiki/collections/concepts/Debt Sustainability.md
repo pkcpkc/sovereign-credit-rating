@@ -1,38 +1,26 @@
 ---
-type: "Concept"
-title: "Debt Sustainability"
-concepts:
-  - Debt Sustainability
-  - Fiscal Adjustment
-  - Sovereign-Bank Nexus
-  - SOE Contingent Liabilities
-timestamp: 2026-07-02T11:59:36Z
-tags:
-  - Macroeconomics
-  - Fiscal Policy
-  - Sovereign Debt
+timestamp: 2026-07-04T14:38:19Z
+tags: [Macroeconomics, Fiscal Policy, Public Finance, IMF]
 ---
+
 # Debt Sustainability
 
-Debt Sustainability refers to the ability of a government to service its public debt over the long term without requiring a default or a fundamental restructuring of its obligations. It is assessed by evaluating the relationship between a country's debt levels, its economic growth rate, and its fiscal capacity to generate revenue.
+Debt sustainability refers to the ability of a government or entity to meet its current and future debt obligations without requiring a default or undergoing a significant economic crisis. It is a critical metric for assessing the long-term viability of a nation's fiscal policy and its overall economic stability.
 
-## Current Context: Hungary (2025)
-Based on the IMF 2025 Article IV Consultation, Hungary's debt sustainability is currently characterized by several critical factors:
+## Key Drivers and Risks
+*   **Demographic Pressures:** Aging populations present a significant risk to debt sustainability. As populations age, governments face rising expenditures related to pensions and healthcare. Without permanent structural adjustments to social safety nets, these costs can lead to unsustainable fiscal trajectories.
+*   **Economic Growth vs. Debt:** Sustainability is heavily dependent on the relationship between economic growth, interest rates, and the primary balance. High debt-to-GDP ratios require robust growth and disciplined fiscal management to remain manageable.
+*   **Fiscal Consolidation:** To ensure long-term sustainability, governments may need to implement multi-year fiscal consolidation plans. These plans aim to reduce headline deficits and stabilize public debt through a mix of revenue-based measures and expenditure-based rationalization.
 
-*   **Debt-to-GDP Projections:** Public debt is projected to rise toward **79% of GDP by 2030**. While the risk of sovereign stress is currently categorized as "moderate," it remains sensitive to external and internal shocks.
-*   **Refinancing Risks:** High refinancing costs pose a significant threat to sustainability, particularly in an environment of elevated interest rates and "geoeconomic fragmentation."
-*   **Contingent Liabilities:** A key component of the risk profile involves **SOE (State-Owned Enterprise) contingent liabilities**, which can create hidden fiscal pressures.
-*   **Sovereign-Bank Nexus:** The relationship between the state's debt and the health of the domestic banking sector is a vital consideration for financial stability.
-
-## Requirements for Sustainability
-To ensure long-term viability, the IMF highlights several necessary actions:
-
-1.  **Fiscal Adjustment:** A cumulative fiscal adjustment of approximately **2% of GDP** between 2025-2028 is required to bring the headline deficit below 3% by 2027.
-2.  **Spending Rationalization:** Sustainability depends on phasing out retail energy subsidies, reducing administrative overhead, and addressing long-term pressures in pension and healthcare spending.
-3.  **Productivity Growth:** Long-term sustainability is tied to economic growth; therefore, structural reforms to improve productivity and competition are essential to outpace debt accumulation.
+## Case Study: Slovak Republic (2025)
+The IMF's analysis of the Slovak Republic highlights several nuances regarding debt sustainability:
+*   **Projected Trends:** While current growth is positive, public debt is projected to rise significantly in the long term due to demographic shifts.
+*   **Policy Recommendations:** The IMF suggests that achieving sustainability requires shifting toward expenditure-based rationalization, such as reducing subsidies and targeting social spending more effectively, rather than relying solely on revenue-based measures.
+*   **Fiscal Strategy:** The government's 4-year fiscal consolidation plan (2025-2028) serves as a primary mechanism to manage these risks and stabilize the debt position.
 
 ## Related Concepts
-- [[Fiscal Adjustment]]
-- [[Sovereign-Bank Nexus]]
-- [[Geoeconomic Fragmentation]]
-- [[Structural Reforms]]
+- [[Fiscal Consolidation]]
+- [[Macroprudential Policy]]
+- [[Labor Productivity]]
+- [[Digitalization]]
+- [[Energy Security]]
