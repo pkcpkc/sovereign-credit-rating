@@ -10,9 +10,9 @@ tags:
   - Energy Transition
   - Labour Market
 assets:
-  - wiki/assets/2026-07-05/processed/EU Commission (2025) 2025 Country Report
+  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country Report
     Malta.md
-  - wiki/assets/2026-07-05/sources/EU Commission (2025) 2025 Country Report
+  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country Report
     Malta.md
 concepts:
   - fiscal sustainability

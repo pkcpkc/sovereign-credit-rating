@@ -9,8 +9,8 @@ tags:
   - Qualitative Overlay
   - Climate Risk
 assets:
-  - wiki/assets/2026-07-05/processed/fitch.md
-  - wiki/assets/2026-07-05/sources/fitch.md
+  - wiki/assets/20260705-000000/processed/fitch.md
+  - wiki/assets/20260705-000000/sources/fitch.md
 concepts:
   - Sovereign Rating Model (SRM)
   - Qualitative Overlay (QO)

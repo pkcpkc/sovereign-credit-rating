@@ -8,8 +8,8 @@ tags:
   - Macroeconomic Assessment
   - S&P Global Ratings
 assets:
-  - wiki/assets/2026-07-05/processed/2017 Sovereign Methodology.md
-  - wiki/assets/2026-07-05/sources/2017 Sovereign Methodology.md
+  - wiki/assets/20260705-000000/processed/2017 Sovereign Methodology.md
+  - wiki/assets/20260705-000000/sources/2017 Sovereign Methodology.md
 concepts:
   - institutional assessment
   - economic assessment

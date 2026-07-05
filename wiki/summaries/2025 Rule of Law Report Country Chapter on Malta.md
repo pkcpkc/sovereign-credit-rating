@@ -10,9 +10,9 @@ tags:
   - Media Freedom
   - Public Procurement
 assets:
-  - wiki/assets/2026-07-05/processed/EU Commission (2025) 2025 Rule of Law
+  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law
     Report Malta.md
-  - wiki/assets/2026-07-05/sources/EU Commission (2025) 2025 Rule of Law Report
+  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law Report
     Malta.md
 concepts:
   - Judicial Independence

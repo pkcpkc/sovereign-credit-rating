@@ -3,8 +3,8 @@ type: Summary
 title: IMF (2025) Romania Country Report
 timestamp: 2026-07-05T11:28:18Z
 assets:
-  - wiki/assets/2026-07-05/processed/IMF (2025) Romania Country Report.md
-  - wiki/assets/2026-07-05/sources/IMF (2025) Romania Country Report.md
+  - wiki/assets/20260705-000000/processed/IMF (2025) Romania Country Report.md
+  - wiki/assets/20260705-000000/sources/IMF (2025) Romania Country Report.md
 ---
 # Summary of: IMF 2025 Article IV Consultation: Romania Staff Report and Executive Board Press Release
 

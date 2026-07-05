@@ -8,8 +8,8 @@ tags:
   - Methodology
   - Risk Analysis
 assets:
-  - wiki/assets/2026-07-05/processed/overview.md
-  - wiki/assets/2026-07-05/sources/overview.md
+  - wiki/assets/20260705-000000/processed/overview.md
+  - wiki/assets/20260705-000000/sources/overview.md
 concepts:
   - Institutional assessment
   - Economic assessment

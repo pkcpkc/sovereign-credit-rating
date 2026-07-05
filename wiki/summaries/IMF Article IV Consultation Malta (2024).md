@@ -10,8 +10,8 @@ tags:
   - Financial Stability
   - Eurozone
 assets:
-  - wiki/assets/2026-07-05/processed/IMF (2025) Malta Country Report.md
-  - wiki/assets/2026-07-05/sources/IMF (2025) Malta Country Report.md
+  - wiki/assets/20260705-000000/processed/IMF (2025) Malta Country Report.md
+  - wiki/assets/20260705-000000/sources/IMF (2025) Malta Country Report.md
 concepts:
   - fiscal consolidation
   - debt sustainability

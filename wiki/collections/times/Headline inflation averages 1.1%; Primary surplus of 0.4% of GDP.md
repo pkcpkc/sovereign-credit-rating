@@ -32,6 +32,6 @@ The inflationary backdrop in 2024 was characterized by moderating price pressure
 
 ## Related Context
 
-- **Source Document**: [Italy: 2025 Article IV Consultation—Press Release, Staff Report, and Statement by the Executive Director](wiki/assets/2026-07-05/processed/IMF (2025) Italy Country Report.md)
+- **Source Document**: [Italy: 2025 Article IV Consultation—Press Release, Staff Report, and Statement by the Executive Director](wiki/assets/20260705-000000/processed/IMF (2025) Italy Country Report.md)
 - **Relevant Institutions**: [[International Monetary Fund]], [[European Central Bank]], [[Bank of Italy]], [[Ministry of Economy and Finance]]
 - **Key Personnel**: [[Giancarlo Giorgetti]] (Minister of Economy and Finance), [[Lone Christiansen]] (IMF Staff Team Head)

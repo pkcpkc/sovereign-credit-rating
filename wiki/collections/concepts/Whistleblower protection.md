@@ -58,4 +58,4 @@ Based on the *2025 Rule of Law Report: Country Chapter on Belgium*, specific pro
 ## References
 
 *   European Commission (2025). *2025 Rule of Law Report: Country Chapter on Belgium*.
-*   Asset: `wiki/assets/2026-07-05/processed/EU Commission (2025) 2025 Rule of Law Report Belgium.md`
+*   Asset: `wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law Report Belgium.md`

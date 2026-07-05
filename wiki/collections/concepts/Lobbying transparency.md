@@ -90,5 +90,5 @@ Based on the 2025 Rule of Law Reports, future reforms in member states like Aust
 ## Sources and Assets
 *   **Primary Source**: EU Commission (2025) 2025 Rule of Law Report Austria
 *   **Primary Source**: EU Commission (2025) 2025 Rule of Law Report Belgium
-*   **Asset**: `wiki/assets/2026-07-05/processed/EU Commission (2025) 2025 Rule of Law Report Austria.md`
-*   **Asset**: `wiki/assets/2026-07-05/processed/EU Commission (2025) 2025 Rule of Law Report Belgium.md`
+*   **Asset**: `wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law Report Austria.md`
+*   **Asset**: `wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law Report Belgium.md`
