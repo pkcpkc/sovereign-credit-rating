@@ -15,6 +15,6 @@
     "check": "mm check-plugins"
   },
   "dependencies": {
-    "mycelium-mind": "file:../mycelium-mind"
+    "mycelium-mind": "0.2.2"
   }
 }
