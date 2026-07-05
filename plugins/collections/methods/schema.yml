@@ -1,0 +1,7 @@
+$meta:
+  type: Schema
+  title: "Rating Method Schema"
+  description: "Defines attributes for sovereign credit rating methodologies and criteria."
+
+agency: string # String | Required | The credit rating agency or institution that uses this methodology (e.g., "S&P Global Ratings", "Fitch Ratings", "Moody's").
+last_updated: string # String | Optional | The publication date or last update of the methodology (e.g., "2017", "Sept 2025").

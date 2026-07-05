@@ -1,23 +1,28 @@
 ---
-name: Alex Stomper
-affiliations: []
-timestamp: 2026-07-04T16:16:33Z
-tags: [Finance, Economics, Credit Ratings]
+role: Lecturer / Author
+organization: HU Berlin
+countries_covered: []
+timestamp: 2026-07-05T11:29:46Z
+tags:
+  - Sovereign Credit Rating
+  - Financial Economics
+  - Academic
 ---
 
 # Alex Stomper
 
 ## Affiliations & Roles
 
-- Presenter/Analyst at [[HU Berlin]] (2024)
-- Subject Matter Expert on [[S&P Rating Methodology]]
+- **Role**: Lecturer / Author
+- **Organization**: [[HU Berlin]]
+- **Countries Covered**: []
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Alex Stomper is an expert involved in the analysis and presentation of sovereign credit rating methodologies. In 2024, Stomper presented a detailed deconstruction of S&P's 2017 methodology at HU Berlin. This work focuses on the multi-dimensional framework used to assess sovereign creditworthiness, specifically examining the five primary pillars: Institutional, Economic, External, Fiscal, and Monetary assessments.
+Alex Stomper is an academic and lecturer at [[HU Berlin]], where he provides expert analysis on sovereign credit rating methodologies and financial economics. In 2024, he presented a detailed overview of the [[S&P Global Ratings]] sovereign credit rating methodology, based on the framework published in 2017. His work focuses on dissecting the complex, multi-dimensional process used to determine sovereign credit ratings, highlighting the interplay between structured assessment pillars and analyst discretion.
 
-Stomper’s work highlights the critical "room for discretionary judgment" within these frameworks, particularly concerning subjective criteria like debt payment culture, institutional stability, and "supplemental adjustment factors." Furthermore, Stomper is associated with a "Citizen Science" initiative aimed at applying these methodologies to European countries to test the replicability of credit ratings and identify areas where analyst overrides may occur.
+Stomper's analysis emphasizes the five key pillars of the S&P methodology: Institutional, Economic, External, Fiscal, and Monetary assessments. He critically examines the role of subjective judgement within this framework, noting that while the methodology provides indicative ratings, it allows for significant analyst discretion through "supplemental adjustment factors" such as event risk or extreme liquidity weakness. Stomper argues that this reliance on subjective factors renders the rating process partially non-replicable. To address this opacity, he proposes a "Citizen Science" initiative to apply the S&P methodology to European countries, aiming to document discrepancies and test the replicability of sovereign credit rating determinations. His work also incorporates methodologies such as the Banking Industry Country Risk Analysis (BICRA) to assess contingent liabilities within sovereign credit frameworks.
 
-## Collaborators
+## Related Entities
 
-(None identified)
+[[HU Berlin]], [[S&P Global Ratings]], [[S&P Sovereign Credit Rating Methodology]], [[Banking Industry Country Risk Analysis (BICRA)]]

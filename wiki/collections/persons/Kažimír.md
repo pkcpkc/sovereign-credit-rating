@@ -1,25 +1,31 @@
 ---
-name: Kažimír
-affiliations:
-  - relation: Official involved in IMF Article IV Consultation
-    person: Slovakia
-timestamp: 2026-07-04T16:11:53Z
-tags:
+role: Governor
+organization: National Bank of Slovakia
+countries_covered:
   - Slovakia
-  - IMF
-  - Macroeconomics
+timestamp: 2026-07-05T11:29:03Z
+tags:
+  - Central Banking
+  - Monetary Policy
+  - Slovakia
+  - IMF Article IV
+  - Euro Area
 ---
 
 # Kažimír
 
 ## Affiliations & Roles
 
-- Official involved in the 2025 Article IV Consultation with the International Monetary Fund (IMF) regarding the Slovak Republic.
+- **Role**: Governor
+- **Organization**: [[National Bank of Slovakia]]
+- **Countries Covered**: Slovakia
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Kažimír is identified as a key official or representative involved in the Slovak Republic's economic and fiscal discussions with the International Monetary Fund (IMF) during the 2025 Article IV Consultation. These discussions, which concluded in early 2025, focused on Slovakia's economic recovery, fiscal consolidation plans (2025-2028), and structural reforms aimed at addressing labor productivity, aging demographics, and debt sustainability.
+Kažimír serves as the Governor of the [[National Bank of Slovakia]], playing a central role in the country's monetary policy and financial stability landscape. In the context of the [[IMF]]'s 2025 Article IV Consultation with the Slovak Republic, Kažimír represented the central bank during discussions on macroeconomic stability, fiscal consolidation, and structural reforms. The [[National Bank of Slovakia]] operates within the [[European Central Bank]] (ECB) framework, contributing to the institutional strength and policy credibility assessed in sovereign credit rating factors.
 
-## Collaborators
+During the consultation period covering late 2024 and early 2025, Kažimír engaged with IMF mission staff, including Saxegaard (Mission Head), to address issues such as banking sector health, external vulnerability, and the implications of fiscal policy on monetary stability. The [[National Bank of Slovakia]] was noted for strengthening supervisory powers, which supports the resilience of the banking sector against vulnerabilities in commercial real estate and mortgage refixation risks. These factors are critical to the assessment of Slovakia's financial sector health and overall institutional strength, key components in determining sovereign creditworthiness and debt sustainability.
 
-[[Oya Celasun]], [[Stefania Fabrizio]], [[Kamenický]], [[Taraba]], [[Saxegaard]], [[Mooi]], [[Kotera]], [[Bogmans]], [[Alasal]], [[Mitchell]], [[Ogawa]], [[Pampolina]], [[Hagara]]
+## Related Entities
+
+[[National Bank of Slovakia]], [[IMF]], [[Slovakia]], [[European Central Bank]], [[Saxegaard]], [[Kamenický]]

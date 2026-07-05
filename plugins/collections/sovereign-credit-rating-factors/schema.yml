@@ -1,0 +1,4 @@
+$meta:
+  type: Schema
+  title: "Sovereign Credit Rating Risk Summary Schema"
+  description: "Defines the custom fields extracted into summary frontmatter for Sovereign Credit Rating Risk Summaries."

@@ -1,31 +1,33 @@
 ---
-name: Bergljot Barkbu
-affiliations:
-  - relation: IMF Staff Member (Article IV Consultation)
-    person: Ilie Bolojan
-  - relation: IMF Staff Member (Article IV Consultation)
-    person: Joong Shik Kang
-timestamp: 2026-07-04T16:05:07Z
+role: Director, IMF Strategy, Policy, and Review Department
+organization: International Monetary Fund
+countries_covered:
+  - Austria
+timestamp: 2026-07-05T11:22:39Z
 tags:
   - IMF
-  - Romania
-  - Macroeconomics
+  - Sovereign Credit Risk
+  - Macroeconomic Stability
   - Fiscal Policy
-  - Monetary Policy
+  - Austria
 ---
 
 # Bergljot Barkbu
 
 ## Affiliations & Roles
 
-- IMF Staff Member involved in the 2025 Article IV Consultation for Romania.
+- **Role**: Director
+- **Organization**: [[International Monetary Fund]] (Strategy, Policy, and Review Department)
+- **Countries Covered**: [[Austria]]
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Bergljot Barkbu is associated with the International Monetary Fund (IMF) as part of the staff involved in the 2025 Article IV Consultation for Romania. Her work contributed to the assessment of Romania's macroeconomic stability, specifically focusing on fiscal consolidation, inflation management, and the resilience of the banking sector. 
+Bergljot Barkbu serves as the Director of the Strategy, Policy, and Review Department at the International Monetary Fund. In this capacity, Barkbu oversaw the 2025 Article IV Consultation with Austria, concluding in July 2025. The mission assessed Austria's economic stability amidst a challenging environment characterized by successive recessions in 2023 and 2024, driven by energy price shocks and monetary tightening.
 
-The consultation involved analyzing Romania's "twin deficits," evaluating the impact of the government's 2025–26 fiscal reform package (including VAT rate increases and public sector wage freezes), and providing recommendations on monetary policy stance and exchange rate flexibility. Her involvement touched upon critical issues such as the "sovereign-bank nexus," EU fund absorption under the Next Generation EU (NGEU) framework, and structural reforms aimed at improving labor force participation and energy transition.
+Under Barkbu's departmental oversight, the IMF highlighted critical sovereign risk factors for Austria, including a widened fiscal deficit (4.7% of GDP in 2024) and rising public debt (81.2% of GDP). The consultation emphasized the need for substantial medium-term fiscal adjustment to stabilize debt ratios against pressures from demographic aging, defense spending, and green transition costs. The IMF recommended reducing the deficit to below 2% of GDP through structural reforms, such as pension adjustments and tax mix improvements.
 
-## Collaborators
+Additionally, Barkbu’s department reviewed Austria's financial sector health, noting that while banks remain well-capitalized (CET1 ratio of 17.7%), significant risks persist from Commercial Real Estate (CRE) exposures. The mission advised making borrower-based lending standards permanent following the expiration of residential mortgage measures in July 2025 to mitigate macro-financial risks.
 
-[[Joong Shik Kang]], [[Ilie Bolojan]], [[Carlos Granados]], [[Mugur Isarescu]], [[Helge Berger]], [[Ezequiel Cabezon]], [[Nan Geng]], [[Fazurin Jamaludin]], [[Georgia Babici]], [[Mihai Copaciu]], [[Tina Kang]], [[Cheryl Li]], [[Maciej Onoszko]]
+## Related Entities
+
+[[International Monetary Fund]], [[Austria]], [[Oesterreichische Nationalbank]], [[Austrian Ministry of Finance]], [[Oya Celasun]]

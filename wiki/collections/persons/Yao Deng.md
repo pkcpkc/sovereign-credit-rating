@@ -1,53 +1,35 @@
 ---
-name: Yao Deng
-affiliations:
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Helge Berger
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Rishi Goyal
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Lone Christiansen
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Thomas Elkjaer
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Gee Hee Hong
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Yueling Huang
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Sylwia Nowak
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Alain Kabundi
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Carolina Claver
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Riccardo Ercoli
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Annalisa Korinthios
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Emily Fisher
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Jenny Lee
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Giorgetti
-  - relation: IMF Staff / Participant in Italy Article IV Consultation
-    person: Signorini
-timestamp: 2026-07-04T15:49:06Z
+role: IMF Staff Member
+organization: IMF
+countries_covered:
+  - Italy
+timestamp: 2026-07-05T15:49:10Z
 tags:
   - IMF
-  - Macroeconomics
+  - Sovereign Risk
   - Italy
+  - Article IV Consultation
 ---
 
 # Yao Deng
 
 ## Affiliations & Roles
 
-- IMF Staff Member involved in the 2025 Article IV Consultation for Italy.
+- **Role**: IMF Staff Member
+- **Organization**: [[International Monetary Fund]]
+- **Countries Covered**: Italy
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Yao Deng is associated with the International Monetary Fund (IMF) and contributed to the 2025 Article IV Consultation regarding Italy's economy. This work involved assessing Italy's fiscal performance, including its primary surplus achievements and the implementation of the National Recovery and Resilience Plan (NRRP). The analysis covered critical economic themes such as productivity growth, demographic headwinds (specifically the aging population), and sovereign risk management. Yao Deng's involvement included the evaluation of Italy's transition toward a 3% primary surplus target by 2027 and the assessment of the country's banking sector stability and regional disparities.
+Yao Deng served as a member of the IMF staff team for the **2025 Article IV Consultation with Italy**, concluding in July 2025. As part of the mission led by [[Lone Christiansen]], Deng contributed to the comprehensive assessment of Italy's macroeconomic stability, fiscal policy, and financial sector health.
 
-## Collaborators
+Key aspects of the analysis included:
+- **Fiscal Sustainability**: Evaluating Italy's public debt levels (135.3% of GDP in 2024) and recommending a front-loaded fiscal adjustment to achieve a primary surplus of 3% of GDP by 2027.
+- **Structural Reforms**: Assessing the implementation progress of the National Recovery and Resilience Plan (NRRP) and its impact on productivity growth and labor supply.
+- **Financial Stability**: Analyzing the banking sector's resilience, including capital buffers, non-performing loans, and vulnerabilities within Less Significant Institutions (LSIs).
 
-[[Helge Berger]], [[Rishi Goyal]], [[Lone Christiansen]], [[Thomas Elkjaer]], [[Gee Hee Hong]], [[Yueling Huang]], [[Sylwia Nowak]], [[Alain Kabundi]], [[Carolina Claver]], [[Riccardo Ercoli]], [[Annalisa Korinthios]], [[Emily Fisher]], [[Jenny Lee]], [[Giorgetti]], [[Signorini]]
+Deng's work involved coordinating with Italian authorities, including [[Giancarlo Giorgetti]] (Minister of Economy and Finance) and [[Fabio Signorini]] (Senior Deputy Governor, Bank of Italy), to ensure accurate data representation and policy dialogue during the consultation period (May–July 2025).
+
+## Related Entities
+
+[[International Monetary Fund]], [[Lone Christiansen]], [[Italy]], [[Article IV Consultation]]

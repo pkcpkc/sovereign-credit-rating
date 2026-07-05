@@ -1,25 +1,32 @@
 ---
-name: Kamenický
-affiliations:
-  - relation: Minister of Finance
-    person: Taraba
-timestamp: 2026-07-04T16:12:09Z
+role: Minister of Finance
+organization: Government of Slovakia
+countries_covered:
+  - Slovakia
+timestamp: 2026-07-05T15:51:38Z
 tags:
   - Slovakia
-  - Finance
-  - Government
+  - Fiscal Policy
+  - IMF Article IV
+  - Government Official
 ---
 
 # Kamenický
 
 ## Affiliations & Roles
 
-- Minister of Finance of the Slovak Republic
+- **Role**: Minister of Finance
+- **Organization**: [[Government of Slovakia]]
+- **Countries Covered**: Slovakia
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Kamenický serves as the Minister of Finance for the Slovak Republic. He is a key government official involved in high-level economic oversight and fiscal policy. During the 2025 IMF Article IV Consultation period, he represented the Slovak government in discussions regarding the country's economic recovery, fiscal consolidation plans for 2025-2028, and structural reforms aimed at addressing labor productivity and debt sustainability.
+Kamenický serves as the Minister of Finance for the Slovak Republic, playing a central role in the country's fiscal policymaking and engagement with international financial institutions. During the IMF's 2025 Article IV Consultation, Kamenický was a key figure in representing the government's economic strategy amidst significant fiscal challenges. Under his tenure, Slovakia faced a widened fiscal deficit of 5.8% of GDP in 2024, which triggered an Excessive Deficit Procedure (EDP) by the European Commission.
 
-## Collaborators
+In response to these fiscal pressures and rising public debt concerns, Kamenický's administration proposed an ambitious four-year fiscal consolidation plan (2025–2028). This plan aims to reduce the deficit to approximately 2.2% of GDP by 2028 and place public debt on a sustainable downward trajectory. The IMF staff and Executive Board endorsed this consolidation agenda as commensurate with Slovakia's fiscal challenges, though they noted that additional expenditure-based measures would be required beyond the initial 2025 budget to fully meet medium-term targets.
 
-[[Taraba]]
+Kamenický's policy environment is characterized by the need to balance fiscal consolidation with growth prospects, while addressing structural risks such as demographic aging and dependence on the automotive sector. The government's approach, under his leadership, is closely monitored for its impact on debt sustainability, with projections indicating public debt could reach 74.3% of GDP by 2030 without robust implementation of consolidation measures. His role is critical in ensuring the credibility of fiscal adjustments and maintaining investor confidence amidst geopolitical uncertainties and governance concerns.
+
+## Related Entities
+
+[[International Monetary Fund]], [[Government of Slovakia]], [[National Bank of Slovakia]], [[European Commission]], [[Oya Celasun]], [[Saxegaard]]

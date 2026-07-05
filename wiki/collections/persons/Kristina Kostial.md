@@ -1,12 +1,13 @@
 ---
-name: Kristina Kostial
-affiliations:
-  - relation: IMF Staff Member
-    person: Kristina Kostial
-timestamp: 2026-07-04T15:31:03Z
+role: Department Head
+organization: IMF
+countries_covered:
+  - Hungary
+timestamp: 2026-07-05T15:47:41Z
 tags:
   - IMF
-  - Economy
+  - Sovereign Analysis
+  - Fiscal Policy
   - Hungary
 ---
 
@@ -14,12 +15,18 @@ tags:
 
 ## Affiliations & Roles
 
-- IMF Staff Member involved in the 2025 Article IV Consultation for Hungary.
+- **Role**: Department Head
+- **Organization**: [[IMF]]
+- **Countries Covered**: Hungary
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Kristina Kostial is associated with the International Monetary Fund (IMF) and participated in the 2025 Article IV Consultation for Hungary. Her work involved analyzing the Hungarian economy's "challenging juncture," characterized by stagnant output and persistent inflation. She contributed to the assessment of high-quality fiscal adjustments, debt sustainability, and the necessity of a tight monetary policy stance to anchor inflation. Her involvement included evaluating structural reforms related to firm dynamism, energy security, and governance to address Hungary's productivity gap.
+Kristina Kostial served as a Department Head for the IMF European Department (EUR) during the 2025 Article IV Consultation for Hungary. In this capacity, she was a key member of the IMF staff team, working alongside Head of Mission [[Anke Weber]] and SPR Department Head [[Jacques Miniane]], to assess Hungary’s economic stability, fiscal sustainability, and monetary policy framework.
 
-## Collaborators
+Her involvement in the 2025 Staff Report highlighted critical issues regarding Hungary's economic trajectory, including stagnant output, elevated public debt (73.5% of GDP in 2024), and persistent inflationary pressures. The report, under her supervision as part of the leadership team, emphasized the need for additional fiscal adjustments to ensure debt sustainability, recommending a structural primary surplus to address rising financing costs and contingent liabilities from state-owned enterprises.
 
-[[Jacques Miniane]], [[Anke Weber]], [[Jakree Koosakul]], [[Moheb Malak]], [[Augustus Panton]], [[Atticus Weller]], [[Aleksandra Alferova]], [[Estefania Cohn Bech]], [[Ninfa Gonzales]], [[Rafael Machado Parente]], [[Hugo Rojas-Romagosa]], [[Gábor Meizer]], [[Dániel Palotai]], [[Márton Nagy]], [[Máté Lóga]], [[Bence Gerlaki]], [[Kornél Kisgergely]], [[Barnabás Virág]], [[Csaba Kandrács]], [[Zoltán Kurali]], [[Pál Péter Kolozsi]], [[András Bebes]], [[Szabolcs Ágostházy]], [[Károly Mátrai]], [[Réka Martini]], [[Gábor Horváth]], [[Attila Steiner]]
+Kostial’s work contributed to the Executive Board's assessment that Hungary faces "moderate" risk of sovereign stress. The analysis pointed to vulnerabilities such as the suspension of €19 billion in EU funds due to rule of law concerns, distortive regulatory measures (price and interest caps) that hinder monetary policy transmission, and external vulnerabilities linked to deepening geoeconomic fragmentation. The staff recommendations, which she helped formulate, urged the Hungarian authorities, including Minister [[Márton Nagy]] and the [[Magyar Nemzeti Bank (MNB)]], to prioritize structural reforms, phase out regulatory distortions, and maintain a tight monetary stance to anchor inflation expectations.
+
+## Related Entities
+
+[[Anke Weber]], [[Jacques Miniane]], [[Márton Nagy]], [[Magyar Nemzeti Bank (MNB)]], [[International Monetary Fund]]

@@ -1,3 +1,6 @@
 # Settings for generating wiki overviews and charts
 overviews:
   script_timeout_ms: 5000
+
+# Pipeline execution settings
+parallelPromptExecution: false

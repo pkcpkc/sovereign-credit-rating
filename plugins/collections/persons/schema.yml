@@ -1,9 +1,8 @@
 $meta:
   type: Schema
-  title: "Person Concept Schema"
-  description: "Defines the custom fields extracted into summary frontmatter for Person entities."
+  title: "Sovereign Credit Rating Person Schema"
+  description: "Defines the custom fields extracted into summary frontmatter for individuals relevant to sovereign credit rating and risk analysis."
 
-name: [string] # String | Required | The name of the $VALUE.
-affiliations: # Array | Required | List of relationships between extracted persons.
-  - relation: string # String | Required | The nature of the relationship (e.g. co-founder, colleague).
-    person: string # String | Required | The name of the person.
+role: string # String | Required | The person's role (e.g., "Lead Sovereign Analyst", "Minister of Finance", "Central Bank Governor", "IMF Mission Chief").
+organization: string # String | Required | The primary organization the person is affiliated with (e.g., "Fitch Ratings", "IMF", "Ministry of Finance", "HU Berlin").
+countries_covered: [string] # Array | Optional | Countries this person covers, represents, or makes policy for.

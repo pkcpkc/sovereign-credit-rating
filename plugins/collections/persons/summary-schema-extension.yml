@@ -1,10 +1,10 @@
 $meta:
   type: Schema
-  title: "Person Summary Extension Schema"
-  description: "Defines dynamic person summary extraction fields."
+  title: "Sovereign Credit Rating Person Summary Extension Schema"
+  description: "Defines dynamic person summary extraction fields, specifically focusing on sovereign credit rating relevance."
 
-persons: [string] # Array | Required | List of individuals extracted from source.
-relationships: # Array | Required | List of relationships between extracted persons.
-  - personA: string # String | Required | The name of the first person.
-    relation: string # String | Required | The nature of the relationship (e.g. co-founder, colleague).
-    personB: string # String | Required | The name of the second person.
+persons: # Array | Optional | List of key individuals (analysts, ministers, governors, economists, IMF mission chiefs) mentioned in the text.
+  - name: string # String | Required | The name of the person (e.g., "James Longsdon", "Clyde Caruana").
+    role: string # String | Optional | The role or title of the person (e.g., "Lead Analyst", "Minister of Finance", "Central Bank Governor", "IMF Mission Chief").
+    organization: string # String | Optional | The organization they represent (e.g., "Fitch Ratings", "IMF", "Ministry of Finance").
+    countries_covered: [string] # Array | Optional | List of countries this person covers, represents, or makes policy for.

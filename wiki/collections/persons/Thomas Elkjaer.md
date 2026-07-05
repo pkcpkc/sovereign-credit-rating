@@ -1,25 +1,28 @@
 ---
-name: Thomas Elkjaer
-affiliations:
-  - relation: Head of Staff Team
-    person: Lone Christiansen
-timestamp: 2026-07-04T15:45:42Z
+role: IMF Staff Member
+organization: International Monetary Fund
+countries_covered:
+  - Italy
+timestamp: 2026-07-05T15:48:44Z
 tags:
   - IMF
+  - Article IV Consultation
+  - Sovereign Risk
   - Italy
-  - Macroeconomics
 ---
 
 # Thomas Elkjaer
 
 ## Affiliations & Roles
 
-- Staff Member at [[International Monetary Fund]] (IMF)
+- **Role**: IMF Staff Member
+- **Organization**: [[International Monetary Fund]]
+- **Countries Covered**: Italy
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Thomas Elkjaer is associated with the International Monetary Fund (IMF) staff team involved in the 2025 Article IV Consultation for Italy. He worked under the leadership of [[Lone Christiansen]], who served as the Head of Staff Team for the mission. His work contributed to the assessment of Italy's economic resilience, fiscal performance, and structural reforms, including the monitoring of the National Recovery and Resilience Plan (NRRP).
+Thomas Elkjaer is an IMF staff member who participated in the 2025 Article IV Consultation with Italy. He was part of the IMF staff team, led by Lone Christiansen, that conducted discussions with Italian officials from May 14 to May 28, 2025. The consultation focused on assessing Italy's economic resilience, fiscal sustainability, and structural reforms. Elkjaer's work contributed to the staff report which highlighted Italy's GDP growth of 0.7% in 2024 and its high public debt levels (135.3% of GDP). The team analyzed key risks including weak productivity growth, population aging, and the sovereign-bank nexus. The resulting report recommended a front-loaded fiscal adjustment to achieve a primary surplus of 3% of GDP by 2027 to ensure debt sustainability, a proposal disputed by Italian authorities who favored a more gradual approach.
 
-## Collaborators
+## Related Entities
 
-[[Lone Christiansen]], [[Helge Berger]], [[Rishi Goyal]], [[Gee Hee Hong]], [[Yueling Huang]], [[Sylwia Nowak]], [[Alain Kabundi]], [[Carolina Claver]], [[Riccardo Ercoli]], [[Annalisa Korinthios]], [[Yao Deng]], [[Emily Fisher]], [[Jenny Lee]], [[Giorgetti]], [[Signorini]]
+[[International Monetary Fund]], [[Italy]], [[Lone Christiansen]], [[Giancarlo Giorgetti]]

@@ -1,27 +1,28 @@
 ---
-name: Carlos Masip
-affiliations:
-  - relation: Analyst
-    person: Fitch Ratings
-timestamp: 2026-07-04T14:15:31Z
+role: Analyst
+organization: Fitch Ratings
+countries_covered: []
+timestamp: 2026-07-05T15:51:56Z
 tags:
-  - Credit Ratings
-  - Sovereign Risk
-  - Macroeconomics
-  - Public Finance
-  - Climate Risk
+  - Fitch Ratings
+  - Sovereign Ratings
+  - Credit Analyst
 ---
 
 # Carlos Masip
 
 ## Affiliations & Roles
 
-- Analyst at [[Fitch Ratings]]
+- **Role**: Analyst
+- **Organization**: [[Fitch Ratings]]
+- **Countries Covered**: []
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Carlos Masip is an analyst at [[Fitch Ratings]], where he contributes to the development and application of the Sovereign Rating Criteria. His work involves utilizing the Sovereign Rating Model (SRM) to assess sovereign creditworthiness through quantitative analysis of structural features, public finances, external finances, and macroeconomic performance. He is involved in the application of Qualitative Overlays (QO) to account for geopolitical risks and policy credibility, as well as the monitoring of climate-related risks via the Climate.VS framework.
+Carlos Masip is an Analyst at [[Fitch Ratings]], contributing to the development and application of the firm's [[Sovereign Rating Model (SRM)]] and associated criteria. He was involved in the updates to the [[Fitch Ratings Sovereign Rating Criteria (Effective 15 September 2025)]**, which introduced significant methodological changes for assessing sovereign credit risk.
 
-## Collaborators
+His work involves the analysis of the four core analytical pillars: **Structural Features**, **Macroeconomic Performance/Policies/Prospects**, **Public Finances**, and **External Finances**. Specifically, Masip contributed to the framework that integrates [[Climate Vulnerability Signals (Climate.VS)]] as a screening tool for physical and transition climate risks, as well as the enhanced monitoring of [[Macro-Prudential Indicator (MPI)]] and [[Banking Systemic Indicator (BSI)]] risks. He works alongside other analysts, including [[James Longsdon]], [[Ed Parker]], and [[Rob Shearman]], to refine the quantitative OLS regression models and the [[Qualitative Overlay (QO)]] mechanisms that adjust ratings based on geopolitical, financial sector, and policy credibility factors.
 
-[[James Longsdon]], [[Ed Parker]], [[Rob Shearman]]
+## Related Entities
+
+[[Fitch Ratings]], [[James Longsdon]], [[Ed Parker]], [[Rob Shearman]], [[Sovereign Rating Model (SRM)]], [[Qualitative Overlay (QO)]]

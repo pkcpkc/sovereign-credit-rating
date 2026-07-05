@@ -1,25 +1,28 @@
 ---
-name: Kareem Ismail
-affiliations:
-  - relation: Staff Team Member (Reporting to Head of IMF Staff Team)
-    person: Jan Kees Martijn
-timestamp: 2026-07-04T15:59:35Z
-tags:
-  - Economics
-  - IMF
+role: Mission Member
+organization: International Monetary Fund
+countries_covered:
   - Poland
+timestamp: 2026-07-05T15:50:56Z
+tags:
+  - IMF
+  - Article IV Consultation
+  - Poland
+  - Sovereign Risk
 ---
 
 # Kareem Ismail
 
 ## Affiliations & Roles
 
-- IMF Staff Member
+- **Role**: Mission Member
+- **Organization**: [[International Monetary Fund]]
+- **Countries Covered**: Poland
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Kareem Ismail is a member of the International Monetary Fund (IMF) staff team. He participated in the 2024 Article IV Consultation for the Republic of Poland, working under the leadership of Jan Kees Martijn (Head of IMF Staff Team). His work involved assessing Poland's economic recovery, fiscal position, and structural reforms, contributing to the final IMF Staff Report and the subsequent press release regarding Poland's economic outlook and debt sustainability.
+Kareem Ismail served as a Mission Member for the [[International Monetary Fund]] (IMF) during the 2024 Article IV Consultation with [[Poland]], concluded in January 2025. As part of the IMF staff team, he contributed to the comprehensive assessment of Poland’s macroeconomic policy, fiscal sustainability, and financial stability. His work involved analyzing the implications of Poland’s widening fiscal deficit (5.9% of GDP in 2024), which triggered the EU Excessive Deficit Procedure (EDP), and evaluating the efficacy of the Medium-Term Fiscal Structural Plan (MTFSP) aimed at deficit reduction. Ismail's contributions helped inform the IMF’s recommendations regarding fiscal consolidation, monetary policy stance in the context of sticky inflation, and structural reforms addressing population aging and climate transition risks.
 
-## Collaborators
+## Related Entities
 
-[[Jan Kees Martijn]]
+[[International Monetary Fund]], [[Poland]], [[Jan Kees Martijn]], [[Uma Ramakrishnan]], [[National Bank of Poland]]

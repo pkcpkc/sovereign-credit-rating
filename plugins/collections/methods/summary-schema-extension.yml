@@ -1,0 +1,6 @@
+$meta:
+  type: Schema
+  title: "Method Summary Extension Schema"
+  description: "Defines dynamic method summary extraction fields."
+
+methods: [string] # Array | Optional | List of sovereign credit rating methodologies, criteria, models, or quantitative/qualitative rating frameworks (e.g., "S&P Sovereign Rating Methodology", "Fitch Sovereign Rating Criteria") mentioned in the text.

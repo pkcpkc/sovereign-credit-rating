@@ -1,48 +1,29 @@
 ---
-name: Gee Hee Hong
-affiliations:
-  - relation: IMF Staff Member / Collaborator
-    person: Helge Berger
-  - relation: IMF Staff Member / Collaborator
-    person: Rishi Goyal
-  - relation: IMF Staff Member / Collaborator
-    person: Lone Christiansen
-  - relation: IMF Staff Member / Collaborator
-    person: Thomas Elkjaer
-  - relation: IMF Staff Member / Collaborator
-    person: Yueling Huang
-  - relation: IMF Staff Member / Collaborator
-    person: Sylwia Nowak
-  - relation: IMF Staff Member / Collaborator
-    person: Alain Kabundi
-  - relation: IMF Staff Member / Collaborator
-    person: Carolina Claver
-  - relation: IMF Staff Member / Collaborator
-    person: Riccardo Ercoli
-  - relation: IMF Staff Member / Collaborator
-    person: Annalisa Korinthios
-  - relation: IMF Staff Member / Collaborator
-    person: Yao Deng
-  - relation: IMF Staff Member / Collaborator
-    person: Emily Fisher
-  - relation: IMF Staff Member / Collaborator
-    person: Jenny Lee
-timestamp: 2026-07-04T15:45:58Z
-tags: [IMF, Macroeconomics, Fiscal Policy, Italy]
+role: IMF Staff Member
+organization: International Monetary Fund
+countries_covered:
+  - Italy
+timestamp: 2026-07-05T15:48:48Z
+tags:
+  - IMF
+  - Sovereign Risk
+  - Italy
+  - Article IV Consultation
+  - Fiscal Policy
 ---
 
 # Gee Hee Hong
 
 ## Affiliations & Roles
 
-- IMF Staff Member (involved in Italy Article IV Consultation)
+- **Role**: IMF Staff Member
+- **Organization**: [[International Monetary Fund]]
+- **Countries Covered**: Italy
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Gee Hee Hong is associated with the International Monetary Fund (IMF) staff team involved in the 2025 Article IV Consultation for Italy. This work focused on assessing Italy's economic resilience, fiscal performance, and structural reforms. 
+Gee Hee Hong is a member of the IMF Staff team responsible for the 2025 Article IV Consultation with Italy. In this capacity, Hong contributed to the analysis of Italy's economic resilience, fiscal sustainability, and financial sector stability. The consultation, led by Team Head [[Lone Christiansen]], assessed Italy's GDP growth of 0.7% in 2024 and its public debt level of 135.3% of GDP. Hong's work involved evaluating the implementation of the National Recovery and Resilience Plan (NRRP) and the Medium-Term Fiscal Structural Plan (MTFSP), as well as assessing risks related to population aging, weak productivity growth, and the sovereign-bank nexus. The staff report, published in July 2025, recommended a primary surplus of 3% of GDP by 2027 to ensure debt sustainability, a view contested by Italian authorities who proposed a more gradual adjustment path.
 
-Key areas of involvement included analyzing Italy's return to a primary surplus, its record-high employment rates, and the progress of the National Recovery and Resilience Plan (NRRP). The work also addressed critical structural challenges such as Italy's productivity malaise, demographic headwinds (aging population), and sovereign risk assessments. Hong's contributions were part of a comprehensive report evaluating fiscal consolidation targets, labor market participation—specifically for women—and the stability of the Italian banking sector.
+## Related Entities
 
-## Collaborators
-
-[[Helge Berger]], [[Rishi Goyal]], [[Lone Christiansen]], [[Thomas Elkjaer]], [[Yueling Huang]], [[Sylwia Nowak]], [[Alain Kabundi]], [[Carolina Claver]], [[Riccardo Ercoli]], [[Annalisa Korinthios]], [[Yao Deng]], [[Emily Fisher]], [[Jenny Lee]]
+[[Lone Christiansen]], [[Helge Berger]], [[Rishi Goyal]], [[Riccardo Ercoli]], [[International Monetary Fund]], [[Italy]], [[Bank of Italy]], [[Ministry of Economy and Finance]]

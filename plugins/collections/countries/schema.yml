@@ -1,4 +1,0 @@
-$meta:
-  type: Schema
-  title: "Country Schema"
-  description: "Defines the custom fields extracted into summary frontmatter for Country entities."

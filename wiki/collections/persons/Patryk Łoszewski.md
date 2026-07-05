@@ -1,29 +1,38 @@
 ---
-name: Patryk Łoszewski
-affiliations:
-  - relation: IMF Staff Member (Article IV Consultation)
-    person: Jan Kees Martijn
-  - relation: IMF Staff Member (Article IV Consultation)
-    person: Kareem Ismail
-timestamp: 2026-07-04T16:02:37Z
-tags:
-  - Economics
+role: Executive Director
+organization: IMF
+countries_covered:
   - Poland
+timestamp: 2026-07-05T15:50:44Z
+tags:
   - IMF
+  - Executive Board
+  - Sovereign Surveillance
+  - Poland
+  - Macroeconomic Policy
 ---
 
 # Patryk Łoszewski
 
 ## Affiliations & Roles
 
-- IMF Staff Member involved in the 2024 Article IV Consultation for Poland.
+- **Role**: Executive Director
+- **Organization**: [[International Monetary Fund]] (IMF)
+- **Countries Covered**: Poland
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Patryk Łoszewski is identified as a key participant in the International Monetary Fund (IMF) staff team responsible for the 2024 Article IV Consultation regarding the Republic of Poland. His work contributed to the comprehensive analysis of Poland's economic recovery, which included evaluating growth projections (3.5% for 2025-2026), inflation trends, and the impact of Next Generation EU (NGEU) funds. 
+Patryk Łoszewski serves as the Executive Director for Poland at the [[International Monetary Fund]] (IMF). In this capacity, he provides the official voice of the Polish authorities during the Executive Board’s consideration of the IMF’s Article IV Consultations, specifically the 2024 Consultation concluded in January 2025.
 
-The analysis involving Łoszewski addressed critical fiscal matters, including Poland's placement under the EU's Excessive Deficit Procedure (EDP) and the implementation of the Medium-Term Fiscal Structural Plan. His involvement spanned the period of staff discussions in Warsaw (October 2024) through to the completion of the IMF Staff Report in December 2024.
+His representation involves presenting the Polish government’s perspective on the nation’s macroeconomic stability, fiscal sustainability, and monetary policy framework. Key areas of focus under his oversight and representation include:
 
-## Collaborators
+- **Fiscal Consolidation**: Addressing the widening fiscal deficit, which reached 5.9% of GDP in 2024, triggering the EU’s Excessive Deficit Procedure (EDP). Łoszewski represents the Polish stance on the Medium-Term Fiscal Structural Plan (MTFSP), which aims to reduce the deficit to below 3% of GDP by 2028.
+- **Monetary Policy Coordination**: Highlighting the cooperation with the [[National Bank of Poland]] (NBP) in maintaining price stability. The IMF Staff Report, which Łoszewski’s statement would contextualize, commends the NBP’s independent and tight monetary stance despite political pressures, noting that inflation remains above target due to sticky core inflation and wage growth.
+- **Structural Reforms & Growth**: Advocating for Poland’s efforts to address long-term headwinds such as population aging and the climate transition. This includes managing the absorption of Next Generation EU (NGEU) funds to support near-term growth (projected at 3.5% in 2025) while implementing structural reforms to boost productivity and labor market participation.
+- **Financial Sector Stability**: Addressing risks related to the banking sector, including litigation from foreign-currency (CHF) mortgages and distortions in private credit, while emphasizing the sector’s strong capital buffers and liquidity.
 
-[[Jan Kees Martijn]], [[Kareem Ismail]], [[Uma Ramakrishnan]], [[Fabian Bornhorst]], [[Alla Myrvoda]], [[Yang Yang]], [[Geoff Gottlieb]], [[Robert Sierhej]], [[Krzysztof Krogulski]], [[Maciej Onoszko]], [[Marta Pietrzak]], [[Kelly MacKinnon Mukherjee]], [[Can Ugur]]
+Łoszewski’s role is critical in aligning Poland’s policy commitments with IMF recommendations, particularly regarding the timing of fiscal adjustment, the independence of the central bank, and the establishment of an independent fiscal council planned for 2026.
+
+## Related Entities
+
+[[International Monetary Fund]], [[National Bank of Poland]], [[Ministry of Finance (Poland)]], [[Poland]]

@@ -24,6 +24,7 @@ Merge the new definitions, key details, and related concepts from the summary co
 
 - If the existing concept content is empty, generate a new Concept page from scratch matching the Target Output Format template exactly.
 - If the existing concept page already exists, merge the new details, definitions, and relationships into the existing document. Do NOT overwrite existing definitions; append and synthesize new information.
+- Focus on and highlight the concept's relevance, significance, and direct/indirect impact on sovereign credit ratings, fiscal sustainability, macroeconomic policy, financial stability, and country risk analysis.
 - All internal links must be simple Obsidian wikilinks (e.g. `[[Deep Learning]]`).
 - Output ONLY the valid markdown content. Do not include markdown code block wraps.
 

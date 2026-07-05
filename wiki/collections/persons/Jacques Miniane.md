@@ -1,49 +1,35 @@
 ---
-name: Jacques Miniane
-affiliations:
-  - relation: Colleague (IMF Staff Mission)
-    person: Kristina Kostial
-  - relation: Colleague (IMF Staff Mission)
-    person: Anke Weber
-  - relation: Colleague (IMF Staff Mission)
-    person: Jakree Koosakul
-  - relation: Colleague (IMF Staff Mission)
-    person: Moheb Malak
-  - relation: Colleague (IMF Staff Mission)
-    person: Augustus Panton
-  - relation: Colleague (IMF Staff Mission)
-    person: Atticus Weller
-  - relation: Colleague (IMF Staff Mission)
-    person: Aleksandra Alferova
-  - relation: Colleague (IMF Staff Mission)
-    person: Estefania Cohn Bech
-  - relation: Colleague (IMF Staff Mission)
-    person: Ninfa Gonzales
-  - relation: Colleague (IMF Staff Mission)
-    person: Rafael Machado Parente
-  - relation: Colleague (IMF Staff Mission)
-    person: Hugo Rojas-Romagosa
-timestamp: 2026-07-04T15:31:25Z
-tags:
-  - Economy
-  - IMF
+role: Department Head
+organization: IMF
+countries_covered:
   - Hungary
-  - Fiscal Policy
-  - Monetary Policy
+timestamp: 2026-07-05T11:25:01Z
+tags:
+  - IMF
+  - Sovereign Analysis
+  - Hungary Economy
+  - Article IV Consultation
 ---
 
 # Jacques Miniane
 
 ## Affiliations & Roles
 
-- IMF Staff Member (Article IV Consultation - Hungary)
+- **Role**: Department Head
+- **Organization**: [[International Monetary Fund]] (SPR Department)
+- **Countries Covered**: Hungary
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Jacques Miniane is associated with the International Monetary Fund (IMF) and was involved in the 2025 Article IV Consultation for Hungary. His work contributed to the assessment of the Hungarian economy, which faced stagnant output and persistent inflation above the 3% target. 
+Jacques Miniane serves as a Department Head within the IMF's Western Hemisphere and Asia-Pacific (SPR) Department, playing a key leadership role in the Fund's surveillance and policy advisory missions. In the context of the **IMF 2025 Article IV Consultation** with [[Hungary]], Miniane was a primary representative of the IMF staff, engaging in high-level discussions with Hungarian authorities regarding the country's macroeconomic stability, fiscal sustainability, and monetary policy frameworks.
 
-His role involved analyzing complex macroeconomic factors including fiscal adjustment requirements, debt sustainability (projected at 79% of GDP by 2030), and the transition toward a tight monetary policy stance. The team's findings emphasized the necessity of structural reforms to address firm dynamism, energy security, and governance issues to unlock EU funding and improve the business environment.
+His involvement in the 2025 consultation highlights his expertise in assessing sovereign credit risks amidst complex geopolitical and economic fragmentation. The mission, co-led by [[Anke Weber]] and supported by [[Kristina Kostial]], evaluated Hungary's economic trajectory, which is characterized by stagnant growth, elevated inflation, and rising public debt. Miniane contributed to the staff's assessment that Hungary faces a "moderate" risk of sovereign stress, driven by high gross financing needs and significant contingent liabilities from state-owned enterprises.
 
-## Collaborators
+Key aspects of the policy dialogue under Miniane's oversight included:
+- **Fiscal Adjustment**: Advocating for a structural primary surplus of around 1.75% of GDP to ensure debt sustainability, with recommendations for revenue enhancement and spending rationalization.
+- **Monetary Policy Coordination**: Engaging with the [[Magyar Nemzeti Bank]] (MNB) on maintaining a tight monetary stance to anchor inflation expectations, while urging the phasing out of distortive price and margin caps that hinder monetary transmission.
+- **Structural Reforms**: Emphasizing the need for governance improvements and rule of law compliance to unlock suspended €19 billion in [[European Union]] funds, which poses a significant downside risk to Hungary's external and fiscal balances.
 
-[[Kristina Kostial]], [[Anke Weber]], [[Jakree Koosakul]], [[Moheb Malak]], [[Augustus Panton]], [[Atticus Weller]], [[Aleksandra Alferova]], [[Estefania Cohn Bech]], [[Ninfa Gonzales]], [[Rafael Machado Parente]], [[Hugo Rojas-Romagosa]]
+## Related Entities
+
+[[International Monetary Fund]], [[Hungary]], [[Anke Weber]], [[Kristina Kostial]], [[Magyar Nemzeti Bank]]

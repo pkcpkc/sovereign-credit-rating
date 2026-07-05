@@ -1,4 +1,4 @@
 $meta:
   type: Schema
   title: "Concept Schema"
-  description: "Defines the core fields extracted into summary frontmatter for Concept entities."
+  description: "Defines the core fields extracted into summary frontmatter for Sovereign Credit Rating Concept entities."

@@ -1,25 +1,28 @@
 ---
-name: Yang Yang
-affiliations:
-  - relation: IMF Staff Member
-    person: International Monetary Fund
-timestamp: 2026-07-04T14:07:31Z
-tags:
-  - Economics
-  - IMF
+role: Mission Member
+organization: IMF
+countries_covered:
   - Poland
+timestamp: 2026-07-05T15:51:05Z
+tags:
+  - IMF
+  - Article IV Consultation
+  - Poland
+  - Macroeconomic Policy
 ---
 
 # Yang Yang
 
 ## Affiliations & Roles
 
-- IMF Staff at [[International Monetary Fund]]
+- **Role**: Mission Member
+- **Organization**: [[IMF]]
+- **Countries Covered**: [[Poland]]
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Yang Yang is a member of the IMF staff team involved in the 2024 Article IV Consultation for the Republic of Poland. Their work contributed to the assessment of Poland's economic recovery, focusing on growth projections (estimated at 3.5% for 2025-2026), inflation trends, and the fiscal implications of Next Generation EU (NGEU) funds. The analysis provided by the team highlights Poland's transition toward fiscal consolidation to address a 5.9% GDP deficit and the structural reforms required for labor market integration and climate transition.
+Yang Yang served as a Mission Member for the International Monetary Fund (IMF) during the 2024 Article IV Consultation with Poland, concluding staff discussions in October 2024 and contributing to the staff report finalized in late 2024 and early 2025. In this capacity, Yang was involved in the assessment of Poland’s macroeconomic and financial stability, focusing on key areas such as fiscal sustainability, monetary policy stance, and structural reforms. The mission analyzed the widening fiscal deficit, which reached 5.9% of GDP in 2024, triggering an EU Excessive Deficit Procedure, and evaluated the authorities' Medium-Term Fiscal Structural Plan (MTFSP). Yang's work contributed to the IMF's recommendation for frontloading fiscal consolidation to support disinflation and monetary easing, while also addressing structural challenges including population aging, climate transition costs, and the integration of Ukrainian refugees into the labor market. The mission further assessed the resilience of the Polish banking sector, noting strong capital buffers but highlighting risks associated with litigation over foreign-currency mortgages and distortions in private credit.
 
-## Collaborators
+## Related Entities
 
-[[Uma Ramakrishnan]], [[Fabian Bornhorst]], [[Jan Kees Martijn]], [[Kareem Ismail]], [[Alla Myrvoda]], [[Geoff Gottlieb]], [[Robert Sierhej]], [[Krzysztof Krogulski]], [[Maciej Onoszko]], [[Patryk Łoszewski]], [[Marta Pietrzak]], [[Kelly MacKinnon Mukherjee]], [[Can Ugur]]
+[[IMF]], [[Poland]], [[National Bank of Poland]], [[Jan Kees Martijn]], [[Uma Ramakrishnan]]

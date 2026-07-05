@@ -1,95 +1,113 @@
 ---
 type: Summary
-title: "S&P Global Ratings: Sovereign Rating Methodology (2017)"
+title: S&P Global Ratings Sovereign Rating Methodology (2017)
 tags:
-  - Credit Ratings
-  - Sovereign Debt
-  - Macroeconomics
-  - Financial Analysis
-  - S&P Global
+  - Sovereign Credit Rating
+  - Rating Methodology
+  - Financial Risk Analysis
+  - Macroeconomic Assessment
+  - S&P Global Ratings
 assets:
-  - wiki/assets/2026-07-04/processed/2017 Sovereign Methodology.md
-  - wiki/assets/2026-07-04/sources/2017 Sovereign Methodology.md
+  - wiki/assets/2026-07-05/processed/2017 Sovereign Methodology.md
+  - wiki/assets/2026-07-05/sources/2017 Sovereign Methodology.md
 concepts:
-  - Issuer Credit Rating (ICR)
-  - Net General Government Debt
-  - Current Account Payments (CAP)
-  - BICRA
-  - Monetary Union
-  - Contingent Liabilities
-  - Lender of Last Resort
-countries: []
-ratings: []
+  - institutional assessment
+  - economic assessment
+  - external assessment
+  - fiscal assessment
+  - monetary assessment
+  - sovereign credit risk
+  - debt sustainability
+  - external liquidity
+  - contingent liabilities
+  - monetary policy credibility
+  - local vs. foreign currency ratings
+institutions:
+  - S&P Global Ratings
+  - International Monetary Fund (IMF)
+  - World Bank
+  - Bank for International Settlements (BIS)
+methods:
+  - S&P Sovereign Rating Methodology
+  - Banking Industry Country Risk Assessment (BICRA)
+  - Group Rating Methodology
 persons:
-  - Moritz Kraemer
-  - Christian Esters
-  - Sebastian Briozzo
-  - KimEng Tan
-  - Bertrand De Dianous
-  - Valerie Montmaur
-  - Laura J Feinland Katz
-  - Mark Puccia
-relationships:
-  - personA: Moritz Kraemer
-    relation: Analytical Contact
-    personB: S&P Global Ratings
-  - personA: Christian Esters
-    relation: Analytical Contact
-    personB: S&P Global Ratings
-  - personA: Bertrand De Dianous
-    relation: Criteria Contact
-    personB: S&P Global Ratings
+  - name: Moritz Kraemer
+    role: Analytical Contact
+    organization: S&P Global Ratings
+    countries_covered: []
+  - name: Christian Esters
+    role: Analytical Contact
+    organization: S&P Global Ratings
+    countries_covered: []
+  - name: Sebastian Briozzo
+    role: Analytical Contact
+    organization: S&P Global Ratings
+    countries_covered: []
+  - name: KimEng Tan
+    role: Analytical Contact
+    organization: S&P Global Ratings
+    countries_covered: []
+  - name: Bertrand De Dianous
+    role: Criteria Contact
+    organization: S&P Global Ratings
+    countries_covered: []
+  - name: Valerie Montmaur
+    role: Criteria Contact
+    organization: S&P Global Ratings
+    countries_covered: []
+  - name: Laura J Feinland Katz
+    role: Criteria Contact
+    organization: S&P Global Ratings
+    countries_covered: []
+  - name: Mark Puccia
+    role: Criteria Contact
+    organization: S&P Global Ratings
+    countries_covered: []
+sovereign-credit-rating-factors: []
 times:
-  - date: 2011-02-16
-    event: Publication of 'Principles Of Credit Ratings'
-  - date: 2013-09-11
-    event: Publication of 'Monetary Authorities Rating Methodology'
-  - date: 2014-12-23
-    event: Publication of previous 'Sovereign Rating Methodology'
-  - date: 2016-10-21
-    event: Publication of 'Guarantee Criteria'
-  - date: 2017-04-13
-    event: Publication of 'What does S&P Global Ratings Consider A Default For
-      Sovereign...'
   - date: 2017-12-18
-    event: Effective date of current Sovereign Rating Methodology
-timestamp: 2026-07-04T12:27:24Z
+    title: Original publication and effective date of S&P Sovereign Rating Methodology
+  - date: 2014-12-23
+    title: Publication of previous S&P Sovereign Rating Methodology
+  - date: 2013-09-11
+    title: Publication of Monetary Authorities Rating Methodology
+  - date: 2011-02-16
+    title: Publication of Principles of Credit Ratings
+  - date: 2012-10-01
+    title: Publication of Criteria for Assigning 'CCC+', 'CCC', 'CCC-', And 'CC'
+      Ratings
+timestamp: 2026-07-05T11:08:56Z
 ---
-# Summary of: S&P Global Ratings: Sovereign Rating Methodology (2017)
+# Summary of: S&P Global Ratings Sovereign Rating Methodology (2017)
 
 ## Context Metadata
-*   **Source:** S&P Global Ratings
-*   **Publication Date:** December 18, 2017
-*   **Scope:** Global methodology for rating sovereign governments and monetary authorities.
-*   **Purpose:** To provide market participants with a transparent framework for assessing a sovereign's ability and willingness to service financial obligations to nonofficial (commercial) creditors.
+
+- **Source Document**: S&P Global Ratings Sovereign Rating Methodology
+- **Effective Period**: December 18, 2017 (Effective Immediately)
+- **Issuer**: S&P Global Ratings
+- **Document Type**: Rating Criteria / Methodology
 
 ## Executive Summary
-This document outlines the comprehensive framework used by S&P Global Ratings to assign Issuer Credit Ratings (ICR) to sovereign entities. The methodology evaluates five core pillars: **Institutional, Economic, External, Fiscal, and Monetary assessments**. Each pillar is scored on a 1–6 scale (where 1 is strongest and 6 is weakest). The final rating is derived from a combination of the "Institutional and Economic Profile" and the "Flexibility and Performance Profile," with optional adjustments for supplemental factors (e.g., extreme debt, event risk) and specific rules for local-currency versus foreign-currency ratings. Key updates in this 2017 version include stricter limits on local-currency uplifts, a shift toward net general government debt for fiscal assessments, and the use of current account payments (CAP) in external ratios.
+
+This document outlines the updated "Sovereign Rating Methodology" published by S&P Global Ratings on December 18, 2017. The methodology provides a standardized framework for assessing the creditworthiness of sovereign governments and monetary authorities regarding their ability and willingness to service financial obligations to nonofficial (commercial) creditors. It replaces the 2014 methodology and integrates the 2013 Monetary Authorities methodology.
+
+Key updates include limiting the potential uplift for local-currency ratings to one notch above foreign-currency ratings (previously two), shifting the initial fiscal assessment to focus on the change in *net* general government debt rather than gross debt, and using Current Account Payments (CAP) instead of Current Account Receipts (CAR) in certain external ratios. The methodology is built on five pillars: Institutional, Economic, External, Fiscal, and Monetary assessments. Each pillar is scored on a scale of 1 to 6, which are combined to determine an "indicative rating level," subject to supplemental adjustments for extreme risks or strengths. The framework emphasizes the interplay between institutional stability, economic resilience, external liquidity, fiscal sustainability, and monetary policy credibility in determining sovereign credit ratings.
 
 ## Key Highlights
 
-### 🏗️ The Five Pillars of Assessment
-*   **Institutional Assessment:** Evaluates the stability of political institutions, policy predictability, transparency, and debt payment culture.
-*   **Economic Assessment:** Focuses on income levels (GDP per capita), growth prospects, and economic diversity/volatility.
-*   **External Assessment:** Analyzes currency status (reserve vs. actively traded), external liquidity, and the country's external position (debt/assets).
-*   **Fiscal Assessment:** Measures the sustainability of fiscal balances, including debt burden (debt-to-GDP and interest costs) and fiscal flexibility.
-*   **Monetary Assessment:** Assesses the exchange rate regime and the credibility of monetary policy (inflation stability, independence, and financial system depth).
+- **Five-Pillar Assessment Framework**: The core methodology relies on five key areas: **Institutional Assessment** (policymaking effectiveness, transparency, debt payment culture, external security risks); **Economic Assessment** (GDP per capita, growth prospects, economic diversity); **External Assessment** (currency status, external liquidity, external position); **Fiscal Assessment** (fiscal performance/flexibility, debt burden, contingent liabilities); and **Monetary Assessment** (exchange rate regime, monetary policy credibility).
 
-### 📊 Scoring and Indicative Ratings
-*   **Numerical Scale:** Each factor is scored from 1 (strongest) to 6 (weakest).
-*   **Matrix Approach:** Ratings are determined by averaging the Institutional/Economic scores with the Flexibility/Performance scores to find an "indicative rating level."
-*   **One-Notch Rule:** In most cases, the final foreign-currency rating stays within one notch of the indicative level unless supplemental factors apply.
+- **Local vs. Foreign Currency Rating Cap**: A significant change in this update is the limitation of the local-currency rating uplift. Previously, local-currency ratings could be up to two notches higher than foreign-currency ratings. Under the 2017 criteria, the local-currency rating is generally capped at one notch above the foreign-currency rating, reflecting a more conservative view on the distinction between local and external debt servicing risks.
 
-### 💰 Fiscal and Debt Analysis
-*   **Net General Government Debt:** Unlike some reports, S&P uses a "net" measure, subtracting liquid financial assets from gross debt.
-*   **Contingent Liabilities:** The methodology accounts for potential obligations (e.g., bank bailouts, nonfinancial public enterprises) that could materialize as government debt.
-*   **Debt Burden:** Primary metrics include interest expenditures as a percentage of revenue and net debt as a percentage of GDP.
+- **Shift to Net Debt in Fiscal Assessment**: The initial fiscal assessment now bases its primary metric on the change in *net* general government debt (gross debt minus liquid financial assets) as a percentage of GDP, rather than gross debt or headline deficits. This aims to better capture the true fiscal stance by accounting for government assets that can be deployed in times of stress.
 
-### 💱 Currency and Monetary Specifics
-*   **Local-Currency Uplift:** Local-currency ratings can be up to one notch higher than foreign-currency ratings if the sovereign has independent monetary policy and deep local capital markets.
-*   **Monetary Unions:** Members of a monetary union receive an assessment based on the union's common currency but may face adjustments if they are unsynchronized with the zone.
-*   **Monetary Authorities:** Ratings for central banks in monetary unions are derived from the weighted average of member sovereigns plus a potential "uplift" based on the authority's monetary flexibility.
+- **External Assessment Adjustments**: The methodology updates external metrics by using Current Account Payments (CAP) in the denominator for certain ratios when external liquid assets exceed external debt, providing a more accurate measure of external indebtedness. It also refines the classification of "reserve currencies" (>3% of global FX reserves) and "actively traded currencies" (>1% of global FX turnover) to determine external assessment baselines.
 
-### ⚠️ Supplemental Adjustments
-*   **Negative Factors:** Ratings can be notched down for extremely weak external liquidity, very high fiscal debt burdens, high institutional risk combined with high debt, or imminent event risks (war, natural disasters).
-*   **Positive Factors:** A rating may be notched up if a government holds exceptionally large liquid financial assets (over 100% of GDP).
+- **Institutional Assessment Adjustments**: The institutional assessment is explicitly adjusted for "debt payment culture" and "external security risks." A sovereign with a weak debt payment culture (e.g., sustained arrears, odious debt discourse) receives the weakest institutional assessment ('6'). External security risks, such as war, can lower the assessment by one or two categories if the risk is not imminent within two to three years.
+
+- **Contingent Liabilities Integration**: The fiscal assessment incorporates a detailed analysis of contingent liabilities, particularly from the banking sector, using the Banking Industry Country Risk Assessment (BICRA) combined with the size of the banking system. These liabilities are categorized as limited, moderate, high, or very high, leading to negative adjustments in the debt burden assessment of up to three categories.
+
+- **Monetary Authority Ratings**: For monetary authorities of monetary unions (e.g., ECB), ratings are determined by a weighted average of member sovereign ratings, adjusted by the monetary assessment of the authority itself. Uplifts of zero to four notches may apply depending on the monetary flexibility and credibility of the union's central bank.
+
+- **Supplemental Adjustment Factors**: Beyond the indicative rating matrix, specific factors can adjust the final rating. Negative adjustments may apply for extremely weak external liquidity, extremely high fiscal debt burdens, very high institutional risk combined with high debt, or imminent event risks (war, political conflict). Positive adjustments are possible for sovereigns with exceptionally large liquid financial assets (net asset position >100% of GDP).

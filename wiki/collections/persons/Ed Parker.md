@@ -1,26 +1,28 @@
 ---
-name: Ed Parker
-affiliations:
-  - relation: Analyst
-    person: Fitch Ratings
-timestamp: 2026-07-04T16:15:54Z
+role: Analyst
+organization: Fitch Ratings
+countries_covered: []
+timestamp: 2026-07-05T15:51:53Z
 tags:
-  - Credit Ratings
-  - Sovereign Risk
-  - Macroeconomics
-  - Public Finance
+  - Fitch Ratings
+  - Sovereign Ratings
+  - Analyst
 ---
 
 # Ed Parker
 
 ## Affiliations & Roles
 
-- Analyst at [[Fitch Ratings]]
+- **Role**: Analyst
+- **Organization**: [[Fitch Ratings]]
+- **Countries Covered**: Not specified
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Ed Parker is an analyst at [[Fitch Ratings]], where he contributes to the development and application of sovereign credit rating methodologies. His work involves utilizing the Sovereign Rating Model (SRM) and Qualitative Overlay (QO) frameworks to assess the creditworthiness of sovereign and central bank issuers. His expertise encompasses the evaluation of structural features, macroeconomic performance, public finances, and external finances to determine Issuer Default Ratings (IDRs). He is involved in the analysis of complex credit factors, including Distressed Debt Exchanges (DDE), Reserve-Currency Flexibility (RCF), and the integration of Climate Vulnerability Signals (Climate.VS) into sovereign risk assessments.
+Ed Parker serves as an Analyst at [[Fitch Ratings]], where he is associated with the development and application of the firm's Sovereign Rating Criteria. His work involves the assessment of sovereign issuers' capacity and willingness to honor debt obligations, adhering to the methodology effective from September 15, 2025.
 
-## Collaborators
+In this capacity, Parker contributes to the analytical framework that rests on four core pillars: Structural Features, Macroeconomic Performance/Policies/Prospects, Public Finances, and External Finances. The methodology employs the Sovereign Rating Model (SRM), a quantitative model based on Ordinary Least Squares (OLS) regression, which is adjusted via a Qualitative Overlay (QO) to account for geopolitical risks, financial sector stability, and policy credibility. His role involves monitoring key indicators such as governance metrics, debt sustainability, and climate vulnerability signals (Climate.VS) to ensure accurate rating assignments.
 
-[[James Longsdon]], [[Carlos Masip]], [[Rob Shearman]]
+## Related Entities
+
+[[James Longsdon]], [[Carlos Masip]], [[Rob Shearman]], [[Fitch Ratings]]

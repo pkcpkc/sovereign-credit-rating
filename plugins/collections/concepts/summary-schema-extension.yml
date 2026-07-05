@@ -3,4 +3,4 @@ $meta:
   title: "Concept Summary Extension Schema"
   description: "Defines dynamic concept summary extraction fields."
 
-concepts: [string] # Array | Required | List of technical core concepts mentioned in the text.
+concepts: [string] # Array | Required | List of technical core concepts relevant to sovereign credit rating and risk analysis (e.g., Fiscal Policy, Debt Sustainability, Macroeconomic Stability, Banking Sector Health, External Vulnerability, Monetary Policy, Institutional Strength, and Structural Reforms) mentioned in the text.

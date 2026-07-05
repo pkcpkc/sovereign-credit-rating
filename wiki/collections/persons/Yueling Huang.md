@@ -1,36 +1,13 @@
 ---
-name: Yueling Huang
-affiliations:
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Helge Berger
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Rishi Goyal
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Lone Christiansen
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Thomas Elkjaer
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Gee Hee Hong
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Sylwia Nowak
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Alain Kabundi
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Carolina Claver
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Riccardo Ercoli
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Annalisa Korinthios
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Yao Deng
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Emily Fisher
-  - relation: IMF Staff Member (Italy Article IV Consultation)
-    person: Jenny Lee
-timestamp: 2026-07-04T15:46:28Z
+role: IMF Staff Member
+organization: International Monetary Fund
+countries_covered:
+  - Italy
+timestamp: 2026-07-05T11:25:58Z
 tags:
-  - IMF
-  - Macroeconomics
+  - IMF Staff
+  - Sovereign Analysis
+  - Fiscal Policy
   - Italy
 ---
 
@@ -38,12 +15,16 @@ tags:
 
 ## Affiliations & Roles
 
-- IMF Staff Member involved in the 2025 Article IV Consultation for Italy.
+- **Role**: IMF Staff Member
+- **Organization**: [[International Monetary Fund]]
+- **Countries Covered**: Italy
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Yueling Huang is associated with the International Monetary Fund (IMF) and participated in the 2025 Article IV Consultation regarding Italy's economic performance and structural reforms. The work involved analyzing Italy's fiscal consolidation, the implementation of the National Recovery and Resilience Plan (NRRP), and addressing systemic challenges such as productivity malaise, demographic headwinds, and high public debt. Huang's involvement contributed to the assessment of Italy's moderate sovereign risk and the recommendations for primary surplus targets and labor market improvements.
+Yueling Huang is an IMF Staff Member who served as part of the technical team for Italy's 2025 Article IV Consultation. In this capacity, Huang contributed to the assessment of Italy's macroeconomic stability, fiscal sustainability, and financial sector health. The consultation, conducted under the leadership of Team Head Lone Christiansen, focused on Italy's resilience despite global headwinds, highlighting a 0.7% GDP growth in 2024 and record-high employment levels. 
 
-## Collaborators
+Huang's work involved analyzing Italy's fiscal performance, specifically the improvement in the primary balance and the trajectory of public debt, which stood at 135.3% of GDP in 2024. The staff report, in which Huang participated, recommended a more front-loaded fiscal adjustment to achieve a primary surplus of 3% of GDP by 2027, aiming to firmly place Italy's debt on a downward trajectory. Additionally, the analysis addressed structural challenges such as weak productivity growth, population aging, and the implementation status of the National Recovery and Resilience Plan (NRRP), noting that while 54% of milestones were achieved, spending execution remained sluggish. The assessment also covered the financial sector, acknowledging improved banking profitability and capital buffers while identifying vulnerabilities in Less Significant Institutions (LSIs) and the persistent sovereign-bank nexus.
 
-[[Helge Berger]], [[Rishi Goyal]], [[Lone Christiansen]], [[Thomas Elkjaer]], [[Gee Hee Hong]], [[Sylwia Nowak]], [[Alain Kabundi]], [[Carolina Claver]], [[Riccardo Ercoli]], [[Annalisa Korinthios]], [[Yao Deng]], [[Emily Fisher]], [[Jenny Lee]]
+## Related Entities
+
+[[International Monetary Fund]], [[Lone Christiansen]], [[Helge Berger]], [[Rishi Goyal]], [[Riccardo Ercoli]], [[Giancarlo Giorgetti]], [[Bank of Italy]], [[European Central Bank]], [[Italy]]

@@ -1,7 +1,0 @@
-$meta:
-  type: Schema
-  title: "Country Summary Extension Schema"
-  description: "Defines dynamic country and ratings summary extraction fields."
-
-countries: [string] # Array | Required | List of sovereign nations mentioned in the text (e.g. Austria, France, Italy).
-ratings: [string] # Array | Required | List of credit rating actions associated with extracted countries.

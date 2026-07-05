@@ -1,29 +1,39 @@
 ---
-name: Silvio Schembri
-affiliations:
-  - relation: Government Official (Malta)
-    person: Clyde Caruana
-  - relation: Government Official (Malta)
-    person: Miriam Dalli
-timestamp: 2026-07-04T15:57:50Z
-tags:
+role: Minister for the Economy, European Funds, and Lands
+organization: Government of Malta
+countries_covered:
   - Malta
-  - Government
-  - Economics
+timestamp: 2026-07-05T15:50:10Z
+tags:
+  - Maltese Government
+  - Economic Policy
+  - IMF Article IV
+  - Sovereign Credit
+  - Fiscal Policy
 ---
 
 # Silvio Schembri
 
 ## Affiliations & Roles
 
-- Government Official at [[Malta]] (Ministry of Finance and Employment)
+- **Role**: Minister for the Economy, European Funds, and Lands
+- **Organization**: [[Government of Malta]]
+- **Countries Covered**: Malta
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Silvio Schembri is a key figure in the Maltese government involved in high-level economic policy discussions. He was a primary stakeholder during the 2024 Article IV consultation with the International Monetary Fund (IMF), which took place in Valletta between November 4 and 15, 2024. 
+Silvio Schembri served as the Minister for the Economy, European Funds, and Lands in the [[Government of Malta]] during the 2024 [[IMF]] Article IV Consultation. In this capacity, he is a key policymaker responsible for steering Malta’s economic strategy and structural reforms under the scrutiny of international financial institutions.
 
-His involvement encompasses the management of Malta's economic transition toward a productivity-driven growth model, addressing infrastructure strain, and labor shortages. He is involved in the strategic implementation of fiscal policies, including the transition away from energy subsidies towards green investment and innovation, as well as the development of a Corporate Income Tax (CIT) reform roadmap to align with EU Pillar II requirements. His role is central to navigating Malta's fiscal consolidation, managing real estate exposure risks in the banking sector, and advancing the "Malta Vision 2050" objectives.
+During the 2024 consultation, the IMF highlighted Malta's strong external position, characterized by a large positive net international investment position (~95% of GDP) and a current account surplus, which mitigates external vulnerabilities despite the small open economy's reliance on export-oriented services like tourism and online gaming. Schembri’s portfolio encompasses the implementation of productivity-driven growth strategies aimed at overcoming labor shortages and infrastructure bottlenecks that have strained public services.
 
-## Collaborators
+Key policy areas under his purview include:
+- **Fiscal Consolidation**: Supporting the government’s commitment to reducing the structural deficit to 2.6% of GDP by 2027 under the new EU framework. This involves managing fiscal space while addressing pressures from aging populations and climate transition costs.
+- **Structural Reforms**: Driving initiatives to enhance innovation, digitalization, and educational outcomes (including STEM enrollment) to shift away from a labor-intensive growth model.
+- **Corporate Income Tax (CIT) Reform**: Overseeing the roadmap for CIT reform aligned with the EU’s Pillar II Minimum Tax Directive, with a deferred implementation deadline of 2029. The IMF has urged clear dissemination of this roadmap to protect revenue and guide investors.
+- **Climate and Energy Policy**: Collaborating on the phase-out of broad fixed-energy price policies, which currently account for 20% of the fiscal deficit, to reallocate resources toward investment and the green transition in line with the 'Malta Vision 2050' strategic plan.
 
-[[Clyde Caruana]], [[Miriam Dalli]], [[Mark Horton]], [[Geremia Palomba]], [[Kenneth Farrugia]]
+Schembri works alongside [[Clyde Caruana]] (Minister for Finance and Employment) and [[Miriam Dalli]] (Minister for the Environment, Energy, and Enterprise) to address these macroeconomic challenges, ensuring policy alignment with [[IMF]] recommendations regarding fiscal sustainability and financial sector resilience.
+
+## Related Entities
+
+[[International Monetary Fund]], [[Government of Malta]], [[Clyde Caruana]], [[Malta Vision 2050]], [[Corporate Income Tax Reform]]

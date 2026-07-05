@@ -1,29 +1,32 @@
 ---
-name: James Longsdon
-affiliations:
-  - relation: Analyst
-    person: Fitch Ratings
-timestamp: 2026-07-04T16:15:39Z
+role: Analyst
+organization: Fitch Ratings
+countries_covered: []
+timestamp: 2026-07-05T15:51:48Z
 tags:
-  - Credit Ratings
-  - Sovereign Risk
-  - Macroeconomics
-  - Public Finance
+  - Sovereign Ratings
+  - Credit Rating Methodology
+  - Fitch Ratings
   - Climate Risk
+  - Financial Sector Risk
 ---
 
 # James Longsdon
 
 ## Affiliations & Roles
 
-- Analyst at [[Fitch Ratings]]
+- **Role**: Analyst
+- **Organization**: [[Fitch Ratings]]
+- **Countries Covered**: []
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-James Longsdon is an analyst at Fitch Ratings, where he contributes to the development and application of the Sovereign Rating Criteria. His work involves utilizing the Sovereign Rating Model (SRM)—a multiple regression OLS model—to assess sovereign creditworthiness across four primary pillars: Structural Features, Public Finances, External Finances, and Macroeconomic Performance. 
+James Longsdon serves as an Analyst at [[Fitch Ratings]], where he contributes to the development and implementation of sovereign credit rating methodologies. He is a key author of the "Sovereign Rating Criteria" effective from September 15, 2025, alongside colleagues Ed Parker, Carlos Masip, and Rob Shearman.
 
-His expertise includes navigating the Qualitative Overlay (QO) to adjust ratings based on geopolitical risks and policy credibility, as well as monitoring complex financial instruments such as Distressed Debt Exchanges (DDE). Additionally, he is involved in the analysis of climate-related risks through the Climate.VS framework, which evaluates physical and transition risks for sovereign entities.
+Longsdon’s work focuses on the structural and quantitative frameworks used to assess sovereign credit risk. His contributions to the updated criteria include the integration of the **Sovereign Rating Model (SRM)**, which utilizes Ordinary Least Squares (OLS) regression on 18 key variables across four analytical pillars: Structural Features, Macroeconomic Performance, Public Finances, and External Finances. He played a role in defining the weighting of these pillars, with Structural Features carrying the highest weight (53.7%).
 
-## Collaborators
+A significant aspect of his recent work involves the integration of climate and financial sector risks into the rating framework. Longsdon helped introduce **Sovereign Climate Vulnerability Signals (Climate.VS)** as a screening tool to identify sovereigns with high exposure to physical and transition climate risks. Additionally, his work incorporates enhanced monitoring of macro-prudential risks using the Macro-Prudential Indicator (MPI) and Banking Systemic Indicator (BSI) to assess financial sector stability within the Qualitative Overlay (QO) mechanism.
 
-[[Ed Parker]], [[Carlos Masip]], [[Rob Shearman]]
+## Related Entities
+
+[[Fitch Ratings]], [[Ed Parker]], [[Carlos Masip]], [[Rob Shearman]], [[Sovereign Rating Model]], [[Qualitative Overlay]], [[Climate Vulnerability Signals]]

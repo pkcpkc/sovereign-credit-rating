@@ -1,25 +1,28 @@
 ---
-name: Saxegaard
-affiliations:
-  - relation: Head of Staff Team
-    person: Mooi
-timestamp: 2026-07-04T16:12:35Z
+role: Mission Head
+organization: IMF
+countries_covered:
+  - Slovakia
+timestamp: 2026-07-05T11:29:03Z
 tags:
   - IMF
+  - Sovereign Analysis
+  - Article IV Consultation
   - Slovakia
-  - Macroeconomics
 ---
 
 # Saxegaard
 
 ## Affiliations & Roles
 
-- Head of Staff Team at [[IMF]]
+- **Role**: Mission Head
+- **Organization**: [[IMF]]
+- **Countries Covered**: Slovakia
 
-## Biography & Context
+## Sovereign Credit Rating & Policy Context
 
-Saxegaard served as the Head of the Staff Team for the IMF's 2025 Article IV Consultation regarding the Slovak Republic. In this capacity, Saxegaard oversaw the production of the IMF Staff Report and associated press releases which evaluated Slovakia's economic recovery, fiscal consolidation plans (2025-2028), and structural challenges such as labor productivity and demographic shifts.
+Saxegaard served as the Mission Head for the IMF's 2025 Article IV Consultation with the Slovak Republic. In this capacity, Saxegaard led the assessment of Slovakia's economic performance, which included evaluating a 2.0% GDP growth rate in 2024 that outpaced the Euro Area average, alongside a significant fiscal deficit widening to 5.8% of GDP. The mission endorsed the Slovak government’s ambitious four-year fiscal consolidation plan (2025–2028), aimed at reducing the deficit to approximately 2.2% by 2028, while recommending further expenditure-based measures to ensure debt sustainability. Saxegaard's analysis highlighted key structural risks, including dependence on the automotive sector, aging demographics, and governance concerns, as well as the resilience of the financial sector despite vulnerabilities in commercial real estate. The consultation concluded with the IMF Executive Board in March 2025.
 
-## Collaborators
+## Related Entities
 
-[[Mooi]], [[Oya Celasun]], [[Stefania Fabrizio]], [[Kažimír]], [[Kamenický]], [[Taraba]], [[Kotera]], [[Bogmans]], [[Alasal]], [[Mitchell]], [[Ogawa]], [[Pampolina]], [[Hagara]]
+[[IMF]], [[Slovakia]], [[Oya Celasun]], [[Stefania Fabrizio]], [[Kažimír]], [[Kamenický]]
