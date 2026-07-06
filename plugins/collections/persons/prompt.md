@@ -26,6 +26,11 @@ Merge the details from the summary context into the existing biography for `$VAL
 - If the page already exists, merge the new details without overwriting existing content.
 - Focus specifically on the person's role in credit rating assessment, sovereign analysis, economic policy, central banking, or country surveillance.
 - All internal links must be simple Obsidian wikilinks (e.g. `[[James Longsdon]]`).
+  - **Internal Link Normalization Rules (CRITICAL to avoid duplicates):**
+    When linking to other concepts, persons, or entities, format the link text using strict normalization:
+    - **Case Normalization:** Always use Title Case (e.g., `[[Sovereign Debt]]`, not `[[sovereign debt]]`).
+    - **Singularization:** Always link to the singular form of the noun/concept (e.g., `[[Neural Network]]`, not `[[Neural Networks]]`), unless the term is inherently plural (e.g., `[[United States]]`).
+    - **Punctuation & Spacing:** Use standard spaces, not hyphens or underscores (e.g., `[[Deep Learning]]`, not `[[Deep-Learning]]`).
 - Output ONLY the valid markdown content. Do not include markdown code block wraps.
 
 ## Target Output Format (Template)
