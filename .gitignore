@@ -76,3 +76,7 @@ web_modules/
 *.ipr
 
 dist/
+
+# RAG data and temporary config
+.rag
+opencode.json

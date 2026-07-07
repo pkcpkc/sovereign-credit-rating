@@ -95,6 +95,18 @@ For development, you can toggle between using your local clone of `mycelium-mind
     Everything runs locally via ONNX. No Docker, no Ollama, no API keys, no data leaves your machine.
   - v4.0.0 — Enterprise concurrent access: **SSE/HTTP transport (1 server → N clients)**, thread-safe shared state, optional rate limiting + Prometheus metrics, ChromaDB WAL mode, --transport CLI
 
+### Using with OpenCode
+
+This repository includes a pre-configured `opencode.json` file that links the RAG command to **OpenCode** as a local MCP server.
+
+When you launch OpenCode in this directory:
+
+```bash
+opencode
+```
+
+It automatically spawns the RAG server in `stdio` mode, indexes the files in the `wiki/` directory, and connects to the server tools (such as `search_knowledge`), making your offline wiki directly accessible inside the session.
+
 ## OpenAI API Settings
 
 - https://ki.cms.hu-berlin.de/de/apis
