@@ -4,33 +4,31 @@
 
 ```mermaid
 flowchart TD
-    HSR[Humboldt Universität\n\n High-Standard & Rich Sovereign Credit Rating]
-
     C[LLM-Compiler]
     P[Plugins]
     PC[Collections]
     PO[Overviews]
     PA[Applications]
 
-    W[Wiki]
+    W[Wikis]
 
     A[SCR Agent]
+    AO[Observability]
+    AC[Capabilities]
+    AS[Skills]
+    AMCP[MCP]
+    AG[I/O Guardrails and Caching]
 
     M[Methologies]
     MS[Methology Skills]
     MC[Methology MCP]
 
-
-    HSR --- C
-    HSR --- W
-    HSR --- A
-
-    subgraph Wiki
+    subgraph Static Wikis
         W --- SCRW[Sovereign Credit Rating Wiki]
         W --- MW[Methology Wiki]
     end
 
-    subgraph Methologies
+    subgraph Sovereign Credit Rating Methologies
         M-- Execution Plan ---MS
         M-- Code ---MC
         MS-. references code tools .->MC
@@ -46,14 +44,47 @@ flowchart TD
     end
 
     subgraph Sovereign Credit Rating Agent
-        A-- RAG-->W
-        A-- Skills and MCP -->M
+        AG ---> A
+        AMCP--RAG via MCP-->W
+        A---AO
+        AO-.-RC[Recursive Crystallization\nSelf-Improvement]-.Human-in-the-Loop.->AC
+        A---AC
+        AC---AS
+        AC---AMCP
+        AC--uses-->M
+        AO --- Monitoring
+        AO --- Alarming
+        AO --- Logging
+        AO --- Tracing
+        AO --- Analytics
     end
+
+    User["fa:fa-user User"] -- prompts --> AG
+    User -- browses --> W
 ```
 
 ## LLM Compiler
 
 https://github.com/pkcpkc/mycelium-mind
+
+### Switching between local and npmjs mycelium-mind
+
+For development, you can toggle between using your local clone of `mycelium-mind` and the version published on npmjs:
+
+- **Use local mycelium-mind:**
+
+  ```bash
+  # Ensure local changes are built in your mycelium-mind directory:
+  # (In /Users/pkc/Projects/mycelium-mind): npm run build
+
+  # Then in this repository:
+  mise exec -- npm run link:local
+  ```
+
+- **Use published npmjs package:**
+  ```bash
+  mise exec -- npm run link:npm
+  ```
 
 ## RAG
 

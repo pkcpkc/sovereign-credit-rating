@@ -12,9 +12,15 @@
     "publish": "mm publish . ./dist/site",
     "serve": "mm serve .",
     "serve:dist": "mm serve ./dist/site",
-    "check": "mm check-plugins"
+    "check": "mm check-plugins",
+    "test": "vitest run",
+    "link:local": "npm install ../mycelium-mind --no-save",
+    "link:npm": "npm install"
   },
   "dependencies": {
-    "mycelium-mind": "0.2.2"
+    "mycelium-mind": "^0.2.3"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.7"
   }
 }
