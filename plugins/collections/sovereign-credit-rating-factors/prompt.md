@@ -43,195 +43,155 @@ $SCHEMA
 
 # $VALUE
 
-## Geopolitical and Political Stability
+## Political and Geopolitical Risk
 
 ### Strengths
 
-[Strengths or upsides related to geopolitical stability, external security, peaceful regional relations, stable government, low conflict risk, or durable political consensus...]
+[Geopolitical stability, peaceful regional relations, low conflict risk, stable government, durable political consensus, or low domestic unrest...]
 
 ### Threats
 
-[Threats, risks, issues, or problems related to geopolitical risk, external security, war risk, sanctions, regional instability, domestic unrest, political fragmentation, or government instability...]
+[External security risks, war exposure, sanctions, regional instability, domestic unrest, political fragmentation, government instability, or regime risk...]
 
-## Policy Credibility and Institutional Strength
+## Institutional and Governance Strength
 
 ### Strengths
 
-[Strengths related to credible policymaking, predictable institutions, strong governance, rule of law, administrative capacity, and policy continuity...]
+[Strong institutions, credible governance, rule of law, transparency, low corruption, independent courts, effective oversight, strong checks and balances, and high administrative capacity...]
 
 ### Threats
 
-[Threats to policy credibility, predictability, transparency, institutional effectiveness, rule of law, implementation capacity, or governance quality...]
+[Weak institutions, poor rule of law, corruption, weak checks and balances, limited transparency, weak accountability, judicial weakness, poor governance, or low administrative capacity...]
 
-## Policymaking Stability
+## Policy Predictability and Reform Continuity
 
 ### Strengths
 
-[Strengths related to stable policy formation, transparent decision-making, durable reform agendas, and predictable government behavior...]
+[Stable policy formation, predictable government behavior, transparent decision-making, durable reform agendas, and strong policy continuity...]
 
 ### Threats
 
-[Threats to stable, predictable, and transparent policymaking, including abrupt policy reversals, weak coalition discipline, populist pressure, or unclear policy direction...]
-
-## Accountability
-
-### Strengths
-
-[Strengths related to effective oversight, democratic accountability, transparency, low corruption, independent courts, and strong checks and balances...]
-
-### Threats
-
-[Threats to public accountability, checks and balances, oversight, transparency, corruption control, judicial independence, or institutional constraints on executive power...]
+[Abrupt policy reversals, weak coalition discipline, unclear policy direction, populist pressure, inconsistent reform implementation, or unstable policymaking...]
 
 ## Debt Payment Culture
 
 ### Strengths
 
-[Strengths related to a strong record of timely debt repayment, creditor-friendly behavior, low default risk, and established commitment to honoring obligations...]
+[Strong record of timely debt repayment, creditor-friendly behavior, established commitment to honoring obligations, and low willingness-to-pay risk...]
 
 ### Threats
 
-[Threats to willingness to pay, debt repayment reliability, creditor treatment, default history, restructuring behavior, arrears, or political resistance to debt service...]
+[Weak willingness to pay, default history, arrears, coercive restructuring behavior, creditor-unfriendly treatment, or political resistance to debt service...]
 
 ## Economic Strength and Tax Base
 
 ### Strengths
 
-[Strengths related to high GDP per capita, broad taxable income base, productive economy, high formalization, or strong revenue capacity...]
+[High GDP per capita, broad taxable income base, productive economy, high formalization, strong revenue capacity, and resilient household or corporate income base...]
 
 ### Threats
 
-[Threats to the sovereign tax base, GDP per capita, income levels, productivity, formal economic activity, or revenue-generating capacity...]
+[Weak GDP per capita, low income levels, narrow or informal tax base, weak productivity, limited formal economic activity, or constrained revenue-generating capacity...]
 
 ## Growth Prospects
 
 ### Strengths
 
-[Strengths related to resilient growth, favorable demographics, productivity gains, strong investment, competitiveness, or structural reform benefits...]
+[Resilient growth, favorable demographics, productivity gains, strong investment, competitiveness, innovation, and structural reform benefits...]
 
 ### Threats
 
-[Threats to medium- or long-term economic growth, investment, productivity, demographics, competitiveness, reform momentum, or output potential...]
+[Weak medium- or long-term growth, low investment, poor productivity, adverse demographics, weak competitiveness, reform stagnation, or declining output potential...]
 
 ## Economic Diversity
 
 ### Strengths
 
-[Strengths related to diversified output, multiple export sectors, resilient domestic demand, low commodity dependence, or broad economic structure...]
+[Diversified output, multiple export sectors, resilient domestic demand, low commodity dependence, and broad economic structure...]
 
 ### Threats
 
-[Threats from narrow economic structure, commodity dependence, sector concentration, tourism dependence, climate exposure, or vulnerability to sector-specific shocks...]
+[Commodity dependence, tourism dependence, narrow economic structure, sector concentration, climate-sensitive output, or vulnerability to sector-specific shocks...]
 
-## External Liquidity
+## External Position and Liquidity
 
 ### Strengths
 
-[Strengths related to strong FX reserves, ample external liquidity, market access, low short-term external debt, or resilient balance-of-payments position...]
+[Strong FX reserves, ample external liquidity, durable market access, low short-term external debt, resilient balance of payments, net external assets, favorable international investment position, low external debt, or creditor-nation status...]
 
 ### Threats
 
-[Threats to the availability of foreign exchange, external funding access, reserve adequacy, short-term external debt coverage, balance-of-payments resilience, or rollover capacity...]
+[Weak FX reserves, limited external funding access, balance-of-payments pressure, high short-term external debt, weak reserve adequacy, external refinancing pressure, net external liabilities, or dependence on foreign creditors...]
 
-## Currency Status
+## Currency and Exchange Rate Flexibility
 
 ### Strengths
 
-[Strengths related to reserve-currency status, high international use of the currency, deep local-currency markets, or monetary flexibility from currency credibility...]
+[Reserve-currency status, high international currency use, deep local-currency markets, credible currency framework, monetary flexibility, stable exchange-rate regime, and low FX mismatch risk...]
 
 ### Threats
 
-[Threats related to weak reserve-currency status, limited international use of the currency, dollarization, currency substitution, or reduced monetary/external flexibility...]
-
-## External Asset/Liability Position
-
-### Strengths
-
-[Strengths related to net external assets, favorable international investment position, low external debt, sovereign wealth assets, or creditor-nation status...]
-
-### Threats
-
-[Threats related to net external liabilities, weak international investment position, high external debt, dependence on foreign creditors, or external refinancing pressure...]
+[Weak international currency use, dollarization, currency substitution, limited monetary flexibility, exchange-rate instability, unsustainable pegs, FX intervention pressure, devaluation risk, currency mismatches, or loss of external competitiveness...]
 
 ## Financial Sector Health
 
 ### Strengths
 
-[Strengths related to well-capitalized banks, strong supervision, low nonperforming loans, stable funding, resilient credit markets, or low systemic financial risk...]
+[Well-capitalized banks, strong supervision, low nonperforming loans, stable funding, resilient credit markets, and low systemic financial risk...]
 
 ### Threats
 
-[Threats from banking-sector weakness, asset-quality deterioration, credit bubbles, liquidity stress, weak supervision, financial instability, or potential banking-sector support costs...]
+[Banking-sector weakness, asset-quality deterioration, credit bubbles, liquidity stress, weak supervision, financial instability, or potential banking-sector support costs...]
 
 ## Fiscal Performance and Flexibility
 
 ### Strengths
 
-[Strengths related to prudent fiscal management, budget surpluses, expenditure flexibility, reliable revenue, or strong capacity for fiscal adjustment...]
+[Prudent fiscal management, budget surpluses, expenditure flexibility, reliable revenue, credible budgeting, and strong capacity for fiscal adjustment...]
 
 ### Threats
 
-[Threats to fiscal balance, revenue performance, expenditure control, fiscal policy flexibility, budget credibility, or ability to adjust taxes and spending...]
+[Weak fiscal balance, poor revenue performance, weak expenditure control, limited fiscal flexibility, poor budget credibility, or constrained ability to adjust taxes and spending...]
 
 ## Debt Burden
 
 ### Strengths
 
-[Strengths related to low government debt, declining debt ratios, affordable interest costs, long maturities, local-currency debt, or favorable debt structure...]
+[Low government debt, declining debt ratios, affordable interest costs, long maturities, local-currency debt, diversified investor base, and favorable debt structure...]
 
 ### Threats
 
-[Threats related to high government debt, rising debt ratios, heavy interest burden, refinancing pressure, unfavorable debt structure, or weak debt affordability...]
+[High government debt, rising debt ratios, heavy interest burden, refinancing pressure, unfavorable debt structure, short maturities, FX debt exposure, or weak debt affordability...]
 
 ## Fiscal Sustainability
 
 ### Strengths
 
-[Strengths related to sustainable debt dynamics, strong fiscal rules, long-term budget discipline, manageable aging costs, or durable primary balances...]
+[Sustainable debt dynamics, strong fiscal rules, long-term budget discipline, manageable aging costs, durable primary balances, and credible medium-term fiscal framework...]
 
 ### Threats
 
-[Threats to long-term fiscal sustainability, including persistent deficits, aging costs, pension liabilities, weak revenue base, structural spending pressure, or limited adjustment capacity...]
+[Persistent deficits, aging costs, pension liabilities, healthcare spending pressure, weak revenue base, structural expenditure pressure, or limited long-term adjustment capacity...]
 
 ## Contingent Liabilities
 
 ### Strengths
 
-[Strengths related to low off-budget risks, transparent guarantees, limited SOE liabilities, strong public-sector governance, or contained financial-sector backstop risk...]
+[Low off-budget risks, transparent guarantees, limited SOE liabilities, strong public-sector governance, contained financial-sector backstop risk, and clear fiscal risk reporting...]
 
 ### Threats
 
-[Threats from off-budget obligations, state-owned enterprises, public guarantees, public-private partnerships, local government debt, bank recapitalization risk, or other implicit liabilities...]
+[Off-budget obligations, state-owned enterprise liabilities, public guarantees, public-private partnership risks, local government debt, bank recapitalization risk, or other implicit liabilities...]
 
-## Price Stability
+## Monetary Policy and Price Stability
 
 ### Strengths
 
-[Strengths related to low and stable inflation, credible inflation targeting, anchored expectations, effective monetary transmission, or strong anti-inflation record...]
+[Low and stable inflation, credible inflation targeting, anchored expectations, effective monetary transmission, independent central bank, strong monetary-policy governance, and strong anti-inflation record...]
 
 ### Threats
 
-[Threats from high inflation, volatile inflation, deflation, loss of price anchor, inflation expectations, monetary financing, or weak inflation-control credibility...]
-
-## Central Bank Independence
-
-### Strengths
-
-[Strengths related to independent monetary policy, institutional autonomy, credible central bank governance, resistance to political pressure, or strong inflation-fighting credibility...]
-
-### Threats
-
-[Threats to central bank autonomy, political interference, fiscal dominance, pressure for monetary financing, leadership instability, or weakened monetary-policy credibility...]
-
-## Exchange Rate Regime
-
-### Strengths
-
-[Strengths related to a credible exchange-rate framework, flexible adjustment capacity, sustainable peg, low FX mismatch, or stable currency management...]
-
-### Threats
-
-[Threats related to exchange-rate instability, unsustainable pegs, currency mismatches, FX intervention pressure, devaluation risk, or loss of external competitiveness...]
+[High or volatile inflation, deflation, loss of price anchor, unanchored inflation expectations, monetary financing, weak monetary transmission, political interference with the central bank, fiscal dominance, or weakened monetary-policy credibility...]
 
 ## Related Entities
 

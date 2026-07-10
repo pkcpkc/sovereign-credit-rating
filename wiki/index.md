@@ -9,7 +9,6 @@ timestamp: "2026-07-05T16:25:57Z"
 Welcome to the wiki. Browse the available pages:
 
 - [[collections/concepts/index|Concepts]]
-- [[collections/institutions/index|Institutions]]
 - [[collections/methods/index|Methods]]
 - [[collections/persons/index|Persons]]
 - [[collections/sovereign-credit-rating-factors/index|Sovereign-credit-rating-factors]]

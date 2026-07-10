@@ -37,6 +37,7 @@ $SCHEMA
 
 ## Instructions
 Merge the details from the summary context into the existing times page for `$VALUE`.
+- Only create or merge pages for key (geo)political or economic events of a country (e.g., elections, government formation or collapse, fiscal or structural reforms, recessions, debt crises, bailouts, major policy decisions). Do NOT create pages for document- or report-publication events (e.g., "IMF Report published" or "Country Report released").
 - If the existing times page is empty, generate a new Times page from scratch matching the Target Output Format template exactly.
 - If the page already exists, merge the new details and dates without overwriting.
 - All internal links must be simple Obsidian wikilinks (e.g. `[[Andrej Karpathy]]`).

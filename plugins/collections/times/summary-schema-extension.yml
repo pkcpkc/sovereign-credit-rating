@@ -3,6 +3,6 @@ $meta:
   title: "Times Summary Extension Schema"
   description: "Defines dynamic times summary extraction fields."
 
-times: # Array | Required | List of dates and events mentioned in the text.
+times: # Array | Required | List of key (geo)political or economic events of a country mentioned in the text. Extract substantive country events (e.g., elections, government formation or collapse, fiscal or structural reforms, recessions, debt crises, bailouts, major policy decisions). Do NOT extract document- or report-publication events (e.g., do not extract "IMF Report published", "Country Report released", or the writing of an analysis).
   - date: string # String | Required | Date (`YYYY-MM-DD HH:mm` or `YYYY-MM-DD` or `YYYY-MM` or `YYYY`).
-    title: string # String | Required | Title or event name.
+    title: string # String | Required | Title or name of the (geo)political or economic event.
