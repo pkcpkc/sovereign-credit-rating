@@ -22,7 +22,7 @@ $SCHEMA
 - Extract and output ALL specified dynamic frontmatter properties cleanly.
 - Ensure any empty arrays are output as `[]` rather than omitted.
 - **Entity Extraction & Normalization Rules (CRITICAL to avoid duplicates):**
-  When extracting entity names for any collections in the YAML frontmatter (such as concepts, persons, times, countries, institutions, etc.):
+  When extracting entity names for any collections in the YAML frontmatter (such as concepts, persons, times, methods, and sovereign-credit-rating-factors):
   - **Case Normalization:** Always use Title Case for proper nouns, names, and concepts (e.g., "Sovereign Debt", "Central Bank", "Andrej Karpathy"). Avoid lowercase (e.g., "sovereign debt") or all-caps.
   - **Singularization:** Always extract the singular form of a noun or concept (e.g., use "Credit Rating Factor", not "Credit Rating Factors"; "Neural Network", not "Neural Networks"), unless the concept is intrinsically plural (e.g., "United States").
   - **De-duplication:** Avoid extracting multiple synonymic terms for the same entity in the same document. Map them to a single canonical term (e.g., map "Fed", "Federal Reserve Board", and "Federal Reserve" to "Federal Reserve").

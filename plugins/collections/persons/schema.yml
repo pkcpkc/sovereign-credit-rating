@@ -3,6 +3,6 @@ $meta:
   title: "Sovereign Credit Rating Person Schema"
   description: "Defines the custom fields extracted into summary frontmatter for individuals relevant to sovereign credit rating and risk analysis."
 
-role: string # String | Required | The person's role (e.g., "Lead Sovereign Analyst", "Minister of Finance", "Central Bank Governor", "IMF Mission Chief").
+role: string # String | Required | The person's role (e.g., "Minister of Finance", "Central Bank Governor", "Prime Minister", "President").
 organization: string # String | Required | The primary organization the person is affiliated with (e.g., "Fitch Ratings", "IMF", "Ministry of Finance", "HU Berlin").
 countries_covered: [string] # Array | Optional | Countries this person covers, represents, or makes policy for.

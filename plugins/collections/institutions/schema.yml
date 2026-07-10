@@ -1,7 +1,0 @@
-$meta:
-  type: Schema
-  title: "Institution Schema"
-  description: "Defines attributes for institutions relevant to sovereign credit rating and risk analysis."
-
-type: string # String | Required | The type of institution (e.g., "Credit Rating Agency", "International Financial Institution", "Central Bank", "Government Body").
-role: string # String | Required | The primary role of this institution in sovereign credit rating or risk surveillance (e.g., "Credit Ratings", "Economic Surveillance", "Monetary Policy", "Fiscal Policy").

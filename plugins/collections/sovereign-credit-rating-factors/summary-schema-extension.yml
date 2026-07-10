@@ -1,64 +1,67 @@
 $meta:
   type: Schema
-  title: "Sovereign Credit Rating Risk Summary Extension Schema"
-  description: "Defines extraction fields for sovereign credit rating factors per country using a structured array format."
+  title: "Deduplicated Sovereign Credit Rating Risk Summary Extension Schema"
+  description: "Defines extraction fields for sovereign credit rating factors per country using a deduplicated structured array format."
 
-sovereign-credit-rating-factors: # Array | Optional | List of country credit risk profiles per country mentioned
-  - name: string # String | Required | e.g., "Germany", "Austria" or "United States"
-    geopolitical_and_political_stability:
-      threats: # Array | Optional | Threats, risks, issues, or problems related to geopolitical risk, external security, war risk, sanctions, regional instability, domestic unrest, political fragmentation, or government instability.
-      strengths: # Array | Optional | Strengths or upsides related to geopolitical stability, external security, peaceful regional relations, stable government, low conflict risk, or durable political consensus.
-    policy_credibility_and_institutional_strength:
-      threats: # Array | Optional | Threats to policy credibility, predictability, transparency, institutional effectiveness, rule of law, implementation capacity, or governance quality.
-      strengths: # Array | Optional | Strengths related to credible policymaking, predictable institutions, strong governance, rule of law, administrative capacity, and policy continuity.
-    policymaking_stability:
-      threats: # Array | Optional | Threats to stable, predictable, and transparent policymaking, including abrupt policy reversals, weak coalition discipline, populist pressure, or unclear policy direction.
-      strengths: # Array | Optional | Strengths related to stable policy formation, transparent decision-making, durable reform agendas, and predictable government behavior.
-    accountability:
-      threats: # Array | Optional | Threats to public accountability, checks and balances, oversight, transparency, corruption control, judicial independence, or institutional constraints on executive power.
-      strengths: # Array | Optional | Strengths related to effective oversight, democratic accountability, transparency, low corruption, independent courts, and strong checks and balances.
+sovereign-credit-rating-factors:
+  - name: string # Required | e.g., "Germany", "Austria", "United States"
+
+    political_and_geopolitical_risk:
+      threats: # Optional | External security risks, war exposure, sanctions, regional instability, domestic unrest, political fragmentation, government instability, or regime risk.
+      strengths: # Optional | Geopolitical stability, peaceful regional relations, low conflict risk, stable government, durable political consensus, or low domestic unrest.
+
+    institutional_and_governance_strength:
+      threats: # Optional | Weak institutions, poor rule of law, corruption, weak checks and balances, limited transparency, weak accountability, judicial weakness, poor governance, or low administrative capacity.
+      strengths: # Optional | Strong institutions, credible governance, rule of law, transparency, low corruption, independent courts, effective oversight, strong checks and balances, and high administrative capacity.
+
+    policy_predictability_and_reform_continuity:
+      threats: # Optional | Abrupt policy reversals, weak coalition discipline, unclear policy direction, populist pressure, inconsistent reform implementation, or unstable policymaking.
+      strengths: # Optional | Stable policy formation, predictable government behavior, transparent decision-making, durable reform agendas, and strong policy continuity.
+
     debt_payment_culture:
-      threats: # Array | Optional | Threats to willingness to pay, debt repayment reliability, creditor treatment, default history, restructuring behavior, arrears, or political resistance to debt service.
-      strengths: # Array | Optional | Strengths related to a strong record of timely debt repayment, creditor-friendly behavior, low default risk, and established commitment to honoring obligations.
+      threats: # Optional | Weak willingness to pay, default history, arrears, coercive restructuring behavior, creditor-unfriendly treatment, or political resistance to debt service.
+      strengths: # Optional | Strong record of timely debt repayment, creditor-friendly behavior, established commitment to honoring obligations, and low willingness-to-pay risk.
+
     economic_strength_and_tax_base:
-      threats: # Array | Optional | Threats to the sovereign tax base, GDP per capita, income levels, productivity, formal economic activity, or revenue-generating capacity.
-      strengths: # Array | Optional | Strengths related to high GDP per capita, broad taxable income base, productive economy, high formalization, or strong revenue capacity.
+      threats: # Optional | Weak GDP per capita, low income levels, narrow or informal tax base, weak productivity, limited formal economic activity, or constrained revenue-generating capacity.
+      strengths: # Optional | High GDP per capita, broad taxable income base, productive economy, high formalization, strong revenue capacity, and resilient household or corporate income base.
+
     growth_prospects:
-      threats: # Array | Optional | Threats to medium- or long-term economic growth, investment, productivity, demographics, competitiveness, reform momentum, or output potential.
-      strengths: # Array | Optional | Strengths related to resilient growth, favorable demographics, productivity gains, strong investment, competitiveness, or structural reform benefits.
+      threats: # Optional | Weak medium- or long-term growth, low investment, poor productivity, adverse demographics, weak competitiveness, reform stagnation, or declining output potential.
+      strengths: # Optional | Resilient growth, favorable demographics, productivity gains, strong investment, competitiveness, innovation, and structural reform benefits.
+
     economic_diversity:
-      threats: # Array | Optional | Threats from narrow economic structure, commodity dependence, sector concentration, tourism dependence, climate exposure, or vulnerability to sector-specific shocks.
-      strengths: # Array | Optional | Strengths related to diversified output, multiple export sectors, resilient domestic demand, low commodity dependence, or broad economic structure.
-    external_liquidity:
-      threats: # Array | Optional | Threats to the availability of foreign exchange, external funding access, reserve adequacy, short-term external debt coverage, balance-of-payments resilience, or rollover capacity.
-      strengths: # Array | Optional | Strengths related to strong FX reserves, ample external liquidity, market access, low short-term external debt, or resilient balance-of-payments position.
-    currency_status:
-      threats: # Array | Optional | Threats related to weak reserve-currency status, limited international use of the currency, dollarization, currency substitution, or reduced monetary/external flexibility.
-      strengths: # Array | Optional | Strengths related to reserve-currency status, high international use of the currency, deep local-currency markets, or monetary flexibility from currency credibility.
-    external_asset_liability_position:
-      threats: # Array | Optional | Threats related to net external liabilities, weak international investment position, high external debt, dependence on foreign creditors, or external refinancing pressure.
-      strengths: # Array | Optional | Strengths related to net external assets, favorable international investment position, low external debt, sovereign wealth assets, or creditor-nation status.
+      threats: # Optional | Commodity dependence, tourism dependence, narrow economic structure, sector concentration, climate-sensitive output, or vulnerability to sector-specific shocks.
+      strengths: # Optional | Diversified output, multiple export sectors, resilient domestic demand, low commodity dependence, and broad economic structure.
+
+    external_position_and_liquidity:
+      threats: # Optional | Weak FX reserves, limited external funding access, balance-of-payments pressure, high short-term external debt, weak reserve adequacy, external refinancing pressure, net external liabilities, or dependence on foreign creditors.
+      strengths: # Optional | Strong FX reserves, ample external liquidity, durable market access, low short-term external debt, resilient balance of payments, net external assets, favorable international investment position, low external debt, or creditor-nation status.
+
+    currency_and_exchange_rate_flexibility:
+      threats: # Optional | Weak international currency use, dollarization, currency substitution, limited monetary flexibility, exchange-rate instability, unsustainable pegs, FX intervention pressure, devaluation risk, currency mismatches, or loss of external competitiveness.
+      strengths: # Optional | Reserve-currency status, high international currency use, deep local-currency markets, credible currency framework, monetary flexibility, stable exchange-rate regime, and low FX mismatch risk.
+
     financial_sector_health:
-      threats: # Array | Optional | Threats from banking-sector weakness, asset-quality deterioration, credit bubbles, liquidity stress, weak supervision, financial instability, or potential banking-sector support costs.
-      strengths: # Array | Optional | Strengths related to well-capitalized banks, strong supervision, low nonperforming loans, stable funding, resilient credit markets, or low systemic financial risk.
+      threats: # Optional | Banking-sector weakness, asset-quality deterioration, credit bubbles, liquidity stress, weak supervision, financial instability, or potential banking-sector support costs.
+      strengths: # Optional | Well-capitalized banks, strong supervision, low nonperforming loans, stable funding, resilient credit markets, and low systemic financial risk.
+
     fiscal_performance_and_flexibility:
-      threats: # Array | Optional | Threats to fiscal balance, revenue performance, expenditure control, fiscal policy flexibility, budget credibility, or ability to adjust taxes and spending.
-      strengths: # Array | Optional | Strengths related to prudent fiscal management, budget surpluses, expenditure flexibility, reliable revenue, or strong capacity for fiscal adjustment.
+      threats: # Optional | Weak fiscal balance, poor revenue performance, weak expenditure control, limited fiscal flexibility, poor budget credibility, or constrained ability to adjust taxes and spending.
+      strengths: # Optional | Prudent fiscal management, budget surpluses, expenditure flexibility, reliable revenue, credible budgeting, and strong capacity for fiscal adjustment.
+
     debt_burden:
-      threats: # Array | Optional | Threats related to high government debt, rising debt ratios, heavy interest burden, refinancing pressure, unfavorable debt structure, or weak debt affordability.
-      strengths: # Array | Optional | Strengths related to low government debt, declining debt ratios, affordable interest costs, long maturities, local-currency debt, or favorable debt structure.
+      threats: # Optional | High government debt, rising debt ratios, heavy interest burden, refinancing pressure, unfavorable debt structure, short maturities, FX debt exposure, or weak debt affordability.
+      strengths: # Optional | Low government debt, declining debt ratios, affordable interest costs, long maturities, local-currency debt, diversified investor base, and favorable debt structure.
+
     fiscal_sustainability:
-      threats: # Array | Optional | Threats to long-term fiscal sustainability, including persistent deficits, aging costs, pension liabilities, weak revenue base, structural spending pressure, or limited adjustment capacity.
-      strengths: # Array | Optional | Strengths related to sustainable debt dynamics, strong fiscal rules, long-term budget discipline, manageable aging costs, or durable primary balances.
+      threats: # Optional | Persistent deficits, aging costs, pension liabilities, healthcare spending pressure, weak revenue base, structural expenditure pressure, or limited long-term adjustment capacity.
+      strengths: # Optional | Sustainable debt dynamics, strong fiscal rules, long-term budget discipline, manageable aging costs, durable primary balances, and credible medium-term fiscal framework.
+
     contingent_liabilities:
-      threats: # Array | Optional | Threats from off-budget obligations, state-owned enterprises, public guarantees, public-private partnerships, local government debt, bank recapitalization risk, or other implicit liabilities.
-      strengths: # Array | Optional | Strengths related to low off-budget risks, transparent guarantees, limited SOE liabilities, strong public-sector governance, or contained financial-sector backstop risk.
-    price_stability:
-      threats: # Array | Optional | Threats from high inflation, volatile inflation, deflation, loss of price anchor, inflation expectations, monetary financing, or weak inflation-control credibility.
-      strengths: # Array | Optional | Strengths related to low and stable inflation, credible inflation targeting, anchored expectations, effective monetary transmission, or strong anti-inflation record.
-    central_bank_independence:
-      threats: # Array | Optional | Threats to central bank autonomy, political interference, fiscal dominance, pressure for monetary financing, leadership instability, or weakened monetary-policy credibility.
-      strengths: # Array | Optional | Strengths related to independent monetary policy, institutional autonomy, credible central bank governance, resistance to political pressure, or strong inflation-fighting credibility.
-    exchange_rate_regime:
-      threats: # Array | Optional | Threats related to exchange-rate instability, unsustainable pegs, currency mismatches, FX intervention pressure, devaluation risk, or loss of external competitiveness.
-      strengths: # Array | Optional | Strengths related to a credible exchange-rate framework, flexible adjustment capacity, sustainable peg, low FX mismatch, or stable currency management.
+      threats: # Optional | Off-budget obligations, state-owned enterprise liabilities, public guarantees, public-private partnership risks, local government debt, bank recapitalization risk, or other implicit liabilities.
+      strengths: # Optional | Low off-budget risks, transparent guarantees, limited SOE liabilities, strong public-sector governance, contained financial-sector backstop risk, and clear fiscal risk reporting.
+
+    monetary_policy_and_price_stability:
+      threats: # Optional | High or volatile inflation, deflation, loss of price anchor, unanchored inflation expectations, monetary financing, weak monetary transmission, political interference with the central bank, fiscal dominance, or weakened monetary-policy credibility.
+      strengths: # Optional | Low and stable inflation, credible inflation targeting, anchored expectations, effective monetary transmission, independent central bank, strong monetary-policy governance, and strong anti-inflation record.

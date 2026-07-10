@@ -24,8 +24,8 @@ Merge the details from the summary context into the existing biography for `$VAL
 
 - If the existing biography is empty, generate a new Person page from scratch matching the Target Output Format template exactly.
 - If the page already exists, merge the new details without overwriting existing content.
-- Focus specifically on the person's role in credit rating assessment, sovereign analysis, economic policy, central banking, or country surveillance.
-- All internal links must be simple Obsidian wikilinks (e.g. `[[James Longsdon]]`).
+- Focus on key economic or political figures of a country (e.g., ministers, central bank governors, heads of government or state, and senior policymakers). Do NOT create pages for report authors, IMF/EU analysts, rating-agency analysts, or mission staff.
+- All internal links must be simple Obsidian wikilinks (e.g. `[[Christine Lagarde]]`).
   - **Internal Link Normalization Rules (CRITICAL to avoid duplicates):**
     When linking to other concepts, persons, or entities, format the link text using strict normalization:
     - **Case Normalization:** Always use Title Case (e.g., `[[Sovereign Debt]]`, not `[[sovereign debt]]`).
@@ -46,7 +46,7 @@ $SCHEMA
 
 ## Affiliations & Roles
 
-- **Role**: [Role/Title, e.g., Lead Sovereign Analyst, Minister of Finance]
+- **Role**: [Role/Title, e.g., Minister of Finance, Central Bank Governor]
 - **Organization**: [[Organization]]
 - **Countries Covered**: [List of countries covered, represented, or policy-managed by this person]
 

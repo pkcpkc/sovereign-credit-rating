@@ -1,6 +1,0 @@
-$meta:
-  type: Schema
-  title: "Institution Summary Extension Schema"
-  description: "Defines dynamic institution summary extraction fields."
-
-institutions: [string] # Array | Optional | List of key institutions or agencies relevant to sovereign credit ratings or economic surveillance (e.g., IMF, World Bank, European Commission, Fitch, S&P, Moody's, Ministry of Finance, central banks) mentioned in the text.

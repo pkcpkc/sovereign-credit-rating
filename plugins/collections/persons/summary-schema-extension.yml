@@ -3,8 +3,8 @@ $meta:
   title: "Sovereign Credit Rating Person Summary Extension Schema"
   description: "Defines dynamic person summary extraction fields, specifically focusing on sovereign credit rating relevance."
 
-persons: # Array | Optional | List of key individuals (analysts, ministers, governors, economists, IMF mission chiefs) mentioned in the text.
-  - name: string # String | Required | The name of the person (e.g., "James Longsdon", "Clyde Caruana").
-    role: string # String | Optional | The role or title of the person (e.g., "Lead Analyst", "Minister of Finance", "Central Bank Governor", "IMF Mission Chief").
-    organization: string # String | Optional | The organization they represent (e.g., "Fitch Ratings", "IMF", "Ministry of Finance").
-    countries_covered: [string] # Array | Optional | List of countries this person covers, represents, or makes policy for.
+persons: # Array | Optional | List of key economic or political figures of a country (e.g., ministers, central bank governors, prime ministers, presidents, senior policymakers) mentioned in the text. Do NOT extract report authors, IMF/EU analysts, rating-agency analysts, or mission staff.
+  - name: string # String | Required | The name of the person (e.g., "Clyde Caruana", "Christine Lagarde").
+    role: string # String | Optional | The role or title of the person (e.g., "Minister of Finance", "Central Bank Governor", "Prime Minister", "President").
+    organization: string # String | Optional | The government body or organization they represent (e.g., "Ministry of Finance", "Central Bank", "Government").
+    countries_covered: [string] # Array | Optional | List of countries this person governs, represents, or makes policy for.
