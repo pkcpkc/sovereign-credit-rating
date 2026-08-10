@@ -219,7 +219,17 @@ times:
     title: European Council initiates Excessive Deficit Procedure against Slovakia
   - date: "2024"
     title: Two FSAP missions to Slovak Republic
-timestamp: 2026-07-05T11:29:03Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:29:03Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/IMF (2025) Slovakia
+      Country Report.md
+    title: wiki/assets/20260705-000000/processed/IMF (2025) Slovakia Country Report.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/IMF (2025) Slovakia
+      Country Report.md
+    title: wiki/assets/20260705-000000/sources/IMF (2025) Slovakia Country Report.md
 ---
 # Summary of: IMF 2025 Article IV Consultation: Slovak Republic
 

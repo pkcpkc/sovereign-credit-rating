@@ -1,5 +1,6 @@
 ---
-title: "Summaries Index"
+title: Summaries Index
+status: stable
 ---
 # Summaries Index
 

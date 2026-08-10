@@ -1,7 +1,6 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:23:58Z
 tags:
   - Fiscal Policy
   - European Semester
@@ -9,6 +8,10 @@ tags:
   - Macroeconomic Stability
   - Sovereign Credit
   - Structural Reforms
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:23:58Z
+status: stable
 ---
 
 # Stability and Growth Pact

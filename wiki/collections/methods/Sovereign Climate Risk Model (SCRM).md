@@ -1,8 +1,15 @@
 ---
 agency: Fitch Ratings
 last_updated: September 2025
-timestamp: 2026-07-05T15:43:45Z
-tags: [Sovereign Ratings, Climate Risk, Fitch Ratings, Credit Rating Methodology]
+tags:
+  - Sovereign Ratings
+  - Climate Risk
+  - Fitch Ratings
+  - Credit Rating Methodology
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:43:45Z
+status: stable
 ---
 
 # Sovereign Climate Risk Model (SCRM)

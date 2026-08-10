@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:07:24Z
 tags:
   - Romania
   - Macroeconomics
@@ -7,6 +6,10 @@ tags:
   - European Union
   - Economic Growth
   - Government Deficit
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:07:24Z
+status: stable
 ---
 # Real GDP growth decelerates to 0.8%; Government deficit reaches 9.3% of GDP
 

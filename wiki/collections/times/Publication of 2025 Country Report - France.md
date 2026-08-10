@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:03:38Z
-tags: [ France, European Semester, Macroeconomic Assessment, Fiscal Policy, Energy Transition, Labor Market, Productivity ]
+tags:
+  - France
+  - European Semester
+  - Macroeconomic Assessment
+  - Fiscal Policy
+  - Energy Transition
+  - Labor Market
+  - Productivity
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:03:38Z
+status: stable
 ---
 # Publication of 2025 Country Report - France
 

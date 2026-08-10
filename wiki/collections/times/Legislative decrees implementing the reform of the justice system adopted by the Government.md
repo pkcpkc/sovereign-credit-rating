@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:12:29Z
 tags:
   - Italy
   - Justice System
@@ -7,6 +6,10 @@ tags:
   - Judicial Reform
   - European Union
   - Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:29Z
+status: stable
 ---
 # Legislative decrees implementing the reform of the justice system adopted by the Government
 

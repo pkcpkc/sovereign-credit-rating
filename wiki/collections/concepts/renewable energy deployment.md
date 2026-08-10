@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T11:56:50Z
-tags: [Energy Transition, Macroeconomic Analysis, Fiscal Policy, Environmental Sustainability, Sovereign Credit Risk]
+tags:
+  - Energy Transition
+  - Macroeconomic Analysis
+  - Fiscal Policy
+  - Environmental Sustainability
+  - Sovereign Credit Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:56:50Z
+status: stable
 ---
 
 # renewable energy deployment

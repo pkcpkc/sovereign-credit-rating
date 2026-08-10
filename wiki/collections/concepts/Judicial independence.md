@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:02:04Z
 tags:
   - Judicial Independence
   - Rule of Law
@@ -39,6 +38,10 @@ tags:
   - Judicial Council
   - Prosecutor General
   - Civil Society Space
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:02:04Z
+status: stable
 ---
 
 # Judicial Independence

@@ -243,7 +243,17 @@ times:
     title: Medium-Term Fiscal Structural Plan (MTFSP) Horizon
   - date: "2026"
     title: Projected Operational Start of Independent Fiscal Council
-timestamp: 2026-07-05T11:27:34Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:27:34Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/IMF (2025) Poland
+      Country Report.md
+    title: wiki/assets/20260705-000000/processed/IMF (2025) Poland Country Report.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/IMF (2025) Poland Country
+      Report.md
+    title: wiki/assets/20260705-000000/sources/IMF (2025) Poland Country Report.md
 ---
 # Summary of: IMF (2025) Poland 2024 Article IV Consultation Staff Report and Press Release
 

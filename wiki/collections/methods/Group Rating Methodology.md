@@ -1,8 +1,16 @@
 ---
 agency: S&P Global Ratings
 last_updated: December 18, 2017
-timestamp: 2026-07-05T11:08:56Z
-tags: [Sovereign Credit Rating, Rating Methodology, Financial Risk Analysis, Macroeconomic Assessment, S&P Global Ratings]
+tags:
+  - Sovereign Credit Rating
+  - Rating Methodology
+  - Financial Risk Analysis
+  - Macroeconomic Assessment
+  - S&P Global Ratings
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:08:56Z
+status: stable
 ---
 
 # Group Rating Methodology

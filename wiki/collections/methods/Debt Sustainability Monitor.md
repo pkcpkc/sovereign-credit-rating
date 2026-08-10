@@ -1,7 +1,6 @@
 ---
 agency: European Commission
 last_updated: 2025-06-04
-timestamp: 2026-07-05T15:24:26Z
 tags:
   - European Semester
   - Fiscal Policy
@@ -10,6 +9,10 @@ tags:
   - Structural Reforms
   - Italy
   - Sovereign Credit Rating
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:24:26Z
+status: stable
 ---
 
 # Debt Sustainability Monitor

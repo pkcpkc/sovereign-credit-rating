@@ -3,12 +3,15 @@ role: Advisor to Executive Director
 organization: IMF
 countries_covered:
   - Poland
-timestamp: 2026-07-05T15:50:51Z
 tags:
   - IMF
   - Sovereign Risk
   - Macroeconomic Policy
   - Article IV Consultation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:50:51Z
+status: stable
 ---
 
 # Marta Pietrzak

@@ -1,6 +1,18 @@
 ---
-timestamp: 2026-07-05T12:33:35Z
-tags: [Rule of Law, Justice System, Belgium, Italy, Judicial Backlog, Digitalisation, Sovereign Credit Risk, Institutional Quality, Macroeconomic Stability]
+tags:
+  - Rule of Law
+  - Justice System
+  - Belgium
+  - Italy
+  - Judicial Backlog
+  - Digitalisation
+  - Sovereign Credit Risk
+  - Institutional Quality
+  - Macroeconomic Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:33:35Z
+status: stable
 ---
 
 # Judicial efficiency

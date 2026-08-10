@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T13:49:57Z
-tags: [Financial Stability, Sovereign Credit, Macroprudential Policy, Systemic Risk, Banking Sector, Real Estate Exposure, Cybersecurity]
+tags:
+  - Financial Stability
+  - Sovereign Credit
+  - Macroprudential Policy
+  - Systemic Risk
+  - Banking Sector
+  - Real Estate Exposure
+  - Cybersecurity
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:49:57Z
+status: stable
 ---
 
 # financial sector resilience

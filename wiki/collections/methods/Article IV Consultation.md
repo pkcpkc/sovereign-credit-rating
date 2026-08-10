@@ -1,7 +1,6 @@
 ---
 agency: International Monetary Fund (IMF)
 last_updated: 2025
-timestamp: 2026-07-05T15:35:52Z
 tags:
   - IMF
   - Article IV Consultation
@@ -12,6 +11,10 @@ tags:
   - External Sector Assessment
   - Structural Reforms
   - Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:35:52Z
+status: stable
 ---
 
 # Article IV Consultation

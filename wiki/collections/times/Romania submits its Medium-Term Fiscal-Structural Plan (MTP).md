@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:07:06Z
-tags: [ Romania, EU, Fiscal Policy, Medium-Term Plan, Debt Sustainability ]
+tags:
+  - Romania
+  - EU
+  - Fiscal Policy
+  - Medium-Term Plan
+  - Debt Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:07:06Z
+status: stable
 ---
 # Romania submits its Medium-Term Fiscal-Structural Plan (MTP)
 

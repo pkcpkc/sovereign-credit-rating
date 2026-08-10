@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:01:52Z
-tags: [ Decarbonisation, Energy Transition, Sovereign Risk, EU Policy, Industrial Competitiveness, Climate Finance ]
+tags:
+  - Decarbonisation
+  - Energy Transition
+  - Sovereign Risk
+  - EU Policy
+  - Industrial Competitiveness
+  - Climate Finance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:01:52Z
+status: stable
 ---
 
 # Decarbonisation

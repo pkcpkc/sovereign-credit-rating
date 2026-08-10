@@ -1,8 +1,16 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:31:16Z
-tags: [ EU, Fiscal Policy, Recovery and Resilience Facility, Poland, Economic Reform ]
+tags:
+  - EU
+  - Fiscal Policy
+  - Recovery and Resilience Facility
+  - Poland
+  - Economic Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:31:16Z
+status: stable
 ---
 
 # Recovery and Resilience Facility

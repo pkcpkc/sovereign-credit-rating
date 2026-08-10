@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:12:12Z
 tags:
   - Italy
   - Justice System
   - Digitalisation
   - European Union
   - Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:12Z
+status: stable
 ---
 # Mandatory use of digital case management system (APP) in criminal courts and prosecutors' offices
 

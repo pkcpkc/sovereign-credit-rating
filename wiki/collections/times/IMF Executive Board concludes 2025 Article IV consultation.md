@@ -1,6 +1,17 @@
 ---
-timestamp: 2026-07-05T16:17:38Z
-tags: [IMF, Article IV, Belgium, Fiscal Policy, Debt Sustainability, Labor Market Reform, Financial Stability, Sovereign Risk]
+tags:
+  - IMF
+  - Article IV
+  - Belgium
+  - Fiscal Policy
+  - Debt Sustainability
+  - Labor Market Reform
+  - Financial Stability
+  - Sovereign Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:17:38Z
+status: stable
 ---
 # IMF Executive Board concludes 2025 Article IV consultation
 

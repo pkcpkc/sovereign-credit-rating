@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T13:18:00Z
-tags: [IMF, Belgium, Macroeconomics, External Sector, Sovereign Risk, Current Account, Exchange Rate]
+tags:
+  - IMF
+  - Belgium
+  - Macroeconomics
+  - External Sector
+  - Sovereign Risk
+  - Current Account
+  - Exchange Rate
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:18:00Z
+status: stable
 ---
 
 # external position

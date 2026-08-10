@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:18:46Z
 tags:
   - France
   - European Commission
@@ -7,6 +6,10 @@ tags:
   - EU Fiscal Rules
   - Debt Sustainability
   - Medium-Term Fiscal Structural Plan
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:18:46Z
+status: stable
 ---
 # European Commission positively assesses French fiscal efforts
 

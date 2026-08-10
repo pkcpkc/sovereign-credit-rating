@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:02:56Z
-tags: [EU Economic Governance, Belgium, Fiscal Policy, European Semester, MTP, National Escape Clause]
+tags:
+  - EU Economic Governance
+  - Belgium
+  - Fiscal Policy
+  - European Semester
+  - MTP
+  - National Escape Clause
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:02:56Z
+status: stable
 ---
 # Commission adopts Recommendation to endorse Belgium's medium-term fiscal-structural plan
 

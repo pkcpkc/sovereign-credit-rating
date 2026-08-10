@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:12:02Z
 tags:
   - Italy
   - Justice System
@@ -7,6 +6,10 @@ tags:
   - Mediation
   - Assisted Negotiation
   - Judicial Efficiency
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:02Z
+status: stable
 ---
 # Revision of rules on mediation and assisted negotiation came into force
 

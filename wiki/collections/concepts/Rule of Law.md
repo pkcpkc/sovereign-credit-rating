@@ -1,6 +1,19 @@
 ---
-timestamp: 2026-07-05T12:44:42Z
-tags: [Rule of Law, Sovereign Credit Risk, Macroeconomic Policy, Institutional Quality, Judicial Independence, Anti-Corruption, Media Freedom, Checks and Balances, Poland, EU Rule of Law Mechanism]
+tags:
+  - Rule of Law
+  - Sovereign Credit Risk
+  - Macroeconomic Policy
+  - Institutional Quality
+  - Judicial Independence
+  - Anti-Corruption
+  - Media Freedom
+  - Checks and Balances
+  - Poland
+  - EU Rule of Law Mechanism
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:44:42Z
+status: stable
 ---
 
 # Rule of Law

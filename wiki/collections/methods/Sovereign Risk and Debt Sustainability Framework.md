@@ -1,13 +1,16 @@
 ---
 agency: International Monetary Fund (IMF)
 last_updated: 2024
-timestamp: 2026-07-05T15:40:38Z
 tags:
   - Sovereign Risk
   - Debt Sustainability
   - IMF
   - Macroeconomic Analysis
   - Rating Methodology
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:40:38Z
+status: stable
 ---
 
 # Sovereign Risk and Debt Sustainability Framework

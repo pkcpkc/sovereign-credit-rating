@@ -3,12 +3,15 @@ role: Minister of Finance
 organization: Austrian Ministry of Finance
 countries_covered:
   - Austria
-timestamp: 2026-07-05T15:46:32Z
 tags:
   - Sovereign Credit Risk
   - Fiscal Policy
   - Austria
   - Euro Area
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:46:32Z
+status: stable
 ---
 
 # Christian Karner Marterbauer

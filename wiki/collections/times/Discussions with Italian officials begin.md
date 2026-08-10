@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:20:51Z
 tags:
   - IMF
   - Italy
   - Article IV Consultation
   - Economic Policy
   - Fiscal Discipline
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:20:51Z
+status: stable
 ---
 # Discussions with Italian officials begin
 

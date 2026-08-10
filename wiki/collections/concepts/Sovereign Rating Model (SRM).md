@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T14:14:21Z
-tags: [Sovereign Ratings, Credit Rating Methodology, Fitch Ratings, Sovereign Rating Model, Quantitative Analysis, OLS Regression]
+tags:
+  - Sovereign Ratings
+  - Credit Rating Methodology
+  - Fitch Ratings
+  - Sovereign Rating Model
+  - Quantitative Analysis
+  - OLS Regression
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:14:21Z
+status: stable
 ---
 
 # Sovereign Rating Model (SRM)

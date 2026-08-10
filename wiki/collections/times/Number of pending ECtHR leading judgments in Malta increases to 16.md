@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:13:04Z
 tags:
   - Rule of Law
   - Malta
   - European Court of Human Rights
   - Judicial Independence
   - EU Rule of Law Report
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:13:04Z
+status: stable
 ---
 # Number of pending ECtHR leading judgments in Malta increases to 16
 

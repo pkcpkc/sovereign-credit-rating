@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:20:07Z
-tags: [IMF, Italy, Macroeconomics, Fiscal Policy, Sovereign Risk, Structural Reforms, Financial Stability]
+tags:
+  - IMF
+  - Italy
+  - Macroeconomics
+  - Fiscal Policy
+  - Sovereign Risk
+  - Structural Reforms
+  - Financial Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:20:07Z
+status: stable
 ---
 # IMF Executive Board concludes 2025 Article IV Consultation with Italy
 

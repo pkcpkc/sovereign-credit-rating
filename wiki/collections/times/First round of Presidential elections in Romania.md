@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:14:45Z
-tags: ["Romania", "Presidential Election", "Politics", "European Union", "Rule of Law"]
+tags:
+  - Romania
+  - Presidential Election
+  - Politics
+  - European Union
+  - Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:14:45Z
+status: stable
 ---
 # First round of Presidential elections in Romania
 

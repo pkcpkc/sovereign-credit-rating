@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:11:56Z
 tags:
   - Italy
   - Rule of Law
@@ -10,6 +9,10 @@ tags:
   - Media Freedom
   - Anti-Corruption
   - Institutional Checks and Balances
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:11:56Z
+status: stable
 ---
 # Security Decree entered into force
 

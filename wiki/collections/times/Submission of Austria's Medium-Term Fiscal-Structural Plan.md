@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:02:11Z
 tags:
   - European Semester
   - Fiscal Policy
   - Austria
   - Economic Governance
   - Structural Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:02:11Z
+status: stable
 ---
 # Submission of Austria's Medium-Term Fiscal-Structural Plan
 

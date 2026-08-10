@@ -3,12 +3,15 @@ role: Minister
 organization: French Government
 countries_covered:
   - France
-timestamp: 2026-07-05T11:18:52Z
 tags:
   - France
   - Cultural Policy
   - Sovereign Risk
   - Institutional Strength
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:18:52Z
+status: stable
 ---
 
 # Minister of Culture

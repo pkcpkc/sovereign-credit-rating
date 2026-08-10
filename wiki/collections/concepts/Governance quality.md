@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:25:43Z
-tags: [ Rule of Law, Governance, Sovereign Credit Risk, Institutional Strength, France, EU Rule of Law ]
+tags:
+  - Rule of Law
+  - Governance
+  - Sovereign Credit Risk
+  - Institutional Strength
+  - France
+  - EU Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:25:43Z
+status: stable
 ---
 
 # Governance quality

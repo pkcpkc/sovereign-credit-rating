@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:09:55Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [ Constitutional Court, Rule of Law, Civic Space, Belgium, Justice System ] # Array | Optional | Categorization tags.
+tags:
+  - Constitutional Court
+  - Rule of Law
+  - Civic Space
+  - Belgium
+  - Justice System
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:09:55Z
+status: stable
 ---
 # Constitutional Court rules on urgent court orders and strikes
 

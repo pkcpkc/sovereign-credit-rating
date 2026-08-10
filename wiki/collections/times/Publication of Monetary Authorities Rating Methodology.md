@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:01:49Z
 tags:
   - Sovereign Credit Rating
   - Rating Methodology
   - Financial Risk Analysis
   - S&P Global Ratings
   - Monetary Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:01:49Z
+status: stable
 ---
 # Publication of Monetary Authorities Rating Methodology
 

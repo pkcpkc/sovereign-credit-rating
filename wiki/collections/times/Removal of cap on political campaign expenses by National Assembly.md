@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:11:26Z
 tags:
   - Hungary
   - Rule of Law
@@ -8,6 +7,10 @@ tags:
   - Electoral Law
   - Political Financing
   - National Assembly
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:11:26Z
+status: stable
 ---
 # Removal of cap on political campaign expenses by National Assembly
 

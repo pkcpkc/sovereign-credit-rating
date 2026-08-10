@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:11:08Z
 tags:
   - Hungary
   - Judicial Independence
@@ -7,6 +6,10 @@ tags:
   - Kúria
   - European Union
   - Budapest Regional Court
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:11:08Z
+status: stable
 ---
 # Budapest Regional Court finds Kúria President unlawfully relieved a judge
 

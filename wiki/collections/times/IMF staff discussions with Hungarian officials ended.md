@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:19:42Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: ["IMF Article IV", "Hungary Economy", "Sovereign Credit Risk", "Fiscal Policy", "Monetary Policy", "Debt Sustainability", "Macroeconomic Stability"] # Array | Optional | Categorization tags.
+tags:
+  - IMF Article IV
+  - Hungary Economy
+  - Sovereign Credit Risk
+  - Fiscal Policy
+  - Monetary Policy
+  - Debt Sustainability
+  - Macroeconomic Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:19:42Z
+status: stable
 ---
 # IMF staff discussions with Hungarian officials ended
 

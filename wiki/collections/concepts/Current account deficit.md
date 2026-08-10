@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:05:50Z
 tags:
   - Macroeconomics
   - Balance of Payments
@@ -7,6 +6,10 @@ tags:
   - External Sector
   - Fiscal Policy
   - Romania
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:05:50Z
+status: stable
 ---
 
 # Current account deficit

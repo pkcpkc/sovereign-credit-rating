@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:23:39Z
 tags:
   - Poland
   - EU Excessive Deficit Procedure
@@ -7,6 +6,10 @@ tags:
   - IMF
   - European Union
   - Macroeconomics
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:23:39Z
+status: stable
 ---
 # Poland enters EU Excessive Deficit Procedure
 

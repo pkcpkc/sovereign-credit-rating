@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:09:24Z
 tags:
   - Belgium
   - Justice System
@@ -8,6 +7,10 @@ tags:
   - European Union
   - Public Administration
   - Belgian Court of Audit
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:09:24Z
+status: stable
 ---
 # Belgian Court of Audit reports shortcomings in justice digitalisation strategy
 

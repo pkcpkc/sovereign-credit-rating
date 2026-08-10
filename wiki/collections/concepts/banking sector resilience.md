@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:58:23Z
 tags:
   - Financial Stability
   - Sovereign Risk
@@ -7,6 +6,10 @@ tags:
   - Systemic Risk
   - Poland
   - IMF Article IV
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:58:23Z
+status: stable
 ---
 
 # banking sector resilience

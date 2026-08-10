@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:03:47Z
-tags: [France, Excessive Deficit Procedure, European Semester, Fiscal Policy, EU Economic Governance]
+tags:
+  - France
+  - Excessive Deficit Procedure
+  - European Semester
+  - Fiscal Policy
+  - EU Economic Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:03:47Z
+status: stable
 ---
 # Council recommendation to end excessive deficit situation in France
 

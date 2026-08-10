@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:08:57Z
-tags: [Austria, Judiciary, Rule of Law, Court Fees, Access to Justice, European Union]
+tags:
+  - Austria
+  - Judiciary
+  - Rule of Law
+  - Court Fees
+  - Access to Justice
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:08:57Z
+status: stable
 ---
 # Implementation of court fee increases (approx. 23%)
 

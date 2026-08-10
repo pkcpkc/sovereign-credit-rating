@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:07:49Z
 tags:
   - Civil Society
   - Rule of Law
@@ -12,6 +11,10 @@ tags:
   - Media Freedom
   - Judicial Independence
   - Institutional Checks and Balances
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:07:49Z
+status: stable
 ---
 
 # Civil Society Space

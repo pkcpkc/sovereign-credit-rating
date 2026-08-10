@@ -1,5 +1,6 @@
 ---
-title: "Methods Index"
+title: Methods Index
+status: stable
 ---
 # Methods Index
 

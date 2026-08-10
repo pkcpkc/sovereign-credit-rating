@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:40:58Z
 tags:
   - Investor Citizenship Scheme
   - Rule of Law
@@ -9,6 +8,10 @@ tags:
   - European Union
   - Malta
   - Country Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:40:58Z
+status: stable
 ---
 
 # Investor Citizenship Scheme

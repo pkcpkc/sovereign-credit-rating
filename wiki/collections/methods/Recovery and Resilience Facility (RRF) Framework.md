@@ -1,7 +1,6 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:29:26Z
 tags:
   - Recovery and Resilience Facility
   - EU Fiscal Policy
@@ -10,6 +9,10 @@ tags:
   - Sustainable Development
   - Digital Transition
   - Green Transition
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:29:26Z
+status: stable
 ---
 
 # Recovery and Resilience Facility (RRF) Framework

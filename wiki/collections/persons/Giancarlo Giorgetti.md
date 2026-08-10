@@ -3,13 +3,16 @@ role: Minister of Economy and Finance
 organization: Italian Ministry of Economy and Finance
 countries_covered:
   - Italy
-timestamp: 2026-07-05T15:48:33Z
 tags:
   - Sovereign Risk
   - Fiscal Policy
   - IMF Article IV
   - Italy
   - Public Finance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:48:33Z
+status: stable
 ---
 
 # Giancarlo Giorgetti

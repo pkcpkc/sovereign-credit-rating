@@ -4,13 +4,16 @@ organization: International Monetary Fund
 countries_covered:
   - Italy
   - Malta
-timestamp: 2026-07-05T15:48:21Z
 tags:
   - IMF Executive Director
   - Sovereign Analysis
   - Fiscal Policy
   - Article IV Consultation
   - European Surveillance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:48:21Z
+status: stable
 ---
 
 # Riccardo Ercoli

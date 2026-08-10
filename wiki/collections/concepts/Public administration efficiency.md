@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:07:07Z
 tags:
   - Public Administration
   - Governance
@@ -7,6 +6,10 @@ tags:
   - Fiscal Policy
   - Institutional Quality
   - Romania
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:07:07Z
+status: stable
 ---
 
 # Public administration efficiency

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T11:57:00Z
 tags:
   - Sustainable Development
   - Macroeconomic Policy
@@ -8,6 +7,10 @@ tags:
   - European Union
   - Waste Management
   - Resource Efficiency
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:57:00Z
+status: stable
 ---
 
 # circular economy

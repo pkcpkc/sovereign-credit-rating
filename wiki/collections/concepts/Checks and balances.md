@@ -1,6 +1,39 @@
 ---
-timestamp: 2026-07-05T13:00:22Z
-tags: [ Rule of Law, Governance, Sovereign Credit Rating, Institutional Strength, Political Risk, Judicial Independence, Anti-Corruption, Media Pluralism, Civic Space, Legislative Stability, Emergency Powers, Case Allocation Transparency, Italy, France, Austria, Hungary, Malta, Poland, Romania, Separation of Powers, Lobbying Transparency, Political Financing, Investor Citizenship Scheme, Magisterial Inquiries, Prosecutorial Autonomy, Constitutional Crisis, European Public Prosecutor's Office, Statute of Limitations, Public Procurement Integrity, Human Rights Institutions ]
+tags:
+  - Rule of Law
+  - Governance
+  - Sovereign Credit Rating
+  - Institutional Strength
+  - Political Risk
+  - Judicial Independence
+  - Anti-Corruption
+  - Media Pluralism
+  - Civic Space
+  - Legislative Stability
+  - Emergency Powers
+  - Case Allocation Transparency
+  - Italy
+  - France
+  - Austria
+  - Hungary
+  - Malta
+  - Poland
+  - Romania
+  - Separation of Powers
+  - Lobbying Transparency
+  - Political Financing
+  - Investor Citizenship Scheme
+  - Magisterial Inquiries
+  - Prosecutorial Autonomy
+  - Constitutional Crisis
+  - European Public Prosecutor's Office
+  - Statute of Limitations
+  - Public Procurement Integrity
+  - Human Rights Institutions
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:00:22Z
+status: stable
 ---
 
 # checks and balances

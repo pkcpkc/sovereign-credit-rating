@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:23:16Z
-tags: [Rule of Law, Transparency, Institutional Checks, Belgium, Sovereign Credit Risk, Governance]
+tags:
+  - Rule of Law
+  - Transparency
+  - Institutional Checks
+  - Belgium
+  - Sovereign Credit Risk
+  - Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:23:16Z
+status: stable
 ---
 
 # Access to public documents

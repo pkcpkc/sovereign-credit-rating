@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:18:37Z
 tags:
   - France
   - IMF
@@ -8,6 +7,10 @@ tags:
   - Fiscal Policy
   - Debt Sustainability
   - Financial Sector Assessment
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:18:37Z
+status: stable
 ---
 # Conclusion of IMF staff discussions with French officials
 

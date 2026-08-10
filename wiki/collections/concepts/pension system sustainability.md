@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T13:24:09Z
-tags: [ fiscal policy, public debt, demographic risk, sovereign credit, france, imf ]
+tags:
+  - fiscal policy
+  - public debt
+  - demographic risk
+  - sovereign credit
+  - france
+  - imf
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:24:09Z
+status: stable
 ---
 
 # pension system sustainability

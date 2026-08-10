@@ -1,7 +1,6 @@
 ---
 agency: Transparency International
 last_updated: 2025
-timestamp: 2026-07-05T15:33:13Z
 tags:
   - Corruption
   - Anti-Corruption
@@ -10,6 +9,10 @@ tags:
   - Transparency International
   - Public Procurement
   - Judicial Independence
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:33:13Z
+status: stable
 ---
 
 # Corruption Perceptions Index

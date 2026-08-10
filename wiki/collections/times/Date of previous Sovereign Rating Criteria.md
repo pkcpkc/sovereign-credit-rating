@@ -1,9 +1,12 @@
 ---
-timestamp: 2026-07-05T16:25:37Z
 tags:
   - Sovereign Ratings
   - Credit Rating Methodology
   - Fitch Ratings
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:25:37Z
+status: stable
 ---
 # Date of previous Sovereign Rating Criteria
 

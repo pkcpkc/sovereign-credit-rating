@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T11:59:49Z
-tags: [EU Fiscal Policy, Fiscal Consolidation, Macroeconomic Policy, Sovereign Credit Risk, Poland, European Commission]
+tags:
+  - EU Fiscal Policy
+  - Fiscal Consolidation
+  - Macroeconomic Policy
+  - Sovereign Credit Risk
+  - Poland
+  - European Commission
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:59:49Z
+status: stable
 ---
 
 # National escape clause

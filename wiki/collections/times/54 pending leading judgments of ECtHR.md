@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:14:12Z
-tags: [Rule of Law, Poland, European Court of Human Rights, Judicial Independence, European Union, International Law]
+tags:
+  - Rule of Law
+  - Poland
+  - European Court of Human Rights
+  - Judicial Independence
+  - European Union
+  - International Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:14:12Z
+status: stable
 ---
 # 54 pending leading judgments of ECtHR
 

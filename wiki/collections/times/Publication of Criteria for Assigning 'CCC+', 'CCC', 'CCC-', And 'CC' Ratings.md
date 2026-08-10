@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:01:58Z
-tags: [ "Sovereign Credit Rating", "S&P Global Ratings", "Rating Methodology", "Financial Risk Analysis", "Credit Criteria" ]
+tags:
+  - Sovereign Credit Rating
+  - S&P Global Ratings
+  - Rating Methodology
+  - Financial Risk Analysis
+  - Credit Criteria
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:01:58Z
+status: stable
 ---
 # Publication of Criteria for Assigning 'CCC+', 'CCC', 'CCC-', And 'CC' Ratings
 

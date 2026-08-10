@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T15:58:57Z
 tags:
   - Sovereign Credit Rating
   - Hungary
@@ -14,6 +13,10 @@ tags:
   - IMF Article IV
   - Debt Sustainability
   - Geoeconomic Fragmentation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:58:57Z
+status: stable
 ---
 
 # Hungary

@@ -1,6 +1,26 @@
 ---
-timestamp: 2026-07-05T13:19:02Z
-tags: [ Belgium, France, Italy, Romania, Slovakia, Energy Transition, Macroeconomic Policy, Sovereign Credit, Structural Reform, Fiscal Sustainability, Climate Risk, EU Funding, RRP, Rule of Law, Automotive Sector, Labor Market Reform, Wage Indexation ]
+tags:
+  - Belgium
+  - France
+  - Italy
+  - Romania
+  - Slovakia
+  - Energy Transition
+  - Macroeconomic Policy
+  - Sovereign Credit
+  - Structural Reform
+  - Fiscal Sustainability
+  - Climate Risk
+  - EU Funding
+  - RRP
+  - Rule of Law
+  - Automotive Sector
+  - Labor Market Reform
+  - Wage Indexation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:19:02Z
+status: stable
 ---
 
 # Green transition

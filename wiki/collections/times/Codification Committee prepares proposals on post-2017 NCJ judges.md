@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:13:51Z
 tags:
   - Poland
   - Judicial Independence
@@ -7,6 +6,10 @@ tags:
   - National Council for the Judiciary
   - European Union
   - Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:13:51Z
+status: stable
 ---
 # Codification Committee prepares proposals on post-2017 NCJ judges
 

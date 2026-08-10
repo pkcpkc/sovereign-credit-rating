@@ -3,13 +3,16 @@ role: Minister for the Environment, Energy, and Enterprise
 organization: Government of Malta
 countries_covered:
   - Malta
-timestamp: 2026-07-05T15:49:54Z
 tags:
   - Government Official
   - Malta
   - Energy Policy
   - Sovereign Risk
   - IMF Article IV
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:49:54Z
+status: stable
 ---
 
 # Miriam Dalli

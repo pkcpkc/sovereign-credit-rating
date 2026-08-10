@@ -41,7 +41,15 @@ times:
     title: Publication year of S&P sovereign credit rating methodology document
   - date: "2024"
     title: Date of presentation/lecture by Alex Stomper
-timestamp: 2026-07-05T11:29:46Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:29:46Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/overview.md
+    title: wiki/assets/20260705-000000/processed/overview.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/overview.md
+    title: wiki/assets/20260705-000000/sources/overview.md
 ---
 # Summary of: Financial Economics for Citizens: The S&P Rating Methodology - Overview
 

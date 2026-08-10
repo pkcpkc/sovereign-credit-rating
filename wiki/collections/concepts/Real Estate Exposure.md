@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:50:18Z
 tags:
   - Financial Stability
   - Sovereign Risk
@@ -7,6 +6,10 @@ tags:
   - Malta
   - Banking Sector
   - IMF
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:50:18Z
+status: stable
 ---
 
 # real estate exposure

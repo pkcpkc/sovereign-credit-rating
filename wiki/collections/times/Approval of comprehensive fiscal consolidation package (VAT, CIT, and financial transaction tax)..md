@@ -1,10 +1,13 @@
 ---
-timestamp: 2026-07-05T16:07:38Z
 tags:
   - Fiscal Policy
   - Economic Governance
   - Slovakia
   - European Semester
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:07:38Z
+status: stable
 ---
 # Approval of comprehensive fiscal consolidation package (VAT, CIT, and financial transaction tax).
 

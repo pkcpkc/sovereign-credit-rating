@@ -1,8 +1,17 @@
 ---
 agency: Fitch Ratings
 last_updated: Sept 2025
-timestamp: 2026-07-05T15:42:15Z
-tags: [Sovereign Ratings, Credit Rating Methodology, Fitch Ratings, Sovereign Rating Model, Qualitative Overlay, Climate Risk]
+tags:
+  - Sovereign Ratings
+  - Credit Rating Methodology
+  - Fitch Ratings
+  - Sovereign Rating Model
+  - Qualitative Overlay
+  - Climate Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:42:15Z
+status: stable
 ---
 
 # Fitch Sovereign Rating Model (SRM)

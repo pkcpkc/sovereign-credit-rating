@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T11:52:47Z
-tags: [ labor economics, structural reforms, Italy, sovereign risk, fiscal sustainability, productivity ]
+tags:
+  - labor economics
+  - structural reforms
+  - Italy
+  - sovereign risk
+  - fiscal sustainability
+  - productivity
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:52:47Z
+status: stable
 ---
 
 # labor market segmentation

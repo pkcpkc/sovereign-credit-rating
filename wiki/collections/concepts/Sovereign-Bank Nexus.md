@@ -1,6 +1,18 @@
 ---
-timestamp: 2026-07-05T13:45:08Z
-tags: [ sovereign credit risk, financial stability, macroeconomic policy, Hungary, Italy, IMF, banking sector, contingent liabilities, debt sustainability ]
+tags:
+  - sovereign credit risk
+  - financial stability
+  - macroeconomic policy
+  - Hungary
+  - Italy
+  - IMF
+  - banking sector
+  - contingent liabilities
+  - debt sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:45:08Z
+status: stable
 ---
 
 # sovereign-bank nexus

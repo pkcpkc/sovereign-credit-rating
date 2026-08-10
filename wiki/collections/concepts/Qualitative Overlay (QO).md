@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:14:36Z
 tags:
   - Sovereign Ratings
   - Credit Rating Methodology
@@ -9,6 +8,10 @@ tags:
   - Risk Analysis
   - Climate Risk
   - Financial Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:14:36Z
+status: stable
 ---
 
 # Qualitative Overlay (QO)

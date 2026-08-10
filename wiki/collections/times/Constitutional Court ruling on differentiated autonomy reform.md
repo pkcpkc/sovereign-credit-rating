@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:05:01Z
-tags: [Italy, Constitutional Court, Differentiated Autonomy, Political Risk, EU Commission, Sovereign Credit Rating]
+tags:
+  - Italy
+  - Constitutional Court
+  - Differentiated Autonomy
+  - Political Risk
+  - EU Commission
+  - Sovereign Credit Rating
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:05:01Z
+status: stable
 ---
 # Constitutional Court ruling on differentiated autonomy reform
 

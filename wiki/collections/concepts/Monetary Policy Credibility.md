@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T11:32:06Z
 tags:
   - Sovereign Credit Rating
   - Macroeconomic Assessment
@@ -7,6 +6,10 @@ tags:
   - Financial Stability
   - S&P Global Ratings
   - Central Banking
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:32:06Z
+status: stable
 ---
 
 # monetary policy credibility

@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:20:44Z
-tags: [IMF, Italy, Article IV Consultation, Fiscal Policy, Structural Reforms]
+tags:
+  - IMF
+  - Italy
+  - Article IV Consultation
+  - Fiscal Policy
+  - Structural Reforms
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:20:44Z
+status: stable
 ---
 # Discussions with Italian officials end
 

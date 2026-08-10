@@ -232,7 +232,17 @@ times:
     title: Deadline for Implementation of EU Pillar II Minimum Tax Directive
   - date: "2050"
     title: Target Year for 'Malta Vision 2050' Strategic Plan
-timestamp: 2026-07-05T11:26:44Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:26:44Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/IMF (2025) Malta Country
+      Report.md
+    title: wiki/assets/20260705-000000/processed/IMF (2025) Malta Country Report.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/IMF (2025) Malta Country
+      Report.md
+    title: wiki/assets/20260705-000000/sources/IMF (2025) Malta Country Report.md
 ---
 # Summary of: IMF Article IV Consultation: Malta (2024)
 

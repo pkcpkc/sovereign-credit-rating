@@ -1,6 +1,24 @@
 ---
-timestamp: 2026-07-05T14:09:20Z
-tags: [ macroeconomic-policy, central-banking, sovereign-risk, financial-stability, inflation-control, eurozone, fiscal-monetary-link, rule-of-law, institutional-strength, imf-assessment, monetary-transmission, slovakia, italy, hungary, debt-sustainability ]
+tags:
+  - macroeconomic-policy
+  - central-banking
+  - sovereign-risk
+  - financial-stability
+  - inflation-control
+  - eurozone
+  - fiscal-monetary-link
+  - rule-of-law
+  - institutional-strength
+  - imf-assessment
+  - monetary-transmission
+  - slovakia
+  - italy
+  - hungary
+  - debt-sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:09:20Z
+status: stable
 ---
 
 # monetary policy

@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:04:52Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [ Sovereign Credit Rating, Italy, European Semester, Fiscal Sustainability, Structural Reforms, Macroeconomic Imbalance ]
+tags:
+  - Sovereign Credit Rating
+  - Italy
+  - European Semester
+  - Fiscal Sustainability
+  - Structural Reforms
+  - Macroeconomic Imbalance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:04:52Z
+status: stable
 ---
 # Publication of 2025 Country Report - Italy
 

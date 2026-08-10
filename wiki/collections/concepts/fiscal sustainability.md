@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T11:53:26Z
 tags:
   - Fiscal Policy
   - Sovereign Credit Rating
@@ -25,6 +24,10 @@ tags:
   - Aggressive Tax Planning
   - Net Expenditure Growth
   - Recovery and Resilience Facility
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:53:26Z
+status: stable
 ---
 
 # fiscal sustainability

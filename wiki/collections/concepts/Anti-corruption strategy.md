@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T12:18:57Z
-tags: [Anti-Corruption, Rule of Law, Governance, Austria, Sovereign Credit, Institutional Strength, Public Administration]
+tags:
+  - Anti-Corruption
+  - Rule of Law
+  - Governance
+  - Austria
+  - Sovereign Credit
+  - Institutional Strength
+  - Public Administration
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:18:57Z
+status: stable
 ---
 
 # Anti-corruption strategy

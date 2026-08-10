@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:10:19Z
 tags:
   - Justice Efficiency
   - France
   - Judicial Reform
   - EU Rule of Law
   - Legal Digitalization
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:19Z
+status: stable
 ---
 # Publication of 'flash missions' reports on justice efficiency
 

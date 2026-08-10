@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:22:42Z
 tags:
   - Malta
   - National Strategy
@@ -7,6 +6,10 @@ tags:
   - IMF Article IV Consultation
   - Structural Reform
   - Long-term Vision
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:22:42Z
+status: stable
 ---
 # Target Year for 'Malta Vision 2050' Strategic Plan
 

@@ -1,6 +1,18 @@
 ---
-timestamp: 2026-07-05T13:17:26Z
-tags: [ Macroeconomics, Labor Market, Productivity, France, Belgium, Sovereign Credit Rating, Structural Reform, Fiscal Sustainability, Wage Indexation ]
+tags:
+  - Macroeconomics
+  - Labor Market
+  - Productivity
+  - France
+  - Belgium
+  - Sovereign Credit Rating
+  - Structural Reform
+  - Fiscal Sustainability
+  - Wage Indexation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:17:26Z
+status: stable
 ---
 
 # labor productivity

@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:12:56Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [Rule of Law, Malta, Legislative Reform, Magisterial Inquiries, Accountability, Checks and Balances]
+tags:
+  - Rule of Law
+  - Malta
+  - Legislative Reform
+  - Magisterial Inquiries
+  - Accountability
+  - Checks and Balances
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:56Z
+status: stable
 ---
 # Approval of legislative reform increasing threshold for magisterial inquiries
 

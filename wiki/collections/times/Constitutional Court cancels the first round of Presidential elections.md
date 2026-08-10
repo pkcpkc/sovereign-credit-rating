@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:14:49Z
-tags: ["Romania", "Constitutional Court", "Presidential Elections", "Rule of Law", "European Union"]
+tags:
+  - Romania
+  - Constitutional Court
+  - Presidential Elections
+  - Rule of Law
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:14:49Z
+status: stable
 ---
 # Constitutional Court cancels the first round of Presidential elections
 

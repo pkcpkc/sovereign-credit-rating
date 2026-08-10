@@ -1,8 +1,19 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T11:14:24Z
-tags: [ European Semester, Fiscal Sustainability, Structural Reforms, Macroeconomic Imbalance, Sovereign Credit Rating, Energy Transition, Labour Market, Institutional Strength ]
+tags:
+  - European Semester
+  - Fiscal Sustainability
+  - Structural Reforms
+  - Macroeconomic Imbalance
+  - Sovereign Credit Rating
+  - Energy Transition
+  - Labour Market
+  - Institutional Strength
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:14:24Z
+status: stable
 ---
 
 # European Semester

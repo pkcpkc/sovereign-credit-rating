@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:19:42Z
 tags:
   - Sovereign Credit Rating
   - Rating Methodology
@@ -10,6 +9,10 @@ tags:
   - Fiscal Flexibility
   - Debt Payment Culture
   - Analytical Discretion
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:19:42Z
+status: stable
 ---
 
 # Fiscal assessment

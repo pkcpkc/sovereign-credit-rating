@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:20:00Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [Hungary Economy, IMF, Fiscal Policy, Monetary Policy, Inflation Target, Deficit Target, Macroeconomic Outlook]
+tags:
+  - Hungary Economy
+  - IMF
+  - Fiscal Policy
+  - Monetary Policy
+  - Inflation Target
+  - Deficit Target
+  - Macroeconomic Outlook
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:20:00Z
+status: stable
 ---
 # Target year for inflation to return to 3% and deficit below 3%
 

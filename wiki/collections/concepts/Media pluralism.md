@@ -1,6 +1,46 @@
 ---
-timestamp: 2026-07-05T13:06:00Z
-tags: [ Media Freedom, Rule of Law, Sovereign Credit Rating, Institutional Strength, Austria, Belgium, France, Hungary, Italy, Malta, Poland, Romania, Slovakia, European Union, ARCOM, NMHH, AGCOM, KRRiT, CNA, STVR, Judicial Independence, State Advertising, Civic Space, RAI, TVP, Spyware, Security Law, Public Service Media, SLAPPs, CJEU, Daphne Caruana Galizia, European Media Freedom Act, Legislative Unpredictability, Political Financing, Access to Information, Prosecutor General, Civil Society ]
+tags:
+  - Media Freedom
+  - Rule of Law
+  - Sovereign Credit Rating
+  - Institutional Strength
+  - Austria
+  - Belgium
+  - France
+  - Hungary
+  - Italy
+  - Malta
+  - Poland
+  - Romania
+  - Slovakia
+  - European Union
+  - ARCOM
+  - NMHH
+  - AGCOM
+  - KRRiT
+  - CNA
+  - STVR
+  - Judicial Independence
+  - State Advertising
+  - Civic Space
+  - RAI
+  - TVP
+  - Spyware
+  - Security Law
+  - Public Service Media
+  - SLAPPs
+  - CJEU
+  - Daphne Caruana Galizia
+  - European Media Freedom Act
+  - Legislative Unpredictability
+  - Political Financing
+  - Access to Information
+  - Prosecutor General
+  - Civil Society
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:06:00Z
+status: stable
 ---
 
 # Media pluralism

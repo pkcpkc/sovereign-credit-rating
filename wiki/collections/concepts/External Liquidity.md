@@ -1,6 +1,18 @@
 ---
-timestamp: 2026-07-05T11:31:43Z
-tags: [ sovereign credit rating, external assessment, macroeconomic stability, S&P Global Ratings, financial risk analysis, foreign exchange reserves, contingent liabilities, monetary policy, exchange rate regime ]
+tags:
+  - sovereign credit rating
+  - external assessment
+  - macroeconomic stability
+  - S&P Global Ratings
+  - financial risk analysis
+  - foreign exchange reserves
+  - contingent liabilities
+  - monetary policy
+  - exchange rate regime
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:31:43Z
+status: stable
 ---
 
 # External liquidity

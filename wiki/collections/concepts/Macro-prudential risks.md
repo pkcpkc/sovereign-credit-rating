@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T14:18:12Z
-tags: [Fitch Ratings, Sovereign Credit Rating, Macro-prudential Policy, Financial Stability, Risk Assessment]
+tags:
+  - Fitch Ratings
+  - Sovereign Credit Rating
+  - Macro-prudential Policy
+  - Financial Stability
+  - Risk Assessment
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:18:12Z
+status: stable
 ---
 
 # Macro-prudential risks

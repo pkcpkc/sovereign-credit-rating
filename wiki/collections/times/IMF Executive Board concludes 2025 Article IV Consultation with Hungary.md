@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:19:18Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [IMF Article IV, Hungary Economy, Sovereign Credit Risk, Fiscal Policy, Monetary Policy, Debt Sustainability, Geoeconomic Fragmentation]
+tags:
+  - IMF Article IV
+  - Hungary Economy
+  - Sovereign Credit Risk
+  - Fiscal Policy
+  - Monetary Policy
+  - Debt Sustainability
+  - Geoeconomic Fragmentation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:19:18Z
+status: stable
 ---
 # IMF Executive Board concludes 2025 Article IV Consultation with Hungary
 

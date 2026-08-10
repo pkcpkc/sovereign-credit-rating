@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T12:51:23Z
-tags: [Rule of Law, Governance, Anti-Corruption, Public Procurement, Media Freedom, Poland, Sovereign Credit]
+tags:
+  - Rule of Law
+  - Governance
+  - Anti-Corruption
+  - Public Procurement
+  - Media Freedom
+  - Poland
+  - Sovereign Credit
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:51:23Z
+status: stable
 ---
 
 # transparency

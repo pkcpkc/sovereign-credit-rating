@@ -1,6 +1,13 @@
 ---
-timestamp: 2026-07-05T16:06:38Z
-tags: [Fiscal Policy, Poland, EU, Institutional Reform]
+tags:
+  - Fiscal Policy
+  - Poland
+  - EU
+  - Institutional Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:06:38Z
+status: stable
 ---
 # Projected operational start of the Polish Fiscal Council
 

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:51:13Z
 tags:
   - Public Procurement
   - Anti-Corruption
@@ -9,6 +8,10 @@ tags:
   - Rule of Law
   - Poland
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:51:13Z
+status: stable
 ---
 
 # public procurement

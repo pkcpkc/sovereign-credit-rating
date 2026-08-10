@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:09:58Z
-tags: [ Belgium, Rule of Law, Whistleblower Protection, European Union, Justice System, Anti-Corruption ]
+tags:
+  - Belgium
+  - Rule of Law
+  - Whistleblower Protection
+  - European Union
+  - Justice System
+  - Anti-Corruption
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:09:58Z
+status: stable
 ---
 # King sanctions law on whistleblower protection for House of Representatives and Senate
 

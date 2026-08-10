@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:14:52Z
-tags: [Romania, Presidential Election, Rule of Law, European Union, Electoral Integrity]
+tags:
+  - Romania
+  - Presidential Election
+  - Rule of Law
+  - European Union
+  - Electoral Integrity
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:14:52Z
+status: stable
 ---
 # Repetition of Presidential elections in Romania
 

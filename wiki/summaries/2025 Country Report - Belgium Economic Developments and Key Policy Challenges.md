@@ -9,8 +9,8 @@ tags:
   - Belgium
   - Economic Surveillance
 assets:
-  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country Report
-    Belgium.md
+  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+    Report Belgium.md
   - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country Report
     Belgium.md
 concepts:
@@ -209,7 +209,19 @@ times:
     title: Economic growth of 1%; Deficit reaches 4.5% of GDP; Debt at 104.7% of GDP
   - date: "2025"
     title: Projected GDP growth of 0.8%; Deficit projected at 5.4% of GDP
-timestamp: 2026-07-05T11:10:45Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:10:45Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Country Report Belgium.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+      Report Belgium.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Country Report Belgium.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country
+      Report Belgium.md
 ---
 # Summary of: 2025 Country Report - Belgium: Economic Developments and Key Policy Challenges
 

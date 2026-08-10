@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T14:21:10Z
-tags: [ Fiscal Policy, Sovereign Credit Rating, S&P Methodology, Macroeconomics, Fiscal Sustainability ]
+tags:
+  - Fiscal Policy
+  - Sovereign Credit Rating
+  - S&P Methodology
+  - Macroeconomics
+  - Fiscal Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:21:10Z
+status: stable
 ---
 
 # Fiscal flexibility

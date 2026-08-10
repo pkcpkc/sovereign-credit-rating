@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T13:23:34Z
-tags: [ labor market, macroeconomic resilience, fiscal sustainability, sovereign risk, structural reforms, France ]
+tags:
+  - labor market
+  - macroeconomic resilience
+  - fiscal sustainability
+  - sovereign risk
+  - structural reforms
+  - France
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:23:34Z
+status: stable
 ---
 
 # labor market resilience

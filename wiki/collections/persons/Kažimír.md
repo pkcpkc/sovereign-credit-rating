@@ -3,13 +3,16 @@ role: Governor
 organization: National Bank of Slovakia
 countries_covered:
   - Slovakia
-timestamp: 2026-07-05T11:29:03Z
 tags:
   - Central Banking
   - Monetary Policy
   - Slovakia
   - IMF Article IV
   - Euro Area
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:29:03Z
+status: stable
 ---
 
 # Kažimír

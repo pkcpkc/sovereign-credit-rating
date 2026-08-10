@@ -3,13 +3,16 @@ role: President
 organization: Constitutional Tribunal
 countries_covered:
   - Poland
-timestamp: 2026-07-05T11:20:59Z
 tags:
   - Judicial Independence
   - Rule of Law
   - Poland
   - Sovereign Risk
   - Constitutional Crisis
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:20:59Z
+status: stable
 ---
 
 # Bogdan Święczkowski

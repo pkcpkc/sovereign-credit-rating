@@ -3,13 +3,16 @@ role: Minister for Transport, Infrastructure, and Capital Projects
 organization: Government of Malta
 countries_covered:
   - Malta
-timestamp: 2026-07-05T15:49:59Z
 tags:
   - Malta
   - Government Official
   - Fiscal Policy
   - Infrastructure
   - IMF Article IV
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:49:59Z
+status: stable
 ---
 
 # Chris Bonett

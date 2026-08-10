@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:15:00Z
 tags:
   - Romania
   - Rule of Law
   - Open Government
   - Civil Society
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:15:00Z
+status: stable
 ---
 # Adoption of Strategy for Open Government in Romania 2025-2030
 

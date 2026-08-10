@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:02:03Z
-tags: [European Semester, Country-Specific Recommendations, Fiscal Policy, Economic Growth, Demographics, Skills Gap, Energy Transition]
+tags:
+  - European Semester
+  - Country-Specific Recommendations
+  - Fiscal Policy
+  - Economic Growth
+  - Demographics
+  - Skills Gap
+  - Energy Transition
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:02:03Z
+status: stable
 ---
 # Publication of 2025 Country Report - Austria
 

@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:10:53Z
-tags: [ Hungary, Judicial Reform, Fundamental Law, Constitutional Change, Judicial Independence ]
+tags:
+  - Hungary
+  - Judicial Reform
+  - Fundamental Law
+  - Constitutional Change
+  - Judicial Independence
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:53Z
+status: stable
 ---
 # Adoption of Fourteenth Amendment to Fundamental Law raising judicial age limits
 

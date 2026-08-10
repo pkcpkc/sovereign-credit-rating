@@ -3,12 +3,15 @@ role: Minister for the Economy, Finance, and Industrial and Digital Sovereignty
 organization: French Government
 countries_covered:
   - France
-timestamp: 2026-07-05T11:24:09Z
 tags:
   - Finance
   - Sovereign Credit
   - Fiscal Policy
   - IMF Article IV
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:24:09Z
+status: stable
 ---
 
 # François Lombard

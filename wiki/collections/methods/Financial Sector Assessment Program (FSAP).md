@@ -1,13 +1,16 @@
 ---
 agency: International Monetary Fund (IMF)
 last_updated: 2025
-timestamp: 2026-07-05T15:40:20Z
 tags:
   - Financial Stability
   - FSAP
   - IMF
   - Macroeconomic Assessment
   - Supervision
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:40:20Z
+status: stable
 ---
 
 # Financial Sector Assessment Program (FSAP)

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:22:37Z
 tags:
   - Malta
   - EU Pillar II
@@ -7,6 +6,10 @@ tags:
   - International Monetary Fund
   - Fiscal Policy
   - Deadline
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:22:37Z
+status: stable
 ---
 # Deadline for Implementation of EU Pillar II Minimum Tax Directive
 

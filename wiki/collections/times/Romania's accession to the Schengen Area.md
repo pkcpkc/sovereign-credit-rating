@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:07:20Z
-tags: [ Romania, European Union, Schengen Area, Geopolitics, Trade ]
+tags:
+  - Romania
+  - European Union
+  - Schengen Area
+  - Geopolitics
+  - Trade
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:07:20Z
+status: stable
 ---
 # Romania's accession to the Schengen Area
 

@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:08:48Z
-tags: [ "Rule of Law", "Austria", "European Union", "Governance", "Transparency", "Public Administration", "Freedom of Information" ]
+tags:
+  - Rule of Law
+  - Austria
+  - European Union
+  - Governance
+  - Transparency
+  - Public Administration
+  - Freedom of Information
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:08:48Z
+status: stable
 ---
 # Expected entry into force of Freedom of Information Act
 

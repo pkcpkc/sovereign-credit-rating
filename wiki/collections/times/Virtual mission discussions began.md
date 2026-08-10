@@ -1,6 +1,13 @@
 ---
-timestamp: 2026-07-05T16:25:07Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [ "Slovakia", "IMF", "Article IV Consultation", "Fiscal Policy" ] # Array | Optional | Categorization tags.
+tags:
+  - Slovakia
+  - IMF
+  - Article IV Consultation
+  - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:25:07Z
+status: stable
 ---
 # Virtual mission discussions began
 

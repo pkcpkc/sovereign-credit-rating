@@ -3,12 +3,15 @@ role: Executive Director
 organization: IMF
 countries_covered:
   - France
-timestamp: 2026-07-05T15:47:18Z
 tags:
   - IMF
   - Sovereign Credit Rating
   - Article IV Consultation
   - Economic Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:47:18Z
+status: stable
 ---
 
 # Arnaud Buissé

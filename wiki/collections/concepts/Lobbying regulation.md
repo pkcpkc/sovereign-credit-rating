@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:36:11Z
-tags: [ "Rule of Law", "Governance", "Anti-Corruption", "Italy", "Political Financing", "Transparency" ]
+tags:
+  - Rule of Law
+  - Governance
+  - Anti-Corruption
+  - Italy
+  - Political Financing
+  - Transparency
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:36:11Z
+status: stable
 ---
 
 # Lobbying regulation

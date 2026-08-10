@@ -3,13 +3,16 @@ role: Executive Director
 organization: IMF
 countries_covered:
   - Poland
-timestamp: 2026-07-05T15:50:44Z
 tags:
   - IMF
   - Executive Board
   - Sovereign Surveillance
   - Poland
   - Macroeconomic Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:50:44Z
+status: stable
 ---
 
 # Patryk Łoszewski

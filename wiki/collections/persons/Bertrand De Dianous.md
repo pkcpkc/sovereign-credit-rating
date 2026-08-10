@@ -2,11 +2,14 @@
 role: Criteria Contact
 organization: S&P Global Ratings
 countries_covered: []
-timestamp: 2026-07-05T15:44:48Z
 tags:
   - Sovereign Credit Rating
   - S&P Global Ratings
   - Rating Methodology
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:44:48Z
+status: stable
 ---
 
 # Bertrand De Dianous

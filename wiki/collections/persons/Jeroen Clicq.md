@@ -3,12 +3,15 @@ role: Executive Director
 organization: IMF
 countries_covered:
   - Belgium
-timestamp: 2026-07-05T15:46:57Z
 tags:
   - IMF
   - Executive Board
   - Sovereign Risk
   - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:46:57Z
+status: stable
 ---
 
 # Jeroen Clicq

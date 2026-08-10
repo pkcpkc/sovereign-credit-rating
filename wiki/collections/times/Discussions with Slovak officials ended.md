@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:24:58Z
-tags: [Slovakia, IMF, Article IV Consultation, Fiscal Consolidation, Economic Policy]
+tags:
+  - Slovakia
+  - IMF
+  - Article IV Consultation
+  - Fiscal Consolidation
+  - Economic Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:24:58Z
+status: stable
 ---
 # Discussions with Slovak officials ended
 

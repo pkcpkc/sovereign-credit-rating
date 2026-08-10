@@ -2,8 +2,14 @@
 role: Analytical Contact
 organization: S&P Global Ratings
 countries_covered: []
-timestamp: 2026-07-05T15:44:32Z
-tags: [Sovereign Credit Rating, Rating Methodology, S&P Global Ratings]
+tags:
+  - Sovereign Credit Rating
+  - Rating Methodology
+  - S&P Global Ratings
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:44:32Z
+status: stable
 ---
 
 # Moritz Kraemer

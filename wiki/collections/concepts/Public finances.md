@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:15:44Z
 tags:
   - Sovereign Ratings
   - Credit Rating Methodology
@@ -7,6 +6,10 @@ tags:
   - Fiscal Policy
   - Debt Sustainability
   - Macroeconomics
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:15:44Z
+status: stable
 ---
 
 # Public finances

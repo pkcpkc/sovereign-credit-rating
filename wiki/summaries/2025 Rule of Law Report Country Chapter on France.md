@@ -12,8 +12,8 @@ tags:
 assets:
   - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law
     Report France.md
-  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law Report
-    France.md
+  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+    Report France.md
 concepts:
   - Institutional strength
   - Policy credibility
@@ -216,7 +216,19 @@ times:
     title: Increase in pending ECHR leading judgments to 26
   - date: 2025-06-16
     title: Pending ECHR leading judgments decrease to 22
-timestamp: 2026-07-05T11:18:52Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:18:52Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Rule of Law Report France.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of
+      Law Report France.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Rule of Law Report France.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+      Report France.md
 ---
 # Summary of: 2025 Rule of Law Report: Country Chapter on France
 

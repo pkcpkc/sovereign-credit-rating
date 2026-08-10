@@ -1,7 +1,6 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:24:54Z
 tags:
   - EU Economic Governance
   - Fiscal Policy
@@ -9,6 +8,10 @@ tags:
   - Defence Spending
   - Regulatory Framework
   - Excessive Deficit Procedure
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:24:54Z
+status: stable
 ---
 
 # National Escape Clause

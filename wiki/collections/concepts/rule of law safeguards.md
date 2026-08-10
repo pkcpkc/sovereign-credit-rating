@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T13:08:11Z
-tags: [Rule of Law, Sovereign Credit Rating, Institutional Risk, Judicial Independence, Anti-Corruption, Slovakia, European Union]
+tags:
+  - Rule of Law
+  - Sovereign Credit Rating
+  - Institutional Risk
+  - Judicial Independence
+  - Anti-Corruption
+  - Slovakia
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:08:11Z
+status: stable
 ---
 
 # rule of law safeguards

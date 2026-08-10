@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:09:04Z
-tags: [Rule of Law, Justice System, Anti-Corruption, Media Freedom, Institutional Checks, Belgium, European Union]
+tags:
+  - Rule of Law
+  - Justice System
+  - Anti-Corruption
+  - Media Freedom
+  - Institutional Checks
+  - Belgium
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:09:04Z
+status: stable
 ---
 # Publication of the 2025 Rule of Law Report Country Chapter on Belgium
 

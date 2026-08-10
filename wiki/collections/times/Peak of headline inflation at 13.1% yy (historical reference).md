@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:17:01Z
 tags:
   - Inflation
   - Belgium
   - Economic History
   - IMF
   - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:17:01Z
+status: stable
 ---
 # Peak of headline inflation at 13.1% y/y (historical reference)
 

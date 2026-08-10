@@ -2,11 +2,14 @@
 role: Analyst
 organization: Fitch Ratings
 countries_covered: []
-timestamp: 2026-07-05T15:51:56Z
 tags:
   - Fitch Ratings
   - Sovereign Ratings
   - Credit Analyst
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:51:56Z
+status: stable
 ---
 
 # Carlos Masip

@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:17:48Z
-tags: [IMF, Belgium, Article IV Consultation, Fiscal Policy, Economic Report]
+tags:
+  - IMF
+  - Belgium
+  - Article IV Consultation
+  - Fiscal Policy
+  - Economic Report
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:17:48Z
+status: stable
 ---
 # Release of Press Release and Staff Report
 

@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T11:39:00Z
-tags: [Fiscal Policy, Macroeconomic Assessment, Sovereign Risk, France, EU Economic Governance]
+tags:
+  - Fiscal Policy
+  - Macroeconomic Assessment
+  - Sovereign Risk
+  - France
+  - EU Economic Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:39:00Z
+status: stable
 ---
 
 # public expenditure

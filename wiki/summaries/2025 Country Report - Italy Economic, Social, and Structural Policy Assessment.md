@@ -10,8 +10,8 @@ tags:
   - Structural Reforms
   - Macroeconomic Imbalance
 assets:
-  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country Report
-    Italy.md
+  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+    Report Italy.md
   - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country Report
     Italy.md
 concepts:
@@ -241,7 +241,19 @@ times:
     title: "Fiscal outturn: Deficit 3.4% of GDP, Primary Surplus 0.4% of GDP"
   - date: "2024"
     title: Real GDP Growth 0.7%
-timestamp: 2026-07-05T11:13:30Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:13:30Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Country Report Italy.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+      Report Italy.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Country Report Italy.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country
+      Report Italy.md
 ---
 # Summary of: 2025 Country Report - Italy: Economic, Social, and Structural Policy Assessment
 

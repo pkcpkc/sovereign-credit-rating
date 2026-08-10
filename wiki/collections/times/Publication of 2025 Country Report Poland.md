@@ -1,6 +1,17 @@
 ---
-timestamp: 2026-07-05T16:06:13Z
-tags: [EU, Poland, Fiscal Policy, Economic Growth, Energy Transition, Labor Market, Education, Social Fairness]
+tags:
+  - EU
+  - Poland
+  - Fiscal Policy
+  - Economic Growth
+  - Energy Transition
+  - Labor Market
+  - Education
+  - Social Fairness
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:06:13Z
+status: stable
 ---
 # Publication of 2025 Country Report: Poland
 

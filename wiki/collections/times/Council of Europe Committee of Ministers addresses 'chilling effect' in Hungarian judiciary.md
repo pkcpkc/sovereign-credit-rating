@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:11:03Z
 tags:
   - Rule of Law
   - Hungary
@@ -7,6 +6,10 @@ tags:
   - Judicial Independence
   - Council of Europe
   - Human Rights
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:11:03Z
+status: stable
 ---
 # Council of Europe Committee of Ministers addresses 'chilling effect' in Hungarian judiciary
 

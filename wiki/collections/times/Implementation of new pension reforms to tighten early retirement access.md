@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:02:29Z
-tags: [Pension Reform, Austria, Fiscal Policy, European Semester, Demographics]
+tags:
+  - Pension Reform
+  - Austria
+  - Fiscal Policy
+  - European Semester
+  - Demographics
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:02:29Z
+status: stable
 ---
 # Implementation of new pension reforms to tighten early retirement access
 

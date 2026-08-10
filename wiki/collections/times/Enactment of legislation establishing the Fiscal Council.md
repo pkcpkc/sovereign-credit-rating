@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:06:23Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [ Poland, Fiscal Policy, EU, Institutions, Economic Governance ] # Array | Optional | Categorization tags.
+tags:
+  - Poland
+  - Fiscal Policy
+  - EU
+  - Institutions
+  - Economic Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:06:23Z
+status: stable
 ---
 # Enactment of legislation establishing the Fiscal Council
 

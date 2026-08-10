@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:12:26Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [Italy, Rule of Law, Anti-Corruption, Constitutional Court, Justice System] # Array | Optional | Categorization tags.
+tags:
+  - Italy
+  - Rule of Law
+  - Anti-Corruption
+  - Constitutional Court
+  - Justice System
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:26Z
+status: stable
 ---
 # Law abrogating the offence of abuse of public office entered into force
 

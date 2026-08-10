@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:08:22Z
 tags:
   - Energy Transition
   - EU Economic Governance
   - Slovakia
   - Climate Policy
   - Structural Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:08:22Z
+status: stable
 ---
 # Deadline for submission of Slovakia's National Social Climate Plan.
 

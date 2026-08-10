@@ -1,13 +1,16 @@
 ---
 agency: International Monetary Fund
 last_updated: 2025
-timestamp: 2026-07-05T15:38:26Z
 tags:
   - Sovereign Risk
   - Debt Sustainability
   - IMF
   - Macroeconomic Policy
   - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:38:26Z
+status: stable
 ---
 
 # IMF Sovereign Risk and Debt Sustainability Framework

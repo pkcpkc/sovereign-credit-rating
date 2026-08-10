@@ -1,8 +1,16 @@
 ---
 agency: Fitch Ratings
 last_updated: Sept 2025
-timestamp: 2026-07-05T15:43:34Z
-tags: [Sovereign Ratings, Credit Rating Methodology, External Finances, Liquidity Risk, Fitch Ratings]
+tags:
+  - Sovereign Ratings
+  - Credit Rating Methodology
+  - External Finances
+  - Liquidity Risk
+  - Fitch Ratings
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:43:34Z
+status: stable
 ---
 
 # International Liquidity Ratio (ILR)

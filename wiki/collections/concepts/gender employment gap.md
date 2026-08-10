@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T11:58:06Z
 tags:
   - Labour Market
   - Macroeconomic Analysis
   - Social Inequality
   - Sovereign Credit
   - Malta
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:58:06Z
+status: stable
 ---
 
 # gender employment gap

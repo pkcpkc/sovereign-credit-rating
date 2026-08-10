@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T11:56:26Z
-tags: [Macroeconomic Analysis, Sovereign Credit, Innovation Policy, EU Policy, Structural Reform]
+tags:
+  - Macroeconomic Analysis
+  - Sovereign Credit
+  - Innovation Policy
+  - EU Policy
+  - Structural Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:56:26Z
+status: stable
 ---
 
 # research and innovation investment

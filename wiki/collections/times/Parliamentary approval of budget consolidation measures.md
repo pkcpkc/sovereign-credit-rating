@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:02:22Z
-tags: [Fiscal Policy, Austria, European Semester, Budget Consolidation, Economic Policy]
+tags:
+  - Fiscal Policy
+  - Austria
+  - European Semester
+  - Budget Consolidation
+  - Economic Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:02:22Z
+status: stable
 ---
 # Parliamentary approval of budget consolidation measures
 

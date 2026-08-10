@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T14:26:53Z
-tags: [ Sovereign Credit Rating, Methodology, Critical Analysis, S&P Global Ratings, Financial Economics, Analyst Discretion ]
+tags:
+  - Sovereign Credit Rating
+  - Methodology
+  - Critical Analysis
+  - S&P Global Ratings
+  - Financial Economics
+  - Analyst Discretion
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:26:53Z
+status: stable
 ---
 
 # Replicability of ratings

@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:12:42Z
-tags: [Rule of Law, Malta, Constitutional Reform, Justice Sector, Judicial Independence, European Union]
+tags:
+  - Rule of Law
+  - Malta
+  - Constitutional Reform
+  - Justice Sector
+  - Judicial Independence
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:42Z
+status: stable
 ---
 # Government tables comprehensive constitutional reform concerning the justice sector
 

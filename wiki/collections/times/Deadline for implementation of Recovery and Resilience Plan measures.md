@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:05:52Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [European Union, Fiscal Policy, Recovery and Resilience Facility, Malta, Structural Reform] # Array | Optional | Categorization tags.
+tags:
+  - European Union
+  - Fiscal Policy
+  - Recovery and Resilience Facility
+  - Malta
+  - Structural Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:05:52Z
+status: stable
 ---
 # Deadline for implementation of Recovery and Resilience Plan measures
 

@@ -3,7 +3,6 @@ role: IMF Staff
 organization: IMF
 countries_covered:
   - Austria
-timestamp: 2026-07-05T11:22:39Z
 tags:
   - Sovereign Credit Risk
   - Macroeconomic Stability
@@ -12,6 +11,10 @@ tags:
   - Structural Reform
   - Austria
   - Euro Area
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:22:39Z
+status: stable
 ---
 
 # Mr. Saiyid

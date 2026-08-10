@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:01:40Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [ Sovereign Credit Rating, Rating Methodology, Financial Risk Analysis, Macroeconomic Assessment, S&P Global Ratings ]
+tags:
+  - Sovereign Credit Rating
+  - Rating Methodology
+  - Financial Risk Analysis
+  - Macroeconomic Assessment
+  - S&P Global Ratings
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:01:40Z
+status: stable
 ---
 # Original publication and effective date of S&P Sovereign Rating Methodology
 

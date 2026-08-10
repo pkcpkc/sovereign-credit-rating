@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T14:26:34Z
-tags: [Sovereign Credit Rating, Monetary Policy, Macroeconomics, S&P Methodology, Financial Stability]
+tags:
+  - Sovereign Credit Rating
+  - Monetary Policy
+  - Macroeconomics
+  - S&P Methodology
+  - Financial Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:26:34Z
+status: stable
 ---
 
 # Exchange rate regime

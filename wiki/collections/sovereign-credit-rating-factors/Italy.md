@@ -1,6 +1,22 @@
 ---
-timestamp: 2026-07-05T15:59:30Z
-tags: [ Sovereign Credit Rating, Italy, European Semester, Fiscal Sustainability, Structural Reforms, Rule of Law, Justice System, Anti-Corruption, Media Freedom, IMF Article IV, Financial Stability, Demographics, Productivity ]
+tags:
+  - Sovereign Credit Rating
+  - Italy
+  - European Semester
+  - Fiscal Sustainability
+  - Structural Reforms
+  - Rule of Law
+  - Justice System
+  - Anti-Corruption
+  - Media Freedom
+  - IMF Article IV
+  - Financial Stability
+  - Demographics
+  - Productivity
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:59:30Z
+status: stable
 ---
 
 # Italy

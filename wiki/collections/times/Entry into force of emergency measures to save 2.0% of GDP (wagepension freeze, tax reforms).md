@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:07:14Z
-tags: [Romania, Fiscal Policy, Emergency Measures, Public Finance, European Union]
+tags:
+  - Romania
+  - Fiscal Policy
+  - Emergency Measures
+  - Public Finance
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:07:14Z
+status: stable
 ---
 # Entry into force of emergency measures to save 2.0% of GDP (wage/pension freeze, tax reforms)
 

@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T11:48:03Z
-tags: [ Social Policy, Sovereign Risk, Fiscal Sustainability, Macroeconomic Stability, EU Governance ]
+tags:
+  - Social Policy
+  - Sovereign Risk
+  - Fiscal Sustainability
+  - Macroeconomic Stability
+  - EU Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:48:03Z
+status: stable
 ---
 
 # social exclusion

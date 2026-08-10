@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:19:56Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: ["Hungary", "Politics", "Elections", "Economic Risk", "IMF"]
+tags:
+  - Hungary
+  - Politics
+  - Elections
+  - Economic Risk
+  - IMF
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:19:56Z
+status: stable
 ---
 # Expected year for national elections in Hungary
 

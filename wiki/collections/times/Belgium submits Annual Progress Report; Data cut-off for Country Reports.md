@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:03:02Z
-tags: [Belgium, EU Economic Governance, Fiscal Policy, European Semester, Sovereign Debt, Macroprudential]
+tags:
+  - Belgium
+  - EU Economic Governance
+  - Fiscal Policy
+  - European Semester
+  - Sovereign Debt
+  - Macroprudential
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:03:02Z
+status: stable
 ---
 # Belgium submits Annual Progress Report; Data cut-off for Country Reports
 

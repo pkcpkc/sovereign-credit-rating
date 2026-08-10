@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:03:10Z
-tags: [ Belgium, Fiscal Policy, Defence Spending, EU Economic Governance, National Escape Clause ]
+tags:
+  - Belgium
+  - Fiscal Policy
+  - Defence Spending
+  - EU Economic Governance
+  - National Escape Clause
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:03:10Z
+status: stable
 ---
 # Belgium requests activation of National Escape Clause for defence spending
 

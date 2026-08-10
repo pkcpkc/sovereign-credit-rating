@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:10:15Z
-tags: [Rule of Law, France, Judicial Independence, European Union, Superior Council of the Magistracy]
+tags:
+  - Rule of Law
+  - France
+  - Judicial Independence
+  - European Union
+  - Superior Council of the Magistracy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:15Z
+status: stable
 ---
 # Superior Council of the Magistracy reiterates concerns on attacks against magistrates
 

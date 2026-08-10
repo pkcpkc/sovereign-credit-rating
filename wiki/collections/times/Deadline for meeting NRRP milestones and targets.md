@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:21:23Z
 tags:
   - NRRP
   - Italy
   - Fiscal Policy
   - Structural Reforms
   - EU Recovery Plan
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:21:23Z
+status: stable
 ---
 # Deadline for meeting NRRP milestones and targets
 

@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:05:18Z
-tags: [Fiscal Policy, Italy, Economic Indicators, Primary Surplus, Public Debt, European Semester]
+tags:
+  - Fiscal Policy
+  - Italy
+  - Economic Indicators
+  - Primary Surplus
+  - Public Debt
+  - European Semester
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:05:18Z
+status: stable
 ---
 # Fiscal outturn: Deficit 3.4% of GDP, Primary Surplus 0.4% of GDP
 

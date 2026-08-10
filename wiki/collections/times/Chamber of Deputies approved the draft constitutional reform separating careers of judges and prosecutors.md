@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:12:06Z
 tags:
   - Italy
   - Justice System
@@ -7,6 +6,10 @@ tags:
   - Judicial Independence
   - Rule of Law
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:06Z
+status: stable
 ---
 # Chamber of Deputies approved the draft constitutional reform separating careers of judges and prosecutors
 

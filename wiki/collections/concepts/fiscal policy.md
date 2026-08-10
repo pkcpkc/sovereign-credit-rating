@@ -1,6 +1,28 @@
 ---
-timestamp: 2026-07-05T14:01:49Z
-tags: [macroeconomics, sovereign debt, european union, fiscal sustainability, public finance, rule of law, institutional strength, IMF Article IV, Hungary, Italy, Slovakia, monetary policy interaction, structural reforms, financial stability, demographic sustainability, contingent liabilities, automotive sector dependency, governance reform, Excessive Deficit Procedure]
+tags:
+  - macroeconomics
+  - sovereign debt
+  - european union
+  - fiscal sustainability
+  - public finance
+  - rule of law
+  - institutional strength
+  - IMF Article IV
+  - Hungary
+  - Italy
+  - Slovakia
+  - monetary policy interaction
+  - structural reforms
+  - financial stability
+  - demographic sustainability
+  - contingent liabilities
+  - automotive sector dependency
+  - governance reform
+  - Excessive Deficit Procedure
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:01:49Z
+status: stable
 ---
 
 # fiscal policy

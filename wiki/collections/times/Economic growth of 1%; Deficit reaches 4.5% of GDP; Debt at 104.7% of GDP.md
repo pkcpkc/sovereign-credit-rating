@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:03:28Z
 tags:
   - Belgium
   - Economic Growth
@@ -7,6 +6,10 @@ tags:
   - Public Debt
   - EU Economic Governance
   - 2025 Country Report
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:03:28Z
+status: stable
 ---
 # Economic growth of 1%; Deficit reaches 4.5% of GDP; Debt at 104.7% of GDP
 

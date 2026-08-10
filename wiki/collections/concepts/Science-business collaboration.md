@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:01:09Z
-tags: [ Poland, Competitiveness, Innovation, Labor Market, Economic Growth, Structural Reform ]
+tags:
+  - Poland
+  - Competitiveness
+  - Innovation
+  - Labor Market
+  - Economic Growth
+  - Structural Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:01:09Z
+status: stable
 ---
 
 # Science-business collaboration

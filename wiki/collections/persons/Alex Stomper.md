@@ -2,11 +2,14 @@
 role: Lecturer / Author
 organization: HU Berlin
 countries_covered: []
-timestamp: 2026-07-05T11:29:46Z
 tags:
   - Sovereign Credit Rating
   - Financial Economics
   - Academic
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:29:46Z
+status: stable
 ---
 
 # Alex Stomper

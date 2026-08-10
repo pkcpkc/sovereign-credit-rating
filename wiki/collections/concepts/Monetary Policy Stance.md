@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:57:41Z
 tags:
   - monetary policy
   - macroeconomic policy
@@ -7,6 +6,10 @@ tags:
   - sovereign credit risk
   - financial stability
   - central bank independence
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:57:41Z
+status: stable
 ---
 
 # monetary policy stance

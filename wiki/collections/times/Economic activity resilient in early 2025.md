@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:20:55Z
-tags: [ IMF Article IV, Italy, Macroeconomic Resilience, Fiscal Policy, NRRP ]
+tags:
+  - IMF Article IV
+  - Italy
+  - Macroeconomic Resilience
+  - Fiscal Policy
+  - NRRP
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:20:55Z
+status: stable
 ---
 # Economic activity resilient in early 2025
 

@@ -9,8 +9,8 @@ tags:
   - Structural Reform
   - Energy Transition
 assets:
-  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country Report
-    Slovakia.md
+  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+    Report Slovakia.md
   - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country Report
     Slovakia.md
 concepts:
@@ -238,7 +238,19 @@ times:
     title: Deadline for submission of Slovakia's National Social Climate Plan.
   - date: 2026-08-31
     title: Deadline for full implementation of the Recovery and Resilience Plan (RRP).
-timestamp: 2026-07-05T11:17:17Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:17:17Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Country Report Slovakia.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+      Report Slovakia.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Country Report Slovakia.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country
+      Report Slovakia.md
 ---
 # Summary of: 2025 Country Report - Slovakia
 

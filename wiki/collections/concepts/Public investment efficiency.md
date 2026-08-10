@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:18:40Z
 tags:
   - Fiscal Policy
   - Public Finance
@@ -10,6 +9,10 @@ tags:
   - Belgium
   - Debt Sustainability
   - Labor Productivity
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:18:40Z
+status: stable
 ---
 
 # Public investment efficiency

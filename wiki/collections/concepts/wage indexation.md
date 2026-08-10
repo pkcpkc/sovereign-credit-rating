@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T11:23:26Z
-tags: [Macroeconomics, Labor Market, Fiscal Policy, Belgium, IMF, Sovereign Risk]
+tags:
+  - Macroeconomics
+  - Labor Market
+  - Fiscal Policy
+  - Belgium
+  - IMF
+  - Sovereign Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:23:26Z
+status: stable
 ---
 
 # wage indexation

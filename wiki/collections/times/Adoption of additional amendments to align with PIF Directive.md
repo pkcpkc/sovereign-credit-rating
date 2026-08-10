@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:15:51Z
 tags:
   - Rule of Law
   - Slovakia
@@ -8,6 +7,10 @@ tags:
   - Criminal Law
   - PIF Directive
   - Anti-Corruption
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:15:51Z
+status: stable
 ---
 # Adoption of additional amendments to align with PIF Directive
 

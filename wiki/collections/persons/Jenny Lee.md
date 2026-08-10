@@ -3,12 +3,15 @@ role: IMF Staff Member
 organization: IMF
 countries_covered:
   - Italy
-timestamp: 2026-07-05T15:49:20Z
 tags:
   - IMF
   - Sovereign Risk
   - Article IV Consultation
   - Italy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:49:20Z
+status: stable
 ---
 
 # Jenny Lee

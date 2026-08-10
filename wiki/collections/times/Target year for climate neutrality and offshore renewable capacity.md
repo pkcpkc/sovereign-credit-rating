@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:06:04Z
 tags:
   - Climate Policy
   - Renewable Energy
   - Malta
   - European Union
   - Energy Transition
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:06:04Z
+status: stable
 ---
 # Target year for climate neutrality and offshore renewable capacity
 

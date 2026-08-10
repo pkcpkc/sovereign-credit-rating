@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:11:16Z
 tags:
   - Hungary
   - Rule of Law
@@ -8,6 +7,10 @@ tags:
   - European Union
   - Judicial Reform
   - Prosecutorial Independence
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:11:16Z
+status: stable
 ---
 # Venice Commission opinion on judicial and prosecutorial amendments
 

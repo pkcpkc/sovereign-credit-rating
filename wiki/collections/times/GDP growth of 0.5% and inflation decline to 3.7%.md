@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:04:31Z
 tags:
   - Hungary
   - Economic Indicators
@@ -7,6 +6,10 @@ tags:
   - Inflation
   - European Union
   - Macroeconomic Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:04:31Z
+status: stable
 ---
 # GDP growth of 0.5% and inflation decline to 3.7%
 

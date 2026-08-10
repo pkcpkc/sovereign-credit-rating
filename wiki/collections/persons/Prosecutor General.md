@@ -3,13 +3,16 @@ role: Prosecutor General
 organization: National Prosecution Service
 countries_covered:
   - Poland
-timestamp: 2026-07-05T11:20:59Z
 tags:
   - Rule of Law
   - Judicial Independence
   - Anti-Corruption
   - Poland
   - Sovereign Credit Rating
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:20:59Z
+status: stable
 ---
 
 # Prosecutor General

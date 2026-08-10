@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:14:52Z
 tags:
   - Sovereign Ratings
   - Fitch Ratings
@@ -7,6 +6,10 @@ tags:
   - Structural Analysis
   - Governance
   - Economic Development
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:14:52Z
+status: stable
 ---
 
 # Structural features

@@ -3,12 +3,15 @@ role: Journalist
 organization: The Daphne Caruana Galizia Foundation
 countries_covered:
   - Malta
-timestamp: 2026-07-05T11:20:26Z
 tags:
   - Media Freedom
   - Anti-Corruption
   - Rule of Law
   - Malta
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:20:26Z
+status: stable
 ---
 
 # Daphne Caruana Galizia

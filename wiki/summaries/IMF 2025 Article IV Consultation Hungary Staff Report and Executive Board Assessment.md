@@ -278,7 +278,17 @@ times:
     title: Expected year for national elections in Hungary
   - date: "2027"
     title: Target year for inflation to return to 3% and deficit below 3%
-timestamp: 2026-07-05T11:25:01Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:25:01Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/IMF (2025) Hungary
+      Country Report.md
+    title: wiki/assets/20260705-000000/processed/IMF (2025) Hungary Country Report.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/IMF (2025) Hungary Country
+      Report.md
+    title: wiki/assets/20260705-000000/sources/IMF (2025) Hungary Country Report.md
 ---
 # Summary of: IMF 2025 Article IV Consultation: Hungary Staff Report and Executive Board Assessment
 

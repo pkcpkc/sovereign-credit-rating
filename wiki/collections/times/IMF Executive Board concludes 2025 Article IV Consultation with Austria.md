@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:16:13Z
-tags: [Sovereign Credit Risk, Macroeconomic Stability, Fiscal Policy, Financial Stability, Structural Reform, Austria, Euro Area]
+tags:
+  - Sovereign Credit Risk
+  - Macroeconomic Stability
+  - Fiscal Policy
+  - Financial Stability
+  - Structural Reform
+  - Austria
+  - Euro Area
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:16:13Z
+status: stable
 ---
 # IMF Executive Board concludes 2025 Article IV Consultation with Austria
 

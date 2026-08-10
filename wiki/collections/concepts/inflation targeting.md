@@ -1,6 +1,18 @@
 ---
-timestamp: 2026-07-05T11:55:37Z
-tags: [ Monetary Policy, Macroeconomics, Eurozone, ECB, Sovereign Credit, Price Stability, Poland, NBP, Inflation Expectations ]
+tags:
+  - Monetary Policy
+  - Macroeconomics
+  - Eurozone
+  - ECB
+  - Sovereign Credit
+  - Price Stability
+  - Poland
+  - NBP
+  - Inflation Expectations
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:55:37Z
+status: stable
 ---
 
 # inflation targeting

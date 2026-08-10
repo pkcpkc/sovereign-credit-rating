@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T11:37:28Z
 tags:
   - Sovereign Risk
   - Fiscal Policy
@@ -7,6 +6,10 @@ tags:
   - Belgium
   - Federalism
   - Budgetary Coordination
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:37:28Z
+status: stable
 ---
 
 # institutional fragmentation

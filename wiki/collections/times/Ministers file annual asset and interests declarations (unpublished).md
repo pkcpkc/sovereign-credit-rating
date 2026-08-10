@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:12:59Z
 tags:
   - Malta
   - Rule of Law
   - Anti-Corruption
   - Transparency
   - Institutional Accountability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:59Z
+status: stable
 ---
 # Ministers file annual asset and interests declarations (unpublished)
 

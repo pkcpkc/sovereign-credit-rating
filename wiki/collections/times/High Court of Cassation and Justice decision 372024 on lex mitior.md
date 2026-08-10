@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:15:04Z
 tags:
   - Romania
   - Justice System
@@ -9,6 +8,10 @@ tags:
   - Statute of Limitations
   - European Union Law
   - Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:15:04Z
+status: stable
 ---
 # High Court of Cassation and Justice decision 37/2024 on lex mitior
 

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:13:30Z
 tags:
   - Malta
   - Rule of Law
@@ -7,6 +6,10 @@ tags:
   - Legal Reform
   - Strategic Lawsuits
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:13:30Z
+status: stable
 ---
 # Enactment of Strategic Lawsuits Against Public Participation Order
 

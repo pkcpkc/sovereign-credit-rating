@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T11:46:40Z
-tags: [Fiscal Policy, Macroeconomics, Sovereign Risk, EU Governance, Hungary]
+tags:
+  - Fiscal Policy
+  - Macroeconomics
+  - Sovereign Risk
+  - EU Governance
+  - Hungary
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:46:40Z
+status: stable
 ---
 
 # government deficit

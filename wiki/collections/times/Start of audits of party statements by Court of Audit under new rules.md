@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:09:00Z
 tags:
   - Austria
   - Rule of Law
@@ -7,6 +6,10 @@ tags:
   - Political Finance
   - Court of Audit
   - Accountability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:09:00Z
+status: stable
 ---
 # Start of audits of party statements by Court of Audit under new rules
 

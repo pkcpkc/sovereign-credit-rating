@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T13:14:02Z
-tags: [ Macroeconomic Stability, Euro Area, Monetary Policy, Sovereign Credit Risk, Fiscal Policy ]
+tags:
+  - Macroeconomic Stability
+  - Euro Area
+  - Monetary Policy
+  - Sovereign Credit Risk
+  - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:14:02Z
+status: stable
 ---
 
 # inflation convergence

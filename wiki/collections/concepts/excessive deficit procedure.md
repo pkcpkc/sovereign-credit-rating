@@ -1,6 +1,18 @@
 ---
-timestamp: 2026-07-05T11:58:52Z
-tags: [European Semester, Fiscal Policy, EU Economic Governance, Sovereign Risk, France, Malta, Poland, Stability and Growth Pact, Excessive Deficit Procedure]
+tags:
+  - European Semester
+  - Fiscal Policy
+  - EU Economic Governance
+  - Sovereign Risk
+  - France
+  - Malta
+  - Poland
+  - Stability and Growth Pact
+  - Excessive Deficit Procedure
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:58:52Z
+status: stable
 ---
 
 # Excessive deficit procedure

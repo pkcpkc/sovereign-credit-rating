@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:21:17Z
 tags:
   - Italy
   - Financial Stability
   - IMF Article IV
   - Banking Sector
   - Systemic Risk Buffer
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:21:17Z
+status: stable
 ---
 # Deadline for full implementation of Systemic Risk Buffer
 

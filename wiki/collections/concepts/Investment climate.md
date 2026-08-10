@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:06:51Z
 tags:
   - Investment Climate
   - Sovereign Credit Rating
@@ -7,6 +6,10 @@ tags:
   - Structural Reform
   - Romania
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:06:51Z
+status: stable
 ---
 
 # Investment climate

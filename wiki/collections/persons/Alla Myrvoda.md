@@ -3,13 +3,16 @@ role: Mission Member
 organization: IMF
 countries_covered:
   - Poland
-timestamp: 2026-07-05T15:51:00Z
 tags:
   - IMF
   - Article IV Consultation
   - Poland
   - Sovereign Analysis
   - Macroeconomic Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:51:00Z
+status: stable
 ---
 
 # Alla Myrvoda

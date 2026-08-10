@@ -1,8 +1,16 @@
 ---
 agency: International Monetary Fund (IMF)
 last_updated: 2025
-timestamp: 2026-07-05T15:38:14Z
-tags: [Financial Sector Assessment, IMF Article IV, Banking Supervision, Macroeconomic Stability, Hungary Economy]
+tags:
+  - Financial Sector Assessment
+  - IMF Article IV
+  - Banking Supervision
+  - Macroeconomic Stability
+  - Hungary Economy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:38:14Z
+status: stable
 ---
 
 # Financial Soundness Indicators

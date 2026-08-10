@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:10:07Z
-tags: [Belgium, Justice System, Judicial Efficiency, Rule of Law, European Union, Backlog Reduction]
+tags:
+  - Belgium
+  - Justice System
+  - Judicial Efficiency
+  - Rule of Law
+  - European Union
+  - Backlog Reduction
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:07Z
+status: stable
 ---
 # Act adopted on amicable settlements of cases to reduce backlogs
 

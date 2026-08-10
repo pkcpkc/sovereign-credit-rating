@@ -1,6 +1,18 @@
 ---
-timestamp: 2026-07-05T13:23:17Z
-tags: [macroprudential policy, financial stability, Belgium, France, IMF, sovereign credit rating, systemic risk, HCSF, Banque de France]
+tags:
+  - macroprudential policy
+  - financial stability
+  - Belgium
+  - France
+  - IMF
+  - sovereign credit rating
+  - systemic risk
+  - HCSF
+  - Banque de France
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:23:17Z
+status: stable
 ---
 
 # macroprudential policy

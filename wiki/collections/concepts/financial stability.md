@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T13:23:02Z
-tags: [financial stability, sovereign credit, macroprudential policy, banking sector, IMF, France]
+tags:
+  - financial stability
+  - sovereign credit
+  - macroprudential policy
+  - banking sector
+  - IMF
+  - France
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:23:02Z
+status: stable
 ---
 
 # financial stability

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:07:28Z
 tags:
   - Romania
   - European Union
@@ -8,6 +7,10 @@ tags:
   - GDP Growth
   - Budget Deficit
   - EU Commission
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:07:28Z
+status: stable
 ---
 # Projected GDP growth of 1.4%; Target budget deficit of 7% of GDP
 

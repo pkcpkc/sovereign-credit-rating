@@ -2,12 +2,15 @@
 role: Department Head
 organization: IMF (SPR)
 countries_covered: []
-timestamp: 2026-07-05T11:29:03Z
 tags:
   - IMF
   - Sovereign Analysis
   - Fiscal Policy
   - Euro Area
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:29:03Z
+status: stable
 ---
 
 # Stefania Fabrizio

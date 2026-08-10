@@ -1,8 +1,16 @@
 ---
 agency: International Monetary Fund (IMF)
 last_updated: 2024
-timestamp: 2026-07-05T15:41:25Z
-tags: [Financial Stability, IMF, Macroprudential, Stress Testing, Banking Sector]
+tags:
+  - Financial Stability
+  - IMF
+  - Macroprudential
+  - Stress Testing
+  - Banking Sector
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:41:25Z
+status: stable
 ---
 
 # Financial Stability Assessment Program (FSAP)

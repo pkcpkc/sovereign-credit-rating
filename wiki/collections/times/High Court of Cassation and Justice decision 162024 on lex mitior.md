@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:15:12Z
 tags:
   - Romania
   - High Court of Cassation and Justice
@@ -7,6 +6,10 @@ tags:
   - Statute of Limitations
   - Anti-Corruption
   - European Union Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:15:12Z
+status: stable
 ---
 # High Court of Cassation and Justice decision 16/2024 on lex mitior
 

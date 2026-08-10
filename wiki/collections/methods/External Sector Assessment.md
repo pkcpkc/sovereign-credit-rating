@@ -1,8 +1,16 @@
 ---
 agency: International Monetary Fund (IMF)
 last_updated: 2025
-timestamp: 2026-07-05T15:37:44Z
-tags: [ IMF Methodology, External Sector, Balance of Payments, Sovereign Risk, Hungary ]
+tags:
+  - IMF Methodology
+  - External Sector
+  - Balance of Payments
+  - Sovereign Risk
+  - Hungary
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:37:44Z
+status: stable
 ---
 
 # External Sector Assessment

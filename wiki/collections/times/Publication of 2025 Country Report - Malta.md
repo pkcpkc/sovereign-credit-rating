@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:05:27Z
-tags: [ Sovereign Credit, Macroeconomic Analysis, European Union, Fiscal Policy, Sustainable Development, Energy Transition, Labour Market ]
+tags:
+  - Sovereign Credit
+  - Macroeconomic Analysis
+  - European Union
+  - Fiscal Policy
+  - Sustainable Development
+  - Energy Transition
+  - Labour Market
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:05:27Z
+status: stable
 ---
 # Publication of 2025 Country Report - Malta
 

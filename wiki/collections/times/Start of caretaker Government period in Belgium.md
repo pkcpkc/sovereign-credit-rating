@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:09:14Z
-tags: [ Belgium, Politics, Government, Caretaker Government, Rule of Law ]
+tags:
+  - Belgium
+  - Politics
+  - Government
+  - Caretaker Government
+  - Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:09:14Z
+status: stable
 ---
 # Start of caretaker Government period in Belgium
 

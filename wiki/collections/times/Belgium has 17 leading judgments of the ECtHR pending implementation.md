@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:09:38Z
-tags: [Belgium, ECtHR, Rule of Law, Human Rights, European Commission, Justice System]
+tags:
+  - Belgium
+  - ECtHR
+  - Rule of Law
+  - Human Rights
+  - European Commission
+  - Justice System
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:09:38Z
+status: stable
 ---
 # Belgium has 17 leading judgments of the ECtHR pending implementation
 

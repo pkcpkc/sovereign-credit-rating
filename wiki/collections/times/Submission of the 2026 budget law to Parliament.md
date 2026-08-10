@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:04:24Z
 tags:
   - Hungary
   - European Union
@@ -7,6 +6,10 @@ tags:
   - Budget
   - Economic Governance
   - Macroeconomic Imbalance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:04:24Z
+status: stable
 ---
 # Submission of the 2026 budget law to Parliament
 

@@ -1,5 +1,6 @@
 ---
-title: "Sovereign-credit-rating-factors Index"
+title: Sovereign-credit-rating-factors Index
+status: stable
 ---
 # Sovereign-credit-rating-factors Index
 

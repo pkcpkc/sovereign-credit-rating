@@ -3,13 +3,16 @@ role: CEO
 organization: Malta Financial Services Authority
 countries_covered:
   - Malta
-timestamp: 2026-07-05T11:26:44Z
 tags:
   - Financial Regulation
   - Central Banking
   - Sovereign Risk
   - IMF Article IV
   - Malta
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:26:44Z
+status: stable
 ---
 
 # Kenneth Farrugia

@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:21:01Z
 tags:
   - Italy
   - Public Debt
   - Fiscal Policy
   - IMF Article IV
   - Macroeconomic Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:21:01Z
+status: stable
 ---
 # Public debt ratio ends at 135.3% of GDP
 

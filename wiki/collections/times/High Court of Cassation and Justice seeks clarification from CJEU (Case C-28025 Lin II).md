@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:15:19Z
 tags:
   - Judicial Independence
   - Anti-Corruption
@@ -7,6 +6,10 @@ tags:
   - CJEU Reference
   - High Court of Cassation and Justice
   - Statute of Limitations
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:15:19Z
+status: stable
 ---
 # High Court of Cassation and Justice seeks clarification from CJEU (Case C-280/25 Lin II)
 

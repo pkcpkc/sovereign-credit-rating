@@ -227,7 +227,17 @@ times:
     title: Release of Press Release and Staff Report
   - date: 2025-03
     title: Current period context
-timestamp: 2026-07-05T11:23:26Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:23:26Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/IMF (2025) Belgium
+      Country Report.md
+    title: wiki/assets/20260705-000000/processed/IMF (2025) Belgium Country Report.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/IMF (2025) Belgium Country
+      Report.md
+    title: wiki/assets/20260705-000000/sources/IMF (2025) Belgium Country Report.md
 ---
 # Summary of: IMF 2025 Article IV Consultation: Belgium Staff Report and Press Release
 

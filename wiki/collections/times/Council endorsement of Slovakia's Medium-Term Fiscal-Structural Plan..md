@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:07:57Z
-tags: [EU Economic Governance, European Semester, Fiscal Policy, Rule of Law, Structural Reform, Slovakia]
+tags:
+  - EU Economic Governance
+  - European Semester
+  - Fiscal Policy
+  - Rule of Law
+  - Structural Reform
+  - Slovakia
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:07:57Z
+status: stable
 ---
 # Council endorsement of Slovakia's Medium-Term Fiscal-Structural Plan.
 

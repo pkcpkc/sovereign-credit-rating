@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:14:40Z
-tags: [Romania, Rule of Law, Statute of Limitations, Legislative History, Justice System]
+tags:
+  - Romania
+  - Rule of Law
+  - Statute of Limitations
+  - Legislative History
+  - Justice System
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:14:40Z
+status: stable
 ---
 # Adoption of Government Emergency Ordinance filling the legal void on statute of limitations
 

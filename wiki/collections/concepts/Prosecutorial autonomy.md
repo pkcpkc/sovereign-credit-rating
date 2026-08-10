@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:18:14Z
-tags: [Rule of Law, Judiciary, Governance, Austria, Sovereign Credit Rating, Political Risk]
+tags:
+  - Rule of Law
+  - Judiciary
+  - Governance
+  - Austria
+  - Sovereign Credit Rating
+  - Political Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:18:14Z
+status: stable
 ---
 
 # Prosecutorial autonomy

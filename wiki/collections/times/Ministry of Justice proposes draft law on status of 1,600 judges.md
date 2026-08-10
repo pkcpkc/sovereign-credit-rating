@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:14:03Z
 tags:
   - Rule of Law
   - Poland
@@ -7,6 +6,10 @@ tags:
   - European Union
   - Ministry of Justice
   - National Council for the Judiciary
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:14:03Z
+status: stable
 ---
 # Ministry of Justice proposes draft law on status of 1,600 judges
 

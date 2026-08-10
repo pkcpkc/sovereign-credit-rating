@@ -1,6 +1,19 @@
 ---
-timestamp: 2026-07-05T13:44:37Z
-tags: [ demographics, sovereign risk, fiscal policy, macroeconomic stability, Italy, Poland, structural reforms, labor market, pension reform, climate transition ]
+tags:
+  - demographics
+  - sovereign risk
+  - fiscal policy
+  - macroeconomic stability
+  - Italy
+  - Poland
+  - structural reforms
+  - labor market
+  - pension reform
+  - climate transition
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:44:37Z
+status: stable
 ---
 
 # population aging

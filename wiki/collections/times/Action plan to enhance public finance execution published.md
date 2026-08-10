@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:18:26Z
 tags:
   - France
   - Fiscal Policy
@@ -7,6 +6,10 @@ tags:
   - Public Finance
   - Structural Reforms
   - Article IV Consultation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:18:26Z
+status: stable
 ---
 # Action plan to enhance public finance execution published
 

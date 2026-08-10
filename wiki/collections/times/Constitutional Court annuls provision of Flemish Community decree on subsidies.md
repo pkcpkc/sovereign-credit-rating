@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:09:51Z
 tags:
   - Constitutional Court
   - Belgium
@@ -7,6 +6,10 @@ tags:
   - Flemish Community
   - Civic Space
   - Legal Challenges
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:09:51Z
+status: stable
 ---
 # Constitutional Court annuls provision of Flemish Community decree on subsidies
 

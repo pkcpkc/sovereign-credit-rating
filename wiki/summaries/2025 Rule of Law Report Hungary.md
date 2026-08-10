@@ -12,8 +12,8 @@ tags:
 assets:
   - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law
     Report Hungary.md
-  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law Report
-    Hungary.md
+  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+    Report Hungary.md
 concepts:
   - Judicial Independence
   - Case Allocation Transparency
@@ -167,7 +167,19 @@ times:
       Life' law
   - date: 2025-02-17
     title: Removal of cap on political campaign expenses by National Assembly
-timestamp: 2026-07-05T11:19:24Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:19:24Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Rule of Law Report Hungary.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of
+      Law Report Hungary.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Rule of Law Report Hungary.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+      Report Hungary.md
 ---
 # Summary of: 2025 Rule of Law Report: Hungary
 

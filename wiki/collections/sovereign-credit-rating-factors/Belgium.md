@@ -1,6 +1,19 @@
 ---
-timestamp: 2026-07-05T15:58:05Z
-tags: [Sovereign Credit Rating, Belgium, EU Country Report, Fiscal Policy, Economic Surveillance, Rule of Law, Justice System, Anti-Corruption, IMF Article IV, Financial Stability]
+tags:
+  - Sovereign Credit Rating
+  - Belgium
+  - EU Country Report
+  - Fiscal Policy
+  - Economic Surveillance
+  - Rule of Law
+  - Justice System
+  - Anti-Corruption
+  - IMF Article IV
+  - Financial Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:58:05Z
+status: stable
 ---
 
 # Belgium

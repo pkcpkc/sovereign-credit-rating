@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:06:40Z
 tags:
   - Romania
   - European Union
@@ -9,6 +8,10 @@ tags:
   - Sustainable Development
   - Sovereign Risk
   - Structural Reforms
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:06:40Z
+status: stable
 ---
 # Publication of 2025 Country Report - Romania
 

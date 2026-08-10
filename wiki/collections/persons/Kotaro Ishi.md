@@ -3,13 +3,16 @@ role: Mission Chief
 organization: International Monetary Fund (IMF)
 countries_covered:
   - Malta
-timestamp: 2026-07-05T15:49:34Z
 tags:
   - International Monetary Fund
   - Sovereign Analysis
   - Fiscal Policy
   - Financial Stability
   - Malta
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:49:34Z
+status: stable
 ---
 
 # Kotaro Ishi

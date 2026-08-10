@@ -3,12 +3,15 @@ role: Head of Financial Sector Assessment Program
 organization: International Monetary Fund (IMF)
 countries_covered:
   - France
-timestamp: 2026-07-05T11:24:09Z
 tags:
   - IMF
   - Financial Sector Assessment Program
   - Sovereign Credit Rating
   - Article IV Consultation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:24:09Z
+status: stable
 ---
 
 # Charles Cohen

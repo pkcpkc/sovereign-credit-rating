@@ -3,13 +3,16 @@ role: Lead Prosecutor
 organization: National Financial Prosecutor (PNF)
 countries_covered:
   - France
-timestamp: 2026-07-05T11:18:52Z
 tags:
   - Judicial Independence
   - Anti-Corruption
   - Sovereign Credit Rating
   - France
   - Financial Crime
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:18:52Z
+status: stable
 ---
 
 # Chief of the National Financial Prosecutor (PNF)

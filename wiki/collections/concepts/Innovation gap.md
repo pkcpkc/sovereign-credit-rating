@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:15:57Z
-tags: [ Structural Reform, Economic Diversification, Sovereign Credit Risk, Innovation, R&D, Slovakia ]
+tags:
+  - Structural Reform
+  - Economic Diversification
+  - Sovereign Credit Risk
+  - Innovation
+  - R&D
+  - Slovakia
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:15:57Z
+status: stable
 ---
 
 # Innovation gap

@@ -1,7 +1,6 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:33:05Z
 tags:
   - Media Freedom
   - Rule of Law
@@ -10,6 +9,10 @@ tags:
   - Public Service Media
   - Poland
   - Regulatory Independence
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:33:05Z
+status: stable
 ---
 
 # Media Pluralism Monitor

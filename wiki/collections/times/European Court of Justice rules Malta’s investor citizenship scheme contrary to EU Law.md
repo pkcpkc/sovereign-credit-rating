@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:12:48Z
 tags:
   - Rule of Law
   - European Union
@@ -8,6 +7,10 @@ tags:
   - EU Law
   - Judicial Independence
   - Anti-Corruption
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:48Z
+status: stable
 ---
 # European Court of Justice rules Malta’s investor citizenship scheme contrary to EU Law
 

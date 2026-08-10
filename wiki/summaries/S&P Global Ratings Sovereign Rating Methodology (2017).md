@@ -77,7 +77,15 @@ times:
   - date: 2012-10-01
     title: Publication of Criteria for Assigning 'CCC+', 'CCC', 'CCC-', And 'CC'
       Ratings
-timestamp: 2026-07-05T11:08:56Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:08:56Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/2017 Sovereign Methodology.md
+    title: wiki/assets/20260705-000000/processed/2017 Sovereign Methodology.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/2017 Sovereign Methodology.md
+    title: wiki/assets/20260705-000000/sources/2017 Sovereign Methodology.md
 ---
 # Summary of: S&P Global Ratings Sovereign Rating Methodology (2017)
 

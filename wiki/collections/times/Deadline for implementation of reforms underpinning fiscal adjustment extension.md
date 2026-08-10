@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:03:52Z
 tags:
   - France
   - Fiscal Policy
@@ -7,6 +6,10 @@ tags:
   - Excessive Deficit Procedure
   - Medium-term Fiscal-Structural Plan
   - European Semester
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:03:52Z
+status: stable
 ---
 # Deadline for implementation of reforms underpinning fiscal adjustment extension
 

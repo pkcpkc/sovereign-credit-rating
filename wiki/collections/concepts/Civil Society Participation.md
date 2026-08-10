@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:42:04Z
-tags: [Rule of Law, Malta, Civic Space, Sovereign Credit Risk, Anti-Corruption, Checks and Balances]
+tags:
+  - Rule of Law
+  - Malta
+  - Civic Space
+  - Sovereign Credit Risk
+  - Anti-Corruption
+  - Checks and Balances
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:42:04Z
+status: stable
 ---
 
 # Civil Society Participation

@@ -10,8 +10,8 @@ tags:
   - Macro-Economic Imbalance
   - European Semester
 assets:
-  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country Report
-    Hungary.md
+  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+    Report Hungary.md
   - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country Report
     Hungary.md
 concepts:
@@ -219,7 +219,19 @@ times:
     title: Introduction of 10% retailer profit margin cap for food products
   - date: 2025-05
     title: Introduction of 15% margin cap for personal hygiene products
-timestamp: 2026-07-05T11:12:29Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:12:29Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Country Report Hungary.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+      Report Hungary.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Country Report Hungary.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country
+      Report Hungary.md
 ---
 # Summary of: EU Commission 2025 Country Report: Hungary
 

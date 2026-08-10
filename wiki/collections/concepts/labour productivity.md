@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:15:39Z
 tags:
   - labour productivity
   - economic growth
@@ -10,6 +9,10 @@ tags:
   - fiscal sustainability
   - competitiveness
   - eu economic governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:15:39Z
+status: stable
 ---
 
 # Labour productivity

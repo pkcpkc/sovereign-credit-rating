@@ -4,7 +4,6 @@ organization: Ministry of Justice
 countries_covered:
   - Italy
   - Poland
-timestamp: 2026-07-05T11:20:59Z
 tags:
   - Justice System
   - Rule of Law
@@ -14,6 +13,10 @@ tags:
   - Judicial Independence
   - Anti-Corruption
   - Institutional Strength
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:20:59Z
+status: stable
 ---
 
 # Minister of Justice

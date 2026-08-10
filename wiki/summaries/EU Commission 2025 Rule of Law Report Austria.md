@@ -13,8 +13,8 @@ tags:
 assets:
   - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law
     Report Austria.md
-  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law Report
-    Austria.md
+  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+    Report Austria.md
 concepts:
   - Judicial independence
   - Prosecutorial autonomy
@@ -136,7 +136,19 @@ times:
     title: Implementation of court fee increases (approx. 23%)
   - date: 2025-01-01
     title: Start of audits of party statements by Court of Audit under new rules
-timestamp: 2026-07-05T11:17:46Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:17:46Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Rule of Law Report Austria.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of
+      Law Report Austria.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Rule of Law Report Austria.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+      Report Austria.md
 ---
 # Summary of: EU Commission 2025 Rule of Law Report: Austria
 

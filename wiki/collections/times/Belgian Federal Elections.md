@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:16:54Z
-tags: [Politics, Belgium, Elections, IMF, Fiscal Policy, Government Formation]
+tags:
+  - Politics
+  - Belgium
+  - Elections
+  - IMF
+  - Fiscal Policy
+  - Government Formation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:16:54Z
+status: stable
 ---
 # Belgian Federal Elections
 

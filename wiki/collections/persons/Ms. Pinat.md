@@ -3,12 +3,15 @@ role: IMF Staff
 organization: IMF
 countries_covered:
   - Austria
-timestamp: 2026-07-05T11:22:39Z
 tags:
   - IMF
   - Article IV Consultation
   - Sovereign Credit Risk
   - Austria
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:22:39Z
+status: stable
 ---
 
 # Ms. Pinat

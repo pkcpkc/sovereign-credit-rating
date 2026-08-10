@@ -1,6 +1,20 @@
 ---
-timestamp: 2026-07-05T12:16:45Z
-tags: [ energy-policy, sovereign-credit, macroeconomic-stability, fiscal-sustainability, france, romania, slovakia, green-transition, external-vulnerabilities, russian-dependence, automotive-sector ]
+tags:
+  - energy-policy
+  - sovereign-credit
+  - macroeconomic-stability
+  - fiscal-sustainability
+  - france
+  - romania
+  - slovakia
+  - green-transition
+  - external-vulnerabilities
+  - russian-dependence
+  - automotive-sector
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:16:45Z
+status: stable
 ---
 
 # Energy security

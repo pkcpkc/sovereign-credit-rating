@@ -1,8 +1,17 @@
 ---
 agency: International Monetary Fund
 last_updated: 2025
-timestamp: 2026-07-05T11:25:58Z
-tags: [ IMF, Financial Stability, Macroprudential Policy, Systemic Risk, Banking Sector, Sovereign-Bank Nexus ]
+tags:
+  - IMF
+  - Financial Stability
+  - Macroprudential Policy
+  - Systemic Risk
+  - Banking Sector
+  - Sovereign-Bank Nexus
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:25:58Z
+status: stable
 ---
 
 # Financial Sector Assessment Program

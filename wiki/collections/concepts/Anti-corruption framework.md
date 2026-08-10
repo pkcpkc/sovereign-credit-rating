@@ -1,6 +1,39 @@
 ---
-timestamp: 2026-07-05T13:04:26Z
-tags: [Anti-Corruption, Rule of Law, Sovereign Credit Risk, Institutional Integrity, Romania, Belgium, France, Hungary, Malta, Poland, Slovakia, EU Compliance, Judicial Independence, Macroeconomic Policy, Civil Society, Media Freedom, Public Procurement, Investor Citizenship, Central Anti-Corruption Bureau, EPPO, Statute of Limitations, National Anti-Corruption Directorate, National Integrity Agency, Venice Commission, NAKA, UBOK, Prosecutor General, Judicial Council, STVR, OLAF]
+tags:
+  - Anti-Corruption
+  - Rule of Law
+  - Sovereign Credit Risk
+  - Institutional Integrity
+  - Romania
+  - Belgium
+  - France
+  - Hungary
+  - Malta
+  - Poland
+  - Slovakia
+  - EU Compliance
+  - Judicial Independence
+  - Macroeconomic Policy
+  - Civil Society
+  - Media Freedom
+  - Public Procurement
+  - Investor Citizenship
+  - Central Anti-Corruption Bureau
+  - EPPO
+  - Statute of Limitations
+  - National Anti-Corruption Directorate
+  - National Integrity Agency
+  - Venice Commission
+  - NAKA
+  - UBOK
+  - Prosecutor General
+  - Judicial Council
+  - STVR
+  - OLAF
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:04:26Z
+status: stable
 ---
 
 # Anti-Corruption Framework

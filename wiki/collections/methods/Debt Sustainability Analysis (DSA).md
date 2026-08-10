@@ -1,8 +1,28 @@
 ---
 agency: International Monetary Fund (IMF)
 last_updated: 2025
-timestamp: 2026-07-05T15:41:38Z
-tags: [ Debt Sustainability, Sovereign Credit, Fiscal Policy, Macroprudential Policy, IMF, Article IV Consultation, Hungary, EU Funds, Sovereign-Bank Nexus, Malta, Real Estate Exposure, Eurozone, External Sector Assessment, Slovakia, Fiscal Consolidation, Demographic Risks, Commercial Real Estate ]
+tags:
+  - Debt Sustainability
+  - Sovereign Credit
+  - Fiscal Policy
+  - Macroprudential Policy
+  - IMF
+  - Article IV Consultation
+  - Hungary
+  - EU Funds
+  - Sovereign-Bank Nexus
+  - Malta
+  - Real Estate Exposure
+  - Eurozone
+  - External Sector Assessment
+  - Slovakia
+  - Fiscal Consolidation
+  - Demographic Risks
+  - Commercial Real Estate
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:41:38Z
+status: stable
 ---
 
 # Debt Sustainability Analysis (DSA)

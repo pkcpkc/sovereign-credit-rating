@@ -1,6 +1,18 @@
 ---
-timestamp: 2026-07-05T11:24:09Z
-tags: [ Geopolitics, Macroeconomics, Trade, Sovereign Risk, IMF, France, Hungary, EU Funds, Fiscal Policy ]
+tags:
+  - Geopolitics
+  - Macroeconomics
+  - Trade
+  - Sovereign Risk
+  - IMF
+  - France
+  - Hungary
+  - EU Funds
+  - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:24:09Z
+status: stable
 ---
 
 # geoeconomic fragmentation

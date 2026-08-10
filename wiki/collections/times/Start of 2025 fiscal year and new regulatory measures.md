@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:19:49Z
-tags: [ Hungary Economy, Fiscal Policy, IMF Article IV, Monetary Policy, Regulatory Measures, Sovereign Credit Risk ]
+tags:
+  - Hungary Economy
+  - Fiscal Policy
+  - IMF Article IV
+  - Monetary Policy
+  - Regulatory Measures
+  - Sovereign Credit Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:19:49Z
+status: stable
 ---
 # Start of 2025 fiscal year and new regulatory measures
 

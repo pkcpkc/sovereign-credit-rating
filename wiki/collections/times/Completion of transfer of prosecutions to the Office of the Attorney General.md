@@ -1,6 +1,13 @@
 ---
-timestamp: 2026-07-05T16:13:18Z
-tags: [ Maltese Justice System, Rule of Law, Anti-Corruption, Attorney General ]
+tags:
+  - Maltese Justice System
+  - Rule of Law
+  - Anti-Corruption
+  - Attorney General
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:13:18Z
+status: stable
 ---
 # Completion of transfer of prosecutions to the Office of the Attorney General
 

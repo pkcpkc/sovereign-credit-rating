@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:06:33Z
-tags: [EU, Poland, Fiscal Policy, Excessive Deficit Procedure, Economic Report]
+tags:
+  - EU
+  - Poland
+  - Fiscal Policy
+  - Excessive Deficit Procedure
+  - Economic Report
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:06:33Z
+status: stable
 ---
 # Submission of Poland's Annual Progress Report on fiscal plan implementation
 

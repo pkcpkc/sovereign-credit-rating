@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:22:58Z
 tags:
   - Press Freedom
   - Rule of Law
@@ -8,6 +7,10 @@ tags:
   - Sovereign Credit Rating
   - Institutional Quality
   - Belgium
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:22:58Z
+status: stable
 ---
 
 # Press freedom

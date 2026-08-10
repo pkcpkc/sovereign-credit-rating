@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T11:32:18Z
 tags:
   - Sovereign Credit Rating
   - Rating Methodology
@@ -7,6 +6,10 @@ tags:
   - Currency Risk
   - Local Currency Sovereign Rating (LCSR)
   - Foreign Currency Sovereign Rating (FCSR)
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:32:18Z
+status: stable
 ---
 
 # local vs. foreign currency ratings

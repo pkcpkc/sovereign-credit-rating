@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:10:49Z
 tags:
   - Judicial Reforms
   - Hungary
@@ -7,6 +6,10 @@ tags:
   - European Union
   - National Judicial Council
   - Kúria
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:49Z
+status: stable
 ---
 # Signing of four-party agreement on judicial reforms and salary increases
 

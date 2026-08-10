@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:50:46Z
 tags:
   - Macroeconomic Policy
   - Sovereign Credit Risk
@@ -7,6 +6,10 @@ tags:
   - Growth Strategy
   - IMF Recommendations
   - Productivity
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:50:46Z
+status: stable
 ---
 
 # productivity-driven growth

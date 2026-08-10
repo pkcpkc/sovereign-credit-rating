@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:02:35Z
-tags: [Austria, Economic Recession, European Commission, Fiscal Policy, Labor Market]
+tags:
+  - Austria
+  - Economic Recession
+  - European Commission
+  - Fiscal Policy
+  - Labor Market
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:02:35Z
+status: stable
 ---
 # Expected third consecutive year of recession
 

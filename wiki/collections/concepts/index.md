@@ -1,5 +1,6 @@
 ---
-title: "Concepts Index"
+title: Concepts Index
+status: stable
 ---
 # Concepts Index
 

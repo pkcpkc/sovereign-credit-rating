@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T11:34:19Z
-tags: [ sovereign-credit-rating, fiscal-sustainability, macroeconomic-stability, energy-transition, cost-push-inflation, industrial-competitiveness, country-risk ]
+tags:
+  - sovereign-credit-rating
+  - fiscal-sustainability
+  - macroeconomic-stability
+  - energy-transition
+  - cost-push-inflation
+  - industrial-competitiveness
+  - country-risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:34:19Z
+status: stable
 ---
 
 # energy affordability

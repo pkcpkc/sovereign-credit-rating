@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:13:27Z
 tags:
   - Malta
   - Human Rights
   - Whistleblower Protection
   - UN Human Rights Committee
   - Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:13:27Z
+status: stable
 ---
 # UN Human Rights Committee requests improvement of whistleblower protection
 

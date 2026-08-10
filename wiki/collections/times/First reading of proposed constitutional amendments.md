@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:16:03Z
-tags: [ Slovakia, Constitutional Amendments, Rule of Law, European Union, Democracy ]
+tags:
+  - Slovakia
+  - Constitutional Amendments
+  - Rule of Law
+  - European Union
+  - Democracy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:16:03Z
+status: stable
 ---
 # First reading of proposed constitutional amendments
 

@@ -1,6 +1,17 @@
 ---
-timestamp: 2026-07-05T12:16:09Z
-tags: [business regulation, competitiveness, France, EU governance, structural reform, institutional strength, rule of law, Slovakia]
+tags:
+  - business regulation
+  - competitiveness
+  - France
+  - EU governance
+  - structural reform
+  - institutional strength
+  - rule of law
+  - Slovakia
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:16:09Z
+status: stable
 ---
 
 # Business environment

@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:22:48Z
-tags: ["IMF", "Poland", "Article IV Consultation", "Macroeconomic Policy", "Fiscal Policy", "Monetary Policy", "Geopolitics"]
+tags:
+  - IMF
+  - Poland
+  - Article IV Consultation
+  - Macroeconomic Policy
+  - Fiscal Policy
+  - Monetary Policy
+  - Geopolitics
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:22:48Z
+status: stable
 ---
 # End of IMF Staff Discussions with Polish Officials
 

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:03:57Z
 tags:
   - France
   - Politics
@@ -7,6 +6,10 @@ tags:
   - Macroeconomics
   - Fiscal Policy
   - Sovereign Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:03:57Z
+status: stable
 ---
 # General elections in France leading to political fragmentation
 

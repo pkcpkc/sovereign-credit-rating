@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:16:49Z
-tags: [ Austria, Energy Policy, Fiscal Consolidation, Inflation, Macroeconomics ]
+tags:
+  - Austria
+  - Energy Policy
+  - Fiscal Consolidation
+  - Inflation
+  - Macroeconomics
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:16:49Z
+status: stable
 ---
 # Household electricity price cap removed; energy levies reinstated
 

@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T13:21:07Z
-tags: [finance, public-finance, sovereign-risk, imf, fiscal-policy]
+tags:
+  - finance
+  - public-finance
+  - sovereign-risk
+  - imf
+  - fiscal-policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:21:07Z
+status: stable
 ---
 
 # public debt sustainability

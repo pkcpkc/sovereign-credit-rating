@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:03:00Z
 tags:
   - Vocational Education
   - Labor Market
@@ -8,6 +7,10 @@ tags:
   - Sovereign Credit Rating
   - Poland
   - EU Country Reports
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:03:00Z
+status: stable
 ---
 
 # Vocational education and training

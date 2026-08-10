@@ -1,9 +1,20 @@
 ---
 role: Prime Minister
 organization: Government of Slovakia
-countries_covered: [ "Slovakia" ]
-timestamp: 2026-07-05T15:45:57Z
-tags: [ "Rule of Law", "Slovakia", "European Union", "Justice System", "Anti-Corruption", "Media Freedom", "Sovereign Risk" ]
+countries_covered:
+  - Slovakia
+tags:
+  - Rule of Law
+  - Slovakia
+  - European Union
+  - Justice System
+  - Anti-Corruption
+  - Media Freedom
+  - Sovereign Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:45:57Z
+status: stable
 ---
 
 # Robert Fico

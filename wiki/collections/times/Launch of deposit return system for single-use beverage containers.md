@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:02:20Z
 tags:
   - Austria
   - Environmental Policy
@@ -7,6 +6,10 @@ tags:
   - Recycling
   - Single-Use Plastics
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:02:20Z
+status: stable
 ---
 # Launch of deposit return system for single-use beverage containers
 

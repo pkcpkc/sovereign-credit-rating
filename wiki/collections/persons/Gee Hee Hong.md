@@ -3,13 +3,16 @@ role: IMF Staff Member
 organization: International Monetary Fund
 countries_covered:
   - Italy
-timestamp: 2026-07-05T15:48:48Z
 tags:
   - IMF
   - Sovereign Risk
   - Italy
   - Article IV Consultation
   - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:48:48Z
+status: stable
 ---
 
 # Gee Hee Hong

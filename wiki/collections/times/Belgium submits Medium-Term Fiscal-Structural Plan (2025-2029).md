@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:03:20Z
-tags: [ Belgium, Fiscal Policy, European Semester, EU Economic Governance, Medium-Term Plan ]
+tags:
+  - Belgium
+  - Fiscal Policy
+  - European Semester
+  - EU Economic Governance
+  - Medium-Term Plan
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:03:20Z
+status: stable
 ---
 # Belgium submits Medium-Term Fiscal-Structural Plan (2025-2029)
 

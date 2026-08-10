@@ -1,6 +1,19 @@
 ---
-timestamp: 2026-07-05T12:22:00Z
-tags: [Rule of Law, Anti-Corruption, Governance, Sovereign Credit Risk, Institutional Strength, Austria, Belgium, European Union, Policy Credibility, Policymaking Stability]
+tags:
+  - Rule of Law
+  - Anti-Corruption
+  - Governance
+  - Sovereign Credit Risk
+  - Institutional Strength
+  - Austria
+  - Belgium
+  - European Union
+  - Policy Credibility
+  - Policymaking Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:22:00Z
+status: stable
 ---
 
 # Lobbying transparency

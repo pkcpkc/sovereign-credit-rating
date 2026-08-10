@@ -1,6 +1,21 @@
 ---
-timestamp: 2026-07-05T15:58:33Z
-tags: [France, Sovereign Credit Rating, Fiscal Policy, Macroeconomic Stability, EU Economic Governance, Rule of Law, Judicial Independence, Anti-Corruption, Media Freedom, IMF Article IV, Debt Sustainability, Financial Sector Assessment]
+tags:
+  - France
+  - Sovereign Credit Rating
+  - Fiscal Policy
+  - Macroeconomic Stability
+  - EU Economic Governance
+  - Rule of Law
+  - Judicial Independence
+  - Anti-Corruption
+  - Media Freedom
+  - IMF Article IV
+  - Debt Sustainability
+  - Financial Sector Assessment
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:58:33Z
+status: stable
 ---
 
 # France

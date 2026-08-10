@@ -1,8 +1,15 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:25:33Z
-tags: [EU Economic Governance, Fiscal Policy, Sovereign Credit, Macroeconomic Assessment]
+tags:
+  - EU Economic Governance
+  - Fiscal Policy
+  - Sovereign Credit
+  - Macroeconomic Assessment
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:25:33Z
+status: stable
 ---
 
 # Reformed EU Economic Governance Framework

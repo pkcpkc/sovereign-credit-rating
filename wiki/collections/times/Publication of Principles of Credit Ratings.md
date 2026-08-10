@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:01:54Z
 tags:
   - S&P Global Ratings
   - Credit Rating Methodology
   - Sovereign Credit Rating
   - Financial Regulation
   - Principles of Credit Ratings
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:01:54Z
+status: stable
 ---
 # Publication of Principles of Credit Ratings
 

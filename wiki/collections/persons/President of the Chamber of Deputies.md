@@ -3,12 +3,15 @@ role: President
 organization: Chamber of Deputies
 countries_covered:
   - Italy
-timestamp: 2026-07-05T15:45:30Z
 tags:
   - Politics
   - Italy
   - Rule of Law
   - Constitutional Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:45:30Z
+status: stable
 ---
 
 # President of the Chamber of Deputies

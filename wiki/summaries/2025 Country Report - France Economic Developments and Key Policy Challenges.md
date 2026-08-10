@@ -10,8 +10,8 @@ tags:
   - Labor Market
   - Productivity
 assets:
-  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country Report
-    France.md
+  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+    Report France.md
   - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country Report
     France.md
 concepts:
@@ -162,7 +162,19 @@ times:
     title: General elections in France leading to political fragmentation
   - date: 2024-10-31
     title: Submission of France's medium-term fiscal-structural plan
-timestamp: 2026-07-05T11:11:33Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:11:33Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Country Report France.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+      Report France.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Country Report France.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country
+      Report France.md
 ---
 # Summary of: 2025 Country Report - France
 

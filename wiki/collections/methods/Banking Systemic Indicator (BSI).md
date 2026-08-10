@@ -1,8 +1,15 @@
 ---
 agency: Fitch Ratings
 last_updated: Sept 2025
-timestamp: 2026-07-05T15:43:25Z
-tags: [Sovereign Ratings, Credit Rating Methodology, Financial Sector Stability, Macro-Prudential Risk]
+tags:
+  - Sovereign Ratings
+  - Credit Rating Methodology
+  - Financial Sector Stability
+  - Macro-Prudential Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:43:25Z
+status: stable
 ---
 
 # Banking Systemic Indicator (BSI)

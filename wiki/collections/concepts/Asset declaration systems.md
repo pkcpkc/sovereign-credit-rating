@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:19:17Z
-tags: [ Governance, Anti-Corruption, Sovereign Credit Rating, Rule of Law, Public Administration, Transparency ]
+tags:
+  - Governance
+  - Anti-Corruption
+  - Sovereign Credit Rating
+  - Rule of Law
+  - Public Administration
+  - Transparency
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:19:17Z
+status: stable
 ---
 
 # Asset declaration systems

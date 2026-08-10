@@ -3,12 +3,15 @@ role: Governor
 organization: National Bank of Belgium
 countries_covered:
   - Belgium
-timestamp: 2026-07-05T15:47:07Z
 tags:
   - Central Banking
   - Belgium
   - IMF Article IV
   - Financial Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:47:07Z
+status: stable
 ---
 
 # Philippe Wunsch

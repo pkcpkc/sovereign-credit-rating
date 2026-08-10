@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:11:48Z
 tags:
   - Rule of Law
   - European Union
@@ -7,6 +6,10 @@ tags:
   - Justice System
   - Legislative Decree
   - Government Emergency Powers
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:11:48Z
+status: stable
 ---
 # Publication of Decree-Law No. 25 coordinated with conversion law
 

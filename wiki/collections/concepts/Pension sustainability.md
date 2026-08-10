@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:03:13Z
-tags: [ Fiscal Policy, Pension Reform, Demographics, Sovereign Credit Risk, Poland, EU Fiscal Framework ]
+tags:
+  - Fiscal Policy
+  - Pension Reform
+  - Demographics
+  - Sovereign Credit Risk
+  - Poland
+  - EU Fiscal Framework
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:03:13Z
+status: stable
 ---
 
 # Pension sustainability

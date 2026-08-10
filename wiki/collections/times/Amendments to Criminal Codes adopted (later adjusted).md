@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:15:48Z
 tags:
   - Rule of Law
   - Slovakia
@@ -7,6 +6,10 @@ tags:
   - European Union
   - Justice System
   - Legislation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:15:48Z
+status: stable
 ---
 # Amendments to Criminal Codes adopted (later adjusted)
 

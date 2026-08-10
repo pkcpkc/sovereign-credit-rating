@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:06:26Z
-tags: [Poland, Fiscal Policy, Corporate Tax, EU Regulation, Global Minimum Tax]
+tags:
+  - Poland
+  - Fiscal Policy
+  - Corporate Tax
+  - EU Regulation
+  - Global Minimum Tax
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:06:26Z
+status: stable
 ---
 # Implementation of Pillar 2 Directive on global minimum corporate tax
 

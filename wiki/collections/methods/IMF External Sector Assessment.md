@@ -1,13 +1,16 @@
 ---
 agency: International Monetary Fund
 last_updated: March 2025
-timestamp: 2026-07-05T11:23:26Z
 tags:
   - IMF
   - External Sector
   - Exchange Rate
   - Balance of Payments
   - Current Account Norms
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:23:26Z
+status: stable
 ---
 
 # IMF External Sector Assessment

@@ -1,6 +1,18 @@
 ---
-timestamp: 2026-07-05T14:01:05Z
-tags: [International Monetary Fund, Macroeconomic Analysis, External Balance, Sovereign Credit Rating, Financial Stability, Eurozone, Poland, Fiscal Sustainability, Current Account]
+tags:
+  - International Monetary Fund
+  - Macroeconomic Analysis
+  - External Balance
+  - Sovereign Credit Rating
+  - Financial Stability
+  - Eurozone
+  - Poland
+  - Fiscal Sustainability
+  - Current Account
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:01:05Z
+status: stable
 ---
 
 # external sector assessment

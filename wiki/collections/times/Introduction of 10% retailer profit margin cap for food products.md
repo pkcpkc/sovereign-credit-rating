@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:04:45Z
-tags: [Hungary, Economic Policy, Retail Sector, Price Controls, European Union, Inflation]
+tags:
+  - Hungary
+  - Economic Policy
+  - Retail Sector
+  - Price Controls
+  - European Union
+  - Inflation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:04:45Z
+status: stable
 ---
 # Introduction of 10% retailer profit margin cap for food products
 

@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:02:39Z
-tags: [EU Country Report, European Semester, Fiscal Policy, Belgium, Economic Surveillance]
+tags:
+  - EU Country Report
+  - European Semester
+  - Fiscal Policy
+  - Belgium
+  - Economic Surveillance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:02:39Z
+status: stable
 ---
 # Publication of SWD(2025) 201 final: 2025 Country Report - Belgium
 

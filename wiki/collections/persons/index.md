@@ -1,5 +1,6 @@
 ---
-title: "Persons Index"
+title: Persons Index
+status: stable
 ---
 # Persons Index
 

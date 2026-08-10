@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T11:36:29Z
-tags: [ fiscal-sustainability, sovereign-risk, macroeconomic-policy, european-semester, belgium, debt-dynamics ]
+tags:
+  - fiscal-sustainability
+  - sovereign-risk
+  - macroeconomic-policy
+  - european-semester
+  - belgium
+  - debt-dynamics
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:36:29Z
+status: stable
 ---
 
 # public finance deterioration

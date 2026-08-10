@@ -1,8 +1,16 @@
 ---
 agency: International Monetary Fund (IMF)
 last_updated: 2025-03
-timestamp: 2026-07-05T15:41:10Z
-tags: [ IMF, Article IV, External Sector, Macroprudential, Sovereign Risk ]
+tags:
+  - IMF
+  - Article IV
+  - External Sector
+  - Macroprudential
+  - Sovereign Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:41:10Z
+status: stable
 ---
 
 # External Sector Assessment (EBA-lite)

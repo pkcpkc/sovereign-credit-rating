@@ -1,7 +1,6 @@
 ---
 agency: European Commission
 last_updated: June 2025
-timestamp: 2026-07-05T15:29:55Z
 tags:
   - EU Economic Governance
   - Fiscal Policy
@@ -15,6 +14,10 @@ tags:
   - Debt Sustainability
   - Excessive Deficit Procedure
   - National Escape Clause
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:29:55Z
+status: stable
 ---
 
 # Medium-term fiscal-structural plan

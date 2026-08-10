@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:08:08Z
 tags:
   - Slovakia
   - Economic Forecast
   - EU Economic Governance
   - Inflation
   - GDP Growth
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:08:08Z
+status: stable
 ---
 # Forecasted GDP growth of 1.5% and inflation rising to 4.0%.
 

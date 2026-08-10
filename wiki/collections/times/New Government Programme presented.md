@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:08:41Z
 tags:
   - Austria
   - Government Programme
   - Rule of Law
   - Judicial Reform
   - Prosecutorial Independence
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:08:41Z
+status: stable
 ---
 # New Government Programme presented
 

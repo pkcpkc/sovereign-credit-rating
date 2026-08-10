@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:08:16Z
 tags:
   - Slovakia
   - Pension Reform
@@ -8,6 +7,10 @@ tags:
   - European Semester
   - Demographics
   - Pillar II
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:08:16Z
+status: stable
 ---
 # Introduction of new pension system reforms (index funds for Pillar II).
 

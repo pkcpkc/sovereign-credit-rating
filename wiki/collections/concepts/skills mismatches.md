@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T11:56:39Z
 tags:
   - Labour Market
   - Macroeconomic Analysis
   - Sovereign Credit Risk
   - Structural Constraints
   - Productivity
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:56:39Z
+status: stable
 ---
 
 # skills mismatches

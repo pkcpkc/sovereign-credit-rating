@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:01:12Z
 tags:
   - EU Economic Governance
   - European Semester
@@ -14,6 +13,10 @@ tags:
   - IMF Article IV
   - Debt Sustainability
   - Excessive Deficit Procedure
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:01:12Z
+status: stable
 ---
 
 # Slovakia

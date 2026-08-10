@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T13:07:36Z
 tags:
   - Sovereign Credit Risk
   - Rule of Law
   - Public Administration
   - Anti-Corruption
   - Macroeconomic Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:07:36Z
+status: stable
 ---
 
 # public procurement transparency

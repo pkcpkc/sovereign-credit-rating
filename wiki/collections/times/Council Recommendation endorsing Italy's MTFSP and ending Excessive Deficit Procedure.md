@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:05:05Z
-tags: [Italy, European Semester, Fiscal Policy, MTFSP, Excessive Deficit Procedure, Economic Reform]
+tags:
+  - Italy
+  - European Semester
+  - Fiscal Policy
+  - MTFSP
+  - Excessive Deficit Procedure
+  - Economic Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:05:05Z
+status: stable
 ---
 # Council Recommendation endorsing Italy's MTFSP and ending Excessive Deficit Procedure
 

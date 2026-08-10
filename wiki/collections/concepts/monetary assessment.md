@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:19:59Z
 tags:
   - Sovereign Credit Rating
   - Monetary Policy
@@ -12,6 +11,10 @@ tags:
   - Risk Analysis
   - Central Bank Independence
   - Analytical Discretion
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:19:59Z
+status: stable
 ---
 
 # Monetary assessment

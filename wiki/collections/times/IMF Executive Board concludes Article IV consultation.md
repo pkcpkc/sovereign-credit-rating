@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:21:58Z
 tags:
   - France
   - IMF
@@ -19,6 +18,10 @@ tags:
   - AML/CFT
   - Climate Transition
   - Structural Reforms
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:21:58Z
+status: stable
 ---
 # IMF Executive Board Concludes Article IV Consultation
 

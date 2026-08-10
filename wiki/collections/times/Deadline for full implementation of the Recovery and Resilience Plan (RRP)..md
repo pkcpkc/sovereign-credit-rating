@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:08:29Z
 tags:
   - EU Economic Governance
   - Recovery and Resilience Facility
   - Structural Reform
   - Energy Transition
   - Slovakia
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:08:29Z
+status: stable
 ---
 # Deadline for full implementation of the Recovery and Resilience Plan (RRP).
 

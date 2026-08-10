@@ -1,6 +1,19 @@
 ---
-timestamp: 2026-07-05T11:59:19Z
-tags: [Fiscal Policy, EU Economic Governance, Belgium, Malta, Poland, Sovereign Risk, Macroeconomics, Excessive Deficit Procedure, Defense Spending, Fiscal Consolidation]
+tags:
+  - Fiscal Policy
+  - EU Economic Governance
+  - Belgium
+  - Malta
+  - Poland
+  - Sovereign Risk
+  - Macroeconomics
+  - Excessive Deficit Procedure
+  - Defense Spending
+  - Fiscal Consolidation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:59:19Z
+status: stable
 ---
 
 # net expenditure growth

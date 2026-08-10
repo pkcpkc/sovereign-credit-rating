@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:14:08Z
 tags:
   - Rule of Law
   - Poland
@@ -7,6 +6,10 @@ tags:
   - European Union
   - Supreme Court (Poland)
   - Legal Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:14:08Z
+status: stable
 ---
 # Draft law to dismantle Supreme Court Chamber of Extraordinary Control proposed
 

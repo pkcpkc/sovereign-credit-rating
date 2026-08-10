@@ -1,14 +1,18 @@
 ---
 role: Minister for Home Affairs, Security, Reforms, and Equality
 organization: Government of Malta
-countries_covered: [ "Malta" ]
-timestamp: 2026-07-05T11:26:44Z
+countries_covered:
+  - Malta
 tags:
   - Sovereign Risk
   - Malta
   - Government Official
   - AML/CFT
   - Judicial Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:26:44Z
+status: stable
 ---
 
 # Byron Camilleri

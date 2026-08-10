@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:08:34Z
 tags:
   - Rule of Law
   - Austria
@@ -9,6 +8,10 @@ tags:
   - Media Freedom
   - Governance
   - Public Administration
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:08:34Z
+status: stable
 ---
 # Publication of 2025 Rule of Law Report Country Chapter on Austria
 

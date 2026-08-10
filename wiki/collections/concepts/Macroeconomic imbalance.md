@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:05:32Z
 tags:
   - Macroeconomics
   - Sovereign Credit Rating
@@ -8,6 +7,10 @@ tags:
   - EU Economic Governance
   - Country Risk
   - Romania
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:05:32Z
+status: stable
 ---
 
 # Macroeconomic imbalance

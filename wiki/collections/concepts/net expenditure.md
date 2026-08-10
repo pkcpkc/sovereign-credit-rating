@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T11:47:23Z
 tags:
   - Fiscal Policy
   - Public Finance
@@ -7,6 +6,10 @@ tags:
   - EU Fiscal Rules
   - Macroeconomic Imbalance
   - Hungary
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:47:23Z
+status: stable
 ---
 
 # net expenditure

@@ -3,13 +3,16 @@ role: Minister for the Economy, European Funds, and Lands
 organization: Government of Malta
 countries_covered:
   - Malta
-timestamp: 2026-07-05T15:50:10Z
 tags:
   - Maltese Government
   - Economic Policy
   - IMF Article IV
   - Sovereign Credit
   - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:50:10Z
+status: stable
 ---
 
 # Silvio Schembri

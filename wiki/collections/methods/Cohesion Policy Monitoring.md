@@ -1,8 +1,17 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:29:41Z
-tags: [ European Union, Cohesion Policy, Structural Funds, Macroeconomic Analysis, Regional Development, Fiscal Policy ]
+tags:
+  - European Union
+  - Cohesion Policy
+  - Structural Funds
+  - Macroeconomic Analysis
+  - Regional Development
+  - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:29:41Z
+status: stable
 ---
 
 # Cohesion Policy Monitoring

@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T11:33:36Z
-tags: [macroeconomics, labour-market, sovereign-risk, structural-reforms, demographic-transition]
+tags:
+  - macroeconomics
+  - labour-market
+  - sovereign-risk
+  - structural-reforms
+  - demographic-transition
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:33:36Z
+status: stable
 ---
 
 # labour market resilience

@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:03:43Z
-tags: ["France", "EU Economic Governance", "Fiscal Policy", "European Semester", "Public Finance"]
+tags:
+  - France
+  - EU Economic Governance
+  - Fiscal Policy
+  - European Semester
+  - Public Finance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:03:43Z
+status: stable
 ---
 # Council endorsement of France's medium-term fiscal-structural plan
 

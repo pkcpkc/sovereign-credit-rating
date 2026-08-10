@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:25:17Z
 tags:
   - Slovakia
   - European Council
@@ -8,6 +7,10 @@ tags:
   - EU Macroeconomic Policy
   - Fiscal Deficit
   - Sovereign Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:25:17Z
+status: stable
 ---
 # European Council initiates Excessive Deficit Procedure against Slovakia
 

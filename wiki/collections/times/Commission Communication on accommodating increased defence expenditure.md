@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:03:15Z
 tags:
   - EU Fiscal Governance
   - Defence Expenditure
@@ -7,6 +6,10 @@ tags:
   - Belgium
   - Economic Surveillance
   - National Escape Clause
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:03:15Z
+status: stable
 ---
 # Commission Communication on accommodating increased defence expenditure
 

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:19:14Z
 tags:
   - Sovereign Credit Rating
   - Macroeconomic Assessment
@@ -8,6 +7,10 @@ tags:
   - Country Risk
   - Tax Base
   - Analyst Discretion
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:19:14Z
+status: stable
 ---
 
 # Economic assessment

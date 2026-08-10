@@ -3,12 +3,15 @@ role: Governor
 organization: Oesterreichische Nationalbank
 countries_covered:
   - Austria
-timestamp: 2026-07-05T15:46:38Z
 tags:
   - Central Banking
   - Financial Stability
   - Sovereign Credit Risk
   - Austria
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:46:38Z
+status: stable
 ---
 
 # Robert Holzmann

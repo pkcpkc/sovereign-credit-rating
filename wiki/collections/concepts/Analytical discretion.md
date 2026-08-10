@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:26:42Z
 tags:
   - Sovereign Credit Rating
   - S&P Global Ratings
@@ -7,6 +6,10 @@ tags:
   - Risk Analysis
   - Analytical Framework
   - Subjectivity
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:26:42Z
+status: stable
 ---
 
 # Analytical discretion

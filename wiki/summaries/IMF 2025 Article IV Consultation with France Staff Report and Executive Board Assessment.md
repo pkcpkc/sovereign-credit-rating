@@ -227,7 +227,17 @@ times:
     title: IMF Executive Board concludes Article IV consultation
   - date: 2025-07-14
     title: IMF Press Release issued
-timestamp: 2026-07-05T11:24:09Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:24:09Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/IMF (2025) France
+      Country Report.md
+    title: wiki/assets/20260705-000000/processed/IMF (2025) France Country Report.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/IMF (2025) France Country
+      Report.md
+    title: wiki/assets/20260705-000000/sources/IMF (2025) France Country Report.md
 ---
 # Summary of: IMF 2025 Article IV Consultation with France: Staff Report and Executive Board Assessment
 

@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T14:18:33Z
-tags: [ Sovereign Ratings, Credit Rating Methodology, Recovery Rates, Loss Given Default, Fitch Ratings, Distressed Debt ]
+tags:
+  - Sovereign Ratings
+  - Credit Rating Methodology
+  - Recovery Rates
+  - Loss Given Default
+  - Fitch Ratings
+  - Distressed Debt
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:18:33Z
+status: stable
 ---
 
 # Loss severity and recovery ratings

@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:07:34Z
 tags:
   - EU Economic Governance
   - European Semester
   - Fiscal Policy
   - Slovakia
   - Macroeconomic Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:07:34Z
+status: stable
 ---
 # Economic growth of 2.1% and fiscal deficit of 5.3% of GDP recorded.
 

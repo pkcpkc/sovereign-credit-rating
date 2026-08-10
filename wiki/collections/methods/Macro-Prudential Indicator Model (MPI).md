@@ -1,13 +1,16 @@
 ---
 agency: Fitch Ratings
 last_updated: Sept 2025
-timestamp: 2026-07-05T11:29:31Z
 tags:
   - Sovereign Ratings
   - Macro-Prudential Risk
   - Financial Sector Stability
   - Fitch Ratings
   - Rating Methodology
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:29:31Z
+status: stable
 ---
 
 # Macro-Prudential Indicator Model (MPI)

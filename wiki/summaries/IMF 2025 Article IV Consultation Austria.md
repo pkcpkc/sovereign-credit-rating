@@ -222,7 +222,17 @@ times:
       buffer (SSyRB) becomes effective
   - date: 2025-01-01
     title: Household electricity price cap removed; energy levies reinstated
-timestamp: 2026-07-05T11:22:39Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:22:39Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/IMF (2025) Austria
+      Country Report.md
+    title: wiki/assets/20260705-000000/processed/IMF (2025) Austria Country Report.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/IMF (2025) Austria Country
+      Report.md
+    title: wiki/assets/20260705-000000/sources/IMF (2025) Austria Country Report.md
 ---
 # Summary of: IMF 2025 Article IV Consultation: Austria
 

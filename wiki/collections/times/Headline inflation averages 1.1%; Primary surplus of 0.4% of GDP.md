@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:21:09Z
 tags:
   - Italy
   - Fiscal Policy
@@ -8,6 +7,10 @@ tags:
   - Primary Surplus
   - IMF Article IV
   - Economic Indicators 2024
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:21:09Z
+status: stable
 ---
 # Headline inflation averages 1.1%; Primary surplus of 0.4% of GDP
 

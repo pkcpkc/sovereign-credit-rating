@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T13:24:21Z
-tags: [ fiscal policy, public finance, local government, France, IMF, sovereign credit risk ]
+tags:
+  - fiscal policy
+  - public finance
+  - local government
+  - France
+  - IMF
+  - sovereign credit risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:24:21Z
+status: stable
 ---
 
 # local government fiscal oversight

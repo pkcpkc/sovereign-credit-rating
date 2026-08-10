@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T11:34:32Z
-tags: [ Climate Policy, Energy Transition, Fiscal Sustainability, Austria, European Commission ]
+tags:
+  - Climate Policy
+  - Energy Transition
+  - Fiscal Sustainability
+  - Austria
+  - European Commission
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:34:32Z
+status: stable
 ---
 
 # decaboanisation

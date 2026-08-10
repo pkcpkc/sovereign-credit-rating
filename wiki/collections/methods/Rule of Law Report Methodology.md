@@ -1,8 +1,17 @@
 ---
 agency: European Commission
 last_updated: July 2025
-timestamp: 2026-07-05T11:20:59Z
-tags: [Rule of Law, European Union, Judicial Independence, Anti-Corruption, Media Freedom, Institutional Strength]
+tags:
+  - Rule of Law
+  - European Union
+  - Judicial Independence
+  - Anti-Corruption
+  - Media Freedom
+  - Institutional Strength
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:20:59Z
+status: stable
 ---
 
 # Rule of Law Report Methodology

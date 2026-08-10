@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:20:26Z
 tags:
   - Sovereign Credit Rating
   - Fiscal Assessment
@@ -19,6 +18,10 @@ tags:
   - Risk Analysis
   - Institutional Assessment
   - Debt Payment Culture
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:20:26Z
+status: stable
 ---
 
 # Contingent liabilities

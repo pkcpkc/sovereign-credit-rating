@@ -3,12 +3,15 @@ role: IMF Staff Member
 organization: International Monetary Fund
 countries_covered:
   - Italy
-timestamp: 2026-07-05T15:48:44Z
 tags:
   - IMF
   - Article IV Consultation
   - Sovereign Risk
   - Italy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:48:44Z
+status: stable
 ---
 
 # Thomas Elkjaer

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:01:50Z
 tags:
   - human rights
   - institutional strength
@@ -7,6 +6,10 @@ tags:
   - governance
   - civil society
   - sovereign credit rating
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:01:50Z
+status: stable
 ---
 
 # human rights institutions

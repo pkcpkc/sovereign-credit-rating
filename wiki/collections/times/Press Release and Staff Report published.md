@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:20:19Z
 tags:
   - IMF Article IV
   - Italy
@@ -7,6 +6,10 @@ tags:
   - Fiscal Policy
   - Structural Reforms
   - Financial Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:20:19Z
+status: stable
 ---
 # Press Release and Staff Report published
 

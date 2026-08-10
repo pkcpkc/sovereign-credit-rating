@@ -12,8 +12,8 @@ tags:
 assets:
   - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law
     Report Malta.md
-  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law Report
-    Malta.md
+  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+    Report Malta.md
 concepts:
   - Judicial Independence
   - Rule of Law
@@ -189,7 +189,19 @@ times:
     title: UN Human Rights Committee requests improvement of whistleblower protection
   - date: 2024-07-01
     title: Enactment of Strategic Lawsuits Against Public Participation Order
-timestamp: 2026-07-05T11:20:26Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:20:26Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Rule of Law Report Malta.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of
+      Law Report Malta.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Rule of Law Report Malta.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+      Report Malta.md
 ---
 # Summary of: 2025 Rule of Law Report: Country Chapter on Malta
 

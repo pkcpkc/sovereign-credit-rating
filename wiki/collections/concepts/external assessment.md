@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:19:29Z
 tags:
   - Sovereign Credit Rating
   - Rating Methodology
@@ -8,6 +7,10 @@ tags:
   - S&P Global Ratings
   - Citizen Science
   - Analytical Discretion
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:19:29Z
+status: stable
 ---
 
 # External assessment

@@ -3,13 +3,16 @@ role: Body defending judicial independence
 organization: France
 countries_covered:
   - France
-timestamp: 2026-07-05T15:45:06Z
 tags:
   - Judicial Independence
   - Rule of Law
   - France
   - Institutional Strength
   - Sovereign Credit Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:45:06Z
+status: stable
 ---
 
 # Superior Council of the Magistracy

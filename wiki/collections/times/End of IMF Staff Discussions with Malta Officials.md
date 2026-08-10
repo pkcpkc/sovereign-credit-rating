@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:21:39Z
 tags:
   - IMF
   - Malta
@@ -8,6 +7,10 @@ tags:
   - Fiscal Policy
   - Financial Stability
   - Eurozone
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:21:39Z
+status: stable
 ---
 # End of IMF Staff Discussions with Malta Officials
 

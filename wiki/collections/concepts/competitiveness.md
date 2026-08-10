@@ -1,6 +1,24 @@
 ---
-timestamp: 2026-07-05T12:00:21Z
-tags: [ macroeconomics, fiscal-sustainability, labour-market, structural-reforms, belgium, france, hungary, poland, eu-country-report, productivity, energy-transition, sovereign-risk, institutional-quality, current-account, external-balance ]
+tags:
+  - macroeconomics
+  - fiscal-sustainability
+  - labour-market
+  - structural-reforms
+  - belgium
+  - france
+  - hungary
+  - poland
+  - eu-country-report
+  - productivity
+  - energy-transition
+  - sovereign-risk
+  - institutional-quality
+  - current-account
+  - external-balance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:00:21Z
+status: stable
 ---
 
 # competitiveness

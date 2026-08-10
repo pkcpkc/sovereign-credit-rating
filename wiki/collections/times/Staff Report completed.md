@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:24:30Z
 tags:
   - Sovereign Credit Risk
   - Macroeconomic Stability
@@ -12,6 +11,10 @@ tags:
   - Euro Area
   - IMF Article IV
   - National Recovery and Resilience Plan
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:24:30Z
+status: stable
 ---
 # Staff report completed
 

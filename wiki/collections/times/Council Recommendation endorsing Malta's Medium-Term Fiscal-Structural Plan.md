@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:05:42Z
 tags:
   - European Union
   - Fiscal Policy
@@ -7,6 +6,10 @@ tags:
   - Malta
   - European Semester
   - Sovereign Credit
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:05:42Z
+status: stable
 ---
 # Council Recommendation endorsing Malta's Medium-Term Fiscal-Structural Plan
 

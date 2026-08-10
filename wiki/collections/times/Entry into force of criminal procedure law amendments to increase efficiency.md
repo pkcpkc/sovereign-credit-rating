@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:08:53Z
 tags:
   - Austria
   - Judiciary
   - Legal Reform
   - European Union
   - Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:08:53Z
+status: stable
 ---
 # Entry into force of criminal procedure law amendments to increase efficiency
 

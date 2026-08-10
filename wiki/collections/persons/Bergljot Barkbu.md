@@ -3,13 +3,16 @@ role: Director, IMF Strategy, Policy, and Review Department
 organization: International Monetary Fund
 countries_covered:
   - Austria
-timestamp: 2026-07-05T11:22:39Z
 tags:
   - IMF
   - Sovereign Credit Risk
   - Macroeconomic Stability
   - Fiscal Policy
   - Austria
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:22:39Z
+status: stable
 ---
 
 # Bergljot Barkbu

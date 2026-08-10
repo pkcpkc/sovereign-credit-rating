@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:10:56Z
-tags: [ Hungary, Judiciary, Rule of Law, National Judicial Council, Political Protest ]
+tags:
+  - Hungary
+  - Judiciary
+  - Rule of Law
+  - National Judicial Council
+  - Political Protest
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:56Z
+status: stable
 ---
 # Resignation of President of National Judicial Council following judicial protests
 

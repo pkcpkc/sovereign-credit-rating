@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:06:52Z
 tags:
   - Romania
   - Constitutional Court
@@ -7,6 +6,10 @@ tags:
   - Special Pensions
   - Taxation
   - EU Country Report
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:06:52Z
+status: stable
 ---
 # Romanian Constitutional Court strikes down key provision on progressive taxation of high special pensions
 

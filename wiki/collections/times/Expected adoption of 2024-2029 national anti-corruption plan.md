@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:10:22Z
-tags: [ Anti-Corruption, France, Rule of Law, European Union, Policy Implementation ]
+tags:
+  - Anti-Corruption
+  - France
+  - Rule of Law
+  - European Union
+  - Policy Implementation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:22Z
+status: stable
 ---
 # Expected adoption of 2024-2029 national anti-corruption plan
 

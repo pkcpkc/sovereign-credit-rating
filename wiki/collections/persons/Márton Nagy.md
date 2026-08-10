@@ -3,13 +3,16 @@ role: Minister
 organization: Ministry for National Economy
 countries_covered:
   - Hungary
-timestamp: 2026-07-05T15:47:52Z
 tags:
   - Hungary Economy
   - Fiscal Policy
   - IMF Article IV
   - Sovereign Credit Risk
   - Government Official
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:47:52Z
+status: stable
 ---
 
 # Márton Nagy

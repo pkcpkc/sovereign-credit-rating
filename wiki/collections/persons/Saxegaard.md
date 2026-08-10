@@ -3,12 +3,15 @@ role: Mission Head
 organization: IMF
 countries_covered:
   - Slovakia
-timestamp: 2026-07-05T11:29:03Z
 tags:
   - IMF
   - Sovereign Analysis
   - Article IV Consultation
   - Slovakia
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:29:03Z
+status: stable
 ---
 
 # Saxegaard

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:04:35Z
 tags:
   - Economic Data
   - Hungary
@@ -7,6 +6,10 @@ tags:
   - Inflation
   - GDP
   - EU Country Report
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:04:35Z
+status: stable
 ---
 # GDP contraction of 0.8% and inflation peak of 17.0%
 

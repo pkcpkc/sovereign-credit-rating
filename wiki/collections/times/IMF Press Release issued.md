@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:19:10Z
 tags:
   - France
   - IMF
@@ -7,6 +6,10 @@ tags:
   - Sovereign Credit Rating
   - Fiscal Policy
   - Debt Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:19:10Z
+status: stable
 ---
 # IMF Press Release issued
 

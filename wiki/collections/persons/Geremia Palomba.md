@@ -1,9 +1,17 @@
 ---
 role: Director
 organization: IMF Strategy, Policy, and Review Department
-countries_covered: [ Malta ]
-timestamp: 2026-07-05T11:26:44Z
-tags: [ International Monetary Fund, Sovereign Credit Analysis, Article IV Consultation, Malta ]
+countries_covered:
+  - Malta
+tags:
+  - International Monetary Fund
+  - Sovereign Credit Analysis
+  - Article IV Consultation
+  - Malta
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:26:44Z
+status: stable
 ---
 
 # Geremia Palomba

@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:25:12Z
 tags:
   - Slovakia
   - Government Change
   - Fiscal Policy
   - IMF Article IV
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:25:12Z
+status: stable
 ---
 # Change of government in Slovakia
 

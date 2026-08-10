@@ -1,7 +1,6 @@
 ---
 agency: Organisation for Economic Co-operation and Development (OECD)
 last_updated: 2025
-timestamp: 2026-07-05T11:18:52Z
 tags:
   - Anti-Corruption
   - Foreign Bribery
@@ -10,6 +9,10 @@ tags:
   - OECD
   - Judicial Independence
   - Policy Credibility
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:18:52Z
+status: stable
 ---
 
 # OECD Foreign Bribery Evaluation

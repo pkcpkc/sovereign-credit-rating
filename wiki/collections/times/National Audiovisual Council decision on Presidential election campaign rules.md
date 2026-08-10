@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:15:24Z
 tags:
   - Romania
   - National Audiovisual Council
@@ -7,6 +6,10 @@ tags:
   - Media Freedom
   - Rule of Law
   - Campaign Rules
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:15:24Z
+status: stable
 ---
 # National Audiovisual Council decision on Presidential election campaign rules
 

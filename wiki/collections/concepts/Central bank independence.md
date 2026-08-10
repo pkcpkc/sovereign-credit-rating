@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T14:21:21Z
 tags:
   - Sovereign Credit Rating
   - Monetary Policy
   - Institutional Assessment
   - S&P Global Ratings
   - Macroeconomics
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:21:21Z
+status: stable
 ---
 
 # Central bank independence

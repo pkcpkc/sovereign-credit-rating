@@ -3,12 +3,15 @@ role: Mission Member
 organization: International Monetary Fund
 countries_covered:
   - Poland
-timestamp: 2026-07-05T15:50:56Z
 tags:
   - IMF
   - Article IV Consultation
   - Poland
   - Sovereign Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:50:56Z
+status: stable
 ---
 
 # Kareem Ismail

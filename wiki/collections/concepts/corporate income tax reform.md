@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:50:58Z
 tags:
   - Tax Policy
   - Fiscal Reform
@@ -7,6 +6,10 @@ tags:
   - Sovereign Risk
   - Macroeconomic Policy
   - Investment Climate
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:50:58Z
+status: stable
 ---
 
 # corporate income tax reform

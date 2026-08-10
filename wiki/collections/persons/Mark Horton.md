@@ -4,7 +4,6 @@ organization: International Monetary Fund
 countries_covered:
   - Belgium
   - Malta
-timestamp: 2026-07-05T15:46:43Z
 tags:
   - IMF
   - European Department
@@ -13,6 +12,10 @@ tags:
   - Article IV
   - Financial Stability
   - Structural Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:46:43Z
+status: stable
 ---
 
 # Mark Horton

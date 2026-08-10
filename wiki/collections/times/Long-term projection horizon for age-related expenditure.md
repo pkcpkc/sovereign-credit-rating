@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:06:07Z
 tags:
   - Malta
   - Fiscal Policy
@@ -8,6 +7,10 @@ tags:
   - Pension Reform
   - Healthcare Financing
   - Long-term Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:06:07Z
+status: stable
 ---
 # Long-term projection horizon for age-related expenditure
 

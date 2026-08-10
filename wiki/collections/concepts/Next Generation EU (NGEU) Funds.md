@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:01:34Z
 tags:
   - Next Generation EU
   - EU Funds
@@ -9,6 +8,10 @@ tags:
   - Poland
   - Investment
   - Structural Reforms
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:01:34Z
+status: stable
 ---
 
 # Next Generation EU (NGEU) funds

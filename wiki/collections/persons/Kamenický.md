@@ -3,12 +3,15 @@ role: Minister of Finance
 organization: Government of Slovakia
 countries_covered:
   - Slovakia
-timestamp: 2026-07-05T15:51:38Z
 tags:
   - Slovakia
   - Fiscal Policy
   - IMF Article IV
   - Government Official
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:51:38Z
+status: stable
 ---
 
 # Kamenický

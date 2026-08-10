@@ -1,13 +1,16 @@
 ---
 agency: CIVICUS
 last_updated: March 2025
-timestamp: 2026-07-05T11:20:59Z
 tags:
   - Media Freedom
   - Civic Space
   - Rule of Law
   - Poland
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:20:59Z
+status: stable
 ---
 
 # Mapping Media Freedom

@@ -3,12 +3,15 @@ role: Deputy Prime Minister
 organization: Ministry of Finance
 countries_covered:
   - Belgium
-timestamp: 2026-07-05T11:23:26Z
 tags:
   - Belgium
   - IMF Article IV
   - Fiscal Policy
   - Deputy Prime Minister
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:23:26Z
+status: stable
 ---
 
 # Jan Jambon

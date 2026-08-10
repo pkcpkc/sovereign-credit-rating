@@ -1,12 +1,15 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:26:08Z
 tags:
   - Fiscal Policy
   - EU Economic Governance
   - Sovereign Rating
   - France
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:26:08Z
+status: stable
 ---
 
 # Net expenditure growth

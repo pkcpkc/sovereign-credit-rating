@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T11:21:54Z
-tags: [Rule of Law, Justice System, Anti-Corruption, Slovakia, Sovereign Credit Risk, Institutional Strength]
+tags:
+  - Rule of Law
+  - Justice System
+  - Anti-Corruption
+  - Slovakia
+  - Sovereign Credit Risk
+  - Institutional Strength
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:21:54Z
+status: stable
 ---
 
 # prosecutorial independence

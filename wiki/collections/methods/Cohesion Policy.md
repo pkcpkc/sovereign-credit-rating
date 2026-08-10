@@ -1,13 +1,16 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:31:30Z
 tags:
   - EU
   - Cohesion Policy
   - Regional Development
   - Infrastructure
   - Social Fairness
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:31:30Z
+status: stable
 ---
 
 # Cohesion Policy

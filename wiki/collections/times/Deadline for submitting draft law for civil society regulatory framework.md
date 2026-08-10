@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:13:14Z
 tags:
   - Rule of Law
   - Malta
@@ -7,6 +6,10 @@ tags:
   - European Union
   - Legislative Process
   - Checks and Balances
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:13:14Z
+status: stable
 ---
 # Deadline for submitting draft law for civil society regulatory framework
 

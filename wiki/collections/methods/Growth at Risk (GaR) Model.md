@@ -1,13 +1,16 @@
 ---
 agency: International Monetary Fund
 last_updated: 2025
-timestamp: 2026-07-05T15:38:00Z
 tags:
   - Sovereign Credit Risk
   - Macroeconomic Modeling
   - IMF Methodology
   - Growth at Risk
   - Financial Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:38:00Z
+status: stable
 ---
 
 # Growth at Risk (GaR) Model

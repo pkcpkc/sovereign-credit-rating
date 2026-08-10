@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:21:29Z
 tags:
   - Italy
   - IMF Article IV
   - Fiscal Policy
   - Sovereign Risk
   - Debt Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:21:29Z
+status: stable
 ---
 # Staff recommended target for primary surplus of 3% of GDP
 

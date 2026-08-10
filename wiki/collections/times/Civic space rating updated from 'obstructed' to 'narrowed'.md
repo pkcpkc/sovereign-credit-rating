@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:13:59Z
 tags:
   - Rule of Law
   - Poland
   - Civil Society
   - Civic Space
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:13:59Z
+status: stable
 ---
 # Civic space rating updated from 'obstructed' to 'narrowed'
 

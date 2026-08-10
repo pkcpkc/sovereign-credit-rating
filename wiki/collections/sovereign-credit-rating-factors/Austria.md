@@ -1,6 +1,20 @@
 ---
-timestamp: 2026-07-05T15:57:26Z
-tags: [Sovereign Credit Rating, Austria, European Commission, Fiscal Policy, Macroeconomic Stability, Rule of Law, Judiciary, Anti-Corruption, IMF, Financial Stability, Structural Reform]
+tags:
+  - Sovereign Credit Rating
+  - Austria
+  - European Commission
+  - Fiscal Policy
+  - Macroeconomic Stability
+  - Rule of Law
+  - Judiciary
+  - Anti-Corruption
+  - IMF
+  - Financial Stability
+  - Structural Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:57:26Z
+status: stable
 ---
 
 # Austria

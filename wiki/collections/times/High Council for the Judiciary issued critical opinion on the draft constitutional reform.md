@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:12:10Z
-tags: [ Italy, Rule of Law, Judiciary, Constitutional Reform, European Union ]
+tags:
+  - Italy
+  - Rule of Law
+  - Judiciary
+  - Constitutional Reform
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:10Z
+status: stable
 ---
 # High Council for the Judiciary issued critical opinion on the draft constitutional reform
 

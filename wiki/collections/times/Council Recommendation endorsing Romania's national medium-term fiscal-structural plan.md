@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:06:56Z
-tags: [Romania, European Union, Fiscal Policy, Council Recommendation, MTP]
+tags:
+  - Romania
+  - European Union
+  - Fiscal Policy
+  - Council Recommendation
+  - MTP
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:06:56Z
+status: stable
 ---
 # Council Recommendation endorsing Romania's national medium-term fiscal-structural plan
 

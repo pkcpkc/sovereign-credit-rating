@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:24:05Z
 tags:
   - IMF
   - Poland
@@ -11,6 +10,10 @@ tags:
   - Financial Stability
   - Sovereign Risk
   - Euro Area
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:24:05Z
+status: stable
 ---
 # IMF Executive Board Consideration of Staff Report
 

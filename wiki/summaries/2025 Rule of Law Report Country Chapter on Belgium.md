@@ -12,8 +12,8 @@ tags:
 assets:
   - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law
     Report Belgium.md
-  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law Report
-    Belgium.md
+  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+    Report Belgium.md
 concepts:
   - Judicial independence
   - Judicial efficiency
@@ -207,7 +207,19 @@ times:
       transparency framework
   - date: 2024-12-19
     title: Act adopted on amicable settlements of cases to reduce backlogs
-timestamp: 2026-07-05T11:18:18Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:18:18Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Rule of Law Report Belgium.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of
+      Law Report Belgium.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Rule of Law Report Belgium.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+      Report Belgium.md
 ---
 # Summary of: 2025 Rule of Law Report: Country Chapter on Belgium
 

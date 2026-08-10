@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T14:17:59Z
-tags: [Sovereign Ratings, Fitch Ratings, External Finances, Reserve Currency, Macro-Financial Stability]
+tags:
+  - Sovereign Ratings
+  - Fitch Ratings
+  - External Finances
+  - Reserve Currency
+  - Macro-Financial Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:17:59Z
+status: stable
 ---
 
 # Reserve-currency flexibility

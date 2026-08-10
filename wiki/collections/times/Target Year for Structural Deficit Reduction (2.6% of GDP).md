@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:22:26Z
 tags:
   - Malta
   - Fiscal Policy
   - Economic Targets
   - European Union
   - IMF Article IV Consultation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:22:26Z
+status: stable
 ---
 # Target Year for Structural Deficit Reduction (2.6% of GDP)
 

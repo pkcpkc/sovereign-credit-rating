@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:10:00Z
 tags:
   - Sovereign Credit Rating
   - Institutional Quality
@@ -46,6 +45,10 @@ tags:
   - Excessive Deficit Procedure
   - Commercial Real Estate
   - Demographic Aging
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:10:00Z
+status: stable
 ---
 
 # Institutional strength

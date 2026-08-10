@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:16:43Z
 tags:
   - Financial Stability
   - Macroeconomic Policy
@@ -7,6 +6,10 @@ tags:
   - IMF
   - Real Estate
   - Macroprudential Measures
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:16:43Z
+status: stable
 ---
 # Borrower-based measures (KIM-V) for residential real estate lapse; CRE buffer (SSyRB) becomes effective
 

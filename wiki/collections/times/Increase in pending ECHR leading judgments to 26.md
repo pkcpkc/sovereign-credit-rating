@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:10:34Z
 tags:
   - Rule of Law
   - European Court of Human Rights
   - France
   - Judicial System
   - Human Rights
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:34Z
+status: stable
 ---
 # Increase in pending ECHR leading judgments to 26
 

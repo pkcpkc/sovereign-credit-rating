@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:25:32Z
-tags: [Fitch Ratings, Sovereign Credit Ratings, Methodology, Effective Dates, Credit Rating Criteria]
+tags:
+  - Fitch Ratings
+  - Sovereign Credit Ratings
+  - Methodology
+  - Effective Dates
+  - Credit Rating Criteria
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:25:32Z
+status: stable
 ---
 # Effective end date for Sovereign Rating Criteria
 

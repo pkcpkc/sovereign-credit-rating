@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:04:39Z
-tags: [European Court of Justice, Hungary, Agricultural Policy, State Aid, EU Law, Economic Governance]
+tags:
+  - European Court of Justice
+  - Hungary
+  - Agricultural Policy
+  - State Aid
+  - EU Law
+  - Economic Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:04:39Z
+status: stable
 ---
 # European Court of Justice ruling on Hungarian agricultural price caps
 

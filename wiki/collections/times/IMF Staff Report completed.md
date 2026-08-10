@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:19:33Z
 tags:
   - IMF
   - France
@@ -10,6 +9,10 @@ tags:
   - Sovereign Debt
   - Monetary Policy
   - Geoeconomic Fragmentation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:19:33Z
+status: stable
 ---
 # IMF Staff Report completed
 

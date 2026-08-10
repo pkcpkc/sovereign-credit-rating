@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:18:03Z
-tags: [France, IMF, Fiscal Policy, Economic Resilience, Debt Sustainability]
+tags:
+  - France
+  - IMF
+  - Fiscal Policy
+  - Economic Resilience
+  - Debt Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:18:03Z
+status: stable
 ---
 # French economic resilience and fiscal slippages
 

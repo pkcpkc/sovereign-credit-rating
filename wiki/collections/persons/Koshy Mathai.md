@@ -2,12 +2,15 @@
 role: Director
 organization: IMF Western Hemisphere Department
 countries_covered: []
-timestamp: 2026-07-05T11:23:26Z
 tags:
   - IMF
   - Sovereign Risk Analysis
   - Article IV Consultation
   - International Monetary Fund
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:23:26Z
+status: stable
 ---
 
 # Koshy Mathai

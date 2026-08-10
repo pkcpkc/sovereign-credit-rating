@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:10:37Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [ Rule of Law, European Union, France, Judicial Independence, European Court of Human Rights ] # Array | Optional | Categorization tags.
+tags:
+  - Rule of Law
+  - European Union
+  - France
+  - Judicial Independence
+  - European Court of Human Rights
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:37Z
+status: stable
 ---
 # Pending ECHR leading judgments decrease to 22
 

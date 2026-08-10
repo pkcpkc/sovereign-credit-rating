@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T11:47:33Z
 tags:
   - macroeconomics
   - sovereign-credit-rating
@@ -11,6 +10,10 @@ tags:
   - competitiveness
   - green-transition
   - energy-dependency
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:47:33Z
+status: stable
 ---
 
 # energy transition

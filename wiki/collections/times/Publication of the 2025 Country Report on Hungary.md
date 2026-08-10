@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:04:08Z
 tags:
   - European Union
   - Hungary
@@ -8,6 +7,10 @@ tags:
   - Sovereign Risk
   - Macro-Economic Imbalance
   - European Semester
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:04:08Z
+status: stable
 ---
 # Publication of the 2025 Country Report on Hungary
 

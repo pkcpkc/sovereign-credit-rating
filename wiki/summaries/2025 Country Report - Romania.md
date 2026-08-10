@@ -9,8 +9,8 @@ tags:
   - Macroeconomic Stability
   - Sustainable Development
 assets:
-  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country Report
-    Romania.md
+  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+    Report Romania.md
   - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country Report
     Romania.md
 concepts:
@@ -241,7 +241,19 @@ times:
     title: Real GDP growth decelerates to 0.8%; Government deficit reaches 9.3% of GDP
   - date: "2025"
     title: Projected GDP growth of 1.4%; Target budget deficit of 7% of GDP
-timestamp: 2026-07-05T11:16:17Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:16:17Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Country Report Romania.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+      Report Romania.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Country Report Romania.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country
+      Report Romania.md
 ---
 # Summary of: 2025 Country Report - Romania
 

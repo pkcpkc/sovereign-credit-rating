@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T11:31:17Z
-tags: [Sovereign Credit Rating, Rating Methodology, Financial Risk Analysis, Macroeconomic Assessment, Debt Sustainability]
+tags:
+  - Sovereign Credit Rating
+  - Rating Methodology
+  - Financial Risk Analysis
+  - Macroeconomic Assessment
+  - Debt Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:31:17Z
+status: stable
 ---
 
 # sovereign credit risk

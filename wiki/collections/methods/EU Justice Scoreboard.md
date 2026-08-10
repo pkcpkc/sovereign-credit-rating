@@ -1,7 +1,6 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:33:57Z
 tags:
   - Rule of Law
   - European Union
@@ -10,6 +9,10 @@ tags:
   - EU Justice Scoreboard
   - Poland
   - Judicial Independence
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:33:57Z
+status: stable
 ---
 
 # EU Justice Scoreboard

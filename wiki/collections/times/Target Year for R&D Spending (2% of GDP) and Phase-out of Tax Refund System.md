@@ -1,6 +1,10 @@
 ---
-timestamp: 2026-07-05T16:22:33Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [ string ] # Array | Optional | Categorization tags.
+tags:
+  - string
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:22:33Z
+status: stable
 ---
 # Target Year for R&D Spending (2% of GDP) and Phase-out of Tax Refund System
 

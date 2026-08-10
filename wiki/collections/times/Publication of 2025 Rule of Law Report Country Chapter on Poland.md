@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:13:36Z
 tags:
   - Rule of Law
   - Poland
@@ -8,6 +7,10 @@ tags:
   - Anti-Corruption
   - Media Freedom
   - Institutional Strength
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:13:36Z
+status: stable
 ---
 # Publication of 2025 Rule of Law Report Country Chapter on Poland
 

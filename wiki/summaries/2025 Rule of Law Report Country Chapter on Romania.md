@@ -12,8 +12,8 @@ tags:
 assets:
   - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law
     Report Romania.md
-  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law Report
-    Romania.md
+  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+    Report Romania.md
 concepts:
   - institutional strength
   - policy credibility
@@ -178,7 +178,19 @@ times:
       rules
   - date: 2024-12-30
     title: Law strengthening criminalisation of foreign bribery enters into force
-timestamp: 2026-07-05T11:21:28Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:21:28Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Rule of Law Report Romania.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of
+      Law Report Romania.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Rule of Law Report Romania.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+      Report Romania.md
 ---
 # Summary of: 2025 Rule of Law Report: Country Chapter on Romania
 

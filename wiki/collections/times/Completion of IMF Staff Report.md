@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:22:58Z
 tags:
   - IMF
   - Belgium
@@ -14,6 +13,10 @@ tags:
   - Monetary Policy
   - Structural Reforms
   - Next Generation EU
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:22:58Z
+status: stable
 ---
 # Completion of IMF Staff Report
 

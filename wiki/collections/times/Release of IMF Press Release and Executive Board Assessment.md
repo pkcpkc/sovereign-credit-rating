@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:23:30Z
-tags: [IMF, Poland, Article IV Consultation, Macroeconomic Policy, Fiscal Sustainability, Monetary Policy, Executive Board]
+tags:
+  - IMF
+  - Poland
+  - Article IV Consultation
+  - Macroeconomic Policy
+  - Fiscal Sustainability
+  - Monetary Policy
+  - Executive Board
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:23:30Z
+status: stable
 ---
 # Release of IMF Press Release and Executive Board Assessment
 

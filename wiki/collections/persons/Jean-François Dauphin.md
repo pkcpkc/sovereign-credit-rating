@@ -3,13 +3,16 @@ role: Mission Chief
 organization: IMF
 countries_covered:
   - Belgium
-timestamp: 2026-07-05T15:46:53Z
 tags:
   - IMF
   - Article IV Consultation
   - Belgium
   - Sovereign Risk Analysis
   - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:46:53Z
+status: stable
 ---
 
 # Jean-François Dauphin

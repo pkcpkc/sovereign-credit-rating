@@ -2,8 +2,14 @@
 role: Analyst
 organization: Fitch Ratings
 countries_covered: []
-timestamp: 2026-07-05T15:52:01Z
-tags: [ Sovereign Ratings, Fitch Ratings, Credit Rating Methodology ]
+tags:
+  - Sovereign Ratings
+  - Fitch Ratings
+  - Credit Rating Methodology
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:52:01Z
+status: stable
 ---
 
 # Rob Shearman

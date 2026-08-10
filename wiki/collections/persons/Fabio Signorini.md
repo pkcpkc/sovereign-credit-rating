@@ -3,13 +3,16 @@ role: Senior Deputy Governor
 organization: Bank of Italy
 countries_covered:
   - Italy
-timestamp: 2026-07-05T15:48:39Z
 tags:
   - Central Banking
   - IMF Article IV
   - Italy
   - Financial Stability
   - Sovereign Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:48:39Z
+status: stable
 ---
 
 # Fabio Signorini

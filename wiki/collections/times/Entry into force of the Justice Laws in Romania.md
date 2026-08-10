@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:14:29Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [ Rule of Law, Romania, Justice Laws, Venice Commission, Judicial Independence ]
+tags:
+  - Rule of Law
+  - Romania
+  - Justice Laws
+  - Venice Commission
+  - Judicial Independence
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:14:29Z
+status: stable
 ---
 # Entry into force of the Justice Laws in Romania
 

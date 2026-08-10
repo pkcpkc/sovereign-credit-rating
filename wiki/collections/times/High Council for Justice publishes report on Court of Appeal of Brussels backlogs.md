@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:09:32Z
 tags:
   - Rule of Law
   - Justice System
@@ -7,6 +6,10 @@ tags:
   - Judicial Efficiency
   - High Council for Justice
   - Court of Appeal
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:09:32Z
+status: stable
 ---
 # High Council for Justice publishes report on Court of Appeal of Brussels backlogs
 

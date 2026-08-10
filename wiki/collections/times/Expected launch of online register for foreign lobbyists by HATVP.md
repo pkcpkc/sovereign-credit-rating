@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:10:26Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [Anti-Corruption, France, Transparency, Lobbying, HATVP, Rule of Law] # Array | Optional | Categorization tags.
+tags:
+  - Anti-Corruption
+  - France
+  - Transparency
+  - Lobbying
+  - HATVP
+  - Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:26Z
+status: stable
 ---
 # Expected launch of online register for foreign lobbyists by HATVP
 

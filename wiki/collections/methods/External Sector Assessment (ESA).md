@@ -1,8 +1,17 @@
 ---
 agency: International Monetary Fund (IMF)
 last_updated: 2025
-timestamp: 2026-07-05T11:24:09Z
-tags: [ IMF, External Sector, Macroeconomics, Sovereign Credit Rating, Article IV Consultation, France ]
+tags:
+  - IMF
+  - External Sector
+  - Macroeconomics
+  - Sovereign Credit Rating
+  - Article IV Consultation
+  - France
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:24:09Z
+status: stable
 ---
 
 # External Sector Assessment (ESA)

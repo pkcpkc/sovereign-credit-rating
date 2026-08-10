@@ -1,13 +1,16 @@
 ---
 agency: S&P Global Ratings
 last_updated: 2017
-timestamp: 2026-07-05T11:29:46Z
 tags:
   - Sovereign Credit Rating
   - Contingent Liabilities
   - Banking Risk
   - S&P Global Ratings
   - Methodology
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:29:46Z
+status: stable
 ---
 
 # Banking Industry Country Risk Analysis (BICRA)

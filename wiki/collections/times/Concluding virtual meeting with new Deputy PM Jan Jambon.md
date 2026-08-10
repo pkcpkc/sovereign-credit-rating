@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:17:14Z
-tags: [IMF, Belgium, Fiscal Policy, Debt Sustainability, Labor Market Reform, Financial Stability, Jan Jambon]
+tags:
+  - IMF
+  - Belgium
+  - Fiscal Policy
+  - Debt Sustainability
+  - Labor Market Reform
+  - Financial Stability
+  - Jan Jambon
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:17:14Z
+status: stable
 ---
 # Concluding virtual meeting with new Deputy PM Jan Jambon
 

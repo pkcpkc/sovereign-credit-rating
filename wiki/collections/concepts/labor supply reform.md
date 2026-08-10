@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T13:14:17Z
 tags:
   - Structural Reform
   - Labor Market Policy
   - Macroeconomic Stability
   - Sovereign Credit Risk
   - Austria
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:14:17Z
+status: stable
 ---
 
 # labor supply reform

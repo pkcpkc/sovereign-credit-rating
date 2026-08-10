@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:11:42Z
 tags:
   - Italy
   - Security Law
@@ -9,6 +8,10 @@ tags:
   - Institutional Checks and Balances
   - Parliament
   - European Commission
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:11:42Z
+status: stable
 ---
 # Parliament adopted the new Security Law
 

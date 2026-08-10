@@ -11,8 +11,8 @@ tags:
   - Education
   - Social Fairness
 assets:
-  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country Report
-    Poland.md
+  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+    Report Poland.md
   - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country Report
     Poland.md
 concepts:
@@ -183,7 +183,19 @@ times:
     title: Submission of Poland's Annual Progress Report on fiscal plan implementation
   - date: 2025-06-30
     title: Projected operational start of the Polish Fiscal Council
-timestamp: 2026-07-05T11:15:10Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:15:10Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Country Report Poland.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+      Report Poland.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Country Report Poland.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country
+      Report Poland.md
 ---
 # Summary of: EU Commission 2025 Country Report: Poland
 

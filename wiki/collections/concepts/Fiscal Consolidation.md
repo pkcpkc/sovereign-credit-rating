@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:53:38Z
 tags:
   - Fiscal Policy
   - Macroeconomics
@@ -27,6 +26,10 @@ tags:
   - Financial Stability
   - NGEU Funds
   - Fiscal Council
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:53:38Z
+status: stable
 ---
 
 # Fiscal consolidation

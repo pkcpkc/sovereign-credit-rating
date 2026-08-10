@@ -1,8 +1,15 @@
 ---
 agency: International Monetary Fund (IMF)
 last_updated: 2024
-timestamp: 2026-07-05T15:40:09Z
-tags: [External Sector, Macroeconomic Analysis, IMF, Balance of Payments]
+tags:
+  - External Sector
+  - Macroeconomic Analysis
+  - IMF
+  - Balance of Payments
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:40:09Z
+status: stable
 ---
 
 # External Balance Assessment (EBA-lite)

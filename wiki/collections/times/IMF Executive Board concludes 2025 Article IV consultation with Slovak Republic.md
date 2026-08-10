@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:23:55Z
-tags: [Slovakia, IMF Article IV, Fiscal Consolidation, Euro Area, Debt Sustainability, Structural Reforms]
+tags:
+  - Slovakia
+  - IMF Article IV
+  - Fiscal Consolidation
+  - Euro Area
+  - Debt Sustainability
+  - Structural Reforms
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:23:55Z
+status: stable
 ---
 # IMF Executive Board concludes 2025 Article IV consultation with Slovak Republic
 

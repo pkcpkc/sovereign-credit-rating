@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:17:06Z
-tags: [ Belgium, Politics, IMF, Fiscal Policy, European Union, Government Formation ]
+tags:
+  - Belgium
+  - Politics
+  - IMF
+  - Fiscal Policy
+  - European Union
+  - Government Formation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:17:06Z
+status: stable
 ---
 # Formation of new Belgian Federal Government
 

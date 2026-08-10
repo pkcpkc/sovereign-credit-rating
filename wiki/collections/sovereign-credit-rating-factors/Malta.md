@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:00:02Z
 tags:
   - Sovereign Credit
   - Macroeconomic Analysis
@@ -13,6 +12,10 @@ tags:
   - Anti-Corruption
   - Financial Stability
   - Climate Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:00:02Z
+status: stable
 ---
 
 # Malta

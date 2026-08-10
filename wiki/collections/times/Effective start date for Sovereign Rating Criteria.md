@@ -1,6 +1,13 @@
 ---
-timestamp: 2026-07-05T16:25:26Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [ "Fitch Ratings", "Sovereign Credit", "Rating Methodology", "Climate Risk" ] # Array | Optional | Categorization tags.
+tags:
+  - Fitch Ratings
+  - Sovereign Credit
+  - Rating Methodology
+  - Climate Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:25:26Z
+status: stable
 ---
 # Effective start date for Sovereign Rating Criteria
 

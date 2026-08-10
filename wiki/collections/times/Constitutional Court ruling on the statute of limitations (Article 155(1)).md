@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:14:33Z
-tags: [ Constitutional Court of Romania, Statute of Limitations, Anti-Corruption, Judicial Independence, Rule of Law ]
+tags:
+  - Constitutional Court of Romania
+  - Statute of Limitations
+  - Anti-Corruption
+  - Judicial Independence
+  - Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:14:33Z
+status: stable
 ---
 # Constitutional Court ruling on the statute of limitations (Article 155(1))
 

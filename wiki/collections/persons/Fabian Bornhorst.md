@@ -2,12 +2,15 @@
 role: Deputy Director, European Department
 organization: International Monetary Fund (IMF)
 countries_covered: []
-timestamp: 2026-07-05T11:27:34Z
 tags:
   - IMF
   - European Department
   - Sovereign Analysis
   - Article IV Consultation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:27:34Z
+status: stable
 ---
 
 # Fabian Bornhorst

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:08:38Z
 tags:
   - Social Policy
   - Fiscal Sustainability
@@ -10,6 +9,10 @@ tags:
   - Malta
   - Labor Market
   - Inequality
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:08:38Z
+status: stable
 ---
 
 # social protection adequacy

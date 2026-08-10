@@ -3,12 +3,15 @@ role: IMF Staff
 organization: International Monetary Fund
 countries_covered:
   - Austria
-timestamp: 2026-07-05T11:22:39Z
 tags:
   - IMF
   - Sovereign Credit Risk
   - Macroeconomic Stability
   - Austria
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:22:39Z
+status: stable
 ---
 
 # Mr. Mohommad

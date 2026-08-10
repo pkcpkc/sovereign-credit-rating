@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:16:37Z
-tags: [ IMF, Austria, Article IV Consultation, Macroeconomic Stability, Fiscal Policy ]
+tags:
+  - IMF
+  - Austria
+  - Article IV Consultation
+  - Macroeconomic Stability
+  - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:16:37Z
+status: stable
 ---
 # Mission began in Vienna
 

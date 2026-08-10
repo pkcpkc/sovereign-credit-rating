@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:12:23Z
 tags:
   - Italy
   - Justice System
   - Judicial Appointments
   - High Council for the Judiciary
   - Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:23Z
+status: stable
 ---
 # High Council approved directive concerning out-of-tenure appointments for magistrates
 

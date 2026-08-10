@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:12:19Z
 tags:
   - Italy
   - Media Freedom
   - RAI
   - European Union
   - Rule of Law
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:19Z
+status: stable
 ---
 # Six legislative proposals to reform RAI presented in the Senate
 

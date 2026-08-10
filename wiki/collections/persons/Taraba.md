@@ -3,12 +3,15 @@ role: Minister of the Environment
 organization: Government of Slovakia
 countries_covered:
   - Slovakia
-timestamp: 2026-07-05T11:29:03Z
 tags:
   - Slovakia
   - Government Official
   - IMF Article IV
   - Sovereign Analysis
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:29:03Z
+status: stable
 ---
 
 # Taraba

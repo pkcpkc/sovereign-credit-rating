@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T11:36:42Z
 tags:
   - Labour Market
   - Macroeconomics
@@ -7,6 +6,10 @@ tags:
   - Sovereign Risk
   - Belgium
   - EU Economic Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:36:42Z
+status: stable
 ---
 
 # labour market participation

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:05:12Z
 tags:
   - Italy
   - Fiscal Policy
@@ -7,6 +6,10 @@ tags:
   - Medium-Term Fiscal-Structural Plan
   - Sovereign Credit Rating
   - Structural Reforms
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:05:12Z
+status: stable
 ---
 # Submission of Italy's Medium-Term Fiscal-Structural Plan
 

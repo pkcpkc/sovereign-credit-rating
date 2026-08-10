@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:18:33Z
 tags:
   - France
   - Macroeconomic Forecasts
   - IMF Article IV Consultation
   - Fiscal Policy
   - Cercle des prévisionnistes
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:18:33Z
+status: stable
 ---
 # First meeting of 'Cercle des prévisionnistes' on macroeconomic forecasts
 

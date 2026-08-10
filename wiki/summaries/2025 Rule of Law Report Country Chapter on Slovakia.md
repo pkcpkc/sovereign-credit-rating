@@ -12,8 +12,8 @@ tags:
 assets:
   - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law
     Report Slovakia.md
-  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law Report
-    Slovakia.md
+  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+    Report Slovakia.md
 concepts:
   - judicial independence
   - anti-corruption framework
@@ -155,7 +155,19 @@ times:
     title: Record of 31 pending ECtHR leading judgments
   - date: 2025-06-16
     title: Number of pending ECtHR leading judgments rises to 33
-timestamp: 2026-07-05T11:21:54Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:21:54Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Rule of Law Report Slovakia.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of
+      Law Report Slovakia.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Rule of Law Report Slovakia.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+      Report Slovakia.md
 ---
 # Summary of: 2025 Rule of Law Report: Country Chapter on Slovakia
 

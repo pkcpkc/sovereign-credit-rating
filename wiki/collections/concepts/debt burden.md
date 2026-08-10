@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T11:38:48Z
-tags: [Fiscal Policy, Sovereign Credit Risk, Macroeconomic Stability, France, EU Economic Governance]
+tags:
+  - Fiscal Policy
+  - Sovereign Credit Risk
+  - Macroeconomic Stability
+  - France
+  - EU Economic Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:38:48Z
+status: stable
 ---
 
 # debt burden

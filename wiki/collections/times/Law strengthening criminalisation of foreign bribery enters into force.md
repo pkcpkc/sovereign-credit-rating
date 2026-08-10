@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:15:28Z
-tags: [Romania, Anti-Corruption, Rule of Law, Legislation, European Union]
+tags:
+  - Romania
+  - Anti-Corruption
+  - Rule of Law
+  - Legislation
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:15:28Z
+status: stable
 ---
 # Law strengthening criminalisation of foreign bribery enters into force
 

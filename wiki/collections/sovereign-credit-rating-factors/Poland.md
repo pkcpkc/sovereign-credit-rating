@@ -1,6 +1,20 @@
 ---
-timestamp: 2026-07-05T16:00:47Z
-tags: [Poland, Sovereign Credit, EU, Fiscal Policy, Rule of Law, Judicial Independence, IMF, Article IV, Macroeconomic Policy, Fiscal Sustainability, Monetary Policy]
+tags:
+  - Poland
+  - Sovereign Credit
+  - EU
+  - Fiscal Policy
+  - Rule of Law
+  - Judicial Independence
+  - IMF
+  - Article IV
+  - Macroeconomic Policy
+  - Fiscal Sustainability
+  - Monetary Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:00:47Z
+status: stable
 ---
 
 # Poland

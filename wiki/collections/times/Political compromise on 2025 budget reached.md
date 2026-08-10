@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:18:21Z
 tags:
   - France
   - Fiscal Policy
@@ -7,6 +6,10 @@ tags:
   - Political Compromise
   - IMF Consultation
   - Public Finance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:18:21Z
+status: stable
 ---
 # Political compromise on 2025 budget reached
 

@@ -3,13 +3,16 @@ role: Central Bank Governor
 organization: Banque de France
 countries_covered:
   - France
-timestamp: 2026-07-05T15:47:22Z
 tags:
   - Central Banking
   - Monetary Policy
   - Financial Stability
   - Sovereign Credit Rating
   - France
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:47:22Z
+status: stable
 ---
 
 # François Villeroy de Galhau

@@ -3,12 +3,15 @@ role: Department Head
 organization: IMF
 countries_covered:
   - Italy
-timestamp: 2026-07-05T15:48:17Z
 tags:
   - IMF
   - Sovereign Risk
   - Italy
   - Article IV Consultation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:48:17Z
+status: stable
 ---
 
 # Rishi Goyal

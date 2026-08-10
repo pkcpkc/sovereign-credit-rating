@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:00:57Z
 tags:
   - Economic Growth
   - Labor Market
@@ -7,6 +6,10 @@ tags:
   - Sovereign Credit Rating
   - Poland
   - EU Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:00:57Z
+status: stable
 ---
 
 # Productivity

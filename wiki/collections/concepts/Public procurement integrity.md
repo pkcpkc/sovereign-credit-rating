@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:40:16Z
 tags:
   - Public Procurement
   - Anti-Corruption
@@ -13,6 +12,10 @@ tags:
   - Media Freedom
   - Investor Citizenship Scheme
   - Fiscal Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:40:16Z
+status: stable
 ---
 
 # Public Procurement Integrity

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:09:42Z
 tags:
   - Rule of Law
   - Belgium
@@ -7,6 +6,10 @@ tags:
   - Executive Power
   - Compliance
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:09:42Z
+status: stable
 ---
 # Joint memorandum of three highest courts requiring Government to respect court judgments
 

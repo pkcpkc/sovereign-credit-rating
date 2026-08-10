@@ -2,12 +2,15 @@
 role: Analytical Contact
 organization: S&P Global Ratings
 countries_covered: []
-timestamp: 2026-07-05T11:08:56Z
 tags:
   - Sovereign Credit Rating
   - Rating Methodology
   - Financial Risk Analysis
   - S&P Global Ratings
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:08:56Z
+status: stable
 ---
 
 # KimEng Tan

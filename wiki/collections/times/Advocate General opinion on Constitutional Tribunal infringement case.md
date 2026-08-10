@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:13:54Z
-tags: ["Rule of Law", "Poland", "European Union", "Judicial Independence", "Constitutional Tribunal", "CJEU", "Infringement Procedure"]
+tags:
+  - Rule of Law
+  - Poland
+  - European Union
+  - Judicial Independence
+  - Constitutional Tribunal
+  - CJEU
+  - Infringement Procedure
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:13:54Z
+status: stable
 ---
 # Advocate General opinion on Constitutional Tribunal infringement case
 

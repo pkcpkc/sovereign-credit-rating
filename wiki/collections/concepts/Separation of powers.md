@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T12:35:43Z
-tags: [Rule of Law, Sovereign Credit, Institutional Risk, Italy, Checks and Balances]
+tags:
+  - Rule of Law
+  - Sovereign Credit
+  - Institutional Risk
+  - Italy
+  - Checks and Balances
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:35:43Z
+status: stable
 ---
 
 # Separation of powers

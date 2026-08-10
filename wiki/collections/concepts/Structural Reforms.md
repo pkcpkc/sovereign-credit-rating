@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:11:48Z
 tags:
   - Economic Policy
   - Sovereign Credit Rating
@@ -35,6 +34,10 @@ tags:
   - Next Generation EU
   - Commercial Real Estate Risk
   - Automotive Sector Dependence
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:11:48Z
+status: stable
 ---
 
 # structural reforms

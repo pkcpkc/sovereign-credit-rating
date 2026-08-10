@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:04:20Z
-tags: [European Union, Hungary, Economic Governance, Fiscal Policy, European Semester]
+tags:
+  - European Union
+  - Hungary
+  - Economic Governance
+  - Fiscal Policy
+  - European Semester
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:04:20Z
+status: stable
 ---
 # Council Recommendation endorsing Hungary's medium-term fiscal-structural plan
 

@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:16:57Z
 tags:
   - Belgium
   - Fiscal Policy
   - Sovereign Debt
   - IMF
   - Government Bond
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:16:57Z
+status: stable
 ---
 # Expiration of €22 billion one-year government bond
 

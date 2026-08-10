@@ -1,13 +1,16 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:33:20Z
 tags:
   - European Union
   - Fiscal Policy
   - Recovery and Resilience Facility
   - Rule of Law
   - Sovereign Credit
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:33:20Z
+status: stable
 ---
 
 # Recovery and Resilience Plan

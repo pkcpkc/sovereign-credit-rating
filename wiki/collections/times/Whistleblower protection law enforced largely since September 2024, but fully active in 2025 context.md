@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:14:16Z
-tags: [Whistleblower Protection, Poland, Rule of Law, Anti-Corruption, EU Compliance]
+tags:
+  - Whistleblower Protection
+  - Poland
+  - Rule of Law
+  - Anti-Corruption
+  - EU Compliance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:14:16Z
+status: stable
 ---
 # Whistleblower protection law enforced largely since September 2024, but fully active in 2025 context
 

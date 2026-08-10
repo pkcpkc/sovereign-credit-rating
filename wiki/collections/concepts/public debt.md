@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T11:47:05Z
 tags:
   - Sovereign Risk
   - Fiscal Policy
   - Macroeconomic Stability
   - Public Finance
   - EU Economic Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:47:05Z
+status: stable
 ---
 
 # public debt

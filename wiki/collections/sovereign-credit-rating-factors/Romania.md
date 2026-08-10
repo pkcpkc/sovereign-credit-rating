@@ -1,6 +1,18 @@
 ---
-timestamp: 2026-07-05T15:56:33Z
-tags: [Romania, Sovereign Credit, EU Member, Fiscal Policy, Macroeconomic Stability, Rule of Law, Judicial Independence, Anti-Corruption, Media Freedom]
+tags:
+  - Romania
+  - Sovereign Credit
+  - EU Member
+  - Fiscal Policy
+  - Macroeconomic Stability
+  - Rule of Law
+  - Judicial Independence
+  - Anti-Corruption
+  - Media Freedom
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:56:33Z
+status: stable
 ---
 
 # Romania

@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:05:37Z
-tags: [ Maltese Economy, European Commission, Fiscal Policy, Macroeconomic Analysis, Data Release ]
+tags:
+  - Maltese Economy
+  - European Commission
+  - Fiscal Policy
+  - Macroeconomic Analysis
+  - Data Release
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:05:37Z
+status: stable
 ---
 # End of reporting period for 2024 outturn data
 

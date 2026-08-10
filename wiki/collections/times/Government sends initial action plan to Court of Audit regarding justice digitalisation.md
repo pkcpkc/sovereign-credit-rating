@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:09:28Z
 tags:
   - Justice System
   - Digitalisation
@@ -7,6 +6,10 @@ tags:
   - Belgium
   - Rule of Law
   - Judicial Efficiency
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:09:28Z
+status: stable
 ---
 # Government sends initial action plan to Court of Audit regarding justice digitalisation
 

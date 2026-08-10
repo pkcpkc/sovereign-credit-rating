@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:23:51Z
 tags:
   - Poland
   - Fiscal Policy
@@ -7,6 +6,10 @@ tags:
   - IMF
   - Sovereign Risk
   - Accountability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:23:51Z
+status: stable
 ---
 # Projected Operational Start of Independent Fiscal Council
 

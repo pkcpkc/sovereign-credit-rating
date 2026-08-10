@@ -1,13 +1,16 @@
 ---
 agency: Fitch Ratings
 last_updated: 2025-09-15
-timestamp: 2026-07-05T15:42:32Z
 tags:
   - Sovereign Ratings
   - Quantitative Model
   - Credit Rating Methodology
   - Fitch Ratings
   - Sovereign Rating Model
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:42:32Z
+status: stable
 ---
 
 # Ordinary Least Squares (OLS) regression

@@ -1,5 +1,6 @@
 ---
-title: "Times Index"
+title: Times Index
+status: stable
 ---
 # Times Index
 

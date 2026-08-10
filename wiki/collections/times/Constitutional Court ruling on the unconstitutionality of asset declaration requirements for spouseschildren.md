@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:14:57Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [Romania, Constitutional Court, Anti-Corruption, Rule of Law, Asset Declarations, Transparency]
+tags:
+  - Romania
+  - Constitutional Court
+  - Anti-Corruption
+  - Rule of Law
+  - Asset Declarations
+  - Transparency
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:14:57Z
+status: stable
 ---
 # Constitutional Court ruling on the unconstitutionality of asset declaration requirements for spouses/children
 

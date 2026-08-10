@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T11:10:45Z
 tags:
   - Labour Market
   - Fiscal Policy
@@ -7,6 +6,10 @@ tags:
   - Sovereign Credit Risk
   - Belgium
   - EU Economic Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:10:45Z
+status: stable
 ---
 
 # tax-wedge on labour

@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T13:14:28Z
-tags: [ EU Policy, Macroeconomic Stability, Structural Reform, Sovereign Credit Risk, Trade, Productivity ]
+tags:
+  - EU Policy
+  - Macroeconomic Stability
+  - Structural Reform
+  - Sovereign Credit Risk
+  - Trade
+  - Productivity
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:14:28Z
+status: stable
 ---
 
 # EU Single Market integration

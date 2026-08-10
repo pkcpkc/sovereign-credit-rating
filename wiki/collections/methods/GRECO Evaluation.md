@@ -1,13 +1,16 @@
 ---
 agency: GRECO (Group of States Against Corruption)
 last_updated: 2025
-timestamp: 2026-07-05T15:32:23Z
 tags:
   - Anti-Corruption
   - Rule of Law
   - Governance
   - Council of Europe
   - France
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:32:23Z
+status: stable
 ---
 
 # GRECO Evaluation

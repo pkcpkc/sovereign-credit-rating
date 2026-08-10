@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:54:16Z
 tags:
   - Governance
   - Rule of Law
@@ -12,6 +11,10 @@ tags:
   - Romania
   - France
   - Poland
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:54:16Z
+status: stable
 ---
 
 # Accountability

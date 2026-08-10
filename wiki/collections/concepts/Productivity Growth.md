@@ -1,6 +1,31 @@
 ---
-timestamp: 2026-07-05T13:43:56Z
-tags: [ economic-growth, structural-reform, sovereign-risk, productivity, labour-market, innovation, fiscal-sustainability, belgium, austria, italy, france, justice-system, regional-disparity, green-transition, imf-article-iv, commercial-real-estate, demographic-aging, ai-adoption, geoeconomic-fragmentation, r-and-d-investment, nrrp, external-balance ]
+tags:
+  - economic-growth
+  - structural-reform
+  - sovereign-risk
+  - productivity
+  - labour-market
+  - innovation
+  - fiscal-sustainability
+  - belgium
+  - austria
+  - italy
+  - france
+  - justice-system
+  - regional-disparity
+  - green-transition
+  - imf-article-iv
+  - commercial-real-estate
+  - demographic-aging
+  - ai-adoption
+  - geoeconomic-fragmentation
+  - r-and-d-investment
+  - nrrp
+  - external-balance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:43:56Z
+status: stable
 ---
 
 # productivity growth

@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T14:20:15Z
 tags:
   - Sovereign Credit Rating
   - Institutional Assessment
   - Debt Management
   - S&P Global Ratings
   - Country Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:20:15Z
+status: stable
 ---
 
 # Debt payment culture

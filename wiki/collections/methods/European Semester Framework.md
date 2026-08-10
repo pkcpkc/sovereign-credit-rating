@@ -1,7 +1,6 @@
 ---
 agency: European Commission
 last_updated: 2025-06-04
-timestamp: 2026-07-05T11:09:49Z
 tags:
   - European Semester
   - Country-Specific Recommendations
@@ -9,6 +8,10 @@ tags:
   - Macroeconomic Stability
   - Structural Reform
   - Debt Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:09:49Z
+status: stable
 ---
 
 # European Semester Framework

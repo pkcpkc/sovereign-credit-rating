@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:23:43Z
-tags: [Poland, Fiscal Policy, IMF, MTFSP, EU Excessive Deficit Procedure, Fiscal Consolidation, Macroeconomic Policy]
+tags:
+  - Poland
+  - Fiscal Policy
+  - IMF
+  - MTFSP
+  - EU Excessive Deficit Procedure
+  - Fiscal Consolidation
+  - Macroeconomic Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:23:43Z
+status: stable
 ---
 # Medium-Term Fiscal Structural Plan (MTFSP) Horizon
 

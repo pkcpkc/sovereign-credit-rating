@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:10:12Z
 tags:
   - France
   - Judicial Independence
   - Rule of Law
   - Legal Reform
   - Magistrates
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:12Z
+status: stable
 ---
 # Law reforming the status of magistrates enacted
 

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:13:18Z
 tags:
   - Macroeconomic Stability
   - Fiscal Sustainability
@@ -7,6 +6,10 @@ tags:
   - Labor Market
   - Structural Reform
   - Austria
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:13:18Z
+status: stable
 ---
 
 # demographic aging

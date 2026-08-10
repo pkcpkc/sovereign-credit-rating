@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T11:41:11Z
-tags: [ Social Policy, Inequality, Sovereign Risk, France, EU Governance, Fiscal Sustainability ]
+tags:
+  - Social Policy
+  - Inequality
+  - Sovereign Risk
+  - France
+  - EU Governance
+  - Fiscal Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:41:11Z
+status: stable
 ---
 
 # social fairness

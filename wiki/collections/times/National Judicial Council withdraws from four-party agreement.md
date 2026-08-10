@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:10:59Z
 tags:
   - Hungary
   - Judicial Independence
   - Rule of Law
   - European Union
   - Institutional Conflict
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:59Z
+status: stable
 ---
 # National Judicial Council withdraws from four-party agreement
 

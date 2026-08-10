@@ -1,8 +1,18 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:31:39Z
-tags: [Rule of Law, European Union, Governance, Institutional Strength, Judicial Independence, Anti-Corruption, Media Freedom]
+tags:
+  - Rule of Law
+  - European Union
+  - Governance
+  - Institutional Strength
+  - Judicial Independence
+  - Anti-Corruption
+  - Media Freedom
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:31:39Z
+status: stable
 ---
 
 # EU Rule of Law Mechanism

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:18:15Z
 tags:
   - France
   - Moody's
@@ -8,6 +7,10 @@ tags:
   - IMF
   - Economic Outlook
   - Debt Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:18:15Z
+status: stable
 ---
 # Moody's downgrades France's credit rating to Aa3
 

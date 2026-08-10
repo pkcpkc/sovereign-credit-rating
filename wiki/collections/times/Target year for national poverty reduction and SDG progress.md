@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:05:59Z
-tags: [ Malta, SDGs, Poverty Reduction, Social Policy, European Commission, Fiscal Sustainability ]
+tags:
+  - Malta
+  - SDGs
+  - Poverty Reduction
+  - Social Policy
+  - European Commission
+  - Fiscal Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:05:59Z
+status: stable
 ---
 # Target year for national poverty reduction and SDG progress
 

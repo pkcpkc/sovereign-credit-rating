@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:32:15Z
-tags: [Rule of Law, Sovereign Risk, Geopolitical Stability, Macroeconomic Policy, Hungary, Emergency Powers]
+tags:
+  - Rule of Law
+  - Sovereign Risk
+  - Geopolitical Stability
+  - Macroeconomic Policy
+  - Hungary
+  - Emergency Powers
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:32:15Z
+status: stable
 ---
 
 # Emergency Powers

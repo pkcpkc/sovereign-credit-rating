@@ -1,7 +1,6 @@
 ---
 agency: Fitch Ratings
 last_updated: Sept 2025
-timestamp: 2026-07-05T11:29:31Z
 tags:
   - Sovereign Ratings
   - Climate Risk
@@ -9,6 +8,10 @@ tags:
   - Fitch Ratings
   - Physical Risk
   - Transition Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:29:31Z
+status: stable
 ---
 
 # Relative Climate Risk Module (RCRM)

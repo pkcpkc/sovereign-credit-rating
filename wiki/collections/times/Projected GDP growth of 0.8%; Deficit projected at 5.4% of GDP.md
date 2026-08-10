@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:03:32Z
-tags: [Belgium, Economic Outlook, Fiscal Policy, EU Country Report, GDP Growth, Government Deficit]
+tags:
+  - Belgium
+  - Economic Outlook
+  - Fiscal Policy
+  - EU Country Report
+  - GDP Growth
+  - Government Deficit
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:03:32Z
+status: stable
 ---
 # Projected GDP growth of 0.8%; Deficit projected at 5.4% of GDP
 

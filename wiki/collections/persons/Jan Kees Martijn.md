@@ -3,12 +3,15 @@ role: Mission Head
 organization: International Monetary Fund (IMF)
 countries_covered:
   - Poland
-timestamp: 2026-07-05T11:27:34Z
 tags:
   - IMF
   - Article IV Consultation
   - Sovereign Risk
   - Economic Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:27:34Z
+status: stable
 ---
 
 # Jan Kees Martijn

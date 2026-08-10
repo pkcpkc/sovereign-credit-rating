@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:13:08Z
 tags:
   - Financial Stability
   - Sovereign Credit Risk
@@ -7,6 +6,10 @@ tags:
   - Macroeconomic Policy
   - Austria
   - IMF Article IV
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:13:08Z
+status: stable
 ---
 
 # commercial real estate risk

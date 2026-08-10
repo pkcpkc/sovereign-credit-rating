@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:27:34Z
 tags:
   - Rule of Law
   - Sovereign Credit Rating
@@ -7,6 +6,10 @@ tags:
   - Legislative Process
   - France
   - Policy Credibility
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:27:34Z
+status: stable
 ---
 
 # Legislative stability

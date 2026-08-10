@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T13:51:29Z
 tags:
   - Macroeconomics
   - Fiscal Policy
@@ -8,6 +7,10 @@ tags:
   - Structural Reform
   - Energy Security
   - Green Finance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:51:29Z
+status: stable
 ---
 
 # climate transition

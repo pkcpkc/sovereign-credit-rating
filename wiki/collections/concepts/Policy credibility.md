@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:53:45Z
 tags:
   - Rule of Law
   - Sovereign Credit Rating
@@ -14,6 +13,10 @@ tags:
   - Anti-Corruption
   - Legislative Stability
   - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:53:45Z
+status: stable
 ---
 
 # Policy credibility

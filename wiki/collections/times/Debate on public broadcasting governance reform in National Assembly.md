@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:10:29Z
-tags: [ France, Public Broadcasting, Media Governance, National Assembly, Rule of Law, ARCOM ]
+tags:
+  - France
+  - Public Broadcasting
+  - Media Governance
+  - National Assembly
+  - Rule of Law
+  - ARCOM
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:29Z
+status: stable
 ---
 # Debate on public broadcasting governance reform in National Assembly
 

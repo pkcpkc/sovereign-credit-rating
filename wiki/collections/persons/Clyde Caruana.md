@@ -3,13 +3,16 @@ role: Minister for Finance and Employment
 organization: Government of Malta
 countries_covered:
   - Malta
-timestamp: 2026-07-05T15:49:47Z
 tags:
   - Sovereign Debt
   - Fiscal Policy
   - IMF Consultation
   - Malta
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:49:47Z
+status: stable
 ---
 
 # Clyde Caruana

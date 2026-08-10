@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:16:32Z
-tags: [Sovereign Credit Risk, Rule of Law, Institutional Strength, Macroeconomic Policy, Fiscal Sustainability, Slovakia]
+tags:
+  - Sovereign Credit Risk
+  - Rule of Law
+  - Institutional Strength
+  - Macroeconomic Policy
+  - Fiscal Sustainability
+  - Slovakia
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:16:32Z
+status: stable
 ---
 
 # Anti-corruption

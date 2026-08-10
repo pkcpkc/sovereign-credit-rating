@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:13:22Z
 tags:
   - Rule of Law
   - Malta
@@ -8,6 +7,10 @@ tags:
   - Immigration
   - Administrative Justice
   - EU Rule of Law Report
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:13:22Z
+status: stable
 ---
 # European Court of Human Rights judgment on independence of Immigration Appeals Board
 

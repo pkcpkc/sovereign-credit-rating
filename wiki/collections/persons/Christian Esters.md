@@ -2,11 +2,14 @@
 role: Analytical Contact
 organization: S&P Global Ratings
 countries_covered: []
-timestamp: 2026-07-05T15:44:36Z
 tags:
   - Sovereign Credit Rating
   - S&P Global Ratings
   - Financial Risk Analysis
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:44:36Z
+status: stable
 ---
 
 # Christian Esters

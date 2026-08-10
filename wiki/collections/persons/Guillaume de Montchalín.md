@@ -3,12 +3,15 @@ role: Minister for Public Accounts
 organization: French Government
 countries_covered:
   - France
-timestamp: 2026-07-05T15:47:32Z
 tags:
   - France
   - Ministry of Finance
   - Fiscal Policy
   - Sovereign Credit Rating
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:47:32Z
+status: stable
 ---
 
 # Guillaume de Montchalín

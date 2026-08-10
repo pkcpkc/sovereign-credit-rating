@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:21:16Z
-tags: [Rule of Law, Justice System, Judicial Efficiency, Digital Governance, Belgium, Sovereign Risk]
+tags:
+  - Rule of Law
+  - Justice System
+  - Judicial Efficiency
+  - Digital Governance
+  - Belgium
+  - Sovereign Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:21:16Z
+status: stable
 ---
 
 # Digitalisation of justice

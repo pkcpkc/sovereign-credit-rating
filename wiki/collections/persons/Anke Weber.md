@@ -3,12 +3,15 @@ role: Head of Mission
 organization: IMF
 countries_covered:
   - Hungary
-timestamp: 2026-07-05T15:47:37Z
 tags:
   - IMF
   - Sovereign Credit Risk
   - Hungary Economy
   - Article IV Consultation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:47:37Z
+status: stable
 ---
 
 # Anke Weber

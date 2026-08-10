@@ -2,11 +2,14 @@
 role: Criteria Contact
 organization: S&P Global Ratings
 countries_covered: []
-timestamp: 2026-07-05T15:45:00Z
 tags:
   - Sovereign Credit Rating
   - Rating Methodology
   - S&P Global Ratings
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:45:00Z
+status: stable
 ---
 
 # Mark Puccia

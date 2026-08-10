@@ -1,6 +1,13 @@
 ---
-timestamp: 2026-07-05T16:02:17Z
-tags: [Energy, Austria, Geopolitics, Supply Chain]
+tags:
+  - Energy
+  - Austria
+  - Geopolitics
+  - Supply Chain
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:02:17Z
+status: stable
 ---
 # End of Russian gas transit through Ukraine
 

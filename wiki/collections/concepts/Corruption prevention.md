@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:33:54Z
 tags:
   - Rule of Law
   - Anti-Corruption
@@ -8,6 +7,10 @@ tags:
   - Institutional Integrity
   - Public Procurement
   - Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:33:54Z
+status: stable
 ---
 
 # Corruption prevention

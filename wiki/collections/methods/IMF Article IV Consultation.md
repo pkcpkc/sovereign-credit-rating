@@ -1,8 +1,22 @@
 ---
 agency: International Monetary Fund
 last_updated: 2025
-timestamp: 2026-07-05T15:37:04Z
-tags: [IMF, Article IV, Sovereign Risk, Fiscal Policy, Debt Sustainability, Structural Reform, Macroeconomic Surveillance, Financial Stability, Malta, Eurozone, AML/CFT]
+tags:
+  - IMF
+  - Article IV
+  - Sovereign Risk
+  - Fiscal Policy
+  - Debt Sustainability
+  - Structural Reform
+  - Macroeconomic Surveillance
+  - Financial Stability
+  - Malta
+  - Eurozone
+  - AML/CFT
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:37:04Z
+status: stable
 ---
 
 # IMF Article IV Consultation

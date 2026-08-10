@@ -1,10 +1,13 @@
 ---
-timestamp: 2026-07-05T16:04:04Z
 tags:
   - France
   - Fiscal Policy
   - European Semester
   - EU Economic Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:04:04Z
+status: stable
 ---
 # Submission of France's medium-term fiscal-structural plan
 

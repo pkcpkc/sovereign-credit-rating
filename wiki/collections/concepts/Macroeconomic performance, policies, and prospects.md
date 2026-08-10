@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:15:04Z
 tags:
   - Sovereign Ratings
   - Credit Rating Methodology
@@ -7,6 +6,10 @@ tags:
   - Fitch Ratings
   - Sovereign Rating Model
   - Qualitative Overlay
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:15:04Z
+status: stable
 ---
 
 # Macroeconomic performance, policies, and prospects

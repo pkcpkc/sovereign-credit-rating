@@ -1,6 +1,19 @@
 ---
-timestamp: 2026-07-05T12:28:09Z
-tags: [Rule of Law, Civic Space, Human Rights, Belgium, France, Democratic Stability, Credit Risk, Sovereign Credit, Judicial Independence, Media Freedom]
+tags:
+  - Rule of Law
+  - Civic Space
+  - Human Rights
+  - Belgium
+  - France
+  - Democratic Stability
+  - Credit Risk
+  - Sovereign Credit
+  - Judicial Independence
+  - Media Freedom
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:28:09Z
+status: stable
 ---
 
 # Civic space

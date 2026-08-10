@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T11:19:24Z
 tags:
   - Judicial Independence
   - Rule of Law
@@ -7,6 +6,10 @@ tags:
   - European Union
   - Judicial Reform
   - Sovereign Credit Rating
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:19:24Z
+status: stable
 ---
 
 # Case Allocation Transparency

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:11:52Z
 tags:
   - Rule of Law
   - European Union
@@ -9,6 +8,10 @@ tags:
   - Constitutional Law
   - Judicial Independence
   - Corruption Prevention
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:11:52Z
+status: stable
 ---
 # Constitutional Court declared the law abrogating the offence of abuse of public office compliant
 

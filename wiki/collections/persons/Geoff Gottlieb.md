@@ -3,7 +3,6 @@ role: Senior Resident Representative
 organization: IMF
 countries_covered:
   - Poland
-timestamp: 2026-07-05T11:27:34Z
 tags:
   - IMF
   - Article IV Consultation
@@ -11,6 +10,10 @@ tags:
   - Macroeconomic Policy
   - Fiscal Sustainability
   - Sovereign Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:27:34Z
+status: stable
 ---
 
 # Geoff Gottlieb

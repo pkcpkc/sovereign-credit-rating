@@ -2,13 +2,16 @@
 role: Analyst
 organization: Fitch Ratings
 countries_covered: []
-timestamp: 2026-07-05T15:51:48Z
 tags:
   - Sovereign Ratings
   - Credit Rating Methodology
   - Fitch Ratings
   - Climate Risk
   - Financial Sector Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:51:48Z
+status: stable
 ---
 
 # James Longsdon

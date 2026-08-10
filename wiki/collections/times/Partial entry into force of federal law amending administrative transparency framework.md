@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:10:03Z
 tags:
   - Belgium
   - Rule of Law
   - Administrative Transparency
   - Access to Public Documents
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:03Z
+status: stable
 ---
 # Partial entry into force of federal law amending administrative transparency framework
 

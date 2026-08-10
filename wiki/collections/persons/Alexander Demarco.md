@@ -3,12 +3,15 @@ role: Acting Governor
 organization: Central Bank of Malta
 countries_covered:
   - Malta
-timestamp: 2026-07-05T15:50:16Z
 tags:
   - Central Banking
   - Sovereign Risk
   - Financial Stability
   - Malta
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:50:16Z
+status: stable
 ---
 
 # Alexander Demarco

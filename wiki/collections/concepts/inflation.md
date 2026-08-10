@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T11:46:27Z
-tags: [Macroeconomics, Hungary, Inflation, Price Stability, Monetary Policy, Sovereign Risk]
+tags:
+  - Macroeconomics
+  - Hungary
+  - Inflation
+  - Price Stability
+  - Monetary Policy
+  - Sovereign Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:46:27Z
+status: stable
 ---
 
 # inflation

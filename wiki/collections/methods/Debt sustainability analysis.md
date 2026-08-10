@@ -1,7 +1,6 @@
 ---
 agency: European Commission, International Monetary Fund
 last_updated: 2025
-timestamp: 2026-07-05T15:26:19Z
 tags:
   - Fiscal Policy
   - Macroeconomic Assessment
@@ -9,6 +8,10 @@ tags:
   - Sovereign Risk
   - Debt Sustainability
   - IMF Article IV
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:26:19Z
+status: stable
 ---
 
 # Debt sustainability analysis

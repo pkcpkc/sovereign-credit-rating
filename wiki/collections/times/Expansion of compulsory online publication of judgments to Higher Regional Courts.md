@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:08:50Z
 tags:
   - Rule of Law
   - Austria
   - Judiciary
   - Digital Justice
   - Transparency
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:08:50Z
+status: stable
 ---
 # Expansion of compulsory online publication of judgments to Higher Regional Courts
 

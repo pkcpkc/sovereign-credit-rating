@@ -1,6 +1,47 @@
 ---
-timestamp: 2026-07-05T14:05:07Z
-tags: [ Macroeconomics, Sovereign Credit, Fiscal Policy, European Semester, IMF Article IV, Slovakia, Hungary, Austria, France, Italy, Malta, Public Debt, Energy Transition, Labor Market, Institutional Strength, Structural Reforms, Banking Sector, Rule of Law, Commercial Real Estate, Demographic Aging, Productivity Growth, Labor Supply, Monetary Policy, Geoeconomic Fragmentation, Sovereign-Bank Nexus, Contingent Liabilities, NRRP, Systemic Risk Buffer, Climate Risk, Financial Stability, Real Estate Exposure, Corporate Income Tax, AML/CFT, External Sector Assessment, Fiscal Consolidation, Debt Sustainability, Automotive Sector, Excessive Deficit Procedure ]
+tags:
+  - Macroeconomics
+  - Sovereign Credit
+  - Fiscal Policy
+  - European Semester
+  - IMF Article IV
+  - Slovakia
+  - Hungary
+  - Austria
+  - France
+  - Italy
+  - Malta
+  - Public Debt
+  - Energy Transition
+  - Labor Market
+  - Institutional Strength
+  - Structural Reforms
+  - Banking Sector
+  - Rule of Law
+  - Commercial Real Estate
+  - Demographic Aging
+  - Productivity Growth
+  - Labor Supply
+  - Monetary Policy
+  - Geoeconomic Fragmentation
+  - Sovereign-Bank Nexus
+  - Contingent Liabilities
+  - NRRP
+  - Systemic Risk Buffer
+  - Climate Risk
+  - Financial Stability
+  - Real Estate Exposure
+  - Corporate Income Tax
+  - AML/CFT
+  - External Sector Assessment
+  - Fiscal Consolidation
+  - Debt Sustainability
+  - Automotive Sector
+  - Excessive Deficit Procedure
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:05:07Z
+status: stable
 ---
 
 # macroeconomic stability

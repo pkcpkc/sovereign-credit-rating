@@ -1,6 +1,22 @@
 ---
-timestamp: 2026-07-05T12:02:24Z
-tags: [ labour market, structural reform, productivity, sovereign credit rating, Austria, France, Poland, European Semester, green transition, education, fiscal sustainability, VET, demographic decline ]
+tags:
+  - labour market
+  - structural reform
+  - productivity
+  - sovereign credit rating
+  - Austria
+  - France
+  - Poland
+  - European Semester
+  - green transition
+  - education
+  - fiscal sustainability
+  - VET
+  - demographic decline
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:02:24Z
+status: stable
 ---
 
 # skills shortages

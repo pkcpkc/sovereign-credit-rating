@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T11:36:18Z
-tags: [fiscal sustainability, demographic risk, public expenditure, Belgium, sovereign risk]
+tags:
+  - fiscal sustainability
+  - demographic risk
+  - public expenditure
+  - Belgium
+  - sovereign risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:36:18Z
+status: stable
 ---
 
 # ageing costs

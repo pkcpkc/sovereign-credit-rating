@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:04:49Z
-tags: ["Hungary", "EU Regulation", "Fiscal Policy", "Price Controls", "Personal Hygiene", "European Commission"]
+tags:
+  - Hungary
+  - EU Regulation
+  - Fiscal Policy
+  - Price Controls
+  - Personal Hygiene
+  - European Commission
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:04:49Z
+status: stable
 ---
 # Introduction of 15% margin cap for personal hygiene products
 

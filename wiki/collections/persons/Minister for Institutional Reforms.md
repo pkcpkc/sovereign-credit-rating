@@ -3,12 +3,15 @@ role: Minister
 organization: Italian Government
 countries_covered:
   - Italy
-timestamp: 2026-07-05T15:45:26Z
 tags:
   - Italy
   - Institutional Reforms
   - Rule of Law
   - Constitutional Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:45:26Z
+status: stable
 ---
 
 # Minister for Institutional Reforms

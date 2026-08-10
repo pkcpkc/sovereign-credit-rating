@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:14:19Z
 tags:
   - Rule of Law
   - Romania
@@ -7,6 +6,10 @@ tags:
   - Justice System
   - Anti-Corruption
   - Media Freedom
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:14:19Z
+status: stable
 ---
 # Publication of the 2025 Rule of Law Report Country Chapter on Romania
 

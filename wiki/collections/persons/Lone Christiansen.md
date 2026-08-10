@@ -3,13 +3,16 @@ role: IMF Staff Team Head
 organization: IMF
 countries_covered:
   - Italy
-timestamp: 2026-07-05T15:48:08Z
 tags:
   - IMF Article IV
   - Italy
   - Sovereign Risk
   - Fiscal Policy
   - Country Surveillance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:48:08Z
+status: stable
 ---
 
 # Lone Christiansen

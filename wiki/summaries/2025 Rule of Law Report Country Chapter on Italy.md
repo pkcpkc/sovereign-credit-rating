@@ -12,8 +12,8 @@ tags:
 assets:
   - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law
     Report Italy.md
-  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law Report
-    Italy.md
+  - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+    Report Italy.md
 concepts:
   - Judicial independence
   - Judicial efficiency
@@ -189,7 +189,19 @@ times:
   - date: 2024-03
     title: Legislative decrees implementing the reform of the justice system adopted
       by the Government
-timestamp: 2026-07-05T11:19:54Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:19:54Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Rule of Law Report Italy.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of
+      Law Report Italy.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Rule of Law Report Italy.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+      Report Italy.md
 ---
 # Summary of: 2025 Rule of Law Report: Country Chapter on Italy
 

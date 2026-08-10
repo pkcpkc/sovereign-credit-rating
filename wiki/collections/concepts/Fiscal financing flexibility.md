@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T14:18:47Z
-tags: [ Sovereign Ratings, Fitch Ratings, Public Finances, Credit Risk Methodology, Fiscal Policy ]
+tags:
+  - Sovereign Ratings
+  - Fitch Ratings
+  - Public Finances
+  - Credit Risk Methodology
+  - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:18:47Z
+status: stable
 ---
 
 # Fiscal financing flexibility

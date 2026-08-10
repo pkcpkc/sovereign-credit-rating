@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T13:17:13Z
-tags: [ fiscal policy, sovereign debt, IMF, Belgium, macroeconomics, credit rating ]
+tags:
+  - fiscal policy
+  - sovereign debt
+  - IMF
+  - Belgium
+  - macroeconomics
+  - credit rating
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:17:13Z
+status: stable
 ---
 
 # structural primary balance

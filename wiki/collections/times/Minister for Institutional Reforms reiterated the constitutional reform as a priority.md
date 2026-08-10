@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:12:16Z
 tags:
   - Italy
   - Constitutional Reform
@@ -7,6 +6,10 @@ tags:
   - Political Agenda
   - Separation of Powers
   - Minister for Institutional Reforms
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:16Z
+status: stable
 ---
 # Minister for Institutional Reforms reiterated the constitutional reform as a priority
 

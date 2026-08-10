@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:17:54Z
 tags:
   - IMF
   - Article IV
@@ -8,6 +7,10 @@ tags:
   - Debt Sustainability
   - Labor Market Reform
   - Financial Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:17:54Z
+status: stable
 ---
 # Current period context
 

@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:15:56Z
-tags: [Whistleblower Protection, Ministry of Interior, Slovakia, Rule of Law, Institutional Accountability, EU Rule of Law Report]
+tags:
+  - Whistleblower Protection
+  - Ministry of Interior
+  - Slovakia
+  - Rule of Law
+  - Institutional Accountability
+  - EU Rule of Law Report
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:15:56Z
+status: stable
 ---
 # Whistleblower Office fines Ministry of Interior
 

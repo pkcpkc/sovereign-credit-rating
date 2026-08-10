@@ -3,13 +3,16 @@ role: Head of Mission
 organization: International Monetary Fund (IMF)
 countries_covered:
   - France
-timestamp: 2026-07-05T11:24:09Z
 tags:
   - IMF
   - Article IV Consultation
   - France
   - Sovereign Risk
   - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:24:09Z
+status: stable
 ---
 
 # Manuela Goretti

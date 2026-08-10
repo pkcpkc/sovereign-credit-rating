@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T13:51:12Z
-tags: [AML/CFT, Financial Regulation, Sovereign Risk, Governance, Malta, Financial Stability, Judicial Reform]
+tags:
+  - AML/CFT
+  - Financial Regulation
+  - Sovereign Risk
+  - Governance
+  - Malta
+  - Financial Stability
+  - Judicial Reform
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:51:12Z
+status: stable
 ---
 
 # Anti-Money Laundering/Combating the Financing of Terrorism (AML/CFT)

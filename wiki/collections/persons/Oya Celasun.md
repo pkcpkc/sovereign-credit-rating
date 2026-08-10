@@ -4,7 +4,6 @@ organization: International Monetary Fund
 countries_covered:
   - Austria
   - Slovak Republic
-timestamp: 2026-07-05T15:46:22Z
 tags:
   - Sovereign Credit Risk
   - Macroeconomic Stability
@@ -15,6 +14,10 @@ tags:
   - Slovak Republic
   - Euro Area
   - Fiscal Consolidation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:46:22Z
+status: stable
 ---
 
 # Oya Celasun

@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T12:42:18Z
-tags: [Rule of Law, Anti-Corruption, Governance, Sovereign Credit, Institutional Integrity, Malta, European Union]
+tags:
+  - Rule of Law
+  - Anti-Corruption
+  - Governance
+  - Sovereign Credit
+  - Institutional Integrity
+  - Malta
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:42:18Z
+status: stable
 ---
 
 # Institutional Accountability

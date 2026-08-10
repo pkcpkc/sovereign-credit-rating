@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T11:15:10Z
 tags:
   - Sovereign Credit Risk
   - Fiscal Sustainability
@@ -7,6 +6,10 @@ tags:
   - Healthcare Policy
   - Poland
   - EU Country Reports
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:15:10Z
+status: stable
 ---
 
 # Healthcare system

@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:10:40Z
-tags: [Rule of Law, Hungary, European Union, Judicial Independence, Anti-Corruption, Media Freedom, Checks and Balances]
+tags:
+  - Rule of Law
+  - Hungary
+  - European Union
+  - Judicial Independence
+  - Anti-Corruption
+  - Media Freedom
+  - Checks and Balances
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:10:40Z
+status: stable
 ---
 # Publication of 2025 Rule of Law Report Hungary Country Chapter
 

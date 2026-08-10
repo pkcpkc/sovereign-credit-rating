@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T11:58:30Z
-tags: [Fiscal Sustainability, Macroeconomic Policy, Sovereign Credit, Healthcare, Aging Population]
+tags:
+  - Fiscal Sustainability
+  - Macroeconomic Policy
+  - Sovereign Credit
+  - Healthcare
+  - Aging Population
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:58:30Z
+status: stable
 ---
 
 # healthcare financing

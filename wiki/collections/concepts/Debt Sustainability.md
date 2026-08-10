@@ -1,6 +1,86 @@
 ---
-timestamp: 2026-07-05T14:16:21Z
-tags: [Sovereign Credit Rating, Fiscal Assessment, Macroeconomic Stability, S&P Global Ratings, Fitch Ratings, Public Finance, European Semester, Structural Reform, Demographics, Contingent Liabilities, Belgium, Austria, Hungary, Italy, Malta, Romania, Slovakia, Fiscal Sustainability, Ageing Costs, National Escape Clause, Institutional Weakness, Energy Security, Banking Sector Risk, Doom Loop, RRP, MTFSP, Aggressive Tax Planning, Revenue Leakage, Judicial Efficiency, Schengen Accession, Current Account Deficit, SOE Governance, Rule of Law, Anti-Corruption, Labour Productivity, Innovation Gap, Automotive Sector, EV Transition, VAT Reform, Pension Reform, IMF Article IV, Commercial Real Estate, Inflation Convergence, Labor Supply Reform, Euro Area, Wage Indexation, Financial Sector Resilience, Green Transition, Public Investment Efficiency, Geoeconomic Fragmentation, Sovereign-Bank Nexus, Monetary Policy Distortion, Italy Fiscal Policy, NRRP, Primary Surplus, Debt Maturity Profile, Energy Subsidies, AML/CFT, Climate Transition, Pillar II, Malta Vision 2050, Poland, Next Generation EU, CHF Mortgages, WIBOR, National Bank of Poland, Excessive Deficit Procedure, Fiscal Council, External Liquidity, Carbon Intensity, Council for Budgetary Responsibility, Mortgage Refixation, Sovereign Rating Model, Qualitative Overlay, Climate Vulnerability Signals, Debt Dynamics Model, Macro-Prudential Indicator]
+tags:
+  - Sovereign Credit Rating
+  - Fiscal Assessment
+  - Macroeconomic Stability
+  - S&P Global Ratings
+  - Fitch Ratings
+  - Public Finance
+  - European Semester
+  - Structural Reform
+  - Demographics
+  - Contingent Liabilities
+  - Belgium
+  - Austria
+  - Hungary
+  - Italy
+  - Malta
+  - Romania
+  - Slovakia
+  - Fiscal Sustainability
+  - Ageing Costs
+  - National Escape Clause
+  - Institutional Weakness
+  - Energy Security
+  - Banking Sector Risk
+  - Doom Loop
+  - RRP
+  - MTFSP
+  - Aggressive Tax Planning
+  - Revenue Leakage
+  - Judicial Efficiency
+  - Schengen Accession
+  - Current Account Deficit
+  - SOE Governance
+  - Rule of Law
+  - Anti-Corruption
+  - Labour Productivity
+  - Innovation Gap
+  - Automotive Sector
+  - EV Transition
+  - VAT Reform
+  - Pension Reform
+  - IMF Article IV
+  - Commercial Real Estate
+  - Inflation Convergence
+  - Labor Supply Reform
+  - Euro Area
+  - Wage Indexation
+  - Financial Sector Resilience
+  - Green Transition
+  - Public Investment Efficiency
+  - Geoeconomic Fragmentation
+  - Sovereign-Bank Nexus
+  - Monetary Policy Distortion
+  - Italy Fiscal Policy
+  - NRRP
+  - Primary Surplus
+  - Debt Maturity Profile
+  - Energy Subsidies
+  - AML/CFT
+  - Climate Transition
+  - Pillar II
+  - Malta Vision 2050
+  - Poland
+  - Next Generation EU
+  - CHF Mortgages
+  - WIBOR
+  - National Bank of Poland
+  - Excessive Deficit Procedure
+  - Fiscal Council
+  - External Liquidity
+  - Carbon Intensity
+  - Council for Budgetary Responsibility
+  - Mortgage Refixation
+  - Sovereign Rating Model
+  - Qualitative Overlay
+  - Climate Vulnerability Signals
+  - Debt Dynamics Model
+  - Macro-Prudential Indicator
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:16:21Z
+status: stable
 ---
 
 # Debt sustainability

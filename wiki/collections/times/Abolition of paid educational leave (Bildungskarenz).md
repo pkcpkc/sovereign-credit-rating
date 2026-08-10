@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:02:26Z
-tags: [ Austria, Fiscal Policy, Labor Market, Structural Reforms, European Commission ]
+tags:
+  - Austria
+  - Fiscal Policy
+  - Labor Market
+  - Structural Reforms
+  - European Commission
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:02:26Z
+status: stable
 ---
 # Abolition of paid educational leave (Bildungskarenz)
 

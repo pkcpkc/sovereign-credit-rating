@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:15:44Z
 tags:
   - Media Freedom
   - Slovakia
@@ -7,6 +6,10 @@ tags:
   - Rule of Law
   - Public Service Media
   - Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:15:44Z
+status: stable
 ---
 # Entry into force of Act on Slovak Television and Radio (STVR)
 

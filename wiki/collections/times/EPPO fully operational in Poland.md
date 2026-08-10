@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:13:47Z
 tags:
   - Poland
   - European Union
   - Judicial Independence
   - Anti-Corruption
   - EPPO
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:13:47Z
+status: stable
 ---
 # EPPO fully operational in Poland
 

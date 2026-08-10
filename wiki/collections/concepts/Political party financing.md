@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T11:18:18Z
-tags: [Political Finance, Anti-Corruption, Rule of Law, Belgium, Institutional Integrity]
+tags:
+  - Political Finance
+  - Anti-Corruption
+  - Rule of Law
+  - Belgium
+  - Institutional Integrity
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:18:18Z
+status: stable
 ---
 
 # Political party financing

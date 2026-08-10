@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:06:28Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: ["Poland", "EU Policy", "Fiscal Deficit", "Excessive Deficit Procedure", "Macroeconomics"]
+tags:
+  - Poland
+  - EU Policy
+  - Fiscal Deficit
+  - Excessive Deficit Procedure
+  - Macroeconomics
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:06:28Z
+status: stable
 ---
 # Council endorses Poland's medium-term fiscal-structural plan and initiates excessive deficit procedure
 

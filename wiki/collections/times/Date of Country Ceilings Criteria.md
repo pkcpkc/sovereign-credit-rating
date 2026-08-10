@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:25:40Z
-tags: [ Sovereign Ratings, Credit Rating Methodology, Fitch Ratings, Methodology Update, Country Ceilings ]
+tags:
+  - Sovereign Ratings
+  - Credit Rating Methodology
+  - Fitch Ratings
+  - Methodology Update
+  - Country Ceilings
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:25:40Z
+status: stable
 ---
 # Date of Country Ceilings Criteria
 

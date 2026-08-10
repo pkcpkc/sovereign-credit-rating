@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:50:58Z
 tags:
   - Civil Society
   - Rule of Law
@@ -9,6 +8,10 @@ tags:
   - Accountability
   - Poland
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:50:58Z
+status: stable
 ---
 
 # civil society

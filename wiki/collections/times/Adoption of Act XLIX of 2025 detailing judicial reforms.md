@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:11:12Z
 tags:
   - Judicial Reforms
   - Hungary
   - Rule of Law
   - Legislation
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:11:12Z
+status: stable
 ---
 # Adoption of Act XLIX of 2025 detailing judicial reforms
 

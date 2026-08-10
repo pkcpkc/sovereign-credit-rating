@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T13:50:31Z
 tags:
   - Fiscal Policy
   - Macroeconomic Analysis
   - Sovereign Risk
   - Climate Transition
   - Energy Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:50:31Z
+status: stable
 ---
 
 # energy subsidies

@@ -67,7 +67,15 @@ times:
     title: Date of previous Sovereign Rating Criteria
   - date: 2023-07
     title: Date of Country Ceilings Criteria
-timestamp: 2026-07-05T11:29:31Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:29:31Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/fitch.md
+    title: wiki/assets/20260705-000000/processed/fitch.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/fitch.md
+    title: wiki/assets/20260705-000000/sources/fitch.md
 ---
 # Summary of: Fitch Ratings Sovereign Rating Criteria (Effective 15 September 2025)
 

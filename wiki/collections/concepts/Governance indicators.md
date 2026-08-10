@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T14:16:10Z
-tags: [Fitch Ratings, Sovereign Credit Rating, Governance, Risk Assessment, Methodology]
+tags:
+  - Fitch Ratings
+  - Sovereign Credit Rating
+  - Governance
+  - Risk Assessment
+  - Methodology
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:16:10Z
+status: stable
 ---
 
 # Governance indicators

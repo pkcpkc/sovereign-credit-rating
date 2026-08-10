@@ -4,13 +4,16 @@ organization: International Monetary Fund (IMF)
 countries_covered:
   - Poland
   - European Area
-timestamp: 2026-07-05T15:50:33Z
 tags:
   - IMF
   - Sovereign Analysis
   - European Economy
   - Fiscal Policy
   - Monetary Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:50:33Z
+status: stable
 ---
 
 # Uma Ramakrishnan

@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:08:12Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [ Slovakia, Fiscal Policy, EU Economic Governance, Sovereign Debt, Macro Forecasts ] # Array | Optional | Categorization tags.
+tags:
+  - Slovakia
+  - Fiscal Policy
+  - EU Economic Governance
+  - Sovereign Debt
+  - Macro Forecasts
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:08:12Z
+status: stable
 ---
 # Projected government deficit of 5.1% and debt-to-GDP of 63.0%.
 

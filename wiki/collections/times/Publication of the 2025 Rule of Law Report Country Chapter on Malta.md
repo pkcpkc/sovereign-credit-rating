@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:12:33Z
-tags: [ Rule of Law, European Union, Malta, Judicial Independence, Anti-Corruption, Media Freedom, Public Procurement ]
+tags:
+  - Rule of Law
+  - European Union
+  - Malta
+  - Judicial Independence
+  - Anti-Corruption
+  - Media Freedom
+  - Public Procurement
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:12:33Z
+status: stable
 ---
 # Publication of the 2025 Rule of Law Report Country Chapter on Malta
 

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T11:14:24Z
 tags:
   - Tax Policy
   - Fiscal Sustainability
@@ -8,6 +7,10 @@ tags:
   - Malta
   - Revenue Leakage
   - Compliance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:14:24Z
+status: stable
 ---
 
 # aggressive tax planning

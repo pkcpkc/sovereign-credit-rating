@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:22:18Z
-tags: [International Monetary Fund, Malta, Excessive Deficit Procedure, Fiscal Policy, Eurozone, Macroeconomic Analysis]
+tags:
+  - International Monetary Fund
+  - Malta
+  - Excessive Deficit Procedure
+  - Fiscal Policy
+  - Eurozone
+  - Macroeconomic Analysis
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:22:18Z
+status: stable
 ---
 # Projected Entry into EU Excessive Deficit Procedure
 

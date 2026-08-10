@@ -3,12 +3,15 @@ role: Department Head
 organization: IMF
 countries_covered:
   - Hungary
-timestamp: 2026-07-05T11:25:01Z
 tags:
   - IMF
   - Sovereign Analysis
   - Hungary Economy
   - Article IV Consultation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:25:01Z
+status: stable
 ---
 
 # Jacques Miniane

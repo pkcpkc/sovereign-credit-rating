@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:21:34Z
-tags: [Italy, Fiscal Policy, IMF, Article IV Consultation, Economic Growth, Debt Sustainability]
+tags:
+  - Italy
+  - Fiscal Policy
+  - IMF
+  - Article IV Consultation
+  - Economic Growth
+  - Debt Sustainability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:21:34Z
+status: stable
 ---
 # Authorities' target for deficit below 2% of GDP
 

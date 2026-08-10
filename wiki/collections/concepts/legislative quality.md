@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T13:01:38Z
-tags: [legislative quality, rule of law, sovereign credit rating, institutional strength, policymaking stability, Romania, European Union]
+tags:
+  - legislative quality
+  - rule of law
+  - sovereign credit rating
+  - institutional strength
+  - policymaking stability
+  - Romania
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:01:38Z
+status: stable
 ---
 
 # legislative quality

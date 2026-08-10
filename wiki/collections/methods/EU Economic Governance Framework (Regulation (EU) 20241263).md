@@ -1,8 +1,16 @@
 ---
 agency: European Commission
 last_updated: 2024
-timestamp: 2026-07-05T15:24:41Z
-tags: [EU Economic Governance, Fiscal Policy, Sovereign Credit, Regulation 2024/1263, Medium-Term Fiscal-Structural Plan]
+tags:
+  - EU Economic Governance
+  - Fiscal Policy
+  - Sovereign Credit
+  - Regulation 2024/1263
+  - Medium-Term Fiscal-Structural Plan
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:24:41Z
+status: stable
 ---
 
 # EU Economic Governance Framework (Regulation (EU) 2024/1263)

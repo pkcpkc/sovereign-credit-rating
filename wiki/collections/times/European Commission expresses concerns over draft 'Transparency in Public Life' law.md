@@ -1,6 +1,17 @@
 ---
-timestamp: 2026-07-05T16:11:21Z # String | Required | ISO-8601 date of synthesis. Auto-set by the system.
-tags: [Rule of Law, Hungary, European Union, Civil Society, Transparency, Anti-Corruption, Media Freedom, Checks and Balances]
+tags:
+  - Rule of Law
+  - Hungary
+  - European Union
+  - Civil Society
+  - Transparency
+  - Anti-Corruption
+  - Media Freedom
+  - Checks and Balances
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:11:21Z
+status: stable
 ---
 # European Commission expresses concerns over draft 'Transparency in Public Life' law
 

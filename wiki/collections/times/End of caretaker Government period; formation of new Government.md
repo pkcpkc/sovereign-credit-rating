@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:09:17Z
-tags: [Belgium, Politics, Government Formation, Rule of Law, European Union]
+tags:
+  - Belgium
+  - Politics
+  - Government Formation
+  - Rule of Law
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:09:17Z
+status: stable
 ---
 # End of caretaker Government period; formation of new Government
 

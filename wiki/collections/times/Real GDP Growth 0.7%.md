@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:05:23Z
-tags: [ Italy, Macroeconomics, GDP Growth, European Commission, Fiscal Policy ]
+tags:
+  - Italy
+  - Macroeconomics
+  - GDP Growth
+  - European Commission
+  - Fiscal Policy
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:05:23Z
+status: stable
 ---
 # Real GDP Growth 0.7%
 

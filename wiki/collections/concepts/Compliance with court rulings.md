@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:23:32Z
 tags:
   - Rule of Law
   - Judicial Compliance
@@ -7,6 +6,10 @@ tags:
   - Belgium
   - European Court of Human Rights
   - Institutional Strength
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:23:32Z
+status: stable
 ---
 
 # Compliance with court rulings

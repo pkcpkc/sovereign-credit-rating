@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:16:06Z
 tags:
   - Rule of Law
   - Slovakia
@@ -7,6 +6,10 @@ tags:
   - Judicial Implementation
   - Human Rights
   - International Obligations
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:16:06Z
+status: stable
 ---
 # Record of 31 pending ECtHR leading judgments
 

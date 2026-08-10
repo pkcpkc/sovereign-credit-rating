@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:15:31Z
 tags:
   - Rule of Law
   - Slovakia
@@ -8,6 +7,10 @@ tags:
   - Anti-Corruption
   - Media Freedom
   - Institutional Checks and Balances
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:15:31Z
+status: stable
 ---
 # Publication of 2025 Rule of Law Report on Slovakia
 

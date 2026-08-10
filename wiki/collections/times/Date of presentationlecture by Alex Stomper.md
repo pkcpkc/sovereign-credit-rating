@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T16:25:50Z
-tags: ["Sovereign Credit Rating", "S&P Global Ratings", "Financial Economics", "Methodology", "Risk Analysis", "Academic Lecture", "HU Berlin"]
+tags:
+  - Sovereign Credit Rating
+  - S&P Global Ratings
+  - Financial Economics
+  - Methodology
+  - Risk Analysis
+  - Academic Lecture
+  - HU Berlin
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:25:50Z
+status: stable
 ---
 # Date of presentation/lecture by Alex Stomper
 

@@ -1,13 +1,16 @@
 ---
 agency: United Nations
 last_updated: 1993
-timestamp: 2026-07-05T15:33:30Z
 tags:
   - Human Rights
   - National Human Rights Institution
   - Rule of Law
   - Checks and Balances
   - Institutional Accountability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:33:30Z
+status: stable
 ---
 
 # UN Paris Principles

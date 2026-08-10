@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T16:13:10Z
 tags:
   - Rule of Law
   - Malta
@@ -7,6 +6,10 @@ tags:
   - Public Participation
   - Human Rights
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:13:10Z
+status: stable
 ---
 # Deadline for submitting draft law for Public Consultation Department and National Human Rights Institution
 

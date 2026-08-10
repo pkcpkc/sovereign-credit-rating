@@ -1,7 +1,6 @@
 ---
 agency: European Commission
 last_updated: 2025
-timestamp: 2026-07-05T11:13:30Z
 tags:
   - Macroeconomic Imbalance Procedure
   - European Semester
@@ -9,6 +8,10 @@ tags:
   - Fiscal Sustainability
   - Structural Reforms
   - Excessive Imbalance Procedure
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:13:30Z
+status: stable
 ---
 
 # Macroeconomic Imbalance Procedure

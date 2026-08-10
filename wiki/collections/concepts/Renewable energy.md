@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T12:02:10Z
-tags: [ Energy Transition, Sovereign Credit, Poland, Fiscal Policy, Industrial Policy, Decarbonisation ]
+tags:
+  - Energy Transition
+  - Sovereign Credit
+  - Poland
+  - Fiscal Policy
+  - Industrial Policy
+  - Decarbonisation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:02:10Z
+status: stable
 ---
 
 # Renewable energy

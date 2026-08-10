@@ -1,6 +1,38 @@
 ---
-timestamp: 2026-07-05T14:05:54Z
-tags: [ financial-stability, sovereign-credit-risk, macroeconomic-stability, banking, Austria, Hungary, Italy, Slovakia, European-Semester, systemic-risk, doom-loop, capital-markets, institutional-strength, structural-reform, commercial-real-estate, IMF-Article-IV, OeNB, MNB, fiscal-policy, monetary-policy, debt-sustainability, NRRP, Less-Significant-Institutions, Systemic-Risk-Buffer, AML-CFT, productivity-growth, demographic-risks, countercyclical-capital-buffer, mortgage-refixation ]
+tags:
+  - financial-stability
+  - sovereign-credit-risk
+  - macroeconomic-stability
+  - banking
+  - Austria
+  - Hungary
+  - Italy
+  - Slovakia
+  - European-Semester
+  - systemic-risk
+  - doom-loop
+  - capital-markets
+  - institutional-strength
+  - structural-reform
+  - commercial-real-estate
+  - IMF-Article-IV
+  - OeNB
+  - MNB
+  - fiscal-policy
+  - monetary-policy
+  - debt-sustainability
+  - NRRP
+  - Less-Significant-Institutions
+  - Systemic-Risk-Buffer
+  - AML-CFT
+  - productivity-growth
+  - demographic-risks
+  - countercyclical-capital-buffer
+  - mortgage-refixation
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:05:54Z
+status: stable
 ---
 
 # banking sector health

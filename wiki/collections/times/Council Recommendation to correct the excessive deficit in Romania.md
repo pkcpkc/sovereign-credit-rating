@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:07:00Z
-tags: [Romania, European Union, Fiscal Policy, Excessive Deficit Procedure, Macroeconomic Stability, EU Economic Governance]
+tags:
+  - Romania
+  - European Union
+  - Fiscal Policy
+  - Excessive Deficit Procedure
+  - Macroeconomic Stability
+  - EU Economic Governance
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:07:00Z
+status: stable
 ---
 # Council Recommendation to correct the excessive deficit in Romania
 

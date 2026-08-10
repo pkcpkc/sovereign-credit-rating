@@ -10,8 +10,8 @@ tags:
   - Energy Transition
   - Labour Market
 assets:
-  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country Report
-    Malta.md
+  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+    Report Malta.md
   - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country Report
     Malta.md
 concepts:
@@ -226,7 +226,19 @@ times:
     title: Target year for climate neutrality and offshore renewable capacity
   - date: "2070"
     title: Long-term projection horizon for age-related expenditure
-timestamp: 2026-07-05T11:14:24Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:14:24Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Country Report Malta.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+      Report Malta.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Country Report Malta.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country
+      Report Malta.md
 ---
 # Summary of: 2025 Country Report - Malta (European Commission)
 

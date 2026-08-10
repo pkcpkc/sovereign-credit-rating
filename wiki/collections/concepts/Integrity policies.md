@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:21:42Z
 tags:
   - Rule of Law
   - Anti-Corruption
@@ -8,6 +7,10 @@ tags:
   - Sovereign Risk
   - Belgium
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:21:42Z
+status: stable
 ---
 
 # Integrity policies

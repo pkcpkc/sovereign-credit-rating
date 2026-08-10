@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T16:15:59Z
-tags: [ Slovakia, Rule of Law, Civil Society, NGO, European Union ]
+tags:
+  - Slovakia
+  - Rule of Law
+  - Civil Society
+  - NGO
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:15:59Z
+status: stable
 ---
 # Adoption of law amending NGO functioning acts
 

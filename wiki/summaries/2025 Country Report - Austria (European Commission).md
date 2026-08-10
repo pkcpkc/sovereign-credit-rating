@@ -10,8 +10,8 @@ tags:
   - Skills Gap
   - Energy Transition
 assets:
-  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country Report
-    Austria.md
+  - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+    Report Austria.md
   - wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country Report
     Austria.md
 concepts:
@@ -184,7 +184,19 @@ times:
     title: Implementation of new pension reforms to tighten early retirement access
   - date: "2025"
     title: Expected third consecutive year of recession
-timestamp: 2026-07-05T11:09:49Z
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T11:09:49Z
+status: stable
+sources:
+  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
+      2025 Country Report Austria.md
+    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Country
+      Report Austria.md
+  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
+      Country Report Austria.md
+    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Country
+      Report Austria.md
 ---
 # Summary of: 2025 Country Report - Austria (European Commission)
 

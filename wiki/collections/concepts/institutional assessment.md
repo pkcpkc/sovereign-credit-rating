@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T14:18:59Z
 tags:
   - Sovereign Credit Rating
   - Institutional Quality
@@ -8,6 +7,10 @@ tags:
   - Country Risk Analysis
   - S&P Global Ratings
   - Analyst Discretion
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T14:18:59Z
+status: stable
 ---
 
 # Institutional assessment

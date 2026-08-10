@@ -1,7 +1,6 @@
 ---
 agency: Fitch Ratings
 last_updated: 2025-09-15
-timestamp: 2026-07-05T15:43:01Z
 tags:
   - Sovereign Ratings
   - Credit Rating Methodology
@@ -9,6 +8,10 @@ tags:
   - Fitch Ratings
   - Quantitative Model
   - Public Finances
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:43:01Z
+status: stable
 ---
 
 # Fitch Debt Dynamics Model (DDM)

@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:23:58Z
 tags:
   - Rule of Law
   - Anti-Corruption
@@ -7,6 +6,10 @@ tags:
   - Sovereign Risk
   - Institutional Checks
   - Belgium
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:23:58Z
+status: stable
 ---
 
 # Whistleblower protection

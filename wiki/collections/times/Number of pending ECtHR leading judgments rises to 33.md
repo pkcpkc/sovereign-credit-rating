@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:16:10Z
 tags:
   - Rule of Law
   - Slovakia
   - European Court of Human Rights
   - International Law
   - Justice System
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:16:10Z
+status: stable
 ---
 # Number of pending ECtHR leading judgments rises to 33
 

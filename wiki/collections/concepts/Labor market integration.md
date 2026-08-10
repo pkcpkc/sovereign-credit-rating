@@ -1,5 +1,4 @@
 ---
-timestamp: 2026-07-05T12:08:22Z
 tags:
   - Labor Market
   - Macroeconomic Policy
@@ -8,6 +7,10 @@ tags:
   - Sovereign Credit Risk
   - Fiscal Sustainability
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:08:22Z
+status: stable
 ---
 
 # Labor market integration

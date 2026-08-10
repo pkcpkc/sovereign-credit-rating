@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:11:45Z
 tags:
   - Italy
   - Judicial System
   - Security Law
   - Rule of Law
   - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:11:45Z
+status: stable
 ---
 # High Court of Cassation issued report on the Security Law
 

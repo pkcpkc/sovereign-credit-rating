@@ -1,6 +1,16 @@
 ---
-timestamp: 2026-07-05T13:23:44Z
-tags: [ Macroeconomics, Inflation, Sovereign Credit Rating, Fiscal Policy, France, IMF, Price Stability ]
+tags:
+  - Macroeconomics
+  - Inflation
+  - Sovereign Credit Rating
+  - Fiscal Policy
+  - France
+  - IMF
+  - Price Stability
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T13:23:44Z
+status: stable
 ---
 
 # inflation dynamics

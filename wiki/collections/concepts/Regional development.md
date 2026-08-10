@@ -1,6 +1,14 @@
 ---
-timestamp: 2026-07-05T12:03:33Z
-tags: [Regional Disparities, Cohesion Policy, Economic Growth, Macroeconomic Stability, Country Risk]
+tags:
+  - Regional Disparities
+  - Cohesion Policy
+  - Economic Growth
+  - Macroeconomic Stability
+  - Country Risk
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T12:03:33Z
+status: stable
 ---
 
 # Regional development

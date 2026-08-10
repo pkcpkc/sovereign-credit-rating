@@ -1,12 +1,15 @@
 ---
 agency: Centre for Media Pluralism and Media Freedom (CMPF) / European Commission
 last_updated: 2025
-timestamp: 2026-07-05T15:32:12Z
 tags:
   - Media Freedom
   - Rule of Law
   - EU Governance
   - Media Pluralism
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:32:12Z
+status: stable
 ---
 
 # Media Pluralism Monitor (MPM)

@@ -1,11 +1,14 @@
 ---
-timestamp: 2026-07-05T16:25:22Z
 tags:
   - Slovakia
   - IMF
   - Financial Stability Assessment Program
   - Banking Sector
   - Risk Assessment
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:25:22Z
+status: stable
 ---
 # Two FSAP missions to Slovak Republic
 

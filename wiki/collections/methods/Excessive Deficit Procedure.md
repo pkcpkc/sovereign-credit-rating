@@ -1,7 +1,6 @@
 ---
 agency: European Commission
 last_updated: 2025-06-04
-timestamp: 2026-07-05T15:30:37Z
 tags:
   - EU Economic Governance
   - Fiscal Surveillance
@@ -11,6 +10,10 @@ tags:
   - Malta
   - Poland
   - European Semester
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T15:30:37Z
+status: stable
 ---
 
 # Excessive deficit procedure

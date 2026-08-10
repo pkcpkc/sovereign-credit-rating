@@ -1,6 +1,15 @@
 ---
-timestamp: 2026-07-05T16:16:01Z
-tags: [Freedom of Information, Slovakia, Rule of Law, Media Freedom, Transparency, European Union]
+tags:
+  - Freedom of Information
+  - Slovakia
+  - Rule of Law
+  - Media Freedom
+  - Transparency
+  - European Union
+generated:
+  by: mycelium-mind-migration-v0.2
+  at: 2026-07-05T16:16:01Z
+status: stable
 ---
 # Freedom of Information Act amendments enter into force
 
