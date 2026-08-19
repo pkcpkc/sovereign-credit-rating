@@ -96,15 +96,37 @@ For development, you can toggle between using your local clone of `mycelium-mind
     Everything runs locally via ONNX. No Docker, no Ollama, no API keys, no data leaves your machine.
   - v4.0.0 — Enterprise concurrent access: **SSE/HTTP transport (1 server → N clients)**, thread-safe shared state, optional rate limiting + Prometheus metrics, ChromaDB WAL mode, --transport CLI
 
-## MCP
+## Sovereign Credit Rating Methodology (Stomper 2026)
 
-- Provides access to financial data via DuckDB
-- https://github.com/motherduckdb/mcp-server-motherduck
-- Maybe a custom MCP, that returns all (or grouped) financial data of one country by country code would be more efficient in agentic use!
+Implementation of **"Positioning for Risk-Off: A Methodology for Sovereign Credit Ratings"** (Alex Stomper, HU Berlin, August 2026).
+
+- **[Quickstart & How-To Guide](docs/how-to.md)**: Step-by-step guide on how to rate a country, where results are stored, and how to use the skill inside OpenCode, Antigravity, and CLI.
+- **[Austria Raw Dataset from DuckDB](dist/mrp/austria_data.md)**: Full dataset dump from DuckDB for Austria (Master metadata, parameters, debt state, 25-year GDP growth, 25-year primary balances, and global VIX state).
+- **[Sovereign Credit Rating Skill Guide](docs/mrp-skill.md)**: Complete guide on the agent skill, theoretical foundations, mathematical workflow (Blocks A, B, and C), Discretionary Adjustments (DA2 Backstop Eligibility, DA1 Qualitative Outlook), and Principle 4 (No-Notch discipline).
+- **[DuckDB Database Schema Specification](docs/duckdb-schema.md)**: Full relational schema, table fields, constraints, and Austria reference dataset (August 2026 calibration).
+- **[Rating Engine & Script Architecture](docs/rating-engine-script.md)**: Core Python mathematical engine (`src/mrp/engine.py`), analytical stationary points solver, 81-corner sensitivity grid, and CLI runner (`scripts/run_rating.py`).
+
+### Quick Start: Running a Sovereign Rating
+
+```bash
+# 1. Initialize DuckDB relational schema (read-only input store)
+./.venv/bin/python scripts/init_duckdb.py
+
+# 2. Insert baseline country dataset (Austria)
+./.venv/bin/python scripts/insert_austria.py
+
+# 3. Execute rating pipeline (exports publication markdown to dist/mrp/austria.md)
+./.venv/bin/python scripts/run_rating.py --country AUT --as-of 2026-08-01
+```
+
+## MCP & RAG
+
+- **Knowledge RAG via MCP**: Serves the LLM-Wiki content. Connects via `opencode.json` or mycelium-mind CLI (`mm rag . --transport stdio`).
+- **Financial Data via DuckDB**: Local DuckDB instance (`data/sovereign_ratings.duckdb`) providing sovereign debt, GDP growth series, and global risk pricing factor history.
 
 ## Skills
 
-- SVR methods
+- **`sovereign-credit-rating`** (`.agents/skills/sovereign-credit-rating/SKILL.md`): Orchestrates DuckDB quantitative calculation + Wiki MCP qualitative research + Discretionary Adjustments + Table 3 Audit Trail generation.
 
 ### Using with OpenCode
 

@@ -18,6 +18,7 @@
     "link:npm": "npm install"
   },
   "dependencies": {
+    "katex": "^0.18.1",
     "mycelium-mind": "^0.2.6"
   },
   "devDependencies": {

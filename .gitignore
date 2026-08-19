@@ -1,5 +1,6 @@
 # OS-specific files
 .DS_Store
+**/.DS_Store
 ._*
 .Spotlight-V100
 .Trashes
@@ -80,3 +81,49 @@ dist/
 .rag
 opencode.json
 .DS_Store
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Python packaging and distribution
+.Python
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test & type check caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# DuckDB temporary / WAL files
+*.duckdb.wal
+*.duckdb.tmp
