@@ -1,3 +1,7 @@
+---
+fields:
+  - times
+---
 # Wiki Times Prompt
 
 You are an expert knowledge extraction agent. Your task is to create or merge information into a Times event card.

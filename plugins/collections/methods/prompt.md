@@ -1,3 +1,7 @@
+---
+fields:
+  - methods
+---
 # Wiki Rating Method Prompt
 
 You are an expert knowledge extraction agent. Your task is to create or merge information into a Rating Method card.

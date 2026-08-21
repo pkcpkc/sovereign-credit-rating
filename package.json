@@ -5,7 +5,7 @@
   "scripts": {
     "sync": "mm sync .",
     "sync:verbose": "mm sync . --verbose",
-    "sync:pr": "mm sync . --pr",
+    "sync:no-pr": "mm sync . --no-pr",
     "resync": "mm resync .",
     "resync:verbose": "mm resync . --verbose",
     "overviews": "mm overviews .",
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "katex": "^0.18.1",
-    "mycelium-mind": "^0.2.6"
+    "mycelium-mind": "^0.3.0"
   },
   "devDependencies": {
     "vitest": "^4.1.7"

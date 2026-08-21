@@ -2,5 +2,3 @@
 overviews:
   script_timeout_ms: 5000
 
-# Pipeline execution settings
-parallelPromptExecution: false

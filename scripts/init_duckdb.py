@@ -74,11 +74,15 @@ def init_db(db_path: str = DB_PATH):
     );
     """)
 
-    # 5. Calibrated country parameters (Task A1-A5, B4+)
+    # 5. Calibrated country parameters (Tasks C1-C6)
     con.execute("""
     CREATE TABLE IF NOT EXISTS country_parameters (
         country_id VARCHAR,
         as_of_date DATE,
+        mu_r DOUBLE DEFAULT 0.014,
+        pi_u DOUBLE DEFAULT 0.020,
+        inflation_diff_projected DOUBLE DEFAULT 0.0,
+        e_mrp DOUBLE DEFAULT 0.0,
         mu_hat DOUBLE,
         sigma_hat DOUBLE,
         s_bar DOUBLE,

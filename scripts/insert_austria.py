@@ -69,12 +69,14 @@ def seed_austria(db_path: str = DB_PATH):
     );
     """)
 
-    # 5. Country Baseline Parameters as of 2026-08-01 (Table 3 inputs)
+    # 5. Country Baseline Parameters as of 2026-08-01 (Tasks C1-C6 calibration)
     con.execute("""
     INSERT OR REPLACE INTO country_parameters (
-        country_id, as_of_date, mu_hat, sigma_hat, s_bar, rf_gross, haircut_baseline, beta_loading, source
+        country_id, as_of_date, mu_r, pi_u, inflation_diff_projected, e_mrp,
+        mu_hat, sigma_hat, s_bar, rf_gross, haircut_baseline, beta_loading, source
     ) VALUES (
-        'AUT', '2026-08-01', 0.034, 0.030, 0.020, 1.02, 0.30, 1.0, 'Stomper (2026) Table 3 calibration'
+        'AUT', '2026-08-01', 0.014, 0.020, 0.000, 0.000,
+        0.034, 0.030, 0.020, 1.02, 0.30, 1.0, 'Stomper (2026) Table 1 MRP calibration'
     );
     """)
 
