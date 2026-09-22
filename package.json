@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "katex": "^0.18.1",
-    "mycelium-mind": "^0.3.0"
+    "mycelium-mind": "^0.4.1"
   },
   "devDependencies": {
     "vitest": "^4.1.7"
