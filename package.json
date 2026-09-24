@@ -1,6 +1,6 @@
 {
   "name": "sovereign-credit-rating-wiki",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "sync": "mm sync .",
@@ -14,12 +14,17 @@
     "serve:dist": "mm serve ./dist/site",
     "check": "mm check-plugins",
     "test": "vitest run",
+    "notebook:status": "mm notebook status .",
+    "notebook:start": "mm notebook start",
+    "notebook:stop": "mm notebook stop",
+    "notebook:push": "mm notebook push .",
+    "notebook:push:dry": "mm notebook push . --dry-run",
     "link:local": "npm install ../mycelium-mind --no-save",
     "link:npm": "npm install"
   },
   "dependencies": {
     "katex": "^0.18.1",
-    "mycelium-mind": "^0.4.1"
+    "mycelium-mind": "^0.5.0"
   },
   "devDependencies": {
     "vitest": "^4.1.7"

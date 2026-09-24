@@ -2,3 +2,13 @@
 overviews:
   script_timeout_ms: 5000
 
+# Open Notebook integration settings
+notebook:
+  target: "[MM] Sovereign Credit Rating"
+  url: "http://localhost:5055"
+  filter:
+    collections: true
+    summaries: true
+  concurrency: 1
+
+

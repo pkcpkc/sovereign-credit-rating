@@ -1,0 +1,3000 @@
+{
+  "sources": {
+    "wiki/collections/concepts/Accountability.md": {
+      "id": "source:fd64mq1na9u6dkltw23l",
+      "sha256": "0de5a5b471a2bc4b578d7b45827727f4a4e378f3a1febcd6aec0dc2646dc1893",
+      "title": "[Concept] Accountability"
+    },
+    "wiki/collections/concepts/Access to public documents.md": {
+      "id": "source:vojca7zq8ng4harqwkae",
+      "sha256": "3f4fa2f303e1000d855fb0f9a03f95d573ef6de08faf95adfd9b656434b34b9b",
+      "title": "[Concept] Access to public documents"
+    },
+    "wiki/collections/concepts/Analytical discretion.md": {
+      "id": "source:skwc2xur0xph4trj7l5p",
+      "sha256": "635d9398b089a4f4183643b89ee26dc77d242ab4f42c5d9773081acde246e63e",
+      "title": "[Concept] Analytical discretion"
+    },
+    "wiki/collections/concepts/Anti-Money LaunderingCombating the Financing of Terrorism (AMLCFT).md": {
+      "id": "source:76ju87v7bpzhb895svbb",
+      "sha256": "ab8c22df6383743c5bd36804044e6a54cefbd1728203b2e121c3366284793d8a",
+      "title": "[Concept] Anti-Money LaunderingCombating the Financing of Terrorism (AMLCFT)"
+    },
+    "wiki/collections/concepts/Anti-corruption strategy.md": {
+      "id": "source:it2vmrm7aaq37qf5ftrv",
+      "sha256": "f6bf84c0467dfb76a235d3c3157f7754027e252170c1ac5268cc69f88cb5e952",
+      "title": "[Concept] Anti-corruption strategy"
+    },
+    "wiki/collections/concepts/Anti-corruption.md": {
+      "id": "source:j5rup7gqsodx8lzg8ig3",
+      "sha256": "aa81fcf6543448ec230512224e1c14d842ea6267a985d8aa656fdd3d62eb1060",
+      "title": "[Concept] Anti-corruption"
+    },
+    "wiki/collections/concepts/Anti-corruption framework.md": {
+      "id": "source:9bzfljx57bs4w5awm8dy",
+      "sha256": "e5545a798beee8646aa434a1051249382399c235f90a9f772d57acba0cf7801a",
+      "title": "[Concept] Anti-corruption framework"
+    },
+    "wiki/collections/concepts/Asset declaration systems.md": {
+      "id": "source:j8voadfvyqw3t1tv1ujs",
+      "sha256": "882c4498a1e08830f5ec7261b9899983a9120ac1f607b14e64e1a5c7cd8df1b1",
+      "title": "[Concept] Asset declaration systems"
+    },
+    "wiki/collections/concepts/Case Allocation Transparency.md": {
+      "id": "source:0lpur5dkheao89ecydj7",
+      "sha256": "a46a300e4a03bc1a98967a5ba106027822096c75c2b323377a50e50782452b44",
+      "title": "[Concept] Case Allocation Transparency"
+    },
+    "wiki/collections/concepts/Central bank independence.md": {
+      "id": "source:503e0el2wwmxt4naj62z",
+      "sha256": "df567aa1a9f368c433cc67d70c92bd9a4b4dd2c345b66d47ef6bb8c73fa324dc",
+      "title": "[Concept] Central bank independence"
+    },
+    "wiki/collections/concepts/Checks and balances.md": {
+      "id": "source:on8pxulwdch9d1ui3xtd",
+      "sha256": "c0e9df42fb9cec5005e4a82096691c956847013ec2dd118e87aecbd593a66b0c",
+      "title": "[Concept] Checks and balances"
+    },
+    "wiki/collections/concepts/Civic space.md": {
+      "id": "source:2d3utisat8jih9rpcuzf",
+      "sha256": "0f8d4ff6777bc69848f73d51bd8074a2e4fe9cccdc5c8a6773bf4d7240cfb56c",
+      "title": "[Concept] Civic space"
+    },
+    "wiki/collections/concepts/Civil Society Participation.md": {
+      "id": "source:m4q1y3vvqijcn2dhcd95",
+      "sha256": "ebd926ea34966079a3744d103959bd0738e0e48fa167852f92b49443e98d55e6",
+      "title": "[Concept] Civil Society Participation"
+    },
+    "wiki/collections/concepts/Civil Society Space.md": {
+      "id": "source:ml02j3xs6qpnuso4znmq",
+      "sha256": "08d5c6303ddf3e54ced83dd3737792bc7c3da765c0dc40dd3dede398116fd0d3",
+      "title": "[Concept] Civil Society Space"
+    },
+    "wiki/collections/concepts/Climate Vulnerability Signals (Climate.VS).md": {
+      "id": "source:2rqt5w08yp3rpxi7hf8x",
+      "sha256": "0741f78aa828961e91dc716bde3bc68b60dc7a30f51f125b953c568519b8ba22",
+      "title": "[Concept] Climate Vulnerability Signals (Climate.VS)"
+    },
+    "wiki/collections/concepts/Compliance with court rulings.md": {
+      "id": "source:ativnhhwu6k6cggops69",
+      "sha256": "9c2d984b1fbad1471ccc9cb439ab9c587e494f4f85a5f070c37cbc08082c31d7",
+      "title": "[Concept] Compliance with court rulings"
+    },
+    "wiki/collections/concepts/Corruption prevention.md": {
+      "id": "source:o5myz6d68in0w49miveg",
+      "sha256": "a8945a6238dc15675b77a81175263296c0c137bcb4513217365cdac44168f0b0",
+      "title": "[Concept] Corruption prevention"
+    },
+    "wiki/collections/concepts/Current account deficit.md": {
+      "id": "source:idjlxbubjdn1ty5mcsgv",
+      "sha256": "b6b50ee462e78f66244fab64f205256eeba46aa0c524af155f621b3b21c4f8fe",
+      "title": "[Concept] Current account deficit"
+    },
+    "wiki/collections/concepts/Debt payment culture.md": {
+      "id": "source:hqyq7m5yy1zy25q3i2kd",
+      "sha256": "1be597123aa13de25101278c34c7b220ab9dde6908ab1929ef377f31cd48449f",
+      "title": "[Concept] Debt payment culture"
+    },
+    "wiki/collections/concepts/Decarbonisation.md": {
+      "id": "source:ud8ft6o5nogj66kzl5f7",
+      "sha256": "4bee213d5e1fe963ec7e77dcf3dc0b5dc91ac9842b1e02d9624bbc1c0604d8d2",
+      "title": "[Concept] Decarbonisation"
+    },
+    "wiki/collections/concepts/Digitalisation of justice.md": {
+      "id": "source:ttg7vwxtvuuf4mcp8t4p",
+      "sha256": "c5d630c3ab02effcd28e35993176e4d34490bddec009be89f81bdbcab93901b5",
+      "title": "[Concept] Digitalisation of justice"
+    },
+    "wiki/collections/concepts/EU Single Market integration.md": {
+      "id": "source:j4f8xfp61e93n3gbde0b",
+      "sha256": "9c20ce38cff5aaae5a7d230eb21859f82feb432e26c5c06b164029edf3620a12",
+      "title": "[Concept] EU Single Market integration"
+    },
+    "wiki/collections/concepts/Emergency Powers.md": {
+      "id": "source:ocylwotupn7r9bf1lmrq",
+      "sha256": "3b30024f7d8fe98256be64a48fdcad6c75ceda00bbea4a8aada1e2dcdef164f2",
+      "title": "[Concept] Emergency Powers"
+    },
+    "wiki/collections/concepts/Exchange rate regime.md": {
+      "id": "source:0cy6nkw6rxwczpae6wnr",
+      "sha256": "c44062e4209a4f60eea3d15acb05899c9b9218e80e2b9bc36ed22d348be3f53a",
+      "title": "[Concept] Exchange rate regime"
+    },
+    "wiki/collections/concepts/External finances.md": {
+      "id": "source:j7mdibfrfx3x225w7u7x",
+      "sha256": "b196421fb057e35f4355862d42d73500743097a1bacd83cef4a1afbedae2bf7b",
+      "title": "[Concept] External finances"
+    },
+    "wiki/collections/concepts/Fiscal consolidation.md": {
+      "id": "source:29ido2pfiyi94dncjhey",
+      "sha256": "940d17b0f7e3a514b01157c443acea9cbfdbf31f545848ead745eccfb78e4f45",
+      "title": "[Concept] Fiscal consolidation"
+    },
+    "wiki/collections/concepts/Fiscal financing flexibility.md": {
+      "id": "source:5q81221dtn535d6xcmhv",
+      "sha256": "26ed7e6e48b9af546541e28d867fae9ce5b8779a1548036398254a467d1d5b62",
+      "title": "[Concept] Fiscal financing flexibility"
+    },
+    "wiki/collections/concepts/Fiscal flexibility.md": {
+      "id": "source:fje390iy9md9spacnyri",
+      "sha256": "b1ba44259e79167b316e0776f144358a916e873e54d7c6f0b6109d29fd24ed84",
+      "title": "[Concept] Fiscal flexibility"
+    },
+    "wiki/collections/concepts/Governance indicators.md": {
+      "id": "source:5id6sxvzdh37gez10kwu",
+      "sha256": "d4cc5b353431e7409647854ae24b2619da72b73a7f5a5b688adf11065f309e11",
+      "title": "[Concept] Governance indicators"
+    },
+    "wiki/collections/concepts/Governance quality.md": {
+      "id": "source:mebnz204dm7ivqhc5qck",
+      "sha256": "53e64f411dbbbaa8c4b73ac82fc94f6566ca7c1c5dc3d95f1e391b22798d8036",
+      "title": "[Concept] Governance quality"
+    },
+    "wiki/collections/concepts/Healthcare system.md": {
+      "id": "source:jfsezndasph9h3hkwwbk",
+      "sha256": "209261c6709a29b73a1916eb1fbba0a6410f58578a1b324f7b327386ee5b1060",
+      "title": "[Concept] Healthcare system"
+    },
+    "wiki/collections/concepts/Human rights protection.md": {
+      "id": "source:imtq4gezelyjvcqxge9a",
+      "sha256": "ce63384ba358622c64addb8ab44311c49c2b01fee8f86e45abb72347d041e96c",
+      "title": "[Concept] Human rights protection"
+    },
+    "wiki/collections/concepts/Innovation gap.md": {
+      "id": "source:tx7o2bqytdg3t23x8nw6",
+      "sha256": "6a98709be84ae97d73aa129b9856aec658d7c181df5996bfb923a104ced66bb4",
+      "title": "[Concept] Innovation gap"
+    },
+    "wiki/collections/concepts/Institutional Accountability.md": {
+      "id": "source:hobzaa7yya21e62myv6w",
+      "sha256": "7af1dd5670bfa84927b6f1ce110dd2edcf25c448b7ae18ee887830353746f63a",
+      "title": "[Concept] Institutional Accountability"
+    },
+    "wiki/collections/concepts/Integrity policies.md": {
+      "id": "source:v1ydf6f7ande2karcyat",
+      "sha256": "5f2d9225700438637a8ac88f26d3f9ef7359a68d90b950c7d597cc0630c1fd2a",
+      "title": "[Concept] Integrity policies"
+    },
+    "wiki/collections/concepts/Investment climate.md": {
+      "id": "source:zjk9hpaqcm3ly1kturoi",
+      "sha256": "402245476ca8148008599d0aca9bb15655f8d7e710e96e72a53716a85c16dbe5",
+      "title": "[Concept] Investment climate"
+    },
+    "wiki/collections/concepts/Investor Citizenship Scheme.md": {
+      "id": "source:jaefpmhh730misvgm02q",
+      "sha256": "adc4127d242cc9b04929b892d7ecf46e5e4cc21170bffd3fef90658f502f1091",
+      "title": "[Concept] Investor Citizenship Scheme"
+    },
+    "wiki/collections/concepts/Judicial efficiency.md": {
+      "id": "source:8rgozibsjp2q4ol7b6f8",
+      "sha256": "cf24114aa1ca8b16362c806888ab7fc08cba7dc4c76d629a5d383b9f623185ff",
+      "title": "[Concept] Judicial efficiency"
+    },
+    "wiki/collections/concepts/Labor market integration.md": {
+      "id": "source:043g92kqrupn1lqwopal",
+      "sha256": "32f46d129cf3e124035eb7b6e6138760e85a8b65b3e84be33f3b649352d6d3d0",
+      "title": "[Concept] Labor market integration"
+    },
+    "wiki/collections/concepts/Legislative stability.md": {
+      "id": "source:pm5ldea1iv93wmvs6h69",
+      "sha256": "f21ca6e9dd4b025400f479c370181b6e7ec2dc85871c8b0e0acd2dcf099a0cb9",
+      "title": "[Concept] Legislative stability"
+    },
+    "wiki/collections/concepts/Lobbying regulation.md": {
+      "id": "source:rbxoc1iy44fc9w9wjsuz",
+      "sha256": "1390a7c833cfa12d9d2723fed4c1a4aeaa1ec4852197ce6838a3cf98097cfeac",
+      "title": "[Concept] Lobbying regulation"
+    },
+    "wiki/collections/concepts/Lobbying transparency.md": {
+      "id": "source:ms5lmxfrhvgb7jsef8zn",
+      "sha256": "e80aa45c13e5a1c5e135e89c3ec47bd1bdc6bec3b2ee4c36d7f8dde269f062cd",
+      "title": "[Concept] Lobbying transparency"
+    },
+    "wiki/collections/concepts/Judicial independence.md": {
+      "id": "source:tp3kieeozx82up11mghq",
+      "sha256": "0dd39b4be7c7655cddd7509088979b638e52df1102f2e30232e5655b390a3c26",
+      "title": "[Concept] Judicial independence"
+    },
+    "wiki/collections/concepts/Loss severity and recovery ratings.md": {
+      "id": "source:2qnisl6ntdheadvoweq7",
+      "sha256": "df665eb9a3f6d4115678bfd0082d784098eeacd58a993b0891e0bb0203b98f51",
+      "title": "[Concept] Loss severity and recovery ratings"
+    },
+    "wiki/collections/concepts/Macro-prudential risks.md": {
+      "id": "source:zr47xp5iy8xzzkbk96rl",
+      "sha256": "2cca3294ed8699f506dac6d60544efa04918f35cae54e90544bf04872064a8b8",
+      "title": "[Concept] Macro-prudential risks"
+    },
+    "wiki/collections/concepts/Macroeconomic imbalance.md": {
+      "id": "source:dmub9bk46ksp9rmchuxs",
+      "sha256": "c8ccc89b5797a7a2b0515b9a7d5e91ec1113abcab692a98fa2f8faa4e99a87ae",
+      "title": "[Concept] Macroeconomic imbalance"
+    },
+    "wiki/collections/concepts/Macroeconomic performance, policies, and prospects.md": {
+      "id": "source:5wvt59qwludzbkiw5sx9",
+      "sha256": "0a47d623d65fafaab1154cda8d0f2dc7f811cc6a45ffb3faf4755bb58dd8c9c2",
+      "title": "[Concept] Macroeconomic performance, policies, and prospects"
+    },
+    "wiki/collections/concepts/Media pluralism.md": {
+      "id": "source:wz9ctnxuzii8s6rhzzo4",
+      "sha256": "74ddd4925ee24154cf76241f2deb4f59927438f36504b4abb1ed963ae6415b48",
+      "title": "[Concept] Media pluralism"
+    },
+    "wiki/collections/concepts/National escape clause.md": {
+      "id": "source:hgjx3i8n3i67urub67p4",
+      "sha256": "dc467b7aa6006a1736d2bb63aa7a2543c968893906a8e7c5e7b826d7bb6cf2b2",
+      "title": "[Concept] National escape clause"
+    },
+    "wiki/collections/concepts/Next Generation EU (NGEU) funds.md": {
+      "id": "source:a3p9dxhyqwddk4ospahn",
+      "sha256": "cf33cd38ed132cf0d677d0f6d554cc7d3dedebce9e0752ffdc16a22a3e6ff289",
+      "title": "[Concept] Next Generation EU (NGEU) funds"
+    },
+    "wiki/collections/concepts/Pension sustainability.md": {
+      "id": "source:n82w5h2e6dwlf3z62g4r",
+      "sha256": "8b8ccb2375b76acfca5cded2c8c2687f93a8ed85fc90c29a02d50b7f0c7cb523",
+      "title": "[Concept] Pension sustainability"
+    },
+    "wiki/collections/concepts/Policy credibility.md": {
+      "id": "source:ntpmcqjnxm9uyhelt18i",
+      "sha256": "719edfbfd35cecb903d5f07564bd8a568b6d6928dc21b7450f5f7d5b38efaea6",
+      "title": "[Concept] Policy credibility"
+    },
+    "wiki/collections/concepts/Political financing transparency.md": {
+      "id": "source:bqb80gv4e04u7xlk90go",
+      "sha256": "6e7ebeee7a230e96c21e22c4024f276c80cd85e013c3156aebad76c533355b8e",
+      "title": "[Concept] Political financing transparency"
+    },
+    "wiki/collections/concepts/Political party financing.md": {
+      "id": "source:ra8l9y9h99ktc0cdril8",
+      "sha256": "7c4bcfe1753a9f0c78f23036ab4bef6e4cc2643f8c200ac9e2285db2d320f17c",
+      "title": "[Concept] Political party financing"
+    },
+    "wiki/collections/concepts/Press freedom.md": {
+      "id": "source:1tf1jl6snbecne76mvb0",
+      "sha256": "186f3a723172f9612833d9e8b5c5b28dc5ce7fb602c90975e771eb81521f1792",
+      "title": "[Concept] Press freedom"
+    },
+    "wiki/collections/concepts/Productivity.md": {
+      "id": "source:ixvsjjwkfdd7r2oop228",
+      "sha256": "152a53336d8387ad913fcafd1e86a6de1ef4a1960e00011f396feb11ea641d36",
+      "title": "[Concept] Productivity"
+    },
+    "wiki/collections/concepts/Public administration efficiency.md": {
+      "id": "source:yt974bg6s56jfk05i304",
+      "sha256": "481c9520fa7c44e92c2b21c14f8e5a31d1ae689a0d73c3b19f78a5d0e8deb850",
+      "title": "[Concept] Public administration efficiency"
+    },
+    "wiki/collections/concepts/Public finances.md": {
+      "id": "source:de5lhu715l5erpricbf9",
+      "sha256": "981f86ab45f8f72bc0d565b248b9beaad1a2a417fa0144a171c3637ce1a4814b",
+      "title": "[Concept] Public finances"
+    },
+    "wiki/collections/concepts/Public investment efficiency.md": {
+      "id": "source:sb5p9hg320mupl0j6rzq",
+      "sha256": "443908159607602a9cc9e9b41a68e9bd4bbba941f161fa84e041b20cbac83abc",
+      "title": "[Concept] Public investment efficiency"
+    },
+    "wiki/collections/concepts/Prosecutorial autonomy.md": {
+      "id": "source:bq53jghs0n3c680mnttm",
+      "sha256": "96654aa34cfe3b870e02542004e24b84c7662c28561104183636e75a1a08e554",
+      "title": "[Concept] Prosecutorial autonomy"
+    },
+    "wiki/collections/concepts/Public procurement integrity.md": {
+      "id": "source:f484n07tj9m10a753w6n",
+      "sha256": "2868f1512789a80088bb09423bde3cef014ec9b3034b479aa61e1bb34ff88754",
+      "title": "[Concept] Public procurement integrity"
+    },
+    "wiki/collections/concepts/Qualitative Overlay (QO).md": {
+      "id": "source:gazgjjfwnsx2jmma12e7",
+      "sha256": "00ec6eed7fa1ffcf14d7443f221a017caac4c0290d69956d6605f1c3e520d5e7",
+      "title": "[Concept] Qualitative Overlay (QO)"
+    },
+    "wiki/collections/concepts/Regional development.md": {
+      "id": "source:clz871y2md7wcfd3zq3h",
+      "sha256": "cd13436497eb101ce7957c5f7730f8acc8bc6908328190e714aedb35ef3824fd",
+      "title": "[Concept] Regional development"
+    },
+    "wiki/collections/concepts/Renewable energy.md": {
+      "id": "source:b15u5wo9etl1kribexn6",
+      "sha256": "7357a9c07c30de508f636f4800cee50407c4305742a487c5218d0ebed144dd7e",
+      "title": "[Concept] Renewable energy"
+    },
+    "wiki/collections/concepts/Replicability of ratings.md": {
+      "id": "source:evp4ryn1h1cd2liv1eqt",
+      "sha256": "dbf23c47cd2300811b66ab45471500835de63805810262c10790b5f41e249b1c",
+      "title": "[Concept] Replicability of ratings"
+    },
+    "wiki/collections/concepts/Reserve-currency flexibility.md": {
+      "id": "source:xfimr8gy6ip1ioxzope7",
+      "sha256": "5286bd677b461100c33f527cc99d21581444f809f1a10786003f72d17c225bdb",
+      "title": "[Concept] Reserve-currency flexibility"
+    },
+    "wiki/collections/concepts/Rule of Law.md": {
+      "id": "source:dr2drj7mlizy2zv54bbz",
+      "sha256": "4f39fd0d9664bffb2bd92b9b1acf07509619c6fd76be28b9f30db5486d9a4c66",
+      "title": "[Concept] Rule of Law"
+    },
+    "wiki/collections/concepts/Science-business collaboration.md": {
+      "id": "source:aqrvxwhq6buq74e5ra2t",
+      "sha256": "7c5e3220bcb118127cebd9315000044e4d1a991d6704645aa5a227bdd351573c",
+      "title": "[Concept] Science-business collaboration"
+    },
+    "wiki/collections/concepts/Sovereign Rating Model (SRM).md": {
+      "id": "source:ai9w1ys5v82tk5i4egu5",
+      "sha256": "1c97251c81ac1bfd628c38dba4998eaa8f2732cde1c8357837810173781381d0",
+      "title": "[Concept] Sovereign Rating Model (SRM)"
+    },
+    "wiki/collections/concepts/Structural features.md": {
+      "id": "source:s4brn470xaotqjdsr5qf",
+      "sha256": "973e3a2607bd7dd6e4cd1cf884eeb1c500cca4ba459be49f3f0b6b50f7811b57",
+      "title": "[Concept] Structural features"
+    },
+    "wiki/collections/concepts/Vocational education and training.md": {
+      "id": "source:dv0ijm24x0770cllxxzd",
+      "sha256": "3dc1947c563dbdc281464bd47ada3434e4ecddc977ab8783886be49801505c14",
+      "title": "[Concept] Vocational education and training"
+    },
+    "wiki/collections/concepts/Whistleblower protection.md": {
+      "id": "source:3bzidjpl40nqfq5a5xpi",
+      "sha256": "64260f0d1f49be988eb7c78ae938af1c9fd32860747dffb79f3696fe5d43dba3",
+      "title": "[Concept] Whistleblower protection"
+    },
+    "wiki/collections/concepts/ageing costs.md": {
+      "id": "source:okcc5gdrb9njw4prkfi4",
+      "sha256": "dd9554a58d4fd2192dd194a5e6450617726e435df359910778a1525472e89023",
+      "title": "[Concept] ageing costs"
+    },
+    "wiki/collections/concepts/aggressive tax planning.md": {
+      "id": "source:sav6bq0i3xo4kw2xoddb",
+      "sha256": "29ad9eceb99c605294c148aed95acc9c1a3edb74a413f153e9e19f736779c9c7",
+      "title": "[Concept] aggressive tax planning"
+    },
+    "wiki/collections/concepts/banking sector resilience.md": {
+      "id": "source:c9hciqzjst1q6s3m4nnt",
+      "sha256": "7bf40d426bf045ef8afc53eb968749a352e6b90f16befd94becf6b9fa028d01a",
+      "title": "[Concept] banking sector resilience"
+    },
+    "wiki/collections/concepts/business environment.md": {
+      "id": "source:bsrxy44djb2r469voi1p",
+      "sha256": "a6e02317ff1a8e1a195c6b39608b73304aa76bc866842fee9ec616018faf72dd",
+      "title": "[Concept] business environment"
+    },
+    "wiki/collections/concepts/banking sector health.md": {
+      "id": "source:yw4ch9471la7irr4pxiv",
+      "sha256": "6a4914135828869bbf842719987cb1afcb40be691156876fa68d0b51ce1fbe69",
+      "title": "[Concept] banking sector health"
+    },
+    "wiki/collections/concepts/circular economy.md": {
+      "id": "source:2yzj2m26iit6b4cffyxg",
+      "sha256": "386b86c4b2a7983915628b515542307fbb928fda53c0bbb523052f30f020ec6c",
+      "title": "[Concept] circular economy"
+    },
+    "wiki/collections/concepts/civil society.md": {
+      "id": "source:580jo1kbjry0gvnxyxho",
+      "sha256": "7657a3e2885a7b5fb0c5dbf515143a07d49054076c40844022bd11412c8bf1df",
+      "title": "[Concept] civil society"
+    },
+    "wiki/collections/concepts/Separation of powers.md": {
+      "id": "source:flskup2uiz7qs0gxjn2h",
+      "sha256": "ecb2671db78189d3bdbe626381fa6a49d02337703da3a2190c00ec626e9a7892",
+      "title": "[Concept] Separation of powers"
+    },
+    "wiki/collections/concepts/climate transition.md": {
+      "id": "source:u4np8gn5qq9mhkl7h43r",
+      "sha256": "7d8c322a2e26019f7f254c66080f0f8a43e2a9c4293246678555e0d418a55ffb",
+      "title": "[Concept] climate transition"
+    },
+    "wiki/collections/concepts/commercial real estate risk.md": {
+      "id": "source:8ql5iigmi1djng0ztcyr",
+      "sha256": "cc70c6f049e8cc3490caa0017cb3d4b925bc9c6a18f9e536c245f5636259097c",
+      "title": "[Concept] commercial real estate risk"
+    },
+    "wiki/collections/concepts/competitiveness.md": {
+      "id": "source:mqkrbimhxgsz3y3obcir",
+      "sha256": "7f26ca2ec024b61ff87741b2d75553e75decdd34b98949ce42d78d37ef188f99",
+      "title": "[Concept] competitiveness"
+    },
+    "wiki/collections/concepts/concepts-cloud.md": {
+      "id": "source:dl27v4x39x4y54wkkbye",
+      "sha256": "985f07b4452991569fbfe2f2b2b7d7b046ddf48f5144acbb9df28f306da1b5b0",
+      "title": "[Concept] Concepts Relation Cloud"
+    },
+    "wiki/collections/concepts/contingent liabilities.md": {
+      "id": "source:8mgvul9xdlmlmqw3wq3d",
+      "sha256": "1a02ec3e5d5889480737afeafc9bc5de14783679b99e642d38c50290032c1f2a",
+      "title": "[Concept] contingent liabilities"
+    },
+    "wiki/collections/concepts/corporate income tax reform.md": {
+      "id": "source:p5yetnldpf6hwyzmaecv",
+      "sha256": "693ccab4314306cac5423f29f4a119403aff76d00447f732475750cf810257d0",
+      "title": "[Concept] corporate income tax reform"
+    },
+    "wiki/collections/concepts/debt burden.md": {
+      "id": "source:7baa6omxxvg8t1psupnq",
+      "sha256": "5ac11a8c92d61f185ed08e0c4096b2a99ac5bae754f82a538c30844057cebd62",
+      "title": "[Concept] debt burden"
+    },
+    "wiki/collections/concepts/debt sustainability.md": {
+      "id": "source:v7ukqftdhgjwy6pjykwx",
+      "sha256": "e23574a3eb97615a1eb13194ba5d5b6544f18580f6845058629b0a1f529fec32",
+      "title": "[Concept] debt sustainability"
+    },
+    "wiki/collections/concepts/decaboanisation.md": {
+      "id": "source:84a7mf8aht8f8f9g5u27",
+      "sha256": "6b62fe68e2049d108433194c05e33372bc76f2e996aaeb0f2387983e2c7a9792",
+      "title": "[Concept] decaboanisation"
+    },
+    "wiki/collections/concepts/demographic aging.md": {
+      "id": "source:ejkmuh6g7lmr8yelobbe",
+      "sha256": "162c499d195fa41e7670c575ee72b83eb0f11290351a9f7449513e1e970c2ec6",
+      "title": "[Concept] demographic aging"
+    },
+    "wiki/collections/concepts/economic assessment.md": {
+      "id": "source:pozv360zplzy1j265fhm",
+      "sha256": "5f967220096e6c216a46eefa5a0db2cfd09144dfc16bb493456977e362b901db",
+      "title": "[Concept] economic assessment"
+    },
+    "wiki/collections/concepts/energy affordability.md": {
+      "id": "source:3xna7gn76braaunyktie",
+      "sha256": "0bf5b15b976cb02015e83885769acb6cfee45098adf1a1b3542107d1e15aea81",
+      "title": "[Concept] energy affordability"
+    },
+    "wiki/collections/concepts/energy security.md": {
+      "id": "source:tsnkfjrq8tscwksa78ui",
+      "sha256": "d76a70d4305e8cc38cf7e4f5a5ebb27295b6ccf962ea2509c73ebe8d7ac591cb",
+      "title": "[Concept] energy security"
+    },
+    "wiki/collections/concepts/energy subsidies.md": {
+      "id": "source:ddzygavwut060tyf8o9f",
+      "sha256": "df424749b4af0365a933ed949acff4c4e5c30071b1eb3ae47be1f586c6a4a309",
+      "title": "[Concept] energy subsidies"
+    },
+    "wiki/collections/concepts/energy transition.md": {
+      "id": "source:19c8yd0vuomfqqkmm4dj",
+      "sha256": "c76ae0fe42b39a6c6cf35618dadd4c584c5291ad51a8c053c5c8195367784a6b",
+      "title": "[Concept] energy transition"
+    },
+    "wiki/collections/concepts/excessive deficit procedure.md": {
+      "id": "source:em7s81b6uwfenfw5176i",
+      "sha256": "3b7bf81777a46adf5a85315ce68e903ee6255cc40f524027641f337c27ba6730",
+      "title": "[Concept] excessive deficit procedure"
+    },
+    "wiki/collections/concepts/external assessment.md": {
+      "id": "source:udavi2zp9sw9xkfoisb9",
+      "sha256": "35338c67e18abaa19382829ee439892f39c509abd60f0ff54c7ed112c6f46f64",
+      "title": "[Concept] external assessment"
+    },
+    "wiki/collections/concepts/external position.md": {
+      "id": "source:6wz6syhtr8egc0mgvr0y",
+      "sha256": "2cbd682f04fa427b6bb2a81505e96a99b48927b8c3974ba3bdfaa698099dbaf8",
+      "title": "[Concept] external position"
+    },
+    "wiki/collections/concepts/external vulnerability.md": {
+      "id": "source:5hek4im5b7rthrvnb919",
+      "sha256": "279a42c62cc2ba0a8ea46e3c69c2bb4937b5b92fdb3bdf87364d608ad98b51e1",
+      "title": "[Concept] external vulnerability"
+    },
+    "wiki/collections/concepts/external liquidity.md": {
+      "id": "source:1cqb4dg13ttjg69apbjm",
+      "sha256": "b0f859665cea63817788eca259efa3f5122ace9b05dbbbf8fb7dc7d8ed46fcef",
+      "title": "[Concept] external liquidity"
+    },
+    "wiki/collections/concepts/financial sector resilience.md": {
+      "id": "source:38q2tq04hkxq4xio6wmc",
+      "sha256": "4a6585944e5d8704dc3af51cfe47d606dc4e72fc82efe62a33c1097d4d7ef62c",
+      "title": "[Concept] financial sector resilience"
+    },
+    "wiki/collections/concepts/external sector assessment.md": {
+      "id": "source:tuclx6md8vdlmqafmiij",
+      "sha256": "66cfe1871f372b925deae9607fd88dbebe5a36ff4aff67e68e710fd80371b6c9",
+      "title": "[Concept] external sector assessment"
+    },
+    "wiki/collections/concepts/financial stability.md": {
+      "id": "source:o74d4853owv3b2bb81rv",
+      "sha256": "64b1053419bf4610eaf9ffd73037eca540332cbb64b924b92aa1181532bdb2f4",
+      "title": "[Concept] financial stability"
+    },
+    "wiki/collections/concepts/fiscal assessment.md": {
+      "id": "source:5jwugub578ovmd2p9h5u",
+      "sha256": "8962e3f8ac2febeaef030ccf471f1af85f4a50abb93cd67b6efafa917b49a345",
+      "title": "[Concept] fiscal assessment"
+    },
+    "wiki/collections/concepts/fiscal policy.md": {
+      "id": "source:pwpxs2oql57zo251dpxq",
+      "sha256": "99e1683d2fbe631d5e1706720bcfa0053a5ded4c2b22d6697d1dd5fc3376f929",
+      "title": "[Concept] fiscal policy"
+    },
+    "wiki/collections/concepts/gender employment gap.md": {
+      "id": "source:pqu1qoxhhs7pa78wq1l8",
+      "sha256": "4b2232e0135e49b1d226a299a9bb030faf63aa8b9003c82e4d16005c08a1e1c8",
+      "title": "[Concept] gender employment gap"
+    },
+    "wiki/collections/concepts/geoeconomic fragmentation.md": {
+      "id": "source:fceeg65wb8t780kl9wpr",
+      "sha256": "d4e991bb9b158c324adb5ba196709d4c86dca7a18e5c02f8d9291bcd0ca4875f",
+      "title": "[Concept] geoeconomic fragmentation"
+    },
+    "wiki/collections/concepts/government deficit.md": {
+      "id": "source:xedn0txj0294tsbyg80i",
+      "sha256": "cac94f18c672102b52a50bd3df4540e71bb2a0676d37e4034cb2cb1bfa71f68e",
+      "title": "[Concept] government deficit"
+    },
+    "wiki/collections/concepts/green transition.md": {
+      "id": "source:f1m76n7ocrxinv1k56zb",
+      "sha256": "b0bf5da1bffd54902a16f6531003756a7ed4408d350e92b2e74f4164c38835a1",
+      "title": "[Concept] green transition"
+    },
+    "wiki/collections/concepts/healthcare financing.md": {
+      "id": "source:1ffhw72k1mbsaflbqlyb",
+      "sha256": "b0fc37be34759634d68ba43c72862a2a95811a798d655f71dee12b4da17d3ea1",
+      "title": "[Concept] healthcare financing"
+    },
+    "wiki/collections/concepts/human rights institutions.md": {
+      "id": "source:enjxz1r49l89b5t6w6nu",
+      "sha256": "b24d301bbe4f67177476ce0102816b4de6b3c7b25e61f12de9c0a5d99db93c68",
+      "title": "[Concept] human rights institutions"
+    },
+    "wiki/collections/concepts/index.md": {
+      "id": "source:ysgko0qlcneqi8pl4gnl",
+      "sha256": "50e046c8100e84cf287da2fb1e20019ead1c0da0de9abe244425e24535f5a120",
+      "title": "[Concept] Concepts Index"
+    },
+    "wiki/collections/concepts/inflation convergence.md": {
+      "id": "source:z78lxwj734klujn4v8n8",
+      "sha256": "72fa4326cf5d4bcfaeac0f7c67ec4613e5bafa6dff3894e55256479d03ac14be",
+      "title": "[Concept] inflation convergence"
+    },
+    "wiki/collections/concepts/inflation dynamics.md": {
+      "id": "source:0re7tbj53sw5tgp0r3wr",
+      "sha256": "756863d27395109abb4d40d99b8dca84c8dcf6a5c04b139a832a59ce9c59cce7",
+      "title": "[Concept] inflation dynamics"
+    },
+    "wiki/collections/concepts/inflation targeting.md": {
+      "id": "source:80fr0bvehgkn70gpsr2b",
+      "sha256": "1fb80150a1040120e8799cd1ee1624b679c9d59b2e7fa74738ef59804ad9ec06",
+      "title": "[Concept] inflation targeting"
+    },
+    "wiki/collections/concepts/inflation.md": {
+      "id": "source:fvagi936rd8mt9a0ot1k",
+      "sha256": "be5b52cb322055125717699ea9d9bdd53fb3459b0067c697d0366d0153606f91",
+      "title": "[Concept] inflation"
+    },
+    "wiki/collections/concepts/fiscal sustainability.md": {
+      "id": "source:mwp4jeo69316cfneetvh",
+      "sha256": "c7d890d5ee1816775676d4d7672d0e42b0e4f0e06ac5510e788fae652a82896a",
+      "title": "[Concept] fiscal sustainability"
+    },
+    "wiki/collections/concepts/institutional strength.md": {
+      "id": "source:ln1ivx17475zq95a88r3",
+      "sha256": "8fc2cc07395ceccb3fe6d0787b6daf42f92237986cf9aa34cbfc689fa076666e",
+      "title": "[Concept] institutional strength"
+    },
+    "wiki/collections/concepts/institutional fragmentation.md": {
+      "id": "source:0ddixf9wa78zop8ya84w",
+      "sha256": "4ad621743ccfde5a76755ba3e379be9b180943544b3c5b40d1b9b7a16e298f72",
+      "title": "[Concept] institutional fragmentation"
+    },
+    "wiki/collections/concepts/labor market resilience.md": {
+      "id": "source:16l5z5ckop1aholyjd1w",
+      "sha256": "fc016a9c2be26da81e139af5e333e187670180413067f028d1cfb61fb42d5a59",
+      "title": "[Concept] labor market resilience"
+    },
+    "wiki/collections/concepts/institutional assessment.md": {
+      "id": "source:20bsfg7xu36eutlavtih",
+      "sha256": "2e09b96cdccc7df291f405ed15c1f58c102c19fe4e7beb47ae1e0eea6cea7a18",
+      "title": "[Concept] institutional assessment"
+    },
+    "wiki/collections/concepts/labor market segmentation.md": {
+      "id": "source:j5t31tz8qfpgcxaxd6vr",
+      "sha256": "aa0e8b5420e6a40c29a3b1864a5de54e2b4931e412053a4dd3e6ec9385d7b478",
+      "title": "[Concept] labor market segmentation"
+    },
+    "wiki/collections/concepts/labor productivity.md": {
+      "id": "source:c0ls6hxqdq0h81w1ni0z",
+      "sha256": "b78c4a9d1d15d7669709ea9e76ad5c5adf54c67c6ee15c2efe509568228f4c59",
+      "title": "[Concept] labor productivity"
+    },
+    "wiki/collections/concepts/labor supply reform.md": {
+      "id": "source:qwdvh0bmzlqu0rg53iv0",
+      "sha256": "f263425bb360642c8ee1c5c9b373c586c625bb962641608c3dfbc7c3d2a40c50",
+      "title": "[Concept] labor supply reform"
+    },
+    "wiki/collections/concepts/labour market participation.md": {
+      "id": "source:92f17bu6bifckfyhtw5q",
+      "sha256": "fa4d942d373671828bb47db720500078f90352d9d765b490725b99d84fcb5cf4",
+      "title": "[Concept] labour market participation"
+    },
+    "wiki/collections/concepts/labour market resilience.md": {
+      "id": "source:84v4ecn36e2wiprfhmtb",
+      "sha256": "bd5e1edbf79ae32751f12951ac4d5e83366810cca413e94835ed726885641182",
+      "title": "[Concept] labour market resilience"
+    },
+    "wiki/collections/concepts/labour productivity.md": {
+      "id": "source:aqh1opujg5j7wm6p8u42",
+      "sha256": "51b7c123c5e3d2a468acf68ef62d8b8f1842370892635ff751cdedb1a36130b0",
+      "title": "[Concept] labour productivity"
+    },
+    "wiki/collections/concepts/local government fiscal oversight.md": {
+      "id": "source:78bfyrqin54nw5lt2juf",
+      "sha256": "0898859ed678a5a9267a72e965d807b3ea36bd48bb55bc779c21564ff6d68c42",
+      "title": "[Concept] local government fiscal oversight"
+    },
+    "wiki/collections/concepts/local vs. foreign currency ratings.md": {
+      "id": "source:6697pvfwy80yci16gme5",
+      "sha256": "54c4ecc3c04b7f36c68d856966cb059d33ea63c89187118cfa79f5df3f5411fd",
+      "title": "[Concept] local vs. foreign currency ratings"
+    },
+    "wiki/collections/concepts/macroeconomic stability.md": {
+      "id": "source:sq2ycjnj7xm925fp0fm3",
+      "sha256": "dfa3a79ca38b50d5c19696a9103a6780ca99861eb61b2748a5866c485b058c89",
+      "title": "[Concept] macroeconomic stability"
+    },
+    "wiki/collections/concepts/macroprudential policy.md": {
+      "id": "source:hdrxc4honxq4ori70akq",
+      "sha256": "cdb039d1395e7af191f3e6e20d28713bfd84e44c7d316f6cff5f96607c8d7b6f",
+      "title": "[Concept] macroprudential policy"
+    },
+    "wiki/collections/concepts/monetary assessment.md": {
+      "id": "source:u2r69baqhgakpld8mai4",
+      "sha256": "c384acbd0e3e79bd3b9da3816cbca9079789a634aea4d9f987d9fa0d60f0fa68",
+      "title": "[Concept] monetary assessment"
+    },
+    "wiki/collections/concepts/monetary policy credibility.md": {
+      "id": "source:cw2d539fl0st2vnv44d6",
+      "sha256": "919ed3d55e169aaacc16b634f36f1844f688118c47ebe39bebebc2be64a788d5",
+      "title": "[Concept] monetary policy credibility"
+    },
+    "wiki/collections/concepts/monetary policy stance.md": {
+      "id": "source:evwjosjioluagzmrzxrf",
+      "sha256": "ad563678faafbaa8e968888cd8610711904bfd8eb569590e34afbb179bb12a52",
+      "title": "[Concept] monetary policy stance"
+    },
+    "wiki/collections/concepts/monetary policy.md": {
+      "id": "source:f595wf1j8v4e7jp02ocw",
+      "sha256": "4f6cbfc71b48ed1c52e406639d41718c470d4a333b0db7ce073eb93acd2b9d3b",
+      "title": "[Concept] monetary policy"
+    },
+    "wiki/collections/concepts/net expenditure growth.md": {
+      "id": "source:k6j25nk36gmbs27bsri0",
+      "sha256": "193b3ea9076b537410436c297a42503c690fa37c88bca84dc5558e06cde84476",
+      "title": "[Concept] net expenditure growth"
+    },
+    "wiki/collections/concepts/net expenditure.md": {
+      "id": "source:0n694cgg62doph1ukbmk",
+      "sha256": "ddad1db6c792aa21a161a0a28a7960d1ce3da6516b3c1a5b597d6f9c7aa3cdb7",
+      "title": "[Concept] net expenditure"
+    },
+    "wiki/collections/concepts/pension system sustainability.md": {
+      "id": "source:ejv893ihdnok9isznkyr",
+      "sha256": "62b0c3fb5680dd55b8fff014b031d3559d5ec5cbb183200b1e9b0c5f59cb58a4",
+      "title": "[Concept] pension system sustainability"
+    },
+    "wiki/collections/concepts/population aging.md": {
+      "id": "source:ot3jpjjsj82qwxddjwgv",
+      "sha256": "da322eb338de63598c276e89d16c9e32b5914aa9042485b05ffc5097c38d6c62",
+      "title": "[Concept] population aging"
+    },
+    "wiki/collections/concepts/legislative quality.md": {
+      "id": "source:q0hn8p7q7qow9getw6tb",
+      "sha256": "63103d2cc5413a1f3cb5a4ecc92ed4bb82a0d1342f1152c7f100fc00d6eb7b9a",
+      "title": "[Concept] legislative quality"
+    },
+    "wiki/collections/concepts/productivity growth.md": {
+      "id": "source:79h7kxf29zcbvsd2bve2",
+      "sha256": "d7f481b944efcb66f6fb0de809f222b622804b21374fd2fb9540c73fcfd6a7a6",
+      "title": "[Concept] productivity growth"
+    },
+    "wiki/collections/concepts/productivity-driven growth.md": {
+      "id": "source:kxnuylxgmrdb6a4lqt8y",
+      "sha256": "8c1e321c5d5f9ceb050dffe4642da3ada66e960e89aa811be31e8fb8bffef3ba",
+      "title": "[Concept] productivity-driven growth"
+    },
+    "wiki/collections/concepts/prosecutorial independence.md": {
+      "id": "source:qndur76jhypgrfsyvwob",
+      "sha256": "6739a8753862e9511f7445301141ea680d4465d5c4248c26cf4ca856ac2958a8",
+      "title": "[Concept] prosecutorial independence"
+    },
+    "wiki/collections/concepts/public debt.md": {
+      "id": "source:y3nqi7nmz3spm6jg34pf",
+      "sha256": "d55722e56c79c21c7cc58726501b63eee53fa10d6331f384d564e7de415b516a",
+      "title": "[Concept] public debt"
+    },
+    "wiki/collections/concepts/public expenditure.md": {
+      "id": "source:wedzpaz9jqnn7stdw2y4",
+      "sha256": "89643fd14f06455649cc68dcdeb32cbb72a23bea746441e861765234d59e9ae4",
+      "title": "[Concept] public expenditure"
+    },
+    "wiki/collections/concepts/public finance deterioration.md": {
+      "id": "source:jexbouu50ukr12uoteob",
+      "sha256": "f9b4326f0807f1f0a2835c564ce06a1271a5a94bb3a7a1b131e0a66622194a04",
+      "title": "[Concept] public finance deterioration"
+    },
+    "wiki/collections/concepts/public debt sustainability.md": {
+      "id": "source:fm29hpo4h15rkfm0axgq",
+      "sha256": "030d6cc951b470d028edd3d4c43deb3889b98097c9eda14efc667663732c9189",
+      "title": "[Concept] public debt sustainability"
+    },
+    "wiki/collections/concepts/public procurement.md": {
+      "id": "source:70we70idibscc3bnws0c",
+      "sha256": "bf694ae9bdfd0db05a43473d4406acefa0baad90e80d84fb30bdf3c713edf7bf",
+      "title": "[Concept] public procurement"
+    },
+    "wiki/collections/concepts/real estate exposure.md": {
+      "id": "source:mq0bhtu7k2wziax36q15",
+      "sha256": "1070f0a7a8b10e8cae063409af335825628010450b15bad1dcdb71b6b5015b35",
+      "title": "[Concept] real estate exposure"
+    },
+    "wiki/collections/concepts/public procurement transparency.md": {
+      "id": "source:cjdian80819xn8tj6xpd",
+      "sha256": "313055afd96a066d4e1b8a65ff4552f35318b029cf145e6c9e574a7a86f3923e",
+      "title": "[Concept] public procurement transparency"
+    },
+    "wiki/collections/concepts/renewable energy deployment.md": {
+      "id": "source:1sbzzehbj02410orbodz",
+      "sha256": "75c82df2c6f95cd82b71ba8beeb06e735f306099d178bb0b533009a97af10b32",
+      "title": "[Concept] renewable energy deployment"
+    },
+    "wiki/collections/concepts/research and innovation investment.md": {
+      "id": "source:6kwygy3yugchhq03j1er",
+      "sha256": "da36e24a14c73ef9483babde1635cc68ea1fff60b8cb7c52c78d20174aa9fe3f",
+      "title": "[Concept] research and innovation investment"
+    },
+    "wiki/collections/concepts/rule of law safeguards.md": {
+      "id": "source:gpds7snzr2h9w8um5ekw",
+      "sha256": "803ab07c32ea26d6331b39cd63fe8563518d7fc34243ebe554ab617fd18637c6",
+      "title": "[Concept] rule of law safeguards"
+    },
+    "wiki/collections/concepts/social exclusion.md": {
+      "id": "source:83k21oygtu7zdos09xyg",
+      "sha256": "68f57c559e64b757da6520eede27a6db51cf6e72d557b71f44e8e209dbcf202a",
+      "title": "[Concept] social exclusion"
+    },
+    "wiki/collections/concepts/skills shortages.md": {
+      "id": "source:fu1cfp8fmm95y6gynnvd",
+      "sha256": "b558679be2d2e34424966abcf27a3b626c9c317467b312dc0e5ab1ee1835880d",
+      "title": "[Concept] skills shortages"
+    },
+    "wiki/collections/concepts/social fairness.md": {
+      "id": "source:q5os9g8gvbfjfy04hcpw",
+      "sha256": "73b6aa5a613b03289c1cc744a5073fdc00097951e4362a52e08ae5a86ade79ae",
+      "title": "[Concept] social fairness"
+    },
+    "wiki/collections/concepts/skills mismatches.md": {
+      "id": "source:lpsrp9u1l39aobveubd4",
+      "sha256": "e1b73b93b489658745efc87ea4ef1c5bc3711a6d3f055670756b29130ac30ace",
+      "title": "[Concept] skills mismatches"
+    },
+    "wiki/collections/concepts/social protection adequacy.md": {
+      "id": "source:uxbiwovk58wx2pvm90zy",
+      "sha256": "545f542ae329b49a69e188b7a8ec88986cb4183231394cacfd162ebeae452032",
+      "title": "[Concept] social protection adequacy"
+    },
+    "wiki/collections/concepts/sovereign credit risk.md": {
+      "id": "source:sqmpjy790yw223osxcle",
+      "sha256": "dcdb802b252e9bdc2f885cca3ba9bfcb6bf6dbe2943cbc884dcd899a5bfb91d2",
+      "title": "[Concept] sovereign credit risk"
+    },
+    "wiki/collections/concepts/sovereign-bank nexus.md": {
+      "id": "source:adjjvnf9uumr85s9xfxk",
+      "sha256": "91493b8ce6674263e3745f01f0b4e2c5f0eda70d64ed039cde64aeb366ba7ed9",
+      "title": "[Concept] sovereign-bank nexus"
+    },
+    "wiki/collections/concepts/structural primary balance.md": {
+      "id": "source:gai92x19si66sctcp6w5",
+      "sha256": "46776e45736501b106c5edbae1f26526e251142a24e7e49706b8cf60715ffcb8",
+      "title": "[Concept] structural primary balance"
+    },
+    "wiki/collections/concepts/structural reforms.md": {
+      "id": "source:c5i9q2g6d1slcntxrpux",
+      "sha256": "1ef320cad2180ccc6be6bcbb881818c8d6613ae1ef7192c8874104b744206ee8",
+      "title": "[Concept] structural reforms"
+    },
+    "wiki/collections/concepts/tax-wedge on labour.md": {
+      "id": "source:j9lh3mqymth89qww4jmz",
+      "sha256": "b8a4bba5a4a8cbca51fb9a52092746e5873cd36af7c3fdce13746372974b1f1b",
+      "title": "[Concept] tax-wedge on labour"
+    },
+    "wiki/collections/concepts/wage indexation.md": {
+      "id": "source:jw26iis1mdolvf5gr09o",
+      "sha256": "e58117fa619e992376ef86e7b99a08c31527f5c16fb377e8341fb37d70073cb1",
+      "title": "[Concept] wage indexation"
+    },
+    "wiki/collections/methods/Article IV Consultation.md": {
+      "id": "source:ppbsu2frozaztitm7r3n",
+      "sha256": "cef52f1854aed3833ac060f2efd0d4fade38894678cac71f667e3355a914fc93",
+      "title": "[Method] Article IV Consultation"
+    },
+    "wiki/collections/methods/Banking Industry Country Risk Analysis (BICRA).md": {
+      "id": "source:dye8tc2eqfy47yvdzsja",
+      "sha256": "cb0389f15277166aaaf3e4fa4ca45c203dae8ca2bc62f2dfbdeecb0210d78a39",
+      "title": "[Method] Banking Industry Country Risk Analysis (BICRA)"
+    },
+    "wiki/collections/methods/Banking Industry Country Risk Assessment (BICRA).md": {
+      "id": "source:7t8nxq0a0u2dxjxekmig",
+      "sha256": "1d4bc0d5276636d120897dffcaffcdc59f442c8a176523b9b6b676588ec5007a",
+      "title": "[Method] Banking Industry Country Risk Assessment (BICRA)"
+    },
+    "wiki/collections/methods/Banking Systemic Indicator (BSI).md": {
+      "id": "source:ndpqih9g0dcwbt12ao6v",
+      "sha256": "19e281abd40475bb47d475c3ffaa49dbc5c0f6dc612d38fadd99fd9bd0a2d268",
+      "title": "[Method] Banking Systemic Indicator (BSI)"
+    },
+    "wiki/collections/concepts/transparency.md": {
+      "id": "source:dnqeyycka6d1i1dxig9t",
+      "sha256": "3f1306f3f7bc5bef53ea2e91c4e4c51c40fea6f5ba2327bef7d249ec05ba32b5",
+      "title": "[Concept] transparency"
+    },
+    "wiki/collections/methods/Cohesion Policy Monitoring.md": {
+      "id": "source:iyx8qhaorsco5r77o87h",
+      "sha256": "d1f7ed7707355f1d82acfd02ec64330acf28b9cd861f8a911305e39b139c3bc9",
+      "title": "[Method] Cohesion Policy Monitoring"
+    },
+    "wiki/collections/methods/Cohesion Policy.md": {
+      "id": "source:9wdolchs138wzhnw52br",
+      "sha256": "f12c9537f80ea10b4ee51e1328d40182dfe9c6d2a8229fff6af65dd426e06070",
+      "title": "[Method] Cohesion Policy"
+    },
+    "wiki/collections/methods/Corruption Perceptions Index (CPI).md": {
+      "id": "source:amzytsils4aso0vl88ut",
+      "sha256": "4f2e026108ea4b4697224307c9016e872bb3ba808ffd2eafb7e9349cd11678d0",
+      "title": "[Method] Corruption Perceptions Index (CPI)"
+    },
+    "wiki/collections/methods/Corruption Perceptions Index.md": {
+      "id": "source:s0r9ki7yesn0pokp7sku",
+      "sha256": "729507b18bc9aeb5efcb83c5574d195a5ed26fa3cb7072f689126758a79dac22",
+      "title": "[Method] Corruption Perceptions Index"
+    },
+    "wiki/collections/methods/Debt Sustainability Analysis (DSA).md": {
+      "id": "source:0pr3y7yrt78f6zhtq52t",
+      "sha256": "a799a9d6722c26085757456b4ad71b2172b0e61ad8212eef0760e5493c9703f0",
+      "title": "[Method] Debt Sustainability Analysis (DSA)"
+    },
+    "wiki/collections/methods/Debt Sustainability Monitor.md": {
+      "id": "source:40oo5tkz9ht49pfztnqu",
+      "sha256": "401c34d55d0bb8fc92566d5ec5c980e98536f29ef15eda83ec47117a73ca882d",
+      "title": "[Method] Debt Sustainability Monitor"
+    },
+    "wiki/collections/methods/Debt sustainability analysis.md": {
+      "id": "source:mpm3tixfvscjwc46clcs",
+      "sha256": "302ec6686317db2cabb8da2dcffac80a06debe3cf3980f7196115e1885c885ec",
+      "title": "[Method] Debt sustainability analysis"
+    },
+    "wiki/collections/methods/EU Economic Governance Framework (Regulation (EU) 20241263).md": {
+      "id": "source:tpnscm05ep4u6huk4a9a",
+      "sha256": "a8bdaa425fa941dce02ef0326892d06f0dcdf642270953e8de8c5e660826aa8b",
+      "title": "[Method] EU Economic Governance Framework (Regulation (EU) 20241263)"
+    },
+    "wiki/collections/methods/EU Justice Scoreboard.md": {
+      "id": "source:fk3pjai0v39lwax256e8",
+      "sha256": "ca476d460e8f592497587a0168bd9c58d61df2c77083f900264d046392b56e3d",
+      "title": "[Method] EU Justice Scoreboard"
+    },
+    "wiki/collections/methods/EU Rule of Law Mechanism.md": {
+      "id": "source:gmhaap2yd69fcftdba6c",
+      "sha256": "bcd95ddedbd26450fc7566bc3f0f5d959072f6a07e38f1755bccc0fe2ec92ad6",
+      "title": "[Method] EU Rule of Law Mechanism"
+    },
+    "wiki/collections/methods/European Semester Framework.md": {
+      "id": "source:0y79pd1krjm1q10rb3f3",
+      "sha256": "6fbcadd94debed6e2cafe9bb9ed8f61f33e43940098f0a59c483ffc72f7854f5",
+      "title": "[Method] European Semester Framework"
+    },
+    "wiki/collections/methods/European Semester.md": {
+      "id": "source:1x0ddwo0bhbe1a7kj7h0",
+      "sha256": "b104c0a57f8217da737ff1407365da479480d09492c53935196bb296a2dcd57f",
+      "title": "[Method] European Semester"
+    },
+    "wiki/collections/methods/Excessive Deficit Procedure.md": {
+      "id": "source:aqm905zz08j0cwbnwik1",
+      "sha256": "4b51875d9a7b78174289824f1fe8d2e3a6f8a140311d3e8069a4cc32e57edd95",
+      "title": "[Method] Excessive Deficit Procedure"
+    },
+    "wiki/collections/methods/External Balance Assessment (EBA-lite).md": {
+      "id": "source:l207zt0i0wsdcjgd3vux",
+      "sha256": "09c87937eda495c0a349572352844e2afe3a63d7d1261a2e9fb05d4d0f87a7c3",
+      "title": "[Method] External Balance Assessment (EBA-lite)"
+    },
+    "wiki/collections/methods/External Sector Assessment (EBA-lite).md": {
+      "id": "source:c1wmizleab9n1x31bs97",
+      "sha256": "8b7f6a875426e8d7d8949bbb88b2c845c7dc041335414a4966892072b8b34185",
+      "title": "[Method] External Sector Assessment (EBA-lite)"
+    },
+    "wiki/collections/methods/External Sector Assessment (ESA).md": {
+      "id": "source:k27pudmsblzw70n5k2yr",
+      "sha256": "b759c0296dfef5d66d4e177be3dae7cf6c5c1c6e9550116cb9b4bc2e06cee8de",
+      "title": "[Method] External Sector Assessment (ESA)"
+    },
+    "wiki/collections/methods/External Sector Assessment.md": {
+      "id": "source:b85evbwk6mijk9u5yeam",
+      "sha256": "29eab6fd26dc5e7b1863bc8764296ed1c906b6d7aa7d3d46cddd632e6d0992f0",
+      "title": "[Method] External Sector Assessment"
+    },
+    "wiki/collections/methods/Financial Sector Assessment Program (FSAP).md": {
+      "id": "source:u7f81au32jpo956sitcn",
+      "sha256": "f9d2c52687de293d25132c0ec4a19f25ac20667bd5741b8b2553c87f6de74486",
+      "title": "[Method] Financial Sector Assessment Program (FSAP)"
+    },
+    "wiki/collections/methods/Financial Sector Assessment Program.md": {
+      "id": "source:nxjp7t6x5mskxkr63f1g",
+      "sha256": "a2c5a0450a526fb38c65e4a36bcd7c1ef17fbbca24d4077ac780b4dbeb25c684",
+      "title": "[Method] Financial Sector Assessment Program"
+    },
+    "wiki/collections/methods/Financial Soundness Indicators.md": {
+      "id": "source:ojkm8n66m5m329vume9o",
+      "sha256": "60871dc6e8672532fe6c6504de64768f51df8d8097b7d06ae3471c67482abfb2",
+      "title": "[Method] Financial Soundness Indicators"
+    },
+    "wiki/collections/methods/Financial Stability Assessment Program (FSAP).md": {
+      "id": "source:6xt72qzo9tvd2ojlcrdj",
+      "sha256": "e66b410037d36fe3b30128a0417c6a41cae8cd7f4ef34f5166bf685d0ef9d2b7",
+      "title": "[Method] Financial Stability Assessment Program (FSAP)"
+    },
+    "wiki/collections/methods/Fitch Debt Dynamics Model (DDM).md": {
+      "id": "source:yl0v514awahhfc2t02h4",
+      "sha256": "66387fdd13fbc0d2af43e4e07fb95a1881b4ad4b60952b05443f28e18812f4ef",
+      "title": "[Method] Fitch Debt Dynamics Model (DDM)"
+    },
+    "wiki/collections/methods/Fitch Sovereign Rating Model (SRM).md": {
+      "id": "source:rfcynzx1yskw7my0awji",
+      "sha256": "cc5161014c4381663b6bf745c3fd314bc1cce367fc1dbbba96e70eaf1aec6100",
+      "title": "[Method] Fitch Sovereign Rating Model (SRM)"
+    },
+    "wiki/collections/methods/GRECO Evaluation.md": {
+      "id": "source:j1othwwcz8cazhof9ozf",
+      "sha256": "17cc6b3629ea19698caf085656029e1d9cb780f2e95a4a91934853da7b7effd9",
+      "title": "[Method] GRECO Evaluation"
+    },
+    "wiki/collections/methods/Group Rating Methodology.md": {
+      "id": "source:vk0i58hmscjkejcpn80o",
+      "sha256": "9ba9056eb8328ba8e00d06beb43464c3ddf99100144bba8c91c75efbf0392565",
+      "title": "[Method] Group Rating Methodology"
+    },
+    "wiki/collections/methods/Growth at Risk (GaR) Model.md": {
+      "id": "source:750gs6ssd6tagjt739w5",
+      "sha256": "d76a3704b3246fe4c6776b120aa3526764cd34082b3ba2d4b318d7255aa27af6",
+      "title": "[Method] Growth at Risk (GaR) Model"
+    },
+    "wiki/collections/methods/IMF Article IV Consultation.md": {
+      "id": "source:ps95f10am2p4hzy4p7xu",
+      "sha256": "7c4eb7353a2afc2be60386a379d454bf44d5aa740ba8ff340b154784c96c520f",
+      "title": "[Method] IMF Article IV Consultation"
+    },
+    "wiki/collections/methods/IMF External Balance Assessment.md": {
+      "id": "source:yilrayalztllnoyj5dr5",
+      "sha256": "f14bf033825bc87cb8d9196713338c948199933ed6de08146623ba6a579348fa",
+      "title": "[Method] IMF External Balance Assessment"
+    },
+    "wiki/collections/methods/IMF External Sector Assessment.md": {
+      "id": "source:k8gsct04s1ygc03s50ug",
+      "sha256": "534e3a47709f97b48d4cde25fbd7325ba51a053df398f8310b4b05236291929f",
+      "title": "[Method] IMF External Sector Assessment"
+    },
+    "wiki/collections/methods/IMF Sovereign Risk and Debt Sustainability Framework.md": {
+      "id": "source:76e5c04dux8jott9io5n",
+      "sha256": "218d869ca793c36787ec034702f5b3ebc76052b80ef5f30cf7ff2632982d9849",
+      "title": "[Method] IMF Sovereign Risk and Debt Sustainability Framework"
+    },
+    "wiki/collections/methods/International Liquidity Ratio (ILR).md": {
+      "id": "source:ht16v4nx6nqiiyq2g6ek",
+      "sha256": "8f0fe2ec0fb2f058dfcc0d230dc54771cb7520ef45c93899ab01ca990a744e8c",
+      "title": "[Method] International Liquidity Ratio (ILR)"
+    },
+    "wiki/collections/methods/Macro-Prudential Indicator Model (MPI).md": {
+      "id": "source:jcs0ftvciybuirsymrk8",
+      "sha256": "f2bba6106c0e04f321b59e060deb9e81cdd42fc8fe4e275f6598eb201f00e41c",
+      "title": "[Method] Macro-Prudential Indicator Model (MPI)"
+    },
+    "wiki/collections/methods/Macroeconomic Imbalance Procedure.md": {
+      "id": "source:4iadc8x54bh7hh6qmm9b",
+      "sha256": "acd5476d34325af6213be3fe39b0e2b976ad1fecd1ff58ea8bb36a0154ba21a9",
+      "title": "[Method] Macroeconomic Imbalance Procedure"
+    },
+    "wiki/collections/methods/Mapping Media Freedom.md": {
+      "id": "source:aoutm8l11irsbxhhpkkj",
+      "sha256": "d7fba0745e7de9c60ce53448911095018404cff4102ec761abf3d47f90d244b0",
+      "title": "[Method] Mapping Media Freedom"
+    },
+    "wiki/collections/methods/Media Pluralism Monitor (MPM).md": {
+      "id": "source:6458j626kunfnakv6oqq",
+      "sha256": "00be15f05d9618f62dc9932b1b80f5c697893c058028dfbd420d0b49384000c9",
+      "title": "[Method] Media Pluralism Monitor (MPM)"
+    },
+    "wiki/collections/methods/Media Pluralism Monitor.md": {
+      "id": "source:5o07s7mism3d1vwh2bdb",
+      "sha256": "6670fcdbf3c5b0ce9392eef5398b403686fc67f91cf50e43028b08ce9c6374c3",
+      "title": "[Method] Media Pluralism Monitor"
+    },
+    "wiki/collections/methods/Medium-Term Fiscal-Structural Plans.md": {
+      "id": "source:366e8lsqbrl4c0u0x9ks",
+      "sha256": "e18807372fcf4a6b9067e09ab4325fdf9dc376c983ed9024b6b189d1c24c3304",
+      "title": "[Method] Medium-Term Fiscal-Structural Plans"
+    },
+    "wiki/collections/methods/Net expenditure growth.md": {
+      "id": "source:fuq7cxhwxhd8lsxe9025",
+      "sha256": "18c6d0a23717961e61e34e50f34a86817fd99c76a3590f51fe01df95f9fd6eef",
+      "title": "[Method] Net expenditure growth"
+    },
+    "wiki/collections/methods/OECD Foreign Bribery Evaluation.md": {
+      "id": "source:evfecipkttzdu1yj63ba",
+      "sha256": "efbcea9be65db991c5d4165375e93b118cba93d3cf0d336886a3212873dd020d",
+      "title": "[Method] OECD Foreign Bribery Evaluation"
+    },
+    "wiki/collections/methods/Medium-Term Fiscal-Structural Plan.md": {
+      "id": "source:uw2cpvfjhiex2lsse5y3",
+      "sha256": "027e993c03be027d5796224619a51c3cd0949759090db36de95f6eb325052730",
+      "title": "[Method] Medium-Term Fiscal-Structural Plan"
+    },
+    "wiki/collections/methods/National Escape Clause.md": {
+      "id": "source:zvdnntmsna8y16acrc75",
+      "sha256": "12e065741ac031628fb07e358b22f1ed31be2e27204a861fd9183de234a0520e",
+      "title": "[Method] National Escape Clause"
+    },
+    "wiki/collections/methods/Ordinary Least Squares (OLS) regression.md": {
+      "id": "source:5gc0wowhyac4ry7dm126",
+      "sha256": "df9134723dcf788e135d780b988762fd91bb83dee481464e3ead1c44d81e0dc1",
+      "title": "[Method] Ordinary Least Squares (OLS) regression"
+    },
+    "wiki/collections/methods/Qualitative Overlay (QO).md": {
+      "id": "source:ghq1qv6i0telr7lntlpq",
+      "sha256": "d15284f92cd7d7ddf1c4a39b6a812b5d6429244f8864d8101ac27cde8bf880da",
+      "title": "[Method] Qualitative Overlay (QO)"
+    },
+    "wiki/collections/methods/Recovery and Resilience Facility (RRF) Framework.md": {
+      "id": "source:c5jrfo71su1tu6zvzx73",
+      "sha256": "bfac659d8deb29a76634e0e3f2d5cda58c2f5ecf4823e23c883d364e84c4d569",
+      "title": "[Method] Recovery and Resilience Facility (RRF) Framework"
+    },
+    "wiki/collections/methods/Recovery and Resilience Facility.md": {
+      "id": "source:wrvbbkqpcbh7iqn0k3c7",
+      "sha256": "dbdc47ffe7dfa3205350016c1da87599061d9cf917e1fc9ebda9397c9040b4cd",
+      "title": "[Method] Recovery and Resilience Facility"
+    },
+    "wiki/collections/methods/Reformed EU Economic Governance Framework.md": {
+      "id": "source:dhgcg136vtubz04aev4r",
+      "sha256": "2dd1cad0a4ecaa421cf4a41c421ff3f22c73d77ffb3fab85ebebbb76850edb08",
+      "title": "[Method] Reformed EU Economic Governance Framework"
+    },
+    "wiki/collections/methods/Relative Climate Risk Module (RCRM).md": {
+      "id": "source:7x508kxn4j4jir7by4jy",
+      "sha256": "12df7f747b6aa02037e92dad17047211022ebadabdfc53f980f1848497488b5f",
+      "title": "[Method] Relative Climate Risk Module (RCRM)"
+    },
+    "wiki/collections/methods/Risk Assessment Matrix.md": {
+      "id": "source:dq1paultzp04htidszmr",
+      "sha256": "b112b20dfa9d7a93dcce3643de22bc59eed5fba3ad1ac759a01bdd0cc02aea7c",
+      "title": "[Method] Risk Assessment Matrix"
+    },
+    "wiki/collections/methods/Rule of Law Report Methodology.md": {
+      "id": "source:25bw7tpy3cgzhnanjw31",
+      "sha256": "c7e16976fdc3c2a5ed29be4ddbdbf0bd984b9e7f9776edb8a5cc402d6091a2c7",
+      "title": "[Method] Rule of Law Report Methodology"
+    },
+    "wiki/collections/methods/Recovery and Resilience Plan.md": {
+      "id": "source:tnpw3a386y12mpbpk2tj",
+      "sha256": "bc743a7901b9b618e6974dbe598f3ad6eafbb4dfa8edb435a02cca2015322fe9",
+      "title": "[Method] Recovery and Resilience Plan"
+    },
+    "wiki/collections/methods/S&P Sovereign Credit Rating Methodology.md": {
+      "id": "source:9kz1bvb0yqyr41r79a05",
+      "sha256": "d4183258706e677faa4ab00c6147e1521f8c2fbf95d860204e91b11488a56ea8",
+      "title": "[Method] S&P Sovereign Credit Rating Methodology"
+    },
+    "wiki/collections/methods/S&P Sovereign Rating Methodology.md": {
+      "id": "source:nn69a03bxhden182998s",
+      "sha256": "abdcd68fb49db06ad127a8934ad2340d7cb5c48d380d89e32fb1475dae545114",
+      "title": "[Method] S&P Sovereign Rating Methodology"
+    },
+    "wiki/collections/methods/Sovereign Climate Risk Model (SCRM).md": {
+      "id": "source:ntat1he0djsxzrrxtk28",
+      "sha256": "a41a004e45ec932af533341212503a23e8f88bbafa9c87be8bd1b63772cb4fb9",
+      "title": "[Method] Sovereign Climate Risk Model (SCRM)"
+    },
+    "wiki/collections/methods/Sovereign Risk and Debt Sustainability Framework.md": {
+      "id": "source:9pwl5n6w1colc9ho8k76",
+      "sha256": "b4d01443f39b07236ff47bb8c8074760142fc474349002316dd04b878970999b",
+      "title": "[Method] Sovereign Risk and Debt Sustainability Framework"
+    },
+    "wiki/collections/methods/Stability and Growth Pact.md": {
+      "id": "source:1gjw2abl7zqy559lv6j4",
+      "sha256": "c173fc2d06a752b2fcbc646f94c9eed32ee7a7f26a411100d6e1d5a46ca96afd",
+      "title": "[Method] Stability and Growth Pact"
+    },
+    "wiki/collections/methods/UN Paris Principles.md": {
+      "id": "source:lp3xpep0era15nzfi212",
+      "sha256": "c267a674b9eeeb6689b3a9f3e8a3a753c44a7c7133f98ae48b982850934e62f7",
+      "title": "[Method] UN Paris Principles"
+    },
+    "wiki/collections/methods/index.md": {
+      "id": "source:1be9hr56lnziplabcly6",
+      "sha256": "879fb4871c3b2dacd07a5140e0edbfe89e93524700ee1d681336926059253f46",
+      "title": "[Method] Methods Index"
+    },
+    "wiki/collections/methods/methods-cloud.md": {
+      "id": "source:tgd4gqcwdhf52vfy8pux",
+      "sha256": "bb9d449817200fbb7b441f27dfd0179b0623c1a66f84e09070232736b9165abf",
+      "title": "[Method] Methods Relation Cloud"
+    },
+    "wiki/collections/persons/Alain Kabundi.md": {
+      "id": "source:ns6xpbaxk00iwlxb61b7",
+      "sha256": "f614de229caaad9bbc36f672d51909a79f24e0c1683ee621d42186bfa5214a08",
+      "title": "[Person] Alain Kabundi"
+    },
+    "wiki/collections/persons/Alex Stomper.md": {
+      "id": "source:xxdn5h3mx81lh2f9o5z7",
+      "sha256": "be7a592cc9282e6824cea24272ccfb4b15ae408838ba397d780b6bf6a86102a0",
+      "title": "[Person] Alex Stomper"
+    },
+    "wiki/collections/persons/Alexander Demarco.md": {
+      "id": "source:19h32xqw375044pb013q",
+      "sha256": "1188d71b060e9546be013cd42d0bbec67696e4c8f3e015cfffa8385b4870f97b",
+      "title": "[Person] Alexander Demarco"
+    },
+    "wiki/collections/persons/Alla Myrvoda.md": {
+      "id": "source:p8ljh4i963hugbv7jk6j",
+      "sha256": "08eabb34c205bd72d8d21cca8f8daa2cc02d9840d21c4b993c9d9dd49c15815e",
+      "title": "[Person] Alla Myrvoda"
+    },
+    "wiki/collections/persons/Anke Weber.md": {
+      "id": "source:583f1zdyb9zhgw2olv9k",
+      "sha256": "1b07054f60f9643153b80a5cfb5b00301185ef9cc6b65a6ccc53cdf84b8ec867",
+      "title": "[Person] Anke Weber"
+    },
+    "wiki/collections/persons/Annalisa Korinthios.md": {
+      "id": "source:y51b85ioc44b5x2tqd3h",
+      "sha256": "a1cdc01ef81f505d9b765c51f70b68e7a54e684e332777b10d951baabe3ac3fd",
+      "title": "[Person] Annalisa Korinthios"
+    },
+    "wiki/collections/persons/Arnaud Buissé.md": {
+      "id": "source:p2cbd7ceiq9rwiida5e0",
+      "sha256": "cdba9826b646e22d5f1ac169538aa383a0fab24a8d860cc54e457d58ae781737",
+      "title": "[Person] Arnaud Buissé"
+    },
+    "wiki/collections/persons/Bergljot Barkbu.md": {
+      "id": "source:vzzp60yh6160dp7ck7up",
+      "sha256": "72895fa3c573b1f68b4255bd079ebbecd44495802ef11a8b5ca2b647a1085005",
+      "title": "[Person] Bergljot Barkbu"
+    },
+    "wiki/collections/persons/Bertrand De Dianous.md": {
+      "id": "source:zt92v7xm5nn47jtydgbu",
+      "sha256": "6b1627c426e1c444a72ee2be9fe251e6c24b0181e2ebb9343ac3276f5784fc15",
+      "title": "[Person] Bertrand De Dianous"
+    },
+    "wiki/collections/persons/Bogdan Święczkowski.md": {
+      "id": "source:3h4jctkxp1h5epvwg79f",
+      "sha256": "058e06d8c906d93a8c13557b51b7472c59e580e818bb2fb43c827b95e09f0a7a",
+      "title": "[Person] Bogdan Święczkowski"
+    },
+    "wiki/collections/persons/Byron Camilleri.md": {
+      "id": "source:zfay1xi05b76gzm8qe6y",
+      "sha256": "f8368a86039533a499749749f86412ba8200b956acc170912f044f3a0a6a566e",
+      "title": "[Person] Byron Camilleri"
+    },
+    "wiki/collections/persons/Carlos Masip.md": {
+      "id": "source:w1kxjm4fbwug4hlzb9up",
+      "sha256": "14a6839481229725b05f60bf0067f484491231bffc3e4467f715135ffe694e0e",
+      "title": "[Person] Carlos Masip"
+    },
+    "wiki/collections/persons/Carolina Claver.md": {
+      "id": "source:c0qzlelic150jmpdilk0",
+      "sha256": "fb504f20c29fbd5809d6088e33f0f76ee84d1778a6d05932e679cc197e17700f",
+      "title": "[Person] Carolina Claver"
+    },
+    "wiki/collections/persons/Charles Cohen.md": {
+      "id": "source:sn3givq1uak2iae9a8c5",
+      "sha256": "1994926ba79916cd36cc41d7fa1022e486258a3949524de3459cc0ae9da00291",
+      "title": "[Person] Charles Cohen"
+    },
+    "wiki/collections/persons/Chief of the National Financial Prosecutor (PNF).md": {
+      "id": "source:9dbqzrns9yj2notxj7dh",
+      "sha256": "923a17a10d1cf04c36759f0707c31bc472882089f9800c23e459b04cbd77e101",
+      "title": "[Person] Chief of the National Financial Prosecutor (PNF)"
+    },
+    "wiki/collections/persons/Chris Bonett.md": {
+      "id": "source:pybfjkqkgl6ygko8fhi4",
+      "sha256": "529367e36ff35ed6750067ec861c87db687a5b42b1498c2267abb5f255bb24f4",
+      "title": "[Person] Chris Bonett"
+    },
+    "wiki/collections/persons/Christian Esters.md": {
+      "id": "source:kzpf2var8wojxzt58cgg",
+      "sha256": "c5fb1bcd8c4256058d4b8ac107ecd970b49f4c067fc232b38877a3af5e487c67",
+      "title": "[Person] Christian Esters"
+    },
+    "wiki/collections/persons/Christian Karner Marterbauer.md": {
+      "id": "source:ig6t5uwtx09xabs0y0si",
+      "sha256": "df01dbc05d88cdbb798d81a854a90d5caeb0989d23bf0977f1eb90305badd97a",
+      "title": "[Person] Christian Karner Marterbauer"
+    },
+    "wiki/collections/persons/Clyde Caruana.md": {
+      "id": "source:zxntwzn5j9e5yzwekwm3",
+      "sha256": "8cf8718e3fbbe8b8e5979358b41f5f34aee62929dd2808da2d6e489bc7e08b0a",
+      "title": "[Person] Clyde Caruana"
+    },
+    "wiki/collections/persons/Daphne Caruana Galizia.md": {
+      "id": "source:b1giphjc3w0geezq333l",
+      "sha256": "46ddcfd5983e914c6c88d499d4f4ee43b32d62cd9e26f77b26935b2720c8ad52",
+      "title": "[Person] Daphne Caruana Galizia"
+    },
+    "wiki/collections/persons/Dániel Palotai.md": {
+      "id": "source:ec0zcio1sw3heeexuh0v",
+      "sha256": "e897f3efb7e35a078fb635ff9eb8e517b013ec7b85e8d856d65eb476f9a196ae",
+      "title": "[Person] Dániel Palotai"
+    },
+    "wiki/collections/persons/Ed Parker.md": {
+      "id": "source:biyjprass1v2rozw7fr7",
+      "sha256": "51655fd2002bcb583eb3d1f84649cb79b688c4467731eb386bad4f7fee375a29",
+      "title": "[Person] Ed Parker"
+    },
+    "wiki/collections/persons/Emily Fisher.md": {
+      "id": "source:iuptqb4aau60yyi7p6kx",
+      "sha256": "2603130fb41670f330873f88f76d0e0670e255d1fd1d0f9c1ee2afbbc39d0aca",
+      "title": "[Person] Emily Fisher"
+    },
+    "wiki/collections/persons/Fabian Bornhorst.md": {
+      "id": "source:ojrh4ren2zn5rkt6crey",
+      "sha256": "d3e0fecfdc7e70345662a3dd934fe085001b1e6a7c79af3825f7c27d0066f5c6",
+      "title": "[Person] Fabian Bornhorst"
+    },
+    "wiki/collections/persons/Fabio Signorini.md": {
+      "id": "source:sxlzvinx4414lousifwf",
+      "sha256": "f77d8a54b3f1d2fffcefe2ce2814e556d9efef50899e219ea1a843fc83e4ff57",
+      "title": "[Person] Fabio Signorini"
+    },
+    "wiki/collections/persons/François Lombard.md": {
+      "id": "source:2jlxe42yk1keruzhd2oe",
+      "sha256": "d26e889eae4f2fca54b01ca690582b7561580784983e0f3b2282aa90539a010a",
+      "title": "[Person] François Lombard"
+    },
+    "wiki/collections/persons/François Villeroy de Galhau.md": {
+      "id": "source:c7qhlapd9ji8s14lgppk",
+      "sha256": "b64c437a73ddbd1cc35057bdc5eae2c6fb3367a1503bd8beaa4b573630c914d9",
+      "title": "[Person] François Villeroy de Galhau"
+    },
+    "wiki/collections/persons/Gee Hee Hong.md": {
+      "id": "source:k1morx7dpcpqwy3ej47c",
+      "sha256": "5b99b73bf2a887892b012714a624396375155981f6174a086dd3b5322191f8ec",
+      "title": "[Person] Gee Hee Hong"
+    },
+    "wiki/collections/persons/Geoff Gottlieb.md": {
+      "id": "source:muuy72ohl3lu0tli8uof",
+      "sha256": "1d4ff24d9cd4df0065750ac2568b400609b179e8714d5693a39c1c43b91210a3",
+      "title": "[Person] Geoff Gottlieb"
+    },
+    "wiki/collections/persons/Geremia Palomba.md": {
+      "id": "source:hgvxji72z9ss4ehnmz1t",
+      "sha256": "14aa63d5c065dc4e6dceeef81908f72918966bdd383f91c263ea6e001957da0b",
+      "title": "[Person] Geremia Palomba"
+    },
+    "wiki/collections/persons/Giancarlo Giorgetti.md": {
+      "id": "source:8h9chch0mxkur7m64ewl",
+      "sha256": "22f983d03b9b7047d7665063f7c1f32dde67349e4b2602a8fa3eb38e48908007",
+      "title": "[Person] Giancarlo Giorgetti"
+    },
+    "wiki/collections/persons/Guillaume de Montchalín.md": {
+      "id": "source:q9deuzmnbxun4aps3kgf",
+      "sha256": "22cb28d4b2891658f4dfdf95df38dedbd98f164127f9c189c694655adeb0e36e",
+      "title": "[Person] Guillaume de Montchalín"
+    },
+    "wiki/collections/persons/Gábor Meizer.md": {
+      "id": "source:ggtua7otqp9ykbyyic4e",
+      "sha256": "36db32db8b8cd6c0a41089a58434045ee29aa27a0969727d490f4384a26bef39",
+      "title": "[Person] Gábor Meizer"
+    },
+    "wiki/collections/persons/Helge Berger.md": {
+      "id": "source:gjn8mz4tf8zhyk1iwzk7",
+      "sha256": "203c8ed23690aaec4478cec74f40f67741dd1d1e6796a0f50615526dae2e7366",
+      "title": "[Person] Helge Berger"
+    },
+    "wiki/collections/persons/Jacques Miniane.md": {
+      "id": "source:ysmi5rbv2va9823je0wj",
+      "sha256": "f5bf9636a97f92e81f70dee2097f1596ae71cb065e24bc983c04ff49ef7f84f0",
+      "title": "[Person] Jacques Miniane"
+    },
+    "wiki/collections/persons/James Longsdon.md": {
+      "id": "source:nvx99b1rtxardrjo9d6f",
+      "sha256": "db25255831b78ad4f2390e78d5dc40843b9919d67466b137a3f387a2cbc90d7b",
+      "title": "[Person] James Longsdon"
+    },
+    "wiki/collections/persons/Jan Jambon.md": {
+      "id": "source:h4juewo4hrhghui44yqu",
+      "sha256": "e67cb774f385e71751d5b3122cf3685d2b59a19474e9f37eebb9d687f5623704",
+      "title": "[Person] Jan Jambon"
+    },
+    "wiki/collections/persons/Jenny Lee.md": {
+      "id": "source:8qor35jrgu8ypsn7x9kv",
+      "sha256": "f9934bcc0040f3bf06bb410e0a5a850d8b16af514724bbbb017f83f86820678e",
+      "title": "[Person] Jenny Lee"
+    },
+    "wiki/collections/persons/Jeroen Clicq.md": {
+      "id": "source:8te1t11sq48ejl1x882o",
+      "sha256": "f6526888f42ac6ec462bfcb0d1f3154d4b052069129a7872a3b61414c06ac15b",
+      "title": "[Person] Jeroen Clicq"
+    },
+    "wiki/collections/persons/Jan Kees Martijn.md": {
+      "id": "source:2arosothiuhgn0yqmdy6",
+      "sha256": "2cc77b03ceeee874e1403d7676682d756c176fee07a3d0bab906d7e16896714f",
+      "title": "[Person] Jan Kees Martijn"
+    },
+    "wiki/collections/persons/Jean-François Dauphin.md": {
+      "id": "source:c6tj3m82mr9n9ue3o556",
+      "sha256": "eefff122ae1269ea2323c38eb40faf2a80b4670f94d0125aede22b1d2fb61439",
+      "title": "[Person] Jean-François Dauphin"
+    },
+    "wiki/collections/persons/Kamenický.md": {
+      "id": "source:vlp1ayzjsrn7zogm24n4",
+      "sha256": "823af3fc4e1735b4c125295e0d878866aa4746fa5c916bf6760861cafc07608f",
+      "title": "[Person] Kamenický"
+    },
+    "wiki/collections/persons/Kareem Ismail.md": {
+      "id": "source:upzc8ye9vppl4ec04ygr",
+      "sha256": "fb8cde2e7d982ec7e56e46ea86083f6f5ec47fdfb1e84ffdb770f901f682e655",
+      "title": "[Person] Kareem Ismail"
+    },
+    "wiki/collections/persons/Kažimír.md": {
+      "id": "source:2q4dbdtp7o8y520bxhru",
+      "sha256": "7042128a706fc1b5881a2b32f8384e2630776ed344e7cbc481fd5b802ccdaa18",
+      "title": "[Person] Kažimír"
+    },
+    "wiki/collections/persons/Kenneth Farrugia.md": {
+      "id": "source:e56ypuzx4idhtetudouy",
+      "sha256": "f106d25a053a00880d7437735d28d116ad11839888ca7e09838b2912bea6d386",
+      "title": "[Person] Kenneth Farrugia"
+    },
+    "wiki/collections/persons/KimEng Tan.md": {
+      "id": "source:cd7jp511fua7bq7zrxqg",
+      "sha256": "02096d5be620af4013379e6de424bdb38f49711c7d4bd5ffcf090faad9fa4c55",
+      "title": "[Person] KimEng Tan"
+    },
+    "wiki/collections/persons/Koshy Mathai.md": {
+      "id": "source:xqcrdw4nlzknlbx9yn2v",
+      "sha256": "0300cf7d0d64e3738a74c85d8e846e65483de2ac410ef359a0785eadf40ab1b3",
+      "title": "[Person] Koshy Mathai"
+    },
+    "wiki/collections/persons/Kotaro Ishi.md": {
+      "id": "source:2ls7g544uwy032k3tlm3",
+      "sha256": "803023c6f4bea9c47b73c6c4986c8d01d06de63558b06987ac85041c48056dee",
+      "title": "[Person] Kotaro Ishi"
+    },
+    "wiki/collections/persons/Kristina Kostial.md": {
+      "id": "source:ff0k1ok3o0d2fq6jy9ip",
+      "sha256": "8284ef5deb6eab95d9be81b8cd7e1e199ec73cc82686dcdb3ab519c350caa36c",
+      "title": "[Person] Kristina Kostial"
+    },
+    "wiki/collections/persons/Laura J Feinland Katz.md": {
+      "id": "source:76d5km0buviu76xjxpx5",
+      "sha256": "e370b00fda430bb8c67a2d6be51678e7eadd133f75456f3b88cb60e60287ca20",
+      "title": "[Person] Laura J Feinland Katz"
+    },
+    "wiki/collections/persons/Lone Christiansen.md": {
+      "id": "source:9nplm1smah04tzujrwyn",
+      "sha256": "35a840f08bb3216ac07e1126df4f472c2bd49f9bde8b9dfa896020b5e721a005",
+      "title": "[Person] Lone Christiansen"
+    },
+    "wiki/collections/persons/Manuela Goretti.md": {
+      "id": "source:iw902tlf016fc1lzj7gr",
+      "sha256": "901eb194514f40f964a2c5913983e4431620dd8d65a6e6374c48d1899bd531bf",
+      "title": "[Person] Manuela Goretti"
+    },
+    "wiki/collections/persons/Mark Horton.md": {
+      "id": "source:dbmyewtw4xxj993crodq",
+      "sha256": "c741c1a01853c867141cb1f613fa8d93ba6dc26540319bf27aab9c14b152953b",
+      "title": "[Person] Mark Horton"
+    },
+    "wiki/collections/persons/Mark Puccia.md": {
+      "id": "source:ukgjl38rppwsnqqzkc2k",
+      "sha256": "d610c3204d6ccb0ebad373e8001ef514271f998a1ec7eb92c5bf35ee6bb0b597",
+      "title": "[Person] Mark Puccia"
+    },
+    "wiki/collections/persons/Marta Pietrzak.md": {
+      "id": "source:sdboc5rxiu4qpqnfmuvw",
+      "sha256": "18064dc25b3ad762de2908971504526414125b3ff070d2cfc3aad068124a5d0b",
+      "title": "[Person] Marta Pietrzak"
+    },
+    "wiki/collections/persons/Minister for Institutional Reforms.md": {
+      "id": "source:bfg5ih6w0100wja47s5f",
+      "sha256": "fc4d652b95d014930f96af913eaf75b05ec01c88b226f733124444781dd31cff",
+      "title": "[Person] Minister for Institutional Reforms"
+    },
+    "wiki/collections/persons/Minister of Culture.md": {
+      "id": "source:mj6hjqwqzr6fpg54ysqq",
+      "sha256": "e0bc3568b57adc5b7ab2c22dfea07770a3264286b72b87bc28e11539d875b053",
+      "title": "[Person] Minister of Culture"
+    },
+    "wiki/collections/persons/Minister of Justice.md": {
+      "id": "source:7lmypyxe18c2vuau4rkq",
+      "sha256": "5233fd74eee03588352eb02044f0328194b115da812c5e5a634780a4625c37db",
+      "title": "[Person] Minister of Justice"
+    },
+    "wiki/collections/persons/Miriam Dalli.md": {
+      "id": "source:wha9xwts8f1puelu1rvp",
+      "sha256": "1f1700cf62d4b25d06f5288b6ed381a3bb2042e9b0ddd3fcd1a78dbc128b9447",
+      "title": "[Person] Miriam Dalli"
+    },
+    "wiki/collections/persons/Moritz Kraemer.md": {
+      "id": "source:hj1x34arh55gczbxvkbo",
+      "sha256": "3d11480f2c189da26da117bd4b966d34994e8dbb5f5bf8905d826cb5b3c49d48",
+      "title": "[Person] Moritz Kraemer"
+    },
+    "wiki/collections/persons/Mr. Fletcher.md": {
+      "id": "source:yhzcr3by2lklivwuodoz",
+      "sha256": "01f184fd3495a2e0f5cd58a4e56c4115250f096b6bea42c75a0ddda2a5d7afe3",
+      "title": "[Person] Mr. Fletcher"
+    },
+    "wiki/collections/persons/Mr. Mohommad.md": {
+      "id": "source:3xs4s1gzxj5fd32rs6d1",
+      "sha256": "1fcd763cea7e7fd282fa34b869216ba9540712828d79b07454af355eb1940e9d",
+      "title": "[Person] Mr. Mohommad"
+    },
+    "wiki/collections/persons/Mr. Saiyid.md": {
+      "id": "source:fuhwps9p78v5yi0vweaq",
+      "sha256": "ac464bb7ee516f0df0fc808ac9c6611ca67c3af0cfd9f7c62b8dba677a0cf506",
+      "title": "[Person] Mr. Saiyid"
+    },
+    "wiki/collections/persons/Ms. Pinat.md": {
+      "id": "source:14rd5f8c4pr45pvmbml9",
+      "sha256": "a412b40a53dc5affd2f4485d4fc051c003b291ae2f7686e3e8e3ca888a01edf2",
+      "title": "[Person] Ms. Pinat"
+    },
+    "wiki/collections/persons/Márton Nagy.md": {
+      "id": "source:42u33ejx092lswxsrx9u",
+      "sha256": "a903497a6f92ab0045d7867b6a39b4bd3eb63b07b3dd4b75a8734d44fa307d49",
+      "title": "[Person] Márton Nagy"
+    },
+    "wiki/collections/persons/Oya Celasun.md": {
+      "id": "source:1aokmvmz4z5mzsypilqo",
+      "sha256": "088be0a50e92506c546a851ac63b3281e606da73d09fe944f91abcaa32540bdb",
+      "title": "[Person] Oya Celasun"
+    },
+    "wiki/collections/persons/Patryk Łoszewski.md": {
+      "id": "source:jivgtobw3bpby7dzj1hj",
+      "sha256": "20e436e8c76481f5bdf8eb803e387cfac72118a1faf283bf76b222dffaee8cc4",
+      "title": "[Person] Patryk Łoszewski"
+    },
+    "wiki/collections/persons/Philippe Wunsch.md": {
+      "id": "source:wjsmam7abktjzcnmki9t",
+      "sha256": "3939fd92ab64d1d6487c3809dc875ef72db79f8a27006d09900986bd60ffef66",
+      "title": "[Person] Philippe Wunsch"
+    },
+    "wiki/collections/persons/President of the Chamber of Deputies.md": {
+      "id": "source:b1cqu4dh0vzq50uomtv8",
+      "sha256": "ae4cd11bec13ee2e7da6d381da873b05a0abc1255ac112e67dee50f9cbd11ccf",
+      "title": "[Person] President of the Chamber of Deputies"
+    },
+    "wiki/collections/persons/Riccardo Ercoli.md": {
+      "id": "source:gdvqnwtfia29zeokbc0e",
+      "sha256": "bca3a08c3c2f414707417fdf44b6464bf9934e1ffd41b3d3f7b5674f142547a8",
+      "title": "[Person] Riccardo Ercoli"
+    },
+    "wiki/collections/persons/Rishi Goyal.md": {
+      "id": "source:sauw547x92xwzpleurwa",
+      "sha256": "bf83277b863742c39042136fe2eb6bfeabc479106e4be78e34ea741304ff0679",
+      "title": "[Person] Rishi Goyal"
+    },
+    "wiki/collections/persons/Rob Shearman.md": {
+      "id": "source:7rwibdlv7pzymkwugfqa",
+      "sha256": "452954d04c04d227af9554135c173039a6c0ca848a7a05c812087f81150502b0",
+      "title": "[Person] Rob Shearman"
+    },
+    "wiki/collections/persons/Prosecutor General.md": {
+      "id": "source:tarlvbo2tqyby10h0alz",
+      "sha256": "4172bc795cc8adc3a7255033aba0911a8b9cc45090361ae1e9e52e1131fe63e0",
+      "title": "[Person] Prosecutor General"
+    },
+    "wiki/collections/persons/Robert Fico.md": {
+      "id": "source:xr8mcj365vowogocj4f7",
+      "sha256": "4aa3c9ab6338c233bc00c958f14221446f6d343201821ed46c2177b9a726f077",
+      "title": "[Person] Robert Fico"
+    },
+    "wiki/collections/persons/Robert Holzmann.md": {
+      "id": "source:v52jnd26d8634swoc1gm",
+      "sha256": "30d5f9611fb4a338efd8d8af21562db93f16e8bfc6740d18b5948fcd25078fb8",
+      "title": "[Person] Robert Holzmann"
+    },
+    "wiki/collections/persons/Saxegaard.md": {
+      "id": "source:8qqxo05jdkjevhcoxqkt",
+      "sha256": "bbecc5a91cac95fd7bda86b13a4bd9a673908bf66483e3e2de3bf28a9306d1fc",
+      "title": "[Person] Saxegaard"
+    },
+    "wiki/collections/persons/Sebastian Briozzo.md": {
+      "id": "source:b3t9wxxkrltnruuurvrv",
+      "sha256": "a617b7b9b0c9e5d4565fb5d3a37cc1592da2567c71a26a54da6956306f91a16e",
+      "title": "[Person] Sebastian Briozzo"
+    },
+    "wiki/collections/persons/Silvio Schembri.md": {
+      "id": "source:cctj19kh6xhz77pr5jz7",
+      "sha256": "dfdb44178b1e9dc5130e85f23cd6380199aeab34f125a80d1c134a353b51fb1a",
+      "title": "[Person] Silvio Schembri"
+    },
+    "wiki/collections/persons/Stefania Fabrizio.md": {
+      "id": "source:5vuxgjxc4l7vf2qzniqd",
+      "sha256": "4f95e53ba4196399ea26ea6a373f448f711dc8b0577325a7e70cb2400c4bc4ec",
+      "title": "[Person] Stefania Fabrizio"
+    },
+    "wiki/collections/persons/Superior Council of the Magistracy.md": {
+      "id": "source:l8p8r6m1kwkcd1g5r6e4",
+      "sha256": "e23c85e9aceb4de581d42d57eba8cdb9852286cccb371c96ca8e9fa31471f271",
+      "title": "[Person] Superior Council of the Magistracy"
+    },
+    "wiki/collections/persons/Sylwia Nowak.md": {
+      "id": "source:tpt5z9gd2unrpwfsq2gv",
+      "sha256": "589debbd0da9480efedd2cdd3b63361db7db2513efcb5a03d7361f366acd3bb8",
+      "title": "[Person] Sylwia Nowak"
+    },
+    "wiki/collections/persons/Taraba.md": {
+      "id": "source:uymv9o2aq33e2bmyt4jq",
+      "sha256": "1b3115d9d7a1b98d5bb5bbe0287e41e9833f804e67fd6b28a92b0e4cab5364ba",
+      "title": "[Person] Taraba"
+    },
+    "wiki/collections/persons/Thomas Elkjaer.md": {
+      "id": "source:y83sisbg4sykfefoz6t7",
+      "sha256": "b01e344511a7034deb864f8d86b748268ebf8d335b7ba005335143e0463c721f",
+      "title": "[Person] Thomas Elkjaer"
+    },
+    "wiki/collections/persons/Uma Ramakrishnan.md": {
+      "id": "source:pwxjf0rod6xzz9obavun",
+      "sha256": "6b90991a9d855d1feb22052cebba80e63322b011d59b83be3601f02e55b5eb5f",
+      "title": "[Person] Uma Ramakrishnan"
+    },
+    "wiki/collections/persons/Valerie Montmaur.md": {
+      "id": "source:zqabk1db6qdf3xmbr4p5",
+      "sha256": "31b20bc548f6dda6fd78e8573e39bc9f17a8ae1571ee9170f96eba87511ac9cf",
+      "title": "[Person] Valerie Montmaur"
+    },
+    "wiki/collections/persons/Yang Yang.md": {
+      "id": "source:1jqnd6eor2eddocu9ztv",
+      "sha256": "f4db1e9cebfa636bda130865006b4db6d18d786c6662e835bf5648620da8933b",
+      "title": "[Person] Yang Yang"
+    },
+    "wiki/collections/persons/Yao Deng.md": {
+      "id": "source:ovu4mx475x3fowop3l5g",
+      "sha256": "b43237784aa46f448cde0b2a71bfe55829582d4951d2931e17c20255cc45ae91",
+      "title": "[Person] Yao Deng"
+    },
+    "wiki/collections/persons/Yueling Huang.md": {
+      "id": "source:hwv82e3jp1jlsowvh6ub",
+      "sha256": "5e04294939b1a668731ce2e90fbc52992d0f444ed3778ea4670a2cdc6f6ba60c",
+      "title": "[Person] Yueling Huang"
+    },
+    "wiki/collections/persons/index.md": {
+      "id": "source:vpglbdy7fsmr9nyrsyjj",
+      "sha256": "ae81ede27ac03f20266baf57c58b5cd7f7a1f1471d49dd71d535d77077c34097",
+      "title": "[Person] Persons Index"
+    },
+    "wiki/collections/persons/persons-cloud.md": {
+      "id": "source:8s4l33dt3gz9ejn2p6n4",
+      "sha256": "c16b1819777e36130490deb4d172434cded172110b51ddc54faebb8b393b2346",
+      "title": "[Person] Persons Relation Cloud"
+    },
+    "wiki/collections/sovereign-credit-rating-factors/Austria.md": {
+      "id": "source:m4rhjnxlxb9v2gf2m7kd",
+      "sha256": "19acb468d5517ef5a02b4db822e48be40c22773dbfb23e2404392058a1409c89",
+      "title": "[Sovereign-credit-rating-factor] Austria"
+    },
+    "wiki/collections/sovereign-credit-rating-factors/France.md": {
+      "id": "source:udnrrjyavnq961uetkmb",
+      "sha256": "c4c25f693ead7f62e86fbfa64d95536686a02a767faa9a6a8f736db538de0642",
+      "title": "[Sovereign-credit-rating-factor] France"
+    },
+    "wiki/collections/sovereign-credit-rating-factors/Hungary.md": {
+      "id": "source:5f0bbju5jz6mi29bmfwm",
+      "sha256": "b7ff91d4f4460363ad661a974fcaef9214a25e54bcf912bde7b1503dca9677e9",
+      "title": "[Sovereign-credit-rating-factor] Hungary"
+    },
+    "wiki/collections/sovereign-credit-rating-factors/Italy.md": {
+      "id": "source:58h2jyum5a1c544z3z5r",
+      "sha256": "a08933cd4bd2b651e3b748575e5974bb04e36ae87c2e9c30aafe364a1f432f79",
+      "title": "[Sovereign-credit-rating-factor] Italy"
+    },
+    "wiki/collections/sovereign-credit-rating-factors/Belgium.md": {
+      "id": "source:beb4ix7clyc9x7pt3fye",
+      "sha256": "1b588fee954d01f45df4014ed2eb996ba93e6d139ca554d4b8c912896958414b",
+      "title": "[Sovereign-credit-rating-factor] Belgium"
+    },
+    "wiki/collections/sovereign-credit-rating-factors/Malta.md": {
+      "id": "source:t6axwmqf4b34vg0v4mzg",
+      "sha256": "d9ffbd7e6957a7d2d90557d12d3fefcc2433549a72c962487a89bc25a849796f",
+      "title": "[Sovereign-credit-rating-factor] Malta"
+    },
+    "wiki/collections/sovereign-credit-rating-factors/Poland.md": {
+      "id": "source:5bvwpmr0tm2belgzmmao",
+      "sha256": "48dba25700076b2a28abe5f146fe5dc425c3033ad6b9de1393dffbc462be8646",
+      "title": "[Sovereign-credit-rating-factor] Poland"
+    },
+    "wiki/collections/sovereign-credit-rating-factors/Romania.md": {
+      "id": "source:sr2v6ckfbix58m166ax0",
+      "sha256": "9039f9fea6c8a13ebc575e2b12e989ffd2c402d2d053e72ef59f8026daae3e59",
+      "title": "[Sovereign-credit-rating-factor] Romania"
+    },
+    "wiki/collections/sovereign-credit-rating-factors/Slovakia.md": {
+      "id": "source:gp15e40bnw7khh4mt9hg",
+      "sha256": "e5e27f834156132a38762045c10a16603f528e363aaffc8537f63a88164c23d1",
+      "title": "[Sovereign-credit-rating-factor] Slovakia"
+    },
+    "wiki/collections/sovereign-credit-rating-factors/index.md": {
+      "id": "source:owpnzp7u6kmy36t0rftu",
+      "sha256": "de265168f34d49f8772efcb87d9c0b312dcb82c120b9e2e7505c5ed47c313e2e",
+      "title": "[Sovereign-credit-rating-factor] Sovereign-credit-rating-factors Index"
+    },
+    "wiki/collections/sovereign-credit-rating-factors/sovereign-credit-rating-factors-cloud.md": {
+      "id": "source:i3uy4mwtcm1qelz03tju",
+      "sha256": "4f3c9968bb6620e5abfc1bca6e8d227f6d5eea0e67ef22bed9038a30dd90ff39",
+      "title": "[Sovereign-credit-rating-factor] Sovereign-credit-rating-factors Relation Cloud"
+    },
+    "wiki/collections/times/54 pending leading judgments of ECtHR.md": {
+      "id": "source:mymgpxir0pqdwnpserhf",
+      "sha256": "53683de42a8880ed306259160248a61654c736f933a8053c3651a642cb367bb0",
+      "title": "[Time] 54 pending leading judgments of ECtHR"
+    },
+    "wiki/collections/times/Abolition of paid educational leave (Bildungskarenz).md": {
+      "id": "source:9tlu39xxlnkmwtdlinx2",
+      "sha256": "1ee7219d58a1c3e983ee79df7c650abcc1dcba34b9fcf9f84b284f4114ed68fc",
+      "title": "[Time] Abolition of paid educational leave (Bildungskarenz)"
+    },
+    "wiki/collections/times/Act adopted on amicable settlements of cases to reduce backlogs.md": {
+      "id": "source:uz5vrknnapteyf0zs05o",
+      "sha256": "6482b96298bc741fc257f78f16bc3c6d7d4dd4c268e2c4b439dd3e641a7a81c0",
+      "title": "[Time] Act adopted on amicable settlements of cases to reduce backlogs"
+    },
+    "wiki/collections/times/Action plan to enhance public finance execution published.md": {
+      "id": "source:98tjziy8q43in71vl6k2",
+      "sha256": "65a3bfa6201c0f7aa42ef943ac909f6c71797a3debcd477f4739da647ed3cb30",
+      "title": "[Time] Action plan to enhance public finance execution published"
+    },
+    "wiki/collections/times/Adoption of Act XLIX of 2025 detailing judicial reforms.md": {
+      "id": "source:1vw90kv757hhb4wb9aik",
+      "sha256": "1df7d5359b4e2cb4056d74b76c01065a386a1ae181b76a68fc96e1faa46ae216",
+      "title": "[Time] Adoption of Act XLIX of 2025 detailing judicial reforms"
+    },
+    "wiki/collections/times/Adoption of Fourteenth Amendment to Fundamental Law raising judicial age limits.md": {
+      "id": "source:9w14n6v5p7fbnoyg4sj2",
+      "sha256": "bca904ac69730d7965bf1e368b3b136519fc52ebec3e66234699f1dc5f940275",
+      "title": "[Time] Adoption of Fourteenth Amendment to Fundamental Law raising judicial age limits"
+    },
+    "wiki/collections/times/Adoption of Government Emergency Ordinance filling the legal void on statute of limitations.md": {
+      "id": "source:v8txj90z1hqc5p9flzun",
+      "sha256": "032e23350f8b09c4b634d878ca9973edbb654662791b1d7c185d4a04df937763",
+      "title": "[Time] Adoption of Government Emergency Ordinance filling the legal void on statute of limitations"
+    },
+    "wiki/collections/times/Adoption of Strategy for Open Government in Romania 2025-2030.md": {
+      "id": "source:54m56kf6uxrem0okcuth",
+      "sha256": "4a7dfb520c69b02256eff70a2d7e24d9e866feac16f66cffd6369e78120d358a",
+      "title": "[Time] Adoption of Strategy for Open Government in Romania 2025-2030"
+    },
+    "wiki/collections/times/Adoption of additional amendments to align with PIF Directive.md": {
+      "id": "source:s4crcxilt8h5il3nxaui",
+      "sha256": "952fd7c3231ebfcb64ee499ceffe4cb3926f9986471198544387e735935219c3",
+      "title": "[Time] Adoption of additional amendments to align with PIF Directive"
+    },
+    "wiki/collections/times/Adoption of law amending NGO functioning acts.md": {
+      "id": "source:jdlx8etf037rjgfqhijp",
+      "sha256": "d4953403b422219f430d1e5a529aad744d65bac2555c7676dd3b316e8bc2a16b",
+      "title": "[Time] Adoption of law amending NGO functioning acts"
+    },
+    "wiki/collections/times/Advocate General opinion on Constitutional Tribunal infringement case.md": {
+      "id": "source:dqrkhgouthlpv093ci76",
+      "sha256": "dc3418bf6c8afba9edb33b492f9147d1943209b4904a087d98ade39eaa1c7176",
+      "title": "[Time] Advocate General opinion on Constitutional Tribunal infringement case"
+    },
+    "wiki/collections/times/Amendments to Criminal Codes adopted (later adjusted).md": {
+      "id": "source:fdokj23hshswmnp4gnku",
+      "sha256": "3b94119088e5932c33347fdee269dbd400f1c7f23166b8ca1c4a65cc2e6b087b",
+      "title": "[Time] Amendments to Criminal Codes adopted (later adjusted)"
+    },
+    "wiki/collections/times/Approval of comprehensive fiscal consolidation package (VAT, CIT, and financial transaction tax)..md": {
+      "id": "source:8ttpgw9ollpzlr2u9vdl",
+      "sha256": "2972418222651c9da045896a24d364f22c2b1400640c1edfa96a0309943de5ec",
+      "title": "[Time] Approval of comprehensive fiscal consolidation package (VAT, CIT, and financial transaction tax)."
+    },
+    "wiki/collections/times/Approval of legislative reform increasing threshold for magisterial inquiries.md": {
+      "id": "source:sx6e6tsnzubxya4jhdem",
+      "sha256": "0b4d9f0776ae06a3e9961e6cea65f9ad234dfb4b8ca253a3ea75cc6d1524d6f1",
+      "title": "[Time] Approval of legislative reform increasing threshold for magisterial inquiries"
+    },
+    "wiki/collections/times/Belgian Court of Audit reports shortcomings in justice digitalisation strategy.md": {
+      "id": "source:alf5hlnj78q8j86hvval",
+      "sha256": "daaba38906da3ccb91fd85c5dc173468f01acd68c90b1cf3d8b92e4b63036f72",
+      "title": "[Time] Belgian Court of Audit reports shortcomings in justice digitalisation strategy"
+    },
+    "wiki/collections/times/Belgian Federal Elections.md": {
+      "id": "source:corntahfkf6w9h9ty4yu",
+      "sha256": "9c396a86a6320d7ed62cfe6d2083c645236bebb989ed152417136dd8cee1d66c",
+      "title": "[Time] Belgian Federal Elections"
+    },
+    "wiki/collections/times/Belgium has 17 leading judgments of the ECtHR pending implementation.md": {
+      "id": "source:nkveke7yb0r2tx13226f",
+      "sha256": "01a1fb801db764ebba893bec5e41d6f73ac30980e3d59dbc694b4dfe41a642f5",
+      "title": "[Time] Belgium has 17 leading judgments of the ECtHR pending implementation"
+    },
+    "wiki/collections/times/Belgium requests activation of National Escape Clause for defence spending.md": {
+      "id": "source:rxqp7pyga01dyjerht8b",
+      "sha256": "424855a4cb213f07a9f9d87f02ec39aa47d2912e8c1d76ae1bbb3e22f97ac6fc",
+      "title": "[Time] Belgium requests activation of National Escape Clause for defence spending"
+    },
+    "wiki/collections/times/Belgium submits Annual Progress Report; Data cut-off for Country Reports.md": {
+      "id": "source:mvmvc9kn8q9zpkl8d7j9",
+      "sha256": "f9473ceaa9b865737cdacc515434991a56ddf0bce1b62440e5f6b8b0a98b52ea",
+      "title": "[Time] Belgium submits Annual Progress Report; Data cut-off for Country Reports"
+    },
+    "wiki/collections/times/Belgium submits Medium-Term Fiscal-Structural Plan (2025-2029).md": {
+      "id": "source:rajue4seiaadrt1ubvhs",
+      "sha256": "028d0f7c55bd9b467bf47f4b45a42766b3c29f77d89a6f42f36386200c75dc8c",
+      "title": "[Time] Belgium submits Medium-Term Fiscal-Structural Plan (2025-2029)"
+    },
+    "wiki/collections/times/Authorities' target for deficit below 2% of GDP.md": {
+      "id": "source:s9aq6bl9w51d4cpuf50v",
+      "sha256": "3b0e35689c790ea62d308e266a1efe4445aea0295df91d7fd7e252e0419aa793",
+      "title": "[Time] Authorities' target for deficit below 2% of GDP"
+    },
+    "wiki/collections/times/Borrower-based measures (KIM-V) for residential real estate lapse; CRE buffer (SSyRB) becomes effective.md": {
+      "id": "source:w0m9baz04ygdv5jvupvh",
+      "sha256": "0a00f6e0874af3fe402ff627ee24c3eae25044d5ad7b1270707263748d61094d",
+      "title": "[Time] Borrower-based measures (KIM-V) for residential real estate lapse; CRE buffer (SSyRB) becomes effective"
+    },
+    "wiki/collections/times/Budapest Regional Court finds Kúria President unlawfully relieved a judge.md": {
+      "id": "source:tvv90hng5lnr2x9mrtza",
+      "sha256": "045ab90d5555ed9e41d9b9ce9b26c54286ff4458621577e049e0455bd10d2fbb",
+      "title": "[Time] Budapest Regional Court finds Kúria President unlawfully relieved a judge"
+    },
+    "wiki/collections/times/Chamber of Deputies approved the draft constitutional reform separating careers of judges and prosecutors.md": {
+      "id": "source:xmcz90bhppnd6s9hjfxw",
+      "sha256": "05507b1ebcacee3c5173f1abf8812669b281fd765144579a7698c3c6e938b567",
+      "title": "[Time] Chamber of Deputies approved the draft constitutional reform separating careers of judges and prosecutors"
+    },
+    "wiki/collections/times/Change of government in Slovakia.md": {
+      "id": "source:2yotuyrxa3ht3ozp7mkj",
+      "sha256": "49e4bc616cdaa30eea2b2706126f98a73f5da0a7040a2334d17bdbc425bec4f3",
+      "title": "[Time] Change of government in Slovakia"
+    },
+    "wiki/collections/times/Civic space rating updated from 'obstructed' to 'narrowed'.md": {
+      "id": "source:37cqt8t8c0a8nmsq4fye",
+      "sha256": "7b6eeed0b6395d9094baad96f326c0e0274e275a6c4119824c21db0eb0b901a2",
+      "title": "[Time] Civic space rating updated from 'obstructed' to 'narrowed'"
+    },
+    "wiki/collections/times/Codification Committee prepares proposals on post-2017 NCJ judges.md": {
+      "id": "source:kzw5bj3oitl0xc19oa17",
+      "sha256": "07058f5cc2693d0d9cd6d9382809fd5482237d176b52dfc88a914c7ff28a4166",
+      "title": "[Time] Codification Committee prepares proposals on post-2017 NCJ judges"
+    },
+    "wiki/collections/times/Commission Communication on accommodating increased defence expenditure.md": {
+      "id": "source:7fk1ik1i6ryfhxmhp0um",
+      "sha256": "180241f147ff61c8d55b80fc4e900637af3c6fec14f930990f03745c4b6906c8",
+      "title": "[Time] Commission Communication on accommodating increased defence expenditure"
+    },
+    "wiki/collections/times/Commission adopts Recommendation to endorse Belgium's medium-term fiscal-structural plan.md": {
+      "id": "source:nhb4uha5hwcoll0q6ibx",
+      "sha256": "a0e96fcda2ff78c26168c2e0ad6e2e64c0555e45c79457235f03e7bb8f8b63b3",
+      "title": "[Time] Commission adopts Recommendation to endorse Belgium's medium-term fiscal-structural plan"
+    },
+    "wiki/collections/times/Completion of IMF Staff Report.md": {
+      "id": "source:hfdnfxixbltiavwffg6y",
+      "sha256": "a6a7f5d58e65eb061605af7f6298c2a2b197302b691a0373a6a859188c397862",
+      "title": "[Time] Completion of IMF Staff Report"
+    },
+    "wiki/collections/times/Completion of transfer of prosecutions to the Office of the Attorney General.md": {
+      "id": "source:51eru4zkfvn8o738ouds",
+      "sha256": "f27470eda1cb1dc97b3cef558010851882a92993842e6fb5fe07fd79ff2722aa",
+      "title": "[Time] Completion of transfer of prosecutions to the Office of the Attorney General"
+    },
+    "wiki/collections/times/Concluding virtual meeting with new Deputy PM Jan Jambon.md": {
+      "id": "source:z2f3fw25rqj56q0vuc43",
+      "sha256": "235670541d80a56d1c75d808499ddaabaf4c2f61feb3a9a4e92f514430819ce7",
+      "title": "[Time] Concluding virtual meeting with new Deputy PM Jan Jambon"
+    },
+    "wiki/collections/times/Conclusion of IMF staff discussions with French officials.md": {
+      "id": "source:g8hz7gwtu4r41dce9k8i",
+      "sha256": "810c4dfa067fecf75c932023f3c4de4e8049c5f5bdc23906b6b0a56602d7d0bb",
+      "title": "[Time] Conclusion of IMF staff discussions with French officials"
+    },
+    "wiki/collections/times/Constitutional Court annuls provision of Flemish Community decree on subsidies.md": {
+      "id": "source:yrcub9ujlyj09ob7w83a",
+      "sha256": "ba7b2ccf7a38bc3f45bcf3b2ed275173faf5c417abc3d0b747334841df93ba90",
+      "title": "[Time] Constitutional Court annuls provision of Flemish Community decree on subsidies"
+    },
+    "wiki/collections/times/Constitutional Court declared the law abrogating the offence of abuse of public office compliant.md": {
+      "id": "source:z54hlbjfxtpk4b22c2e4",
+      "sha256": "d20050a72a68516693ed5f19122ee375824c3128b1783a42157c60708ea4621f",
+      "title": "[Time] Constitutional Court declared the law abrogating the offence of abuse of public office compliant"
+    },
+    "wiki/collections/times/Constitutional Court rules on urgent court orders and strikes.md": {
+      "id": "source:67imtkr9elnih3ky2dip",
+      "sha256": "289ca55c969a625cb0995b913f02df9b6f910608245c2557d0ae4b32783c13e7",
+      "title": "[Time] Constitutional Court rules on urgent court orders and strikes"
+    },
+    "wiki/collections/times/Constitutional Court ruling on differentiated autonomy reform.md": {
+      "id": "source:d0rq29ld5t2dkfczim4o",
+      "sha256": "7e6132ed492c593f85b5bb8041e11c40d324bbe374b1941b18ddd8c47e2dd760",
+      "title": "[Time] Constitutional Court ruling on differentiated autonomy reform"
+    },
+    "wiki/collections/times/Constitutional Court cancels the first round of Presidential elections.md": {
+      "id": "source:rz8nbjwpbo92k4nmy863",
+      "sha256": "81dc56f69ea631951cfa846d30090ae050b890798f49e1820c94d05378d16048",
+      "title": "[Time] Constitutional Court cancels the first round of Presidential elections"
+    },
+    "wiki/collections/times/Constitutional Court ruling on the statute of limitations (Article 155(1)).md": {
+      "id": "source:cmkj05gsxl72yiswi6vw",
+      "sha256": "db46800ca724a5538c9831b7f2c407805618a89b2cf4a456018b0ece0e60628a",
+      "title": "[Time] Constitutional Court ruling on the statute of limitations (Article 155(1))"
+    },
+    "wiki/collections/times/Constitutional Court ruling on the unconstitutionality of asset declaration requirements for spouseschildren.md": {
+      "id": "source:w9f64n3ca93omxwxhvmw",
+      "sha256": "812f626a4e05e23f8b8d250b0195387178064a953ca306f22b27e2782c8d7be2",
+      "title": "[Time] Constitutional Court ruling on the unconstitutionality of asset declaration requirements for spouseschildren"
+    },
+    "wiki/collections/times/Council Recommendation endorsing Italy's MTFSP and ending Excessive Deficit Procedure.md": {
+      "id": "source:erra3f5e38vswvhvqyuh",
+      "sha256": "7c4705f3f1bc11a7d9ff6636f4c19465b938e571f95d54a04525c98bfaeb4ee3",
+      "title": "[Time] Council Recommendation endorsing Italy's MTFSP and ending Excessive Deficit Procedure"
+    },
+    "wiki/collections/times/Council Recommendation endorsing Malta's Medium-Term Fiscal-Structural Plan.md": {
+      "id": "source:io7fhjrs4rk5ahwb1xsn",
+      "sha256": "c6ab2fd53fd8ee23c00271659483ef698591a7e7c6dde16cd4f17cf154d25e08",
+      "title": "[Time] Council Recommendation endorsing Malta's Medium-Term Fiscal-Structural Plan"
+    },
+    "wiki/collections/times/Council Recommendation endorsing Romania's national medium-term fiscal-structural plan.md": {
+      "id": "source:y4bb264f6okjssnziber",
+      "sha256": "7cc0ab619f1de044aa6b831b94bc94a3e4b3777a2c7be78195116f1dadacefe7",
+      "title": "[Time] Council Recommendation endorsing Romania's national medium-term fiscal-structural plan"
+    },
+    "wiki/collections/times/Council Recommendation to correct the excessive deficit in Romania.md": {
+      "id": "source:j06vl8s2p66qinged5tz",
+      "sha256": "0e6c798b3fb33c1faf3ca9a27e9c045d47528699bfdce1fc375c8bae0906acca",
+      "title": "[Time] Council Recommendation to correct the excessive deficit in Romania"
+    },
+    "wiki/collections/times/Council Recommendation endorsing Hungary's medium-term fiscal-structural plan.md": {
+      "id": "source:9any8or9k13bs02ktk98",
+      "sha256": "1462594e5f7764201c7d7e16c910644c29e892c687f49e0e936b18b0b61b9d57",
+      "title": "[Time] Council Recommendation endorsing Hungary's medium-term fiscal-structural plan"
+    },
+    "wiki/collections/times/Council endorsement of Slovakia's Medium-Term Fiscal-Structural Plan..md": {
+      "id": "source:3tahgudyl0sd2ea2yhpp",
+      "sha256": "1da9e941f928f466748666d2611eaa955e167c470f2cc64bf42e4c36bea23773",
+      "title": "[Time] Council endorsement of Slovakia's Medium-Term Fiscal-Structural Plan."
+    },
+    "wiki/collections/times/Council endorses Poland's medium-term fiscal-structural plan and initiates excessive deficit procedure.md": {
+      "id": "source:23xhetf9q331aqjp9v8v",
+      "sha256": "2c4e24b78ad0724901437f45f3b10dd356066dc8289225067170a21234e464fd",
+      "title": "[Time] Council endorses Poland's medium-term fiscal-structural plan and initiates excessive deficit procedure"
+    },
+    "wiki/collections/times/Council of Europe Committee of Ministers addresses 'chilling effect' in Hungarian judiciary.md": {
+      "id": "source:bj31ay2e0kvgolkftj0c",
+      "sha256": "c89b0a260f6dc3e3942e85b21cb1a8249ea1ff9b2c65c048b58e00ec17e403b1",
+      "title": "[Time] Council of Europe Committee of Ministers addresses 'chilling effect' in Hungarian judiciary"
+    },
+    "wiki/collections/times/Council recommendation to end excessive deficit situation in France.md": {
+      "id": "source:j3piykelxt2ryjiw2rb8",
+      "sha256": "579dcc5e043656752f8926dacc7e174f53b0f0f7aa244b2f7aab1507910846ee",
+      "title": "[Time] Council recommendation to end excessive deficit situation in France"
+    },
+    "wiki/collections/times/Council endorsement of France's medium-term fiscal-structural plan.md": {
+      "id": "source:sw13z8jjfnugs71gwtuy",
+      "sha256": "a486aeb3cd7d3dcf50ba80ceafe781a027a1601a4f54ccf384d9c8c8ada2542f",
+      "title": "[Time] Council endorsement of France's medium-term fiscal-structural plan"
+    },
+    "wiki/collections/times/Current period context.md": {
+      "id": "source:f7b4bhq76a5kt17h01gr",
+      "sha256": "dfc0aab9b3dd347df2d7a7f44ce7e83cd99e2ca33f76da7571f9043a1298f527",
+      "title": "[Time] Current period context"
+    },
+    "wiki/collections/times/Date of Country Ceilings Criteria.md": {
+      "id": "source:hfmq4tefbnarm1j0onxr",
+      "sha256": "99b4b65ee2147a9a8b07e31dd988ec00e115ed54ab936b093dd192eee80f9900",
+      "title": "[Time] Date of Country Ceilings Criteria"
+    },
+    "wiki/collections/times/Date of presentationlecture by Alex Stomper.md": {
+      "id": "source:1e1f7h86kzzg9bfuxiln",
+      "sha256": "2e2c44e57e4ec8eccd5a00dd8d132a241f9f4f5d11917ba916c0d93d27e7fa43",
+      "title": "[Time] Date of presentationlecture by Alex Stomper"
+    },
+    "wiki/collections/times/Date of previous Sovereign Rating Criteria.md": {
+      "id": "source:0nu4rmuf115i6rh7l892",
+      "sha256": "144acb3e2416357d837d271afa5b89f6c84555341f810dcd3c9dd3e2deac5341",
+      "title": "[Time] Date of previous Sovereign Rating Criteria"
+    },
+    "wiki/collections/times/Deadline for Implementation of EU Pillar II Minimum Tax Directive.md": {
+      "id": "source:c71zxv1etsrp6i34n3cg",
+      "sha256": "27d09037236b9d4fe386ae980fb5f4f4e706eda6eca20a72e34034adc57d4d86",
+      "title": "[Time] Deadline for Implementation of EU Pillar II Minimum Tax Directive"
+    },
+    "wiki/collections/times/Deadline for full implementation of Systemic Risk Buffer.md": {
+      "id": "source:y4bndyt6hjtxtlvqvgfh",
+      "sha256": "01dbe62b8a895b94ba122409f0b635552c74ee08802d58546aefdeded9c2b2ab",
+      "title": "[Time] Deadline for full implementation of Systemic Risk Buffer"
+    },
+    "wiki/collections/times/Deadline for full implementation of the Recovery and Resilience Plan (RRP)..md": {
+      "id": "source:33qf2lsdq21f06v5ultl",
+      "sha256": "efe622c2a8c032d00e17f78bd680a67b489a89f5f29ef822fd3ed7c78c4ccc96",
+      "title": "[Time] Deadline for full implementation of the Recovery and Resilience Plan (RRP)."
+    },
+    "wiki/collections/times/Deadline for implementation of Recovery and Resilience Plan measures.md": {
+      "id": "source:nfz08s97tia8jgfcjbmm",
+      "sha256": "69e7e70c708331ca18233955776ba4e85e032a11cd3e97aa3676747f432e0b13",
+      "title": "[Time] Deadline for implementation of Recovery and Resilience Plan measures"
+    },
+    "wiki/collections/times/Deadline for implementation of reforms underpinning fiscal adjustment extension.md": {
+      "id": "source:gpmucc3156cp8jqzp9rb",
+      "sha256": "9278beefe9d709687b09053cc627623b03368f66600e48591ef86b05bcd54bf4",
+      "title": "[Time] Deadline for implementation of reforms underpinning fiscal adjustment extension"
+    },
+    "wiki/collections/times/Deadline for meeting NRRP milestones and targets.md": {
+      "id": "source:nr5jftaojzr642ofar33",
+      "sha256": "7b7c94b55319cbc2de6d2db363e569e46777bb9e314f7c246c6059ebbf320a1e",
+      "title": "[Time] Deadline for meeting NRRP milestones and targets"
+    },
+    "wiki/collections/times/Deadline for submission of Slovakia's National Social Climate Plan..md": {
+      "id": "source:g41cl3pzv7m718va3izi",
+      "sha256": "caaeccd69da0fde8a561a0167385de8a5e0afe762538175fb573a25bf4588dd0",
+      "title": "[Time] Deadline for submission of Slovakia's National Social Climate Plan."
+    },
+    "wiki/collections/times/Deadline for submitting draft law for Public Consultation Department and National Human Rights Institution.md": {
+      "id": "source:l9nz4go4a306pui3935x",
+      "sha256": "bd8eb23004128d64a422f3eaccad9ade9ff354696838d4e9a46bd5db6e207807",
+      "title": "[Time] Deadline for submitting draft law for Public Consultation Department and National Human Rights Institution"
+    },
+    "wiki/collections/times/Deadline for submitting draft law for civil society regulatory framework.md": {
+      "id": "source:whuefyti15wcs7pgubmm",
+      "sha256": "78a81a1bcf7b5c465632501211620f28b5f78b3e5232bb57b11be6ada55bd48f",
+      "title": "[Time] Deadline for submitting draft law for civil society regulatory framework"
+    },
+    "wiki/collections/times/Debate on public broadcasting governance reform in National Assembly.md": {
+      "id": "source:rw68sytyb58fmq3ef2sp",
+      "sha256": "8b980a7af26331d841fba45e161e14a8e1a0d275be1b68a24e73de2a41c293a9",
+      "title": "[Time] Debate on public broadcasting governance reform in National Assembly"
+    },
+    "wiki/collections/times/Discussions with Italian officials begin.md": {
+      "id": "source:qry4ptla1kdwmz03uh8k",
+      "sha256": "7c3676b1728e2e507860dc2d185ac0318d586e37539287a746c62af3498098e8",
+      "title": "[Time] Discussions with Italian officials begin"
+    },
+    "wiki/collections/times/Discussions with Italian officials end.md": {
+      "id": "source:z8614v28231dg3w7c3xq",
+      "sha256": "b185a90c98e815c6656e826b75b9a0ec1432880140de24bf3fb153f08170310e",
+      "title": "[Time] Discussions with Italian officials end"
+    },
+    "wiki/collections/times/Discussions with Slovak officials ended.md": {
+      "id": "source:dcflumh8f448y0qax9yz",
+      "sha256": "87b4155c2d39b8400f7f60358a5e9e14803c0c513fd7b8bcbc67941441f6e3bd",
+      "title": "[Time] Discussions with Slovak officials ended"
+    },
+    "wiki/collections/times/Draft law to dismantle Supreme Court Chamber of Extraordinary Control proposed.md": {
+      "id": "source:mehz1cvjnc1gg22jg65f",
+      "sha256": "5263ea243de20b7e2f3f4326353e6fa986b068ee41a65a92e3d8ce47988342c0",
+      "title": "[Time] Draft law to dismantle Supreme Court Chamber of Extraordinary Control proposed"
+    },
+    "wiki/collections/times/EPPO fully operational in Poland.md": {
+      "id": "source:iyxnk3oxl3q4lyn7cd74",
+      "sha256": "9487ef2e5c31dff2ee13c9ce95aa138368c87d7a86a83399d1fc47d8c780b520",
+      "title": "[Time] EPPO fully operational in Poland"
+    },
+    "wiki/collections/times/Economic growth of 1%; Deficit reaches 4.5% of GDP; Debt at 104.7% of GDP.md": {
+      "id": "source:6cz6pw27yixema15v83e",
+      "sha256": "be357aeaf3a24a2014f62d280266020db00157556ccd871996bf0a399a465d45",
+      "title": "[Time] Economic growth of 1%; Deficit reaches 4.5% of GDP; Debt at 104.7% of GDP"
+    },
+    "wiki/collections/times/Economic activity resilient in early 2025.md": {
+      "id": "source:ki4rl35wmzs845pfh196",
+      "sha256": "19b7a5df1cdc37611272d3c5d702c649e623c35ab3396290caacfcd9889df960",
+      "title": "[Time] Economic activity resilient in early 2025"
+    },
+    "wiki/collections/times/Economic growth of 2.1% and fiscal deficit of 5.3% of GDP recorded..md": {
+      "id": "source:ng7qhib39fbfgyeir507",
+      "sha256": "a18362eb3faaffce8f94e43008f87dbbd69e837944c1938eee7bd401a1ea1d83",
+      "title": "[Time] Economic growth of 2.1% and fiscal deficit of 5.3% of GDP recorded."
+    },
+    "wiki/collections/times/Effective start date for Sovereign Rating Criteria.md": {
+      "id": "source:by9y5qtg9niiglbbc5s6",
+      "sha256": "6202bfd76251554f60667f5462f7a04aa9d1e4a52a1819df14d0630d8cbc1643",
+      "title": "[Time] Effective start date for Sovereign Rating Criteria"
+    },
+    "wiki/collections/times/Enactment of Strategic Lawsuits Against Public Participation Order.md": {
+      "id": "source:lmxhh78tpdicuhkf5i5t",
+      "sha256": "5d16bcd962fb9684f9211334b69ca5e64b211b11587675266268ae6545a41aa4",
+      "title": "[Time] Enactment of Strategic Lawsuits Against Public Participation Order"
+    },
+    "wiki/collections/times/Enactment of legislation establishing the Fiscal Council.md": {
+      "id": "source:10cyjgq38mbu27sg6s4e",
+      "sha256": "b05e93ad3d6fd1ab22c1392a72ee04e5732929f4f63ae393a5f67859af1789b0",
+      "title": "[Time] Enactment of legislation establishing the Fiscal Council"
+    },
+    "wiki/collections/times/End of IMF Staff Discussions with Malta Officials.md": {
+      "id": "source:pkc4ahi3mv7o6pawhgju",
+      "sha256": "71c6050e62cc343c6819f9872dd267d6eecdd03d78775346e97903fe0ba6a717",
+      "title": "[Time] End of IMF Staff Discussions with Malta Officials"
+    },
+    "wiki/collections/times/End of IMF Staff Discussions with Polish Officials.md": {
+      "id": "source:j19bd6t9z0dxqfuwj7j9",
+      "sha256": "462004b0043dff45aaf6d8c7b3d3886baaa6a15f68ab608d65019513f4102399",
+      "title": "[Time] End of IMF Staff Discussions with Polish Officials"
+    },
+    "wiki/collections/times/End of Russian gas transit through Ukraine.md": {
+      "id": "source:47vmlvtn4ujx8m0nn75m",
+      "sha256": "8cd82024d5724f2cddfd6748e07193219afee3e93a3d9b9ed1d05176fbaedb95",
+      "title": "[Time] End of Russian gas transit through Ukraine"
+    },
+    "wiki/collections/times/End of caretaker Government period; formation of new Government.md": {
+      "id": "source:5quo7qobq7ukrbt75yc4",
+      "sha256": "504dcd6833cef445a25788b9d00d292645f8f83c58c87e2940f1dbf069381cd1",
+      "title": "[Time] End of caretaker Government period; formation of new Government"
+    },
+    "wiki/collections/times/End of reporting period for 2024 outturn data.md": {
+      "id": "source:b1gtl67x8h5ljiqmaar4",
+      "sha256": "6b0835421de5711204929c5044623e99f09d31a3936819df8af4e00ef57f9ad1",
+      "title": "[Time] End of reporting period for 2024 outturn data"
+    },
+    "wiki/collections/times/Entry into force of Act on Slovak Television and Radio (STVR).md": {
+      "id": "source:stnfqkrruco5w4cznhhk",
+      "sha256": "d461b08eb87e0f815ccb564265edbbd506efb97901057199e403f0af7663ff2f",
+      "title": "[Time] Entry into force of Act on Slovak Television and Radio (STVR)"
+    },
+    "wiki/collections/times/Entry into force of criminal procedure law amendments to increase efficiency.md": {
+      "id": "source:vv3du5owra1eq1osg4fr",
+      "sha256": "2a5c1e1e3b5db85cf2959a39915c2aa4d266fd3c70a35dbe59dfcaefebd822e8",
+      "title": "[Time] Entry into force of criminal procedure law amendments to increase efficiency"
+    },
+    "wiki/collections/times/Entry into force of emergency measures to save 2.0% of GDP (wagepension freeze, tax reforms).md": {
+      "id": "source:40tb3mtogusj4x7sfwq6",
+      "sha256": "d26852e0aa200ec91a335a3b95272ee9da5b71f051746fa9f93e0d5e1ca40495",
+      "title": "[Time] Entry into force of emergency measures to save 2.0% of GDP (wagepension freeze, tax reforms)"
+    },
+    "wiki/collections/times/Entry into force of the Justice Laws in Romania.md": {
+      "id": "source:m6rcvyy2z5yxcusxy0jw",
+      "sha256": "545d0a42a61700c83c2e965437e0e6f611a4cae8755a0eb64bd7089209874388",
+      "title": "[Time] Entry into force of the Justice Laws in Romania"
+    },
+    "wiki/collections/times/Effective end date for Sovereign Rating Criteria.md": {
+      "id": "source:vz2wc0pqox4bxgb8dixe",
+      "sha256": "c9ca138c03d73835e9a252abcb32983fd09669bbad3d25c9c685e9ec693ec986",
+      "title": "[Time] Effective end date for Sovereign Rating Criteria"
+    },
+    "wiki/collections/times/European Commission expresses concerns over draft 'Transparency in Public Life' law.md": {
+      "id": "source:tcg2s3tg9gy2a6fx4ova",
+      "sha256": "3ce645e2b2a29a1697e790ef259acdab49592d5b826b26b90f5f78033dc47c95",
+      "title": "[Time] European Commission expresses concerns over draft 'Transparency in Public Life' law"
+    },
+    "wiki/collections/times/European Council initiates Excessive Deficit Procedure against Slovakia.md": {
+      "id": "source:safqkbe7iawqmon4hh6t",
+      "sha256": "2337a3871d6f49626295fb4f6ab1f9e4d07ec66d1f740dc57a00b1d52ba66d6c",
+      "title": "[Time] European Council initiates Excessive Deficit Procedure against Slovakia"
+    },
+    "wiki/collections/times/European Court of Human Rights judgment on independence of Immigration Appeals Board.md": {
+      "id": "source:11k6tl9w6a85z12ztoww",
+      "sha256": "fdf818c7bedc437435ebabbd6f4b2f28fdc19c05697d28d52bb30b22e53dccb5",
+      "title": "[Time] European Court of Human Rights judgment on independence of Immigration Appeals Board"
+    },
+    "wiki/collections/times/European Court of Justice rules Malta’s investor citizenship scheme contrary to EU Law.md": {
+      "id": "source:g0zbouoep1rn8iqtxjdb",
+      "sha256": "477cb72d147a5d3bb2afa944d0b02c75a0119d2a592fc7695c7ad6dd0e38f515",
+      "title": "[Time] European Court of Justice rules Malta’s investor citizenship scheme contrary to EU Law"
+    },
+    "wiki/collections/times/European Commission positively assesses French fiscal efforts.md": {
+      "id": "source:8ziiccw709txi5k8iraf",
+      "sha256": "a1d4627793313bf7e1950a087a80c64185eedd98d575d6beaec6746e59ffcaa9",
+      "title": "[Time] European Commission positively assesses French fiscal efforts"
+    },
+    "wiki/collections/times/European Court of Justice ruling on Hungarian agricultural price caps.md": {
+      "id": "source:vncjyv0uwx2v2ovfmc3b",
+      "sha256": "be856110a804999b9253eb9f62069091cae76cada11a6eae77bcfbaea828a9c3",
+      "title": "[Time] European Court of Justice ruling on Hungarian agricultural price caps"
+    },
+    "wiki/collections/times/Expansion of compulsory online publication of judgments to Higher Regional Courts.md": {
+      "id": "source:85dpv0fwq085sl069b06",
+      "sha256": "87d50cd6524ba32f59f138b3a3c0b812a3806d9c6714d6f519f43e79105f3f5d",
+      "title": "[Time] Expansion of compulsory online publication of judgments to Higher Regional Courts"
+    },
+    "wiki/collections/times/Expected adoption of 2024-2029 national anti-corruption plan.md": {
+      "id": "source:amzdcpofietg5uainzzr",
+      "sha256": "350c8049faa83a20551b67c5b366849ce3b5c4ea00fc3ca79353bb44478226da",
+      "title": "[Time] Expected adoption of 2024-2029 national anti-corruption plan"
+    },
+    "wiki/collections/times/Expected entry into force of Freedom of Information Act.md": {
+      "id": "source:287a589c0rzsyrvjibvh",
+      "sha256": "346c2c4321a5c24c3601bbfab468e6efe17bd2aea006199492e8fa9a63763a72",
+      "title": "[Time] Expected entry into force of Freedom of Information Act"
+    },
+    "wiki/collections/times/Expected launch of online register for foreign lobbyists by HATVP.md": {
+      "id": "source:8p3n8xezqa3rshojb977",
+      "sha256": "4156b2d0502dddda543ef8727ccfde0f50d83bb1b72d8d2b26a5f6313a2c9b00",
+      "title": "[Time] Expected launch of online register for foreign lobbyists by HATVP"
+    },
+    "wiki/collections/times/Expected third consecutive year of recession.md": {
+      "id": "source:57difz7umhpbwybbniu9",
+      "sha256": "d48ff24088b4e135ee64cb1912f92bf71baae24680e153184bfe4b9cf95e8533",
+      "title": "[Time] Expected third consecutive year of recession"
+    },
+    "wiki/collections/times/Expected year for national elections in Hungary.md": {
+      "id": "source:x039pcoolbqu4r5t9d4c",
+      "sha256": "b509d58e58f5ccdb9a3c1e553434ea1381c724c61fd271db0c3313e63001bc73",
+      "title": "[Time] Expected year for national elections in Hungary"
+    },
+    "wiki/collections/times/Expiration of €22 billion one-year government bond.md": {
+      "id": "source:u82ds3lgg9xf92ahkthl",
+      "sha256": "77cae045b820a74a8e61204947cf074349f3bc2bab630b69966c8f2165d8ba2f",
+      "title": "[Time] Expiration of €22 billion one-year government bond"
+    },
+    "wiki/collections/times/First meeting of 'Cercle des prévisionnistes' on macroeconomic forecasts.md": {
+      "id": "source:mgpw41aw8a9sq9sdq7qq",
+      "sha256": "da4a88d5a526b04a6866ac57b2177d019b11390d0ca764343ddf3bc79b2a9a96",
+      "title": "[Time] First meeting of 'Cercle des prévisionnistes' on macroeconomic forecasts"
+    },
+    "wiki/collections/times/First round of Presidential elections in Romania.md": {
+      "id": "source:dz7dw2ant340idlhwjfv",
+      "sha256": "42caaa81a73eef27e4a076013bcd220be752e867e839f029e3c2bb842de09fbf",
+      "title": "[Time] First round of Presidential elections in Romania"
+    },
+    "wiki/collections/times/First reading of proposed constitutional amendments.md": {
+      "id": "source:dehz3vlpaflr2a6flu07",
+      "sha256": "435906337c7ec35f5d4e34153ad0c8efead01f475d0f32b65d2f25c1177a0c73",
+      "title": "[Time] First reading of proposed constitutional amendments"
+    },
+    "wiki/collections/times/Forecasted GDP growth of 1.5% and inflation rising to 4.0%..md": {
+      "id": "source:oiz6trrq0w39a7opux8m",
+      "sha256": "2adf5b791c2b85ef4419c82829679d0d0d79c91cca250d32b3205d25ae3672ca",
+      "title": "[Time] Forecasted GDP growth of 1.5% and inflation rising to 4.0%."
+    },
+    "wiki/collections/times/Fiscal outturn Deficit 3.4% of GDP, Primary Surplus 0.4% of GDP.md": {
+      "id": "source:fpxc2o56dvlfus0la7i7",
+      "sha256": "4f9c6ef2591ef2dd79dd7dd264bf4a8619cc70bbe9cb424eb3232e8ace9d66f1",
+      "title": "[Time] Fiscal outturn Deficit 3.4% of GDP, Primary Surplus 0.4% of GDP"
+    },
+    "wiki/collections/times/Formation of new Belgian Federal Government.md": {
+      "id": "source:26vttwo4avchcoeye2ot",
+      "sha256": "19ff9c3b239f1becc84dc1b85f636e6ff96cfd3ba2667b0b1b1713afdd790401",
+      "title": "[Time] Formation of new Belgian Federal Government"
+    },
+    "wiki/collections/times/Freedom of Information Act amendments enter into force.md": {
+      "id": "source:srplk52ad8cvakd2d1ho",
+      "sha256": "336db59896a26629e6099ab63abeba858d35999eb911610c561c3efe121727c2",
+      "title": "[Time] Freedom of Information Act amendments enter into force"
+    },
+    "wiki/collections/times/GDP contraction of 0.8% and inflation peak of 17.0%.md": {
+      "id": "source:wt2nr881o40sz41q0rq7",
+      "sha256": "134d997acada0b08acf04267449f013097645a4aa361eb20ea0b1f1e2162c8f9",
+      "title": "[Time] GDP contraction of 0.8% and inflation peak of 17.0%"
+    },
+    "wiki/collections/times/GDP growth of 0.5% and inflation decline to 3.7%.md": {
+      "id": "source:n3nriottbcxm50dnpo6y",
+      "sha256": "4638a96e74e17bc0181f6b245cdf608b083a6016848c23b0496f05c85ec6843b",
+      "title": "[Time] GDP growth of 0.5% and inflation decline to 3.7%"
+    },
+    "wiki/collections/times/Government sends initial action plan to Court of Audit regarding justice digitalisation.md": {
+      "id": "source:48828e42hfwzgetg2ptp",
+      "sha256": "d7d7975653ac5ff65b86509340595fb631d376ac11fb1ca3660bad20d68596ab",
+      "title": "[Time] Government sends initial action plan to Court of Audit regarding justice digitalisation"
+    },
+    "wiki/collections/times/French economic resilience and fiscal slippages.md": {
+      "id": "source:vapbeh04ud92wragmcss",
+      "sha256": "e3740c3e1dad19a31251bb4f5a60b047a702dfc7532cfdddce1cc6f411ded2e3",
+      "title": "[Time] French economic resilience and fiscal slippages"
+    },
+    "wiki/collections/times/Government tables comprehensive constitutional reform concerning the justice sector.md": {
+      "id": "source:qve2q6968izyw8kcx3e0",
+      "sha256": "e3c0a75cd287e617123e4730c70c2823ba216f47469e5500dc49d55a62c011ab",
+      "title": "[Time] Government tables comprehensive constitutional reform concerning the justice sector"
+    },
+    "wiki/collections/times/Headline inflation averages 1.1%; Primary surplus of 0.4% of GDP.md": {
+      "id": "source:1oskg9e9ti05yeisiulu",
+      "sha256": "9fdaa7cc4557bfc0b48c667777aadd7fef88340a041f890fcff499084c55f800",
+      "title": "[Time] Headline inflation averages 1.1%; Primary surplus of 0.4% of GDP"
+    },
+    "wiki/collections/times/General elections in France leading to political fragmentation.md": {
+      "id": "source:2ss2txele5f4rwck2b79",
+      "sha256": "b63344c904c2c4fdd780201795672133d0096fb74262ea3109303754e259232a",
+      "title": "[Time] General elections in France leading to political fragmentation"
+    },
+    "wiki/collections/times/High Council approved directive concerning out-of-tenure appointments for magistrates.md": {
+      "id": "source:ujtb16sp4hsgndzpb1a6",
+      "sha256": "5cae713032caccf72c6088c2ac36cbab24f5008704808cba880afbf4c2b75b68",
+      "title": "[Time] High Council approved directive concerning out-of-tenure appointments for magistrates"
+    },
+    "wiki/collections/times/High Council for Justice publishes report on Court of Appeal of Brussels backlogs.md": {
+      "id": "source:axlq1mn63ho20bmhim52",
+      "sha256": "541f6951266c0d5c9980b4b8b39f51ea20243e400af2290ecbc32ea660042b94",
+      "title": "[Time] High Council for Justice publishes report on Court of Appeal of Brussels backlogs"
+    },
+    "wiki/collections/times/High Court of Cassation and Justice decision 162024 on lex mitior.md": {
+      "id": "source:79shidchksy5x8q57z25",
+      "sha256": "16adbdb0bd607495cd086fbc6dbadaab15c73fb86450483de2c0a7667ed25011",
+      "title": "[Time] High Court of Cassation and Justice decision 162024 on lex mitior"
+    },
+    "wiki/collections/times/High Court of Cassation and Justice decision 372024 on lex mitior.md": {
+      "id": "source:9rp8yqit05ln8mk0fp29",
+      "sha256": "70632d46e10132eb30329424315120fdaaa3c4742b8549ee75c52c17e2a9480d",
+      "title": "[Time] High Court of Cassation and Justice decision 372024 on lex mitior"
+    },
+    "wiki/collections/times/High Court of Cassation and Justice seeks clarification from CJEU (Case C-28025 Lin II).md": {
+      "id": "source:fhnhzgyinjito6d5kayi",
+      "sha256": "a1128422112f6938613aee57793c089e0ba15fdb3d6c05b37d093db0e1999025",
+      "title": "[Time] High Court of Cassation and Justice seeks clarification from CJEU (Case C-28025 Lin II)"
+    },
+    "wiki/collections/times/High Council for the Judiciary issued critical opinion on the draft constitutional reform.md": {
+      "id": "source:k3x512i93vrrujw7mw5m",
+      "sha256": "57014b0a223648761a5013866cef64c996024daef84efcfd34b1d27b214361bf",
+      "title": "[Time] High Council for the Judiciary issued critical opinion on the draft constitutional reform"
+    },
+    "wiki/collections/times/Household electricity price cap removed; energy levies reinstated.md": {
+      "id": "source:hvlz9amwhp9591wb9qgl",
+      "sha256": "dca2b263209a0fb69d96cbd385d1623e4e096342a9d0eacc9a8f669a75455471",
+      "title": "[Time] Household electricity price cap removed; energy levies reinstated"
+    },
+    "wiki/collections/times/High Court of Cassation issued report on the Security Law.md": {
+      "id": "source:d58g82rfghl17i6j6uss",
+      "sha256": "219b0d46a525f5cbd1edb2baeb7760779f726bedbd6c5cc122bdce8ad25a56f5",
+      "title": "[Time] High Court of Cassation issued report on the Security Law"
+    },
+    "wiki/collections/times/IMF Executive Board Consideration of Staff Report.md": {
+      "id": "source:mds3zd22ay2muqfoxjsh",
+      "sha256": "624666a2ccf13f2389364ea75df082604652fb7883f145be578701b6ac1a0851",
+      "title": "[Time] IMF Executive Board Consideration of Staff Report"
+    },
+    "wiki/collections/times/IMF Executive Board concludes 2025 Article IV Consultation with Austria.md": {
+      "id": "source:r3ijekp1hfe9c9letrvp",
+      "sha256": "c21cbd0e8d738516ae76efdc1c6cec46acea37170318031e9e8e31bb5863af36",
+      "title": "[Time] IMF Executive Board concludes 2025 Article IV Consultation with Austria"
+    },
+    "wiki/collections/times/IMF Executive Board concludes 2025 Article IV Consultation with Hungary.md": {
+      "id": "source:y8fnmj47do22br5pfqto",
+      "sha256": "691974d9108540143abff359cd36d7c5df8db490ed6e50bc2022906272d24def",
+      "title": "[Time] IMF Executive Board concludes 2025 Article IV Consultation with Hungary"
+    },
+    "wiki/collections/times/IMF Executive Board concludes 2025 Article IV Consultation with Italy.md": {
+      "id": "source:izxgp702ybyyr4v3beaa",
+      "sha256": "051d57bcc2e52ee9eabb7d5ef249a6173722dcdf5fb09f94e626fbe918e98dea",
+      "title": "[Time] IMF Executive Board concludes 2025 Article IV Consultation with Italy"
+    },
+    "wiki/collections/times/IMF Executive Board concludes 2025 Article IV consultation with Slovak Republic.md": {
+      "id": "source:7h7vnkjb62o0ttbt1oxd",
+      "sha256": "fd8231476ab65bf600f34af8aa936ab66fe0e9f418fe7ec7b2dcf3b11997c53b",
+      "title": "[Time] IMF Executive Board concludes 2025 Article IV consultation with Slovak Republic"
+    },
+    "wiki/collections/times/IMF Executive Board concludes 2025 Article IV consultation.md": {
+      "id": "source:ui0cabb6454yklqc724e",
+      "sha256": "36943f907aae75145bd79557f2e8b6575092267bee041ee330e3c0109abe5859",
+      "title": "[Time] IMF Executive Board concludes 2025 Article IV consultation"
+    },
+    "wiki/collections/times/IMF Executive Board concludes Article IV consultation.md": {
+      "id": "source:1uy8j2g9xa4ms768gf3n",
+      "sha256": "9db606102f60132e5874cc1b1e00911b597afbe91282108dd55eb5b311e8eb24",
+      "title": "[Time] IMF Executive Board concludes Article IV consultation"
+    },
+    "wiki/collections/times/IMF Press Release issued.md": {
+      "id": "source:ctd4bu0xjyg030q92e87",
+      "sha256": "feea917a3e1ff34f1ae3dc9997f215757d09d6469897d60e1e9c729abe90b17b",
+      "title": "[Time] IMF Press Release issued"
+    },
+    "wiki/collections/times/IMF staff discussions with Hungarian officials ended.md": {
+      "id": "source:pnfnikva19otqxe2kr69",
+      "sha256": "0dd66c3444dc18e68abd240a1cd915bfd7aa12ee7a96e8005df215bbaba7200d",
+      "title": "[Time] IMF staff discussions with Hungarian officials ended"
+    },
+    "wiki/collections/times/Implementation of Pillar 2 Directive on global minimum corporate tax.md": {
+      "id": "source:22qs5owmopq8lcns4w63",
+      "sha256": "a50b4f8b62a95aa564ae785334f2e94e58ddead23aca7a62db0fd710a1eec042",
+      "title": "[Time] Implementation of Pillar 2 Directive on global minimum corporate tax"
+    },
+    "wiki/collections/times/Implementation of court fee increases (approx. 23%).md": {
+      "id": "source:ct4lmznmqlkewtqthiqf",
+      "sha256": "6fc88116354ee01852e8ec62b990f292562905889f2614a33913ba9d4d1b3dee",
+      "title": "[Time] Implementation of court fee increases (approx. 23%)"
+    },
+    "wiki/collections/times/IMF Staff Report completed.md": {
+      "id": "source:7umm6tygjib07qb3998n",
+      "sha256": "034e2be687f406a445c3a77ed024b815cd84c230c5a8ccce9347cf992900693c",
+      "title": "[Time] IMF Staff Report completed"
+    },
+    "wiki/collections/times/Implementation of new pension reforms to tighten early retirement access.md": {
+      "id": "source:95tnk2bdmb810byhsigq",
+      "sha256": "45704b7ad38e908d18b06f2d5a378c8689497c49669e0083dcb6bad49049200e",
+      "title": "[Time] Implementation of new pension reforms to tighten early retirement access"
+    },
+    "wiki/collections/times/Introduction of 10% retailer profit margin cap for food products.md": {
+      "id": "source:00ennqh9siqzozju9wif",
+      "sha256": "d973688c3bc8a624ebb517220059956302c0fee85dde2fdf480e0ae15e25d5ef",
+      "title": "[Time] Introduction of 10% retailer profit margin cap for food products"
+    },
+    "wiki/collections/times/Introduction of 15% margin cap for personal hygiene products.md": {
+      "id": "source:ep86tkmbv9jvs81c1edw",
+      "sha256": "c271689ec5a2ebe67051cf0b0c3ccb71620a5de4ea7de18330423a2a4ac547cd",
+      "title": "[Time] Introduction of 15% margin cap for personal hygiene products"
+    },
+    "wiki/collections/times/Introduction of new pension system reforms (index funds for Pillar II)..md": {
+      "id": "source:epmf6npflohjrzo6fgv7",
+      "sha256": "dfdf43690223537e895c2566630a0c53c110393dfc4a9e169a741e5406026e08",
+      "title": "[Time] Introduction of new pension system reforms (index funds for Pillar II)."
+    },
+    "wiki/collections/times/Joint memorandum of three highest courts requiring Government to respect court judgments.md": {
+      "id": "source:2woz2ak90taui4285e2q",
+      "sha256": "cb2897801062d9d11d8f485bf50d72d9f0029cf18c3df15cedc4c2dc599bd54f",
+      "title": "[Time] Joint memorandum of three highest courts requiring Government to respect court judgments"
+    },
+    "wiki/collections/times/King sanctions law on whistleblower protection for House of Representatives and Senate.md": {
+      "id": "source:6hk2cbaz58culchzkjjz",
+      "sha256": "91c383f07a8e5cf5bd5a27b0b5f2ca0d9c92bdb5c9954280c6e6f5a8d3063c9c",
+      "title": "[Time] King sanctions law on whistleblower protection for House of Representatives and Senate"
+    },
+    "wiki/collections/times/Increase in pending ECHR leading judgments to 26.md": {
+      "id": "source:ozlju5jgvzmucqny7dpf",
+      "sha256": "6c4abbd6c838f62721d2d92abdfd9575c630f2ae9bdc1a190a5607d21c388d03",
+      "title": "[Time] Increase in pending ECHR leading judgments to 26"
+    },
+    "wiki/collections/times/Launch of deposit return system for single-use beverage containers.md": {
+      "id": "source:fnkcc4obkpw5369b169d",
+      "sha256": "be6e6852e6a655989a12523e4face5aaf28ee361a79bf00c3692f45f0b664b17",
+      "title": "[Time] Launch of deposit return system for single-use beverage containers"
+    },
+    "wiki/collections/times/Law abrogating the offence of abuse of public office entered into force.md": {
+      "id": "source:6yvtw06p521sat7a7256",
+      "sha256": "bdfd2c5b1e7e992fc1711ae1e0b5a82ab4ae93c6411f060dd525b8e7df7a4d85",
+      "title": "[Time] Law abrogating the offence of abuse of public office entered into force"
+    },
+    "wiki/collections/times/Law reforming the status of magistrates enacted.md": {
+      "id": "source:mvgu6kjqcso4h2zaxyhu",
+      "sha256": "b2f3bea9046ab9f3e7bf1410a4b2e4fb6edabc2b26980ce1a4cd03c12ad07a46",
+      "title": "[Time] Law reforming the status of magistrates enacted"
+    },
+    "wiki/collections/times/Law strengthening criminalisation of foreign bribery enters into force.md": {
+      "id": "source:koue3v8kbwbo6bdie7e8",
+      "sha256": "1250bd94eadc4215d03360ca469820815fa10b38a85ac560b11e9aa701a8490d",
+      "title": "[Time] Law strengthening criminalisation of foreign bribery enters into force"
+    },
+    "wiki/collections/times/Legislative decrees implementing the reform of the justice system adopted by the Government.md": {
+      "id": "source:ogt9iiopqgs5xmkdifnu",
+      "sha256": "f583a7135aa752ea5c06a602f54d24a216a6b3f7ff9e873e6fd53ce42e7f0898",
+      "title": "[Time] Legislative decrees implementing the reform of the justice system adopted by the Government"
+    },
+    "wiki/collections/times/Mandatory use of digital case management system (APP) in criminal courts and prosecutors' offices.md": {
+      "id": "source:5q8mqqimo4g4owbworh0",
+      "sha256": "23ceac1c7243d8f0414719f2895538902d7de9600d40cbb80875ede2628071bc",
+      "title": "[Time] Mandatory use of digital case management system (APP) in criminal courts and prosecutors' offices"
+    },
+    "wiki/collections/times/Medium-Term Fiscal Structural Plan (MTFSP) Horizon.md": {
+      "id": "source:x2m7ary9f7yi72xjakvb",
+      "sha256": "851a62f2b19df2f60d0c17d63824f8558a95bf8a84ae30ba141b252760df4763",
+      "title": "[Time] Medium-Term Fiscal Structural Plan (MTFSP) Horizon"
+    },
+    "wiki/collections/times/Minister for Institutional Reforms reiterated the constitutional reform as a priority.md": {
+      "id": "source:bqzr9fk5pkyjiq1kqr5x",
+      "sha256": "59030057fe83af9ccfd5c8a1420ac2d4f2c70df84f09c6a98c09e0daef0be4ff",
+      "title": "[Time] Minister for Institutional Reforms reiterated the constitutional reform as a priority"
+    },
+    "wiki/collections/times/Ministers file annual asset and interests declarations (unpublished).md": {
+      "id": "source:flpe1hy9xuqzo47iyywk",
+      "sha256": "780e0b8eb7559fc940c15357d5ce6d729bbaed6542d8190018e05e47bb37ea3a",
+      "title": "[Time] Ministers file annual asset and interests declarations (unpublished)"
+    },
+    "wiki/collections/times/Ministry of Justice proposes draft law on status of 1,600 judges.md": {
+      "id": "source:nml7qrpygwrr8v65ry9i",
+      "sha256": "7d987fac350ba8f4df57d6b34366be4c15c1c63feee99c582205664c0ce4aac0",
+      "title": "[Time] Ministry of Justice proposes draft law on status of 1,600 judges"
+    },
+    "wiki/collections/times/Mission began in Vienna.md": {
+      "id": "source:caoihf2yuwq66x049ash",
+      "sha256": "59a171f52f3e0cb7d1028ee2eda1e6739118625cd23a44ce161315794517ac4d",
+      "title": "[Time] Mission began in Vienna"
+    },
+    "wiki/collections/times/Moody's downgrades France's credit rating to Aa3.md": {
+      "id": "source:vd2ks8bjc5n9u2x92pb2",
+      "sha256": "0e57bae2b37da93597c94603978b81bdbdf15a91bb7eda47ff530ab6615788d3",
+      "title": "[Time] Moody's downgrades France's credit rating to Aa3"
+    },
+    "wiki/collections/times/Mission discussions ended.md": {
+      "id": "source:5oi6j6kolcy2n8mu3sqq",
+      "sha256": "8ce845f7b0d9c885e50aa69ed6619daada2a1e3455681146fc53830539fc36d5",
+      "title": "[Time] Mission discussions ended"
+    },
+    "wiki/collections/times/National Audiovisual Council decision on Presidential election campaign rules.md": {
+      "id": "source:bzatx75oix8yebq1srwj",
+      "sha256": "83a6f7b3a0dc8c45c87a3e43616baff291246e7d3d00567153de3576a0dc454b",
+      "title": "[Time] National Audiovisual Council decision on Presidential election campaign rules"
+    },
+    "wiki/collections/times/National Judicial Council withdraws from four-party agreement.md": {
+      "id": "source:h01z0hpuww6eh4spyya3",
+      "sha256": "a2c3f994a28fa33ade4ef450459b2b55883fbc8039b4dbeb03e40941af2f8955",
+      "title": "[Time] National Judicial Council withdraws from four-party agreement"
+    },
+    "wiki/collections/times/Long-term projection horizon for age-related expenditure.md": {
+      "id": "source:3177hnohf6gww4hyij6e",
+      "sha256": "ec25a2c84f13f794d717cfb1b7e822f02ea2c945609141e68611bb28e1ee0d70",
+      "title": "[Time] Long-term projection horizon for age-related expenditure"
+    },
+    "wiki/collections/times/New Government Programme presented.md": {
+      "id": "source:h2pa38wjncewn9gu5wbo",
+      "sha256": "1d2125047616cc12de61965afec0e8ddab4c4fc96dfd78d0d09993f0c5045231",
+      "title": "[Time] New Government Programme presented"
+    },
+    "wiki/collections/times/New appointments to ORF management bodies.md": {
+      "id": "source:3vqi2fdq8cj152mm2z93",
+      "sha256": "479ebab1617a5c75e4292322e46f679c99f85a2e66a28c95964fb448cd15deb7",
+      "title": "[Time] New appointments to ORF management bodies"
+    },
+    "wiki/collections/times/Number of pending ECtHR leading judgments in Malta increases to 16.md": {
+      "id": "source:68y8kjutmjjhl5hhnij0",
+      "sha256": "bbd56a314a01e9b26012f396209cb77eae5e39426dc1261a0378c7c5dc4fa1bd",
+      "title": "[Time] Number of pending ECtHR leading judgments in Malta increases to 16"
+    },
+    "wiki/collections/times/Number of pending ECtHR leading judgments rises to 33.md": {
+      "id": "source:si50c9yxdj568m6hi8cp",
+      "sha256": "bd77cbb604f49125e2fbcbeb868eb3e4ce23837f67884fcac53074b6d9745f1c",
+      "title": "[Time] Number of pending ECtHR leading judgments rises to 33"
+    },
+    "wiki/collections/times/Original publication and effective date of S&P Sovereign Rating Methodology.md": {
+      "id": "source:roqm6h3xyaaz7pcrz36c",
+      "sha256": "2e6684caa48060342e2854eca79cc3c20ef125be7a3eb48eeded8fbe68c7b36e",
+      "title": "[Time] Original publication and effective date of S&P Sovereign Rating Methodology"
+    },
+    "wiki/collections/times/Parliament adopted the new Security Law.md": {
+      "id": "source:ju1tsa7jcd12uk75ghbh",
+      "sha256": "9a7ee8f64aa3f298aa73f786792279ba934cf38570a8b6159e0f5df731fda2b1",
+      "title": "[Time] Parliament adopted the new Security Law"
+    },
+    "wiki/collections/times/Parliamentary approval of budget consolidation measures.md": {
+      "id": "source:tn4iq7wcmv8ctmo7k7k1",
+      "sha256": "e95e04bbd276ac96a28fa0be4a034007f5bbabdd9c60baba90d7e66100ced1cf",
+      "title": "[Time] Parliamentary approval of budget consolidation measures"
+    },
+    "wiki/collections/times/Partial entry into force of federal law amending administrative transparency framework.md": {
+      "id": "source:jmz6vtanneibfqhv0xdd",
+      "sha256": "663f551cd537ad0e4cc8f6483ff4d68d7a8a254075fcd93d35ef9afafb5b6821",
+      "title": "[Time] Partial entry into force of federal law amending administrative transparency framework"
+    },
+    "wiki/collections/times/Peak of headline inflation at 13.1% yy (historical reference).md": {
+      "id": "source:ne16t1fk49p5og8zh8jx",
+      "sha256": "f6f32e7a3d86b749aa73bbb41242b72395bfe8e3358725b9308414b4a4307f9c",
+      "title": "[Time] Peak of headline inflation at 13.1% yy (historical reference)"
+    },
+    "wiki/collections/times/Pending ECHR leading judgments decrease to 22.md": {
+      "id": "source:xzyjh425502m87iy1tc5",
+      "sha256": "4ffd0addde5ebeec6a7f55a712833847d86c3f7406d5b8d11d64c5f08a0e5234",
+      "title": "[Time] Pending ECHR leading judgments decrease to 22"
+    },
+    "wiki/collections/times/Poland enters EU Excessive Deficit Procedure.md": {
+      "id": "source:adacjy4teoap3cldra9y",
+      "sha256": "8ec66393340d4a305355043273f25dfba2e11795b9bd5f6c5b13ff7c803cb1d9",
+      "title": "[Time] Poland enters EU Excessive Deficit Procedure"
+    },
+    "wiki/collections/times/Political compromise on 2025 budget reached.md": {
+      "id": "source:avjtun33oyo2kx6ds5yt",
+      "sha256": "5b27715e1a70de2c420128aa9ba690a5180ab92cb2d0854d1a67f7bc3453c993",
+      "title": "[Time] Political compromise on 2025 budget reached"
+    },
+    "wiki/collections/times/Press Release and Staff Report published.md": {
+      "id": "source:r05dfoak3kbk1kntgl5q",
+      "sha256": "434dad79f504eeb7d2bd2b865c95a6cfe074c1375b7a09960fe6e1b65a303204",
+      "title": "[Time] Press Release and Staff Report published"
+    },
+    "wiki/collections/times/Projected Entry into EU Excessive Deficit Procedure.md": {
+      "id": "source:p985wae2xqe7e3cdxby3",
+      "sha256": "66384a0e0357e38448f4c2b84515b8039bf6653c73c0d05868816d59ce513e56",
+      "title": "[Time] Projected Entry into EU Excessive Deficit Procedure"
+    },
+    "wiki/collections/times/Projected GDP growth of 0.8%; Deficit projected at 5.4% of GDP.md": {
+      "id": "source:2a4ten8wn5iva6wr3qbd",
+      "sha256": "0fa1dcd31527c970efdf4d6e31b5c04428a111de7c756c9e06f7c9efb10aaba0",
+      "title": "[Time] Projected GDP growth of 0.8%; Deficit projected at 5.4% of GDP"
+    },
+    "wiki/collections/times/Projected GDP growth of 1.4%; Target budget deficit of 7% of GDP.md": {
+      "id": "source:za83gweinzarlsq9s4sv",
+      "sha256": "5afdcf016fcfc68d0f3c65ded7d4eb18b99b073eba82f7b89d11225186b4b4f2",
+      "title": "[Time] Projected GDP growth of 1.4%; Target budget deficit of 7% of GDP"
+    },
+    "wiki/collections/times/Projected Operational Start of Independent Fiscal Council.md": {
+      "id": "source:b5orv5o9h8gojg8m28zd",
+      "sha256": "970650c3d3fc6265bd0f434c3612e411465f081d4c7a448af69a7a2a51301602",
+      "title": "[Time] Projected Operational Start of Independent Fiscal Council"
+    },
+    "wiki/collections/times/Projected government deficit of 5.1% and debt-to-GDP of 63.0%..md": {
+      "id": "source:bd6f9k1945v0t2tyy6zu",
+      "sha256": "14035f43646969da266ba6471a1c67ae544b8d391a9f8774529b2065cee29422",
+      "title": "[Time] Projected government deficit of 5.1% and debt-to-GDP of 63.0%."
+    },
+    "wiki/collections/times/Projected operational start of the Polish Fiscal Council.md": {
+      "id": "source:ymq8ppk7eyzt34l9z4m3",
+      "sha256": "6fc0f448bede4c4fd6f2cb1114a006ba838e3addd28161f5b3605a040992ba0c",
+      "title": "[Time] Projected operational start of the Polish Fiscal Council"
+    },
+    "wiki/collections/times/Public debt ratio ends at 135.3% of GDP.md": {
+      "id": "source:9xzkip7lotjl106ml5o1",
+      "sha256": "67ab01ebbefac961a071038471138535fe5b45e5ef63432e2335d2a51a09c788",
+      "title": "[Time] Public debt ratio ends at 135.3% of GDP"
+    },
+    "wiki/collections/times/Publication of 'flash missions' reports on justice efficiency.md": {
+      "id": "source:whunjjzd3tlck3ytz9bd",
+      "sha256": "9bd616f26f684740bafc6631d0dad34857fca5a13c5c0a03c34f5dad890e1fe3",
+      "title": "[Time] Publication of 'flash missions' reports on justice efficiency"
+    },
+    "wiki/collections/times/Publication of 2025 Country Report - Austria.md": {
+      "id": "source:71x60ihmvd0xsm2ygmtj",
+      "sha256": "40e2637cdc90a393ea5df8963c7aaabf746cbcf634e5a0ed4436b548d4c7a900",
+      "title": "[Time] Publication of 2025 Country Report - Austria"
+    },
+    "wiki/collections/times/Publication of 2025 Country Report - France.md": {
+      "id": "source:j775btkuibntu92cl5td",
+      "sha256": "0e0f09d46cabfcbed6a53f5fb4e41d021e32d1a138ea78fdb990f6ebd6b5c214",
+      "title": "[Time] Publication of 2025 Country Report - France"
+    },
+    "wiki/collections/times/Publication of 2025 Country Report - Italy.md": {
+      "id": "source:2vou3mo3ioolzzwfe6pt",
+      "sha256": "40ba9d50d12b76f6f4de545b5d8c1a123ad63d12ff827a90e3afcb86b97ef71f",
+      "title": "[Time] Publication of 2025 Country Report - Italy"
+    },
+    "wiki/collections/times/Publication of 2025 Country Report - Malta.md": {
+      "id": "source:ve42u98bvss7857o2rj6",
+      "sha256": "71c6c5f98ecccf7478b90b5814faa464f9191fa91a18abae35af4b32a465de26",
+      "title": "[Time] Publication of 2025 Country Report - Malta"
+    },
+    "wiki/collections/times/Publication of 2025 Country Report Poland.md": {
+      "id": "source:5lvtf2p3v6xxt2zpfw8p",
+      "sha256": "99a1990621c8091d8dbeee16b3d057257121458d0828c31b0d8cc4315c8aaa0f",
+      "title": "[Time] Publication of 2025 Country Report Poland"
+    },
+    "wiki/collections/times/Publication of 2025 Rule of Law Report Country Chapter on Austria.md": {
+      "id": "source:hi7ipbhqwcustl3kz8yj",
+      "sha256": "5ff6911dd30b5cf74ffab4a213706a0c506a2b9c02eab9cb3c867f854e3221e4",
+      "title": "[Time] Publication of 2025 Rule of Law Report Country Chapter on Austria"
+    },
+    "wiki/collections/times/Publication of 2025 Rule of Law Report Country Chapter on Poland.md": {
+      "id": "source:vap6t1ke7sv2uo7vdumb",
+      "sha256": "c184d64aa2b13f3241c47458ff5bde8d83d81c0c6b8002200b71852059ef927a",
+      "title": "[Time] Publication of 2025 Rule of Law Report Country Chapter on Poland"
+    },
+    "wiki/collections/times/Publication of 2025 Rule of Law Report Hungary Country Chapter.md": {
+      "id": "source:7a9xxmg73yzdi3wb6bcp",
+      "sha256": "341d73692e63367e4a6594063a0a460ebfbd58581abdb8cc00dd046cf72ce8c7",
+      "title": "[Time] Publication of 2025 Rule of Law Report Hungary Country Chapter"
+    },
+    "wiki/collections/times/Publication of 2025 Country Report - Romania.md": {
+      "id": "source:zkx9avr0i6l73h4e0900",
+      "sha256": "8eed48662a83c26261438d07c74d74493b254157d05fd2417328d755c9b1f446",
+      "title": "[Time] Publication of 2025 Country Report - Romania"
+    },
+    "wiki/collections/times/Publication of 2025 Rule of Law Report on Slovakia.md": {
+      "id": "source:v2mp006tnpwjfzpttt6z",
+      "sha256": "66d3fba9bdd5f0b66ce44e8c4b44303c1e50af9a0d3c1f559c3548e69605140c",
+      "title": "[Time] Publication of 2025 Rule of Law Report on Slovakia"
+    },
+    "wiki/collections/times/Publication of Criteria for Assigning 'CCC+', 'CCC', 'CCC-', And 'CC' Ratings.md": {
+      "id": "source:jq3e2h0ts2vcfnyoop2c",
+      "sha256": "73450496d688694a14406574a98ce7864ca3008e3d22f433a444e82e85a02827",
+      "title": "[Time] Publication of Criteria for Assigning 'CCC+', 'CCC', 'CCC-', And 'CC' Ratings"
+    },
+    "wiki/collections/times/Publication of Decree-Law No. 25 coordinated with conversion law.md": {
+      "id": "source:5dae5y5dvrgwayzkx1wy",
+      "sha256": "8dd56d2db56f26a9ba4b9d3e5a02025d152ea3a375998ce4f67e9dcb1d28ce2e",
+      "title": "[Time] Publication of Decree-Law No. 25 coordinated with conversion law"
+    },
+    "wiki/collections/times/Publication of Monetary Authorities Rating Methodology.md": {
+      "id": "source:mbrs11912h8x1cgy4zca",
+      "sha256": "32f9849b238e38035de6b032672b340ea86bcc13113f206edac84c8d796e680e",
+      "title": "[Time] Publication of Monetary Authorities Rating Methodology"
+    },
+    "wiki/collections/times/Publication of Principles of Credit Ratings.md": {
+      "id": "source:7ma6v9t0lr98q5989eej",
+      "sha256": "4a4ff7f65130bb7479101547a3863815242f0a91e8bac994bca7a3feba9cacd1",
+      "title": "[Time] Publication of Principles of Credit Ratings"
+    },
+    "wiki/collections/times/Publication of SWD(2025) 201 final 2025 Country Report - Belgium.md": {
+      "id": "source:p4okqmu1w9fxpls0icab",
+      "sha256": "8b62beb6229485c817162300852c1bccb4c6bde386464cffd6ad4e98df5661c4",
+      "title": "[Time] Publication of SWD(2025) 201 final 2025 Country Report - Belgium"
+    },
+    "wiki/collections/times/Publication of previous S&P Sovereign Rating Methodology.md": {
+      "id": "source:34spu2gkeoldglv4p56n",
+      "sha256": "7af0cc587d8c420edf99039a8bce18a17b847bccc9a51d901ca7e658e00284e8",
+      "title": "[Time] Publication of previous S&P Sovereign Rating Methodology"
+    },
+    "wiki/collections/times/Publication of the 2025 Country Report by the European Commission..md": {
+      "id": "source:srpme8ur21ryg4vrnki0",
+      "sha256": "5887625a90fdf39663f85b895abeeba49acc7da4f343706f8b8c2fbb39661f71",
+      "title": "[Time] Publication of the 2025 Country Report by the European Commission."
+    },
+    "wiki/collections/times/Publication of the 2025 Country Report on Hungary.md": {
+      "id": "source:83x0a54ezq53qr04i4ym",
+      "sha256": "95fc3a004c7cfc29050f49c62641788d745de2ccbc154c1efc8965c9ea70d565",
+      "title": "[Time] Publication of the 2025 Country Report on Hungary"
+    },
+    "wiki/collections/times/Publication of the 2025 Rule of Law Report Country Chapter on Belgium.md": {
+      "id": "source:q3gt6z5oz99482ltmx5b",
+      "sha256": "b1e56c05168f3eac5cc55f9a8da74885ad7c58896f0c1f057b5cbf3ac0d5108f",
+      "title": "[Time] Publication of the 2025 Rule of Law Report Country Chapter on Belgium"
+    },
+    "wiki/collections/times/Publication of the 2025 Rule of Law Report Country Chapter on Italy.md": {
+      "id": "source:ot5zr9aapya41bam1la4",
+      "sha256": "5a06c874756fb53ede987f6b9f3e1d0463140213ba1334e23fd160f703e91011",
+      "title": "[Time] Publication of the 2025 Rule of Law Report Country Chapter on Italy"
+    },
+    "wiki/collections/times/Publication of the 2025 Rule of Law Report Country Chapter on Malta.md": {
+      "id": "source:snrqi20fvl9d56zrw6py",
+      "sha256": "07cfe5dcb552f370e11228484eef682c53eac722b931dba83e84f67ddcf327e0",
+      "title": "[Time] Publication of the 2025 Rule of Law Report Country Chapter on Malta"
+    },
+    "wiki/collections/times/Publication of the 2025 Rule of Law Report Country Chapter on Romania.md": {
+      "id": "source:0emp8s7etpueb0o9ufk1",
+      "sha256": "5cf6ee017e2c6bec04e711a1b4926b0484f68ac09a3c77bcd8b92d876b04d9f4",
+      "title": "[Time] Publication of the 2025 Rule of Law Report Country Chapter on Romania"
+    },
+    "wiki/collections/times/Publication year of S&P sovereign credit rating methodology document.md": {
+      "id": "source:etifj9qsszmsdw8z3z6n",
+      "sha256": "3c1f5fdf3d3de3bb041e36ae86c1f6671cdda6bb8fa94ed49b46f767f76f6699",
+      "title": "[Time] Publication year of S&P sovereign credit rating methodology document"
+    },
+    "wiki/collections/times/Real GDP Growth 0.7%.md": {
+      "id": "source:gnsliv23b4gnmkmwpix1",
+      "sha256": "8e237d39861a8326a28d48f8b6dbbc630d03a814bb644d4c157d33a12eff93bc",
+      "title": "[Time] Real GDP Growth 0.7%"
+    },
+    "wiki/collections/times/Real GDP growth decelerates to 0.8%; Government deficit reaches 9.3% of GDP.md": {
+      "id": "source:rlj010zbaaddgkoz9cjb",
+      "sha256": "5a5c50de7f3e3dc8666067e2e185486d80dd3a040af0d7ddbd9167b30c562909",
+      "title": "[Time] Real GDP growth decelerates to 0.8%; Government deficit reaches 9.3% of GDP"
+    },
+    "wiki/collections/times/Record of 31 pending ECtHR leading judgments.md": {
+      "id": "source:aapc75n926cavwuj3xrk",
+      "sha256": "03c9f5b8d29ffa3711efc26b83424e3bca653b96ddd02549345de38f49e46df5",
+      "title": "[Time] Record of 31 pending ECtHR leading judgments"
+    },
+    "wiki/collections/times/Release of IMF Press Release and Executive Board Assessment.md": {
+      "id": "source:kusw74pv69mwavwojtmm",
+      "sha256": "86a1b20d986ae7429f99b150bb65a26e954f319eb556561b736fe4393f32557a",
+      "title": "[Time] Release of IMF Press Release and Executive Board Assessment"
+    },
+    "wiki/collections/times/Release of Press Release and Staff Report.md": {
+      "id": "source:okxdebvl34qobwmk9nt0",
+      "sha256": "2a458e04833db7773113e331d0a916fabf0d82fc42e112271a362b45b4b90439",
+      "title": "[Time] Release of Press Release and Staff Report"
+    },
+    "wiki/collections/times/Repetition of Presidential elections in Romania.md": {
+      "id": "source:wfjwm8s8jlevtyvqqucz",
+      "sha256": "f169f008c3a78a44b1d085bb02a72dcf4aa3d669312f78977fdaccede75cdaca",
+      "title": "[Time] Repetition of Presidential elections in Romania"
+    },
+    "wiki/collections/times/Resignation of President of National Judicial Council following judicial protests.md": {
+      "id": "source:xdumap4u2o9gxsz7g78n",
+      "sha256": "81b7eff96d7a2a8ba6cbb5d277be8318dc0480010cbe0a52dcd5d0f1fabc3095",
+      "title": "[Time] Resignation of President of National Judicial Council following judicial protests"
+    },
+    "wiki/collections/times/Revision of rules on mediation and assisted negotiation came into force.md": {
+      "id": "source:s0imgadpqs9hvtezpdsr",
+      "sha256": "c6be5b47902ab03338288a971c80d2132c321e030283396fb22e1e53067c1a3c",
+      "title": "[Time] Revision of rules on mediation and assisted negotiation came into force"
+    },
+    "wiki/collections/times/Removal of cap on political campaign expenses by National Assembly.md": {
+      "id": "source:sp5zu9ilqgujwqer3zn5",
+      "sha256": "ae2dfcf60a12d2d494d36f8321eb029357edc30a7f73da1c79d924a649134c8c",
+      "title": "[Time] Removal of cap on political campaign expenses by National Assembly"
+    },
+    "wiki/collections/times/Romania submits its Medium-Term Fiscal-Structural Plan (MTP).md": {
+      "id": "source:4cjgn1syye0y858k9ixe",
+      "sha256": "0581587f615ebed3f5ef65ccdc7312af1f5a89cae46f2a4f740c6c0306b9d716",
+      "title": "[Time] Romania submits its Medium-Term Fiscal-Structural Plan (MTP)"
+    },
+    "wiki/collections/times/Romania's accession to the Schengen Area.md": {
+      "id": "source:5q611svvfkrgkv0fd1fp",
+      "sha256": "6ee950dab8cf5ee3a2e7531cec18b24619f04cea1fade6788b235b3894bdeb79",
+      "title": "[Time] Romania's accession to the Schengen Area"
+    },
+    "wiki/collections/times/Romanian Constitutional Court strikes down key provision on progressive taxation of high special pensions.md": {
+      "id": "source:unk0rl8h510it7uiuhol",
+      "sha256": "d95ff0ed626533b050b9d558b4d1f68d3668e12c7ac7de0df40958ac2b9a41d4",
+      "title": "[Time] Romanian Constitutional Court strikes down key provision on progressive taxation of high special pensions"
+    },
+    "wiki/collections/times/Security Decree entered into force.md": {
+      "id": "source:im4qlpn7p0xdqbs3jwgl",
+      "sha256": "2313e1a688bbab9df8fa8f2811ca68f40badfeeee804d2a60da6ae118059b1b5",
+      "title": "[Time] Security Decree entered into force"
+    },
+    "wiki/collections/times/Signing of four-party agreement on judicial reforms and salary increases.md": {
+      "id": "source:mgctg87ohjusa8z9az6u",
+      "sha256": "92dc182e28d6bc127ce27cc06deb0914a853c53e84a0c28932e7b245eab48335",
+      "title": "[Time] Signing of four-party agreement on judicial reforms and salary increases"
+    },
+    "wiki/collections/times/Six legislative proposals to reform RAI presented in the Senate.md": {
+      "id": "source:5fxrr2v2vk16nukz9ooc",
+      "sha256": "42b05428b1c0296a1e38db899ac25b2f2e535e9f82547a854a3bc1353c649c86",
+      "title": "[Time] Six legislative proposals to reform RAI presented in the Senate"
+    },
+    "wiki/collections/times/Staff recommended target for primary surplus of 3% of GDP.md": {
+      "id": "source:usrzz7q7nlwo5y5d2n1f",
+      "sha256": "aea049c528ec002c4b1918d8edd65c8f83b023dcedb56dd3f061645ee4d6e516",
+      "title": "[Time] Staff recommended target for primary surplus of 3% of GDP"
+    },
+    "wiki/collections/times/Start of 2025 fiscal year and new regulatory measures.md": {
+      "id": "source:t2bozuoia6ryxcbwlx4b",
+      "sha256": "18567fc795b55245fd677b1f53d9e8171e8d89dd9eef05cb7ca8c2993e5a0a77",
+      "title": "[Time] Start of 2025 fiscal year and new regulatory measures"
+    },
+    "wiki/collections/times/Start of audits of party statements by Court of Audit under new rules.md": {
+      "id": "source:5yqul5dhtegny0lnaf5r",
+      "sha256": "e60da381cd9be15a6ee1766656fe630ad8c973408f35f98933a3534243719a16",
+      "title": "[Time] Start of audits of party statements by Court of Audit under new rules"
+    },
+    "wiki/collections/times/Staff Report completed.md": {
+      "id": "source:7v9lafs0hox5xul8q7h0",
+      "sha256": "8c5fcd8719b64a20c415fc8cb37ecd5ac7d6217e513f28377e1e2a709d69bc13",
+      "title": "[Time] Staff Report completed"
+    },
+    "wiki/collections/times/Start of caretaker Government period in Belgium.md": {
+      "id": "source:x89465mq8gblep06b4mq",
+      "sha256": "2eddcc25a80bf8518909d43a42efd03287e3cc3e2c5226188b8411c4482de30f",
+      "title": "[Time] Start of caretaker Government period in Belgium"
+    },
+    "wiki/collections/times/Submission of Austria's Medium-Term Fiscal-Structural Plan.md": {
+      "id": "source:0aahuqlvb3cxqxcse9ra",
+      "sha256": "b68d142e6acad3db13d7c05d12cc545741dd44ad9ade3184b9cb79263655c394",
+      "title": "[Time] Submission of Austria's Medium-Term Fiscal-Structural Plan"
+    },
+    "wiki/collections/times/Submission of France's medium-term fiscal-structural plan.md": {
+      "id": "source:a2o8fu5gla096an7ztt1",
+      "sha256": "eaa96a861e1874ce7eb5379d291567d9eea6eb193cc9bd7f1f4821b468960a9a",
+      "title": "[Time] Submission of France's medium-term fiscal-structural plan"
+    },
+    "wiki/collections/times/Submission of Italy's Medium-Term Fiscal-Structural Plan.md": {
+      "id": "source:dhhsrly6uxlod2kjtdgb",
+      "sha256": "bd952043837056d9baf43ff8ed359bb1d1fb76909c8f19018041eed9571970bf",
+      "title": "[Time] Submission of Italy's Medium-Term Fiscal-Structural Plan"
+    },
+    "wiki/collections/times/Submission of Poland's Annual Progress Report on fiscal plan implementation.md": {
+      "id": "source:eik5jd6p0lku7axoxfkt",
+      "sha256": "40b27897bf243463d5d0c0649f7e77602d0e4eb8ae3662dd76cbd32c9021c1b4",
+      "title": "[Time] Submission of Poland's Annual Progress Report on fiscal plan implementation"
+    },
+    "wiki/collections/times/Submission of the 2026 budget law to Parliament.md": {
+      "id": "source:vwrpblyukvrkaed299is",
+      "sha256": "6f4e8335a6252402b11c12b19cffb3ed3bf4e5b919d530a3250e16a2e820a81c",
+      "title": "[Time] Submission of the 2026 budget law to Parliament"
+    },
+    "wiki/collections/times/Superior Council of the Magistracy reiterates concerns on attacks against magistrates.md": {
+      "id": "source:8b7dhfhs12y7uhyq5mt1",
+      "sha256": "2313db049f90a29214a60a2b09c0d092c8c4e69447174ad7a70430b75ab84ebb",
+      "title": "[Time] Superior Council of the Magistracy reiterates concerns on attacks against magistrates"
+    },
+    "wiki/collections/times/Target Year for 'Malta Vision 2050' Strategic Plan.md": {
+      "id": "source:elbj1q8nsnr7vrdfyhpn",
+      "sha256": "0eca4cea80372dec7c13b485f73717291792331d3bac284b60e437257429b1e9",
+      "title": "[Time] Target Year for 'Malta Vision 2050' Strategic Plan"
+    },
+    "wiki/collections/times/Target Year for R&D Spending (2% of GDP) and Phase-out of Tax Refund System.md": {
+      "id": "source:6elm6bzv0wrripkzi6ja",
+      "sha256": "8f497c3dafd48b5850783535b573033607478dd5b8e3e6c55197cad72445a683",
+      "title": "[Time] Target Year for R&D Spending (2% of GDP) and Phase-out of Tax Refund System"
+    },
+    "wiki/collections/times/Target Year for Structural Deficit Reduction (2.6% of GDP).md": {
+      "id": "source:n0a859ogrhowwqwnrtte",
+      "sha256": "0281ed019b1106797fa7d7c16df1a505478dbb0c7b2e035834dc7f39f2389bc0",
+      "title": "[Time] Target Year for Structural Deficit Reduction (2.6% of GDP)"
+    },
+    "wiki/collections/times/Target year for climate neutrality and offshore renewable capacity.md": {
+      "id": "source:mijo3nhpc3v6l14sf9sq",
+      "sha256": "1b2bb36224602d0ca4e87ad8f05c6393623006d395308315f7ea68e3dc646eae",
+      "title": "[Time] Target year for climate neutrality and offshore renewable capacity"
+    },
+    "wiki/collections/times/Target year for inflation to return to 3% and deficit below 3%.md": {
+      "id": "source:gscpp8otkukw2ihxda2l",
+      "sha256": "edce040eb098e76a74b07a4ea276f8f919310e3c3464bb5bce418ba4918fd906",
+      "title": "[Time] Target year for inflation to return to 3% and deficit below 3%"
+    },
+    "wiki/collections/times/Trade unions and CSOs lodge constitutional complaint on 'malicious attack on government authority'.md": {
+      "id": "source:36c1uwnsk9l6algoopeo",
+      "sha256": "c42fdea538c67d2c0809074c31e8188f7caf665008417569e9f6523fc6d4a90a",
+      "title": "[Time] Trade unions and CSOs lodge constitutional complaint on 'malicious attack on government authority'"
+    },
+    "wiki/collections/times/Two FSAP missions to Slovak Republic.md": {
+      "id": "source:gsdsxsuqgsu3y0as79lm",
+      "sha256": "2b5f6669756154d5e01d41d759918b0a197a5563684cc1d272ce6772103820ec",
+      "title": "[Time] Two FSAP missions to Slovak Republic"
+    },
+    "wiki/collections/times/UN Human Rights Committee requests improvement of whistleblower protection.md": {
+      "id": "source:padzld1ny3l8eje1jpm6",
+      "sha256": "fdbbb4469b4d19d1199332077e5c14ebf68560576301a5ad4f56c4d4136739b1",
+      "title": "[Time] UN Human Rights Committee requests improvement of whistleblower protection"
+    },
+    "wiki/collections/times/Target year for national poverty reduction and SDG progress.md": {
+      "id": "source:8f7nglqi79i3hkrp9cxq",
+      "sha256": "041ed66b9afd3a86219ad029e29fab70079839523e0a4d65a7ce0e667856ec7f",
+      "title": "[Time] Target year for national poverty reduction and SDG progress"
+    },
+    "wiki/collections/times/Venice Commission opinion on judicial and prosecutorial amendments.md": {
+      "id": "source:liupohovkwq3iwaviyxm",
+      "sha256": "2f358d437981a0bbe5e6a420326d75a07adb1cd4e511dd6d912bfdc45f545715",
+      "title": "[Time] Venice Commission opinion on judicial and prosecutorial amendments"
+    },
+    "wiki/collections/times/Virtual mission discussions began.md": {
+      "id": "source:2d7e93beoilvlry7inbt",
+      "sha256": "7396ff157bad6782d2ff389b68d763ef7f0315389441dfa43ac494e110024508",
+      "title": "[Time] Virtual mission discussions began"
+    },
+    "wiki/collections/times/Whistleblower Office fines Ministry of Interior.md": {
+      "id": "source:m1boi5oc4jgrwqq1okvl",
+      "sha256": "0aa4cd654a69ffc16f6e17d9cedf6441910e2f72a661fef9dd3627bef0e8b8ee",
+      "title": "[Time] Whistleblower Office fines Ministry of Interior"
+    },
+    "wiki/collections/times/Whistleblower protection law enforced largely since September 2024, but fully active in 2025 context.md": {
+      "id": "source:voiqytdw55w8hqwcxjqe",
+      "sha256": "80be908dc036c732fd6153fc55885a427e6135d8e3622943e00c59f80f37d538",
+      "title": "[Time] Whistleblower protection law enforced largely since September 2024, but fully active in 2025 context"
+    },
+    "wiki/collections/times/index.md": {
+      "id": "source:nz8dlnw1gmdd9pd9mkfu",
+      "sha256": "0f737e73c45439cdeb137b427326ec2fdb39e5b0a995ae053e40fde958a85351",
+      "title": "[Time] Times Index"
+    },
+    "wiki/collections/times/times-cloud.md": {
+      "id": "source:rmvaxt7xqaj2rgoj642v",
+      "sha256": "e38a70bc69920c6782a60ff1962d3d628f9a0c4c3d3c6b854194f973093f3443",
+      "title": "[Time] Times Relation Cloud"
+    },
+    "wiki/summaries/2025 Country Report - Austria (European Commission).md": {
+      "id": "source:d6ptq3fv8oqjf4vy2ks9",
+      "sha256": "d22ff026f2762606999831e94d72740e4915692e86b5fc2c89c5a522955c4666",
+      "title": "[Summary] 2025 Country Report - Austria (European Commission)"
+    },
+    "wiki/summaries/2025 Country Report - Belgium Economic Developments and Key Policy Challenges.md": {
+      "id": "source:gtnn097l19zei6n4kg68",
+      "sha256": "4bb7ba621fb0af573333978e7c3f48b9e1c4ff87d0bdff11c9185a96bb9dc974",
+      "title": "[Summary] 2025 Country Report - Belgium: Economic Developments and Key Policy Challenges"
+    },
+    "wiki/summaries/2025 Country Report - Italy Economic, Social, and Structural Policy Assessment.md": {
+      "id": "source:oeisbmozdj4ywn1k3tod",
+      "sha256": "99ebb696e95ba6f53e5b167bd322c94c9a6cf514d52913bc5bfdb12a90aad544",
+      "title": "[Summary] 2025 Country Report - Italy: Economic, Social, and Structural Policy Assessment"
+    },
+    "wiki/summaries/2025 Country Report - Malta (European Commission).md": {
+      "id": "source:jaeyb7h0cpqewtqxykof",
+      "sha256": "718086034dddca45695a4690f3677b254daaec9246e265239ac626578f3369db",
+      "title": "[Summary] 2025 Country Report - Malta (European Commission)"
+    },
+    "wiki/summaries/2025 Country Report - Romania.md": {
+      "id": "source:ul4o1u3cg64dhyeyv7fv",
+      "sha256": "dde662a7a85ff13b15654706932969c99bedf82b6f9594d58bd311f630885153",
+      "title": "[Summary] 2025 Country Report - Romania"
+    },
+    "wiki/summaries/2025 Country Report - Slovakia.md": {
+      "id": "source:oh02yp74tdqzfmq2sqlr",
+      "sha256": "5b33bcd0026b14b71c5e5a66d13005c774b911f9c319df5f4406bee0773b9b43",
+      "title": "[Summary] 2025 Country Report - Slovakia"
+    },
+    "wiki/summaries/2025 Rule of Law Report Country Chapter on Belgium.md": {
+      "id": "source:eowusg1dpvlxrjhvrc23",
+      "sha256": "e2cdb2aca78560228547ee1b385dd2b7f6b0937e5af370eabc4a6c0b6087db33",
+      "title": "[Summary] 2025 Rule of Law Report: Country Chapter on Belgium"
+    },
+    "wiki/summaries/2025 Country Report - France Economic Developments and Key Policy Challenges.md": {
+      "id": "source:6ij6f33jn7ycx3tinvln",
+      "sha256": "8297123dda1151f88f8c6f7b46ddebeb3b482adf01fd7a27929290734feca718",
+      "title": "[Summary] 2025 Country Report - France: Economic Developments and Key Policy Challenges"
+    },
+    "wiki/summaries/2025 Rule of Law Report Country Chapter on Italy.md": {
+      "id": "source:opbn5md8njx0gfli7e72",
+      "sha256": "5b9f72d032c1cfc3273a2d0973d6df5c6260672c55cb23418ad2737ba3bc83f1",
+      "title": "[Summary] 2025 Rule of Law Report: Country Chapter on Italy"
+    },
+    "wiki/summaries/2025 Rule of Law Report Country Chapter on Malta.md": {
+      "id": "source:we1g3x2beqbv4kmuygql",
+      "sha256": "8e2ef67a0103d9b7c09f1fee51807adff342cdfa6754c3b5b740894bc65ae9e8",
+      "title": "[Summary] 2025 Rule of Law Report: Country Chapter on Malta"
+    },
+    "wiki/summaries/2025 Rule of Law Report Country Chapter on Poland.md": {
+      "id": "source:v40ch2p5vnajw3wiavgq",
+      "sha256": "f0737819d07e3737c8db2eef59cbbcee2e2769caf514091244973b5acd9c378c",
+      "title": "[Summary] 2025 Rule of Law Report: Country Chapter on Poland"
+    },
+    "wiki/summaries/2025 Rule of Law Report Country Chapter on Romania.md": {
+      "id": "source:d8vesi7kgm4ayi4hzw2v",
+      "sha256": "483b4cc30e9144bb7f741c632fc171568de495c3afacc6797b924166d8ffb9ad",
+      "title": "[Summary] 2025 Rule of Law Report: Country Chapter on Romania"
+    },
+    "wiki/summaries/2025 Rule of Law Report Country Chapter on France.md": {
+      "id": "source:8se67kl82tc3azcstxe2",
+      "sha256": "d37d575b7c3f48212bda622f36cb6684e8c758520663624eaa2886748a8c4987",
+      "title": "[Summary] 2025 Rule of Law Report: Country Chapter on France"
+    },
+    "wiki/summaries/2025 Rule of Law Report Country Chapter on Slovakia.md": {
+      "id": "source:kp1b9cskjqq413mbtsdd",
+      "sha256": "345c2ed659a7d6dfbc9693185bfde3bb1e3b166765fefb8d0b262129ad72650e",
+      "title": "[Summary] 2025 Rule of Law Report: Country Chapter on Slovakia"
+    },
+    "wiki/summaries/2025 Rule of Law Report Hungary.md": {
+      "id": "source:58dvtfic9lwfe7kl22dc",
+      "sha256": "acd0927199aec6d4651ebe90c2ad3bfe1907048adb29fb99e7425c634379e39b",
+      "title": "[Summary] 2025 Rule of Law Report: Hungary"
+    },
+    "wiki/summaries/EU Commission 2025 Country Report Hungary.md": {
+      "id": "source:xs99slvy93eyupb2lkx7",
+      "sha256": "735b4a19dd3bb49e388e29df9ef558185c6657dc7e091aa9b74d1c8668903bcc",
+      "title": "[Summary] EU Commission 2025 Country Report: Hungary"
+    },
+    "wiki/summaries/EU Commission 2025 Country Report Poland.md": {
+      "id": "source:un5mk9kho3ylt8szl8vh",
+      "sha256": "a4e8e5e0bcaa7c3e63605792c634fff59e3ff608a8b06a595fd23c945161158f",
+      "title": "[Summary] EU Commission 2025 Country Report: Poland"
+    },
+    "wiki/summaries/EU Commission 2025 Rule of Law Report Austria.md": {
+      "id": "source:tuclo60xr9zx6dyodxzk",
+      "sha256": "d2f09acce6ceb0a85fcd65486ecbedc5be3d2d920b8a5877a329699d00475be8",
+      "title": "[Summary] EU Commission 2025 Rule of Law Report: Austria"
+    },
+    "wiki/summaries/Financial Economics for Citizens The S&P Rating Methodology - Overview.md": {
+      "id": "source:4s3xhsnkzer1dc8hual3",
+      "sha256": "e3822e6262ff3f9fb5f7aee2be10df0b5d5fcf04477faacb72fd21c493316ee9",
+      "title": "[Summary] Financial Economics for Citizens: The S&P Rating Methodology - Overview"
+    },
+    "wiki/summaries/Fitch Ratings Sovereign Rating Criteria (Effective 15 September 2025).md": {
+      "id": "source:1e1i0l2ivtlm3fav5ubi",
+      "sha256": "828475e01b59ebdb49baa4d7a8e2cc3d0d36884cfa9fc68410b7149cdbd2ce71",
+      "title": "[Summary] Fitch Ratings Sovereign Rating Criteria (Effective 15 September 2025)"
+    },
+    "wiki/summaries/IMF (2025) Poland 2024 Article IV Consultation Staff Report and Press Release.md": {
+      "id": "source:vfuh7jdqcy6325iwzftf",
+      "sha256": "afaf46982531e20655e55524d747265fb3c02df7e3608a1ea8c7963aa8f37b12",
+      "title": "[Summary] IMF (2025) Poland 2024 Article IV Consultation Staff Report and Press Release"
+    },
+    "wiki/summaries/IMF (2025) Romania Country Report.md": {
+      "id": "source:czts5ht6l53fzbe83hze",
+      "sha256": "41d4e34513a4aed088295775385b0743cfa757c2663bac26ed276f0df2f5ce08",
+      "title": "[Summary] IMF (2025) Romania Country Report"
+    },
+    "wiki/summaries/IMF 2025 Article IV Consultation Austria.md": {
+      "id": "source:awg2jjtn0cr48cfw8j8o",
+      "sha256": "60912b66c1968493a287fb8e5b4ff600d21bb9e3eb1032ce64ccce58a1235908",
+      "title": "[Summary] IMF 2025 Article IV Consultation: Austria"
+    },
+    "wiki/summaries/IMF 2025 Article IV Consultation Belgium Staff Report and Press Release.md": {
+      "id": "source:2b4qxwtvjtlk08ef3oq5",
+      "sha256": "c41c7f7ca70229ae68e3640b75b7882264efae4e3a1d6cd4ac1207e8df7ebc10",
+      "title": "[Summary] IMF 2025 Article IV Consultation: Belgium Staff Report and Press Release"
+    },
+    "wiki/summaries/IMF 2025 Article IV Consultation Hungary Staff Report and Executive Board Assessment.md": {
+      "id": "source:24lv71cbf2qg6pvdl5z5",
+      "sha256": "5cfbc1dae608c75214e97356e84b7d60819e98b8c554730822c8ce8f080667e1",
+      "title": "[Summary] IMF 2025 Article IV Consultation: Hungary Staff Report and Executive Board Assessment"
+    },
+    "wiki/summaries/IMF 2025 Article IV Consultation Slovak Republic.md": {
+      "id": "source:2jww7og9x1ymgfn9c8aw",
+      "sha256": "3fd3faede1331912b20b07553fb28dafb29e0e48e871e8e729a95eb0ab9ad6dd",
+      "title": "[Summary] IMF 2025 Article IV Consultation: Slovak Republic"
+    },
+    "wiki/summaries/IMF 2025 Article IV Consultation with France Staff Report and Executive Board Assessment.md": {
+      "id": "source:r9mjw5woudrn9l3g5mw1",
+      "sha256": "90a244161f2fdc0b4446ccd20ac75057c0de863089bca8ff8d26e24c976ef51b",
+      "title": "[Summary] IMF 2025 Article IV Consultation with France: Staff Report and Executive Board Assessment"
+    },
+    "wiki/summaries/IMF Article IV Consultation Malta (2024).md": {
+      "id": "source:0rw4yyh6lgmde044yban",
+      "sha256": "370e6fba4ed7f699f1063902e868aa925985949b0b2d9e13be9d96bbc855652b",
+      "title": "[Summary] IMF Article IV Consultation: Malta (2024)"
+    },
+    "wiki/summaries/S&P Global Ratings Sovereign Rating Methodology (2017).md": {
+      "id": "source:9cdjpjer9n731gb65y5m",
+      "sha256": "5bd8a0cdc0b2c11742d54dfb1a58997281a3229d72cd6914c663307cf0ea962f",
+      "title": "[Summary] S&P Global Ratings Sovereign Rating Methodology (2017)"
+    },
+    "wiki/summaries/index.md": {
+      "id": "source:l5x5pqpu6cz0n29audtj",
+      "sha256": "3adb952d0a223bb94fae249785877fde5e4b871b74c311eccd310f5be985f02d",
+      "title": "[Summary] Summaries Index"
+    },
+    "wiki/summaries/Italy 2025 Article IV Consultation—Press Release, Staff Report, and Statement by the Executive Director.md": {
+      "id": "source:blai2gor1do8uoem3j9v",
+      "sha256": "5ff1eddf01337515f15e43339e146bdc298edb94274e90c0d144fd2e2c4d6308",
+      "title": "[Summary] Italy: 2025 Article IV Consultation—Press Release, Staff Report, and Statement by the Executive Director"
+    }
+  },
+  "notebookId": "notebook:4zyehzs85vdomkkhp8kw"
+}
