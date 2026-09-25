@@ -1,17 +1,29 @@
 ---
 role: Deputy Prime Minister
-organization: Ministry of Finance
+organization: Federal Government
 countries_covered:
   - Belgium
-tags:
-  - Belgium
-  - IMF Article IV
-  - Fiscal Policy
-  - Deputy Prime Minister
+relationships:
+  - person: Alexander De Croo
+    relation: Colleague in Federal Government
+  - person: Simon Van Peteghem
+    relation: Colleague in Federal Government
+  - person: Bertrand
+    relation: Colleague in Federal Government
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T11:23:26Z
+  by: agentic/agentic
+  at: 2026-09-25T11:22:34Z
 status: stable
+sources:
+  - resource: /assets/20260705-000000/processed/IMF (2025) Belgium Country Report.md
+    title: IMF (2025) Belgium Country Report.md
+  - resource: /assets/20260705-000000/sources/IMF (2025) Belgium Country Report.md
+    title: IMF (2025) Belgium Country Report.md
+tags:
+  - Deputy Prime Minister
+  - Federal Government
+  - Belgium
+  - Political Figure
 ---
 
 # Jan Jambon
@@ -19,17 +31,19 @@ status: stable
 ## Affiliations & Roles
 
 - **Role**: Deputy Prime Minister
-- **Organization**: [[Ministry of Finance]]
-- **Countries Covered**: Belgium
+- **Organization**: [[Federal Government of Belgium]]
+- **Countries Covered**: [[Belgium]]
+
+## Key Relationships
+
+- **[[Alexander De Croo]]**: Colleague in Federal Government
+- **[[Simon Van Peteghem]]**: Colleague in Federal Government
+- **[[Bertrand]]**: Colleague in Federal Government
 
 ## Sovereign Credit Rating & Policy Context
 
-Jan Jambon serves as the Deputy Prime Minister of Belgium, playing a central role in the nation's economic policymaking and fiscal strategy. He was a key interlocutor during the [[International Monetary Fund]]'s 2025 Article IV Consultation, specifically engaging in concluding virtual meetings with IMF staff in February 2025 regarding the newly formed federal government's agenda.
-
-Under Jambon's involvement, the Belgian government has committed to a seven-year fiscal adjustment plan under the new [[European Commission]]'s Economic Governance Framework. This strategy aims to address Belgium's high public debt, which stood at 104.1% of GDP in 2024, by achieving an annual reduction in the structural primary balance of approximately 0.6 percentage points. The policy objective is to durably bring the deficit below 3% of GDP and place debt on a downward path, potentially reducing it to ~78% of GDP by 2031, contrasting with a "no policy change" scenario projecting debt to rise to 123% by 2030.
-
-Jambon's administration is also tasked with implementing structural reforms to boost potential growth, which had slowed to 1.0% in 2024. Key areas of focus include reforming the wage-setting mechanism to address the competitiveness issues caused by automatic wage indexation, enhancing labor force participation, and improving public investment efficiency in infrastructure, healthcare, and education. Additionally, his role involves coordinating between federal and regional entities to meet climate targets and strengthen the fiscal framework through a revitalized fiscal council, addressing risks related to complex fiscal federalism and weak inter-governmental coordination.
+Jan Jambon serves as the Deputy Prime Minister of Belgium, appointed following the formation of a new federal government in February 2025. This appointment occurred after protracted coalition negotiations stemming from the June 2024 elections, which had previously stalled policymaking and political stability. As a key member of the executive branch, Jambon is part of the administration tasked with implementing the IMF-endorsed seven-year fiscal adjustment plan. This agenda aims to durably reduce the budget deficit below 3 percent of GDP and place public debt, projected to reach 123 percent of GDP by 2030 under unchanged policies, on a solidly downward path. His role is integral to addressing structural challenges including complex fiscal federalism, political fragmentation, and the need for labor market reforms such as changes to automatic wage indexation.
 
 ## Related Entities
 
-[[International Monetary Fund]], [[European Commission]], [[National Bank of Belgium]], [[Belgium]]
+[[Belgium]], [[Federal Government of Belgium]], [[International Monetary Fund]]
