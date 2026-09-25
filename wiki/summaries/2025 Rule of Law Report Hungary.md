@@ -1,14 +1,14 @@
 ---
 type: Summary
-title: "2025 Rule of Law Report: Hungary"
+title: 2025 Rule of Law Report Hungary
 tags:
   - Rule of Law
-  - Hungary
   - European Union
+  - Hungary
   - Judicial Independence
-  - Anti-Corruption
+  - Corruption
   - Media Freedom
-  - Checks and Balances
+  - Civic Space
 assets:
   - wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law
     Report Hungary.md
@@ -16,105 +16,89 @@ assets:
     Report Hungary.md
 concepts:
   - Judicial Independence
-  - Case Allocation Transparency
-  - Anti-Corruption Framework
+  - Rule of Law
+  - Corruption Prevention
   - Media Pluralism
-  - Checks and Balances
-  - Public Procurement Integrity
-  - Civil Society Space
-  - Emergency Powers
-institutions:
-  - European Commission
-  - National Judicial Council (Hungary)
-  - Kúria (Hungary)
-  - Integrity Authority (Hungary)
-  - National Media and Infocommunications Authority (NMHH)
-  - Sovereignty Protection Office (Hungary)
-  - Venice Commission
-  - GRECO
-  - Transparency International
-  - Court of Justice of the European Union
-  - European Court of Human Rights
+  - Civic Space
+  - Legal Certainty
+  - Public Procurement
+  - State of Danger
+  - European Union Law
+  - Constitutional Court
 methods: []
-persons: []
+persons:
+  - name: Kúria President
+    role: President of the Supreme Court
+    organization: Hungarian Judiciary
+    countries_covered:
+      - Hungary
+  - name: Prosecutor General
+    role: Head of Prosecution Service
+    organization: Prosecution Service of Hungary
+    countries_covered:
+      - Hungary
+  - name: National Judicial Council President
+    role: Head of National Judicial Council
+    organization: National Judicial Council
+    countries_covered:
+      - Hungary
 sovereign-credit-rating-factors:
   - name: Hungary
-    geopolitical_and_political_stability:
+    political_and_geopolitical_risk:
       threats:
-        - Extensive and prolonged use of government emergency powers undermining
-          legal certainty
-        - Deteriorating environment for civil society organizations and civic
-          space
-        - Intensified regulatory pressure on foreign companies and strategic
-          sectors
-        - Political fragmentation and populist pressure affecting institutional
-          stability
+        - Prolonged 'state of danger' overriding parliamentary acts
+        - Geopolitical alignment with non-EU actors affecting EU relations
+        - Tensions with EU institutions and infringement procedures
       strengths: []
-    policy_credibility_and_institutional_strength:
+    institutional_and_governance_strength:
       threats:
-        - Weak institutional checks and balances, including limited independence
-          of Constitutional Court and oversight bodies
-        - Absence of procedural safeguards and effective oversight in secret
-          surveillance measures
-        - Frequent legislative changes weakening legal certainty
-        - Limited accountability of prosecution service and potential political
-          influence
-      strengths:
-        - High overall efficiency of the judiciary in resolving cases
-        - Ongoing digitalization of the justice system
-    policymaking_stability:
-      threats:
-        - Law-making process bypassing public consultation for key legislative
-          drafts
-        - Introduction of substantive amendments at late stages of parliamentary
-          procedure
-        - Extensive use of government decrees to override Acts of Parliament
+        - Politicized Constitutional Court lacking case allocation
+        - Lack of functional independence in media regulator (NMHH)
+        - Selective enforcement by Competition Authority and State Audit Office
+        - Weak checks and balances in oversight bodies
       strengths: []
-    accountability:
+    policy_predictability_and_reform_continuity:
       threats:
-        - High perception of corruption in the public sector (CPI score 41/100)
-        - Limited track record of convictions in high-level corruption cases
-        - Obstacles faced by the Integrity Authority in fulfilling oversight
-          tasks
-        - Lack of transparency in political party financing and electoral
-          campaigns
-      strengths:
-        - Existence of a National Anti-Corruption Strategy and Action Plan
-        - Implementation of integrity tests and lifestyle checks
+        - Frequent legislative changes undermining legal certainty
+        - Late-stage substantive amendments bypassing public consultation
+        - Extensive use of emergency decrees affecting business environment
+      strengths: []
     debt_payment_culture:
       threats: []
       strengths: []
     economic_strength_and_tax_base:
       threats:
-        - Regulatory pressure leading to de-investment by foreign companies
-        - Discriminatory taxes and administrative fines targeting specific
-          foreign investors
-      strengths:
-        - Broad taxable income base implied by functioning public finance system
+        - Tailor-made taxes on foreign investors in strategic sectors
+        - Discriminatory price regulations affecting retail and construction
+        - Regulatory pressure leading to de-investment by foreign firms
+      strengths: []
     growth_prospects:
       threats:
-        - Legal uncertainty affecting business operations and investment
-          protection
-        - Restrictions on export and nationalization of assets in strategic
-          sectors
+        - Legal uncertainty hindering investment protection confidence
+        - Structural barriers for foreign companies in strategic sectors
       strengths: []
     economic_diversity:
-      threats: []
+      threats:
+        - High corruption risks in public procurement and construction
+        - Market concentration due to framework agreements with single bidders
       strengths: []
-    external_liquidity:
-      threats: []
+    external_position_and_liquidity:
+      threats:
+        - Suspension of EU funds due to rule of law breaches
+        - Infringement procedures impacting market access and investment
       strengths: []
-    currency_status:
-      threats: []
-      strengths: []
-    external_asset_liability_position:
+    currency_and_exchange_rate_flexibility:
       threats: []
       strengths: []
     financial_sector_health:
-      threats: []
+      threats:
+        - Specific taxes on financial sector and building materials
+        - Opaque public interest trusts linked to National Bank
       strengths: []
     fiscal_performance_and_flexibility:
-      threats: []
+      threats:
+        - Multiple budget amendments via emergency decrees
+        - Disproportionate burden of retail taxes on larger foreign companies
       strengths: []
     debt_burden:
       threats: []
@@ -124,94 +108,64 @@ sovereign-credit-rating-factors:
       strengths: []
     contingent_liabilities:
       threats:
-        - Risks related to public interest trusts and state-owned enterprises
-        - Potential liabilities from complex investment structures involving
-          national assets
+        - Liabilities from public interest trusts and opaque real estate
+          investments
+        - State liability for non-compliance with EU court rulings
       strengths: []
-    price_stability:
-      threats: []
-      strengths: []
-    central_bank_independence:
-      threats:
-        - Conflicts of interest identified in audits of Hungarian National Bank
-          trusts
-        - Potential political influence over central bank governance
-      strengths: []
-    exchange_rate_regime:
+    monetary_policy_and_price_stability:
       threats: []
       strengths: []
 times:
-  - date: 2025-07-08
-    title: Publication of 2025 Rule of Law Report Hungary Country Chapter
-  - date: 2024-11-22
-    title: Signing of four-party agreement on judicial reforms and salary increases
   - date: 2024-12
-    title: Adoption of Fourteenth Amendment to Fundamental Law raising judicial age
-      limits
-  - date: 2024-12-03
-    title: Resignation of President of National Judicial Council following judicial
-      protests
-  - date: 2025-01-15
-    title: National Judicial Council withdraws from four-party agreement
-  - date: 2025-03-06
-    title: Council of Europe Committee of Ministers addresses 'chilling effect' in
-      Hungarian judiciary
-  - date: 2025-03-17
-    title: Budapest Regional Court finds Kúria President unlawfully relieved a judge
-  - date: 2025-06-11
-    title: Adoption of Act XLIX of 2025 detailing judicial reforms
-  - date: 2025-06-16
-    title: Venice Commission opinion on judicial and prosecutorial amendments
-  - date: 2025-05-25
-    title: European Commission expresses concerns over draft 'Transparency in Public
-      Life' law
-  - date: 2025-02-17
-    title: Removal of cap on political campaign expenses by National Assembly
+    title: Adoption of Fourteenth Amendment to the Fundamental Law
+  - date: 2025-03
+    title: Implementation of new judicial appointment criteria and retirement age
+      extensions
+  - date: 2025-06
+    title: Adoption of Act XLIX of 2025 strengthening Kúria's role and court
+      compensation schemes
+  - date: 2025-06
+    title: Election of new Prosecutor General following Fifteenth Amendment
+  - date: 2025-06
+    title: Passage of law removing cap on political campaign expenses
+  - date: 2025-11
+    title: Extension of 'state of danger' until November 2025
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T11:19:24Z
+  by: agentic/agentic
+  at: 2026-09-25T11:12:18Z
 status: stable
 sources:
-  - resource: /assets/wiki/assets/20260705-000000/processed/EU Commission (2025)
-      2025 Rule of Law Report Hungary.md
-    title: wiki/assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of
+  - resource: /assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of
       Law Report Hungary.md
-  - resource: /assets/wiki/assets/20260705-000000/sources/EU Commission (2025) 2025
-      Rule of Law Report Hungary.md
-    title: wiki/assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+    title: EU Commission (2025) 2025 Rule of Law Report Hungary.md
+  - resource: /assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
       Report Hungary.md
+    title: EU Commission (2025) 2025 Rule of Law Report Hungary.md
 ---
-# Summary of: 2025 Rule of Law Report: Hungary
+# Summary of: 2025 Rule of Law Report Hungary
 
 ## Context Metadata
 
-- **Source Document**: COMMISSION STAFF WORKING DOCUMENT - 2025 Rule of Law Report: Country Chapter on the rule of law situation in Hungary (SWD(2025) 917 final)
-- **Effective Period**: Reporting period covering developments up to mid-2025, accompanying the 2025 Rule of Law Report cycle.
-- **Issuer**: European Commission
-- **Document Type**: Country Chapter / Rule of Law Assessment
+- **Source Document**: 2025 Rule of Law Report - Country Chapter on Hungary (SWD(2025) 917 final)
+- **Effective Period**: 2025
+- **Issuer**: European Commission (DG JUST)
+- **Document Type**: Commission Staff Working Document / Rule of Law Report
 
 ## Executive Summary
 
-The 2025 Rule of Law Report on Hungary, issued by the European Commission, highlights a stagnation or deterioration in several key rule of law areas, including the judiciary, anti-corruption framework, media pluralism, and checks and balances. In the justice system, while significant progress was made in increasing judicial salaries, concerns persist regarding judicial independence, notably due to pressure on judges, the resignation of the National Judicial Council President, and reforms to judicial appointments that lacked adequate consultation. The transparency of case allocation in lower courts remains a critical deficiency.
+The European Commission's 2025 Rule of Law Report on Hungary identifies a systemic deterioration in the rule of law framework, noting that no progress has been made on key recommendations from previous years. The report highlights severe challenges regarding judicial independence, where the National Judicial Council's powers have been centralized and undue pressure on judges persists, including public criticism from the Kúria President. While judicial salaries are being increased, structural reforms to ensure independence are lacking.
 
-Regarding anti-corruption, the perception of corruption remains high, and there is no robust track record of prosecuting high-level corruption. The Integrity Authority continues to face obstacles in its oversight tasks, and the asset declaration system remains weak with insufficient verification mechanisms. Lobbying and revolving door regulations are still pending.
+In the anti-corruption framework, Hungary fails to establish a robust track record for high-level corruption cases. The Integrity Authority faces obstacles in accessing data, and legislative reforms on lobbying and asset declarations remain incomplete or unimplemented. Media pluralism is at high risk due to the lack of functional independence in the media regulator, opaque state advertising distribution, and biased public service media governance.
 
-In the media landscape, threats to pluralism are unaddressed. State advertising is disproportionately channeled to pro-government outlets, and the media regulator lacks functional independence. Public service media remains subject to government influence. Journalists face increased pressure, including investigations by the Sovereignty Protection Office for alleged "foreign interests."
-
-Finally, institutional checks and balances are weakened by the extensive use of emergency powers to override parliamentary legislation, frequent late-stage legislative amendments that bypass public consultation, and a deteriorating civic space. Foreign companies face intensified regulatory pressure, and civil society organizations are subjected to scrutiny and legal uncertainty, further exacerbated by a proposed draft law on transparency in public life that threatens to restrict foreign funding and critical voices.
+Furthermore, the report criticizes the extensive use of emergency powers ("state of danger") which undermines legal certainty and allows the government to override parliamentary laws. The civic space is described as "obstructed," with civil society organizations facing investigations by the Sovereignty Protection Office and restrictive new legislation. Legal certainty is further eroded by frequent legislative changes, discriminatory regulations against foreign investors in strategic sectors, and selective enforcement by oversight bodies. The document recommends immediate improvements in case allocation transparency, anti-corruption measures, media independence, and the protection of civic space.
 
 ## Key Highlights
 
-- **Judicial Independence and Reforms**: The National Judicial Council faced significant challenges, including the resignation of its President in December 2024 following protests against judicial reforms. New rules raised the minimum age for judges to 35 and allowed service until age 70, but the consultation process with the Judicial Council was deemed ineffective. The Council subsequently withdrew from a four-party agreement on judicial reforms. Despite these tensions, the *Kúria* continues to enforce uniform case law, though undue pressure on judges regarding internal debates persists.
-
-- **Case Allocation Transparency**: No progress has been made in improving the transparency of case allocation systems in lower-instance courts, a long-standing recommendation. Discretion allowed to court managers and frequent rule changes prevent verification of impartiality. In contrast, case allocation at the *Kúria* is functioning well with high transparency.
-
-- **Anti-Corruption Efforts**: Hungary's corruption perception remains high (41/100 in CPI 2024). There is no progress in establishing a track record for high-level corruption convictions. The Integrity Authority reports continued obstacles in accessing data and fulfilling oversight duties. The asset declaration system lacks effective oversight, with no systematic follow-up for non-compliance. Plans to legislate on lobbying and revolving doors are scheduled for November 2025 but have not yet materialized.
-
-- **Media Pluralism and Freedom**: The report notes no progress in ensuring the functional independence of the National Media and Infocommunications Authority (NMHH) or in the fair distribution of state advertising, which overwhelmingly benefits pro-government media (e.g., KESMA). Public service media remains financially and politically dependent on the government. Journalists face smear campaigns, selective denial of access to public events, and investigations by the Sovereignty Protection Office for alleged "foreign influence."
-
-- **Checks and Balances and Emergency Powers**: The government continues to extensively use emergency powers to override Acts of Parliament, undermining legal certainty. The law-making process is criticized for bypassing public consultations, with substantive amendments often introduced at the last minute by the Committee on Legislation. Institutional oversight bodies, including the Constitutional Court, State Audit Office, and Competition Authority, are perceived as lacking independence or applying rules selectively.
-
-- **Civil Society and Civic Space**: The environment for civil society organizations (CSOs) has deteriorated. The Sovereignty Protection Office has launched investigations into anti-corruption CSOs and those receiving EU funds. A draft law on "transparency in public life," proposed in May 2025, aims to restrict foreign funding for entities deemed to endanger sovereignty, sparking widespread protest from CSOs and media outlets as a threat to critical voices.
-
-- **Foreign Investment and Regulatory Pressure**: Foreign companies, particularly from other EU Member States, face intensified regulatory pressure in strategic sectors through special taxes, export restrictions, and discriminatory practices. Legal uncertainty is exacerbated by the government's ability to interfere with merger control rules via decrees of "strategic importance," which are not subject to judicial review.
+- **[Judicial Independence Erosion]**: The National Judicial Council continues to exercise powers acquired through 2023 reforms, but consultation processes are often deemed ineffective. Undue pressure on judges persists, highlighted by the Kúria President's public criticism of service courts and smear campaigns. The Fourteenth Amendment raised the minimum age for judges to 35 and extended retirement to 70, changes which judicial associations argue compromise independence.
+- **[Prosecutor General Appointment]**: The Fifteenth Amendment removed the requirement for the Prosecutor General to be selected from among prosecutors, lowering eligibility criteria and increasing the risk of political influence. The hierarchical structure remains intact, allowing potential political pressure on individual cases.
+- **[Anti-Corruption Shortcomings]**: Despite the 2024-2025 National Anti-Corruption Strategy, important actions remain pending. The Integrity Authority reports obstacles in accessing state databases (banking, tax, insurance). No robust track record exists for high-level corruption convictions, and lobbying/post-employment regulations are yet to be legislated despite a November 2025 deadline.
+- **[Media Pluralism at High Risk]**: There is no progress on ensuring the functional independence of the National Media and Infocommunications Authority (NMHH). State advertising is channeled disproportionately to pro-government outlets (KESMA), and public service media remains politically influenced. Journalists face increased pressure, including investigations by the Sovereignty Protection Office for "foreign influence."
+- **[Emergency Powers and Legal Certainty]**: The government extended the "state of danger" until November 2025, using it to override parliamentary acts and adopt measures unrelated to the initial humanitarian crisis (e.g., price caps, VAT exemptions). This practice undermines legal certainty and affects the single market. The Fifteenth Amendment (effective 2026) will require parliamentary authorization for extending the state of danger but does not fully resolve the legal uncertainty created by current emergency decrees.
+- **[Civic Space Obstruction]**: The space for civil society is rated as "obstructed." New legislation (Protection of National Sovereignty Law) and draft laws on "transparency in public life" grant the Sovereignty Protection Office powers to restrict funding and target CSOs deemed to endanger sovereignty. This has led to a chilling effect, with several anti-corruption NGOs under investigation.
+- **[Foreign Investor Pressure]**: Foreign companies in strategic sectors face intensified regulatory pressure, including tailor-made taxes, export restrictions, and discriminatory product price regulations. These measures have led to de-investment patterns and ongoing infringement procedures by the Commission for violating EU law on freedom of establishment.
+- **[Merger Control Interference]**: The government retains the power to declare mergers of "strategic importance," exempting them from Competition Authority control and judicial review. This practice facilitates nationalization strategies in energy, media, and telecommunications, creating significant legal uncertainty for investors.
