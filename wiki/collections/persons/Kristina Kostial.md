@@ -1,35 +1,71 @@
 ---
-role: Department Head
-organization: IMF
+role: Department Head, European Department
+organization: International Monetary Fund
 countries_covered:
   - Hungary
-tags:
-  - IMF
-  - Sovereign Analysis
-  - Fiscal Policy
-  - Hungary
+relationships:
+  - person: Jacques Miniane
+    relation: Colleague
+  - person: Anke Weber
+    relation: Colleague
+  - person: Márton Nagy
+    relation: Engages with
+  - person: Barnabás Virág
+    relation: Engages with
+  - person: Csaba Kandrács
+    relation: Engages with
+  - person: Zoltán Kurali
+    relation: Engages with
+  - person: Gábor Horváth
+    relation: Engages with
+  - person: Palotai
+    relation: Colleague
+  - person: Meizer
+    relation: Colleague
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T15:47:41Z
+  by: agentic/agentic
+  at: 2026-09-25T11:28:14Z
 status: stable
+sources:
+  - resource: /assets/20260705-000000/processed/IMF (2025) Hungary Country Report.md
+    title: IMF (2025) Hungary Country Report.md
+  - resource: /assets/20260705-000000/sources/IMF (2025) Hungary Country Report.md
+    title: IMF (2025) Hungary Country Report.md
+tags:
+  - International Monetary Fund
+  - European Department
+  - Hungary
+  - Article IV Consultation
 ---
 
 # Kristina Kostial
 
 ## Affiliations & Roles
 
-- **Role**: Department Head
-- **Organization**: [[IMF]]
-- **Countries Covered**: Hungary
+- **Role**: Department Head, European Department
+- **Organization**: [[International Monetary Fund]]
+- **Countries Covered**: [[Hungary]]
+
+## Key Relationships
+
+- **[[Jacques Miniane]]**: Colleague
+- **[[Anke Weber]]**: Colleague
+- **[[Márton Nagy]]**: Engages with
+- **[[Barnabás Virág]]**: Engages with
+- **[[Csaba Kandrács]]**: Engages with
+- **[[Zoltán Kurali]]**: Engages with
+- **[[Gábor Horváth]]**: Engages with
+- **[[Palotai]]**: Colleague
+- **[[Meizer]]**: Colleague
 
 ## Sovereign Credit Rating & Policy Context
 
-Kristina Kostial served as a Department Head for the IMF European Department (EUR) during the 2025 Article IV Consultation for Hungary. In this capacity, she was a key member of the IMF staff team, working alongside Head of Mission [[Anke Weber]] and SPR Department Head [[Jacques Miniane]], to assess Hungary’s economic stability, fiscal sustainability, and monetary policy framework.
+Kristina Kostial serves as the Department Head for the European Department at the International Monetary Fund (IMF), with a specific portfolio covering Hungary. In this capacity, she plays a central role in the IMF's Article IV Consultation with Hungary, providing oversight and direction for staff assessments of the country's macroeconomic stability and fiscal policy.
 
-Her involvement in the 2025 Staff Report highlighted critical issues regarding Hungary's economic trajectory, including stagnant output, elevated public debt (73.5% of GDP in 2024), and persistent inflationary pressures. The report, under her supervision as part of the leadership team, emphasized the need for additional fiscal adjustments to ensure debt sustainability, recommending a structural primary surplus to address rising financing costs and contingent liabilities from state-owned enterprises.
+During the 2025 Article IV Consultation, Kostial’s department characterized Hungary’s economy as being at a "challenging juncture." The IMF staff, operating under her departmental leadership, highlighted stagnant output over the past three years and persistent inflation above the Magyar Nemzeti Bank’s target. Key policy recommendations issued under her purview included urgent high-quality fiscal adjustment to rebuild buffers against elevated public debt (projected to reach 79 percent of GDP by 2030) and high financing costs. The IMF advised broadening the tax base, rationalizing energy subsidies, and strengthening fiscal governance, particularly regarding State-Owned Enterprises (SOEs) and contingent liabilities.
 
-Kostial’s work contributed to the Executive Board's assessment that Hungary faces "moderate" risk of sovereign stress. The analysis pointed to vulnerabilities such as the suspension of €19 billion in EU funds due to rule of law concerns, distortive regulatory measures (price and interest caps) that hinder monetary policy transmission, and external vulnerabilities linked to deepening geoeconomic fragmentation. The staff recommendations, which she helped formulate, urged the Hungarian authorities, including Minister [[Márton Nagy]] and the [[Magyar Nemzeti Bank (MNB)]], to prioritize structural reforms, phase out regulatory distortions, and maintain a tight monetary stance to anchor inflation expectations.
+Kostial’s engagement involves interaction with key Hungarian policymakers, including Minister Márton Nagy and Deputy Central Bank Governors Barnabás Virág, Csaba Kandrács, and Zoltán Kurali. The IMF’s assessment emphasized the need for the Monetary Policy Council to maintain a tight policy stance into 2026 to durably return inflation to target, while phasing out distortive price and margin controls. Structural reforms were identified as critical for long-term growth, focusing on boosting productivity, enhancing energy security, and improving governance to unlock suspended EU funds.
 
 ## Related Entities
 
-[[Anke Weber]], [[Jacques Miniane]], [[Márton Nagy]], [[Magyar Nemzeti Bank (MNB)]], [[International Monetary Fund]]
+[[International Monetary Fund]], [[Hungary]], [[Magyar Nemzeti Bank]], [[Márton Nagy]], [[Barnabás Virág]], [[Fiscal Policy]], [[Sovereign Debt]], [[Article IV Consultation]]
