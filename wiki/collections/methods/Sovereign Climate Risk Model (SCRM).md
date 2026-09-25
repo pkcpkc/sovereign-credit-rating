@@ -1,71 +1,52 @@
 ---
 agency: Fitch Ratings
-last_updated: September 2025
-tags:
-  - Sovereign Ratings
-  - Climate Risk
-  - Fitch Ratings
-  - Credit Rating Methodology
+last_updated: 15 September 2025
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T15:43:45Z
+  by: agentic/agentic
+  at: 2026-09-25T11:42:46Z
 status: stable
+sources:
+  - resource: /assets/20260705-000000/processed/fitch.md
+    title: fitch.md
+  - resource: /assets/20260705-000000/sources/fitch.md
+    title: fitch.md
+tags:
+  - Sovereign Credit Rating
+  - Fitch Ratings
+  - Rating Methodology
+  - Credit Risk Analysis
+  - Sovereign Debt
+  - Climate Risk
 ---
 
 # Sovereign Climate Risk Model (SCRM)
 
 ## Overview
 
-The **Sovereign Climate Risk Model (SCRM)** is a component of **Fitch Ratings**' updated Sovereign Rating Criteria, effective from September 15, 2025. It serves as a specialized screening and analytical framework within the broader **Sovereign Rating Model (SRM)** to assess climate-related vulnerabilities that may impact a sovereign's capacity and willingness to meet its debt obligations.
-
-The SCRM integrates climate risk assessment into the quantitative and qualitative analysis of sovereign credit ratings. It specifically introduces **Climate Vulnerability Signals (Climate.VS)** to identify sovereigns with high exposure to physical and transition risks. The model ensures that climate risks are systematically evaluated alongside traditional financial and macroeconomic indicators, particularly for sovereigns where these risks are not fully captured by standard SRM variables or the Qualitative Overlay (QO).
+The Sovereign Climate Risk Model (SCRM) is a specialized screening tool developed by Fitch Ratings as part of its broader Sovereign Rating Criteria (effective 15 September 2025 to 27 April 2026). It is designed to assess long-term climate-related credit risks for sovereign and central bank Issuer Default Ratings (IDRs). The SCRM serves as a "Climate Vulnerability Signal" (Climate.VS), providing a quantitative screen that informs the Qualitative Overlay (QO) of the main Sovereign Rating Model (SRM). It is not a standalone rating but an analytical input that identifies jurisdictions requiring additional scrutiny regarding physical and transition climate risks.
 
 ## Key Pillars & Analytical Components
 
-The SCRM operates within Fitch’s four-pillar analytical framework: **Structural Features**, **Macroeconomic Performance/Policies/Prospects**, **Public Finances**, and **External Finances**. Climate risk is primarily integrated through the following components:
+The SCRM operates on a 0-100 scale, aggregating risks from two primary dimensions:
 
-1.  **Climate Vulnerability Signals (Climate.VS)**:
-    *   A screening tool aggregating physical risks (heatwaves, droughts, storms, floods, sea-level rise) and transition risks (fossil fuel dependence, green energy costs).
-    *   Scores are calculated on a 0–100 scale for horizons of 2025, 2035, and 2050.
-    *   **Threshold Trigger**: A Climate.VS score of **50 or higher in 2035** triggers additional analytical scrutiny.
+1.  **Physical Risks**: Assesses exposure to acute and chronic climate-related events, such as heatwaves, floods, and rising sea levels.
+2.  **Transition Risks**: Evaluates the economic costs associated with the shift to a low-carbon economy, including fossil fuel dependence and the costs of adopting green energy solutions.
 
-2.  **Qualitative Overlay (QO) Integration**:
-    *   If climate risks are deemed material and not adequately captured by the SRM’s quantitative variables, adjustments are applied via the QO.
-    *   These adjustments fall under "Other structural factors" within the Structural Features pillar.
-    *   The QO allows for notch adjustments of ±2 per pillar, capped at an overall ±3 notches from the SRM output.
-
-3.  **Data Sources & Partners**:
-    *   The SCRM leverages data from external institutions such as the **World Bank**, **IMF**, **GeoQuant**, and the **Intergovernmental Panel on Climate Change (IPCC)** to inform climate risk assessments.
-    *   It aligns with broader macro-prudential monitoring using the **Macro-Prudential Indicator (MPI)** and **Banking Systemic Indicator (BSI)** to assess systemic financial stability impacts of climate shocks.
+The model integrates these factors into a composite score that triggers specific analytical protocols within the broader Sovereign Rating Framework. The output is directly linked to the Qualitative Overlay (QO), allowing analysts to adjust ratings based on the severity of climate vulnerability.
 
 ## Key Metrics & Variables
 
-- **Climate.VS Score**: A composite score (0–100) reflecting physical and transition climate risks. A score ≥50 for 2035 signals high vulnerability, prompting deeper analysis.
-- **Physical Risk Indicators**: Exposure to heat, drought, storms, floods, and sea-level rise.
-- **Transition Risk Indicators**: Degree of fossil fuel dependence and costs associated with green energy transition.
-- **GDP Per Capita & Share in World GDP**: Structural variables from the SRM that contextualize a sovereign’s resilience to climate shocks (smaller, less developed economies are typically more vulnerable).
-- **Debt Sustainability Metrics**: Assessed via the **Fitch Debt Dynamics Model (DDM)** to evaluate how climate-induced fiscal shocks (e.g., disaster recovery costs) impact long-term debt trajectories.
-- **External Liquidity**: Assessed via the **International Liquidity Ratio (ILR)** to determine vulnerability to climate-driven external financing constraints.
+-   **Climate Vulnerability Signal (Climate.VS)**: A composite score ranging from 0 to 100, representing the aggregate climate risk profile of a sovereign.
+-   **Physical Risk Indicators**: Metrics related to exposure to extreme weather events (e.g., heatwaves, floods) and chronic changes (e.g., sea-level rise).
+-   **Transition Risk Indicators**: Metrics assessing fossil fuel dependence, the cost of green energy transition, and structural economic vulnerabilities to decarbonization policies.
+-   **2035 Projection**: The SCRM specifically projects vulnerability scores for the year 2035 to capture forward-looking risks rather than just current conditions.
 
 ## Application
 
-1.  **Screening via Climate.VS**:
-    *   Calculate the Climate.VS score for the sovereign based on physical and transition risk data for the 2035 horizon.
-    *   If the score is below 50, climate risk is considered integrated into standard structural variables. If ≥50, proceed to additional scrutiny.
-
-2.  **Additional Analytical Scrutiny**:
-    *   For sovereigns triggering the Climate.VS threshold, analysts conduct a detailed assessment of potential fiscal, macroeconomic, and external impacts of climate risks.
-    *   Evaluate the materiality of these risks relative to the sovereign’s structural features (e.g., governance, institutional quality) and fiscal flexibility.
-
-3.  **Qualitative Overlay (QO) Adjustment**:
-    *   Determine if the identified climate risks are already captured by the SRM’s quantitative variables (e.g., through GDP volatility or fiscal balances).
-    *   If risks are *not* fully captured, apply a notch adjustment under the "Other structural factors" category of the QO.
-    *   Ensure the total QO adjustment respects the ±3 notch cap from the initial SRM output, unless the sovereign is in crisis or has a recent default history.
-
-4.  **Final Rating Determination**:
-    *   Combine the SRM output with the QO adjustments (including climate-related notches) to determine the preliminary Issuer Default Rating (IDR).
-    *   Review against the Fitch Rating Scale ('AAA' to 'CCC+') and consider any specific instrument-level adjustments (e.g., Recovery Ratings for 'B+' or below).
+1.  **Calculate Climate.VS Score**: Compute the Sovereign Climate Risk Model score (0-100) for the target jurisdiction, incorporating both physical and transition risk variables.
+2.  **Screening Threshold Check**: Determine if the Climate.VS score for 2035 meets or exceeds the critical threshold of 50.
+3.  **Qualitative Overlay Adjustment**: If the Climate.VS ≥ 50, analysts apply additional scrutiny through the Qualitative Overlay (QO), potentially adjusting the rating by up to +3/-3 notches based on the government's capacity and willingness to manage identified climate risks.
 
 ## Related Entities
 
-[[Fitch Ratings]], [[World Bank]], [[IMF]], [[GeoQuant]], [[Intergovernmental Panel on Climate Change (IPCC)]], [[James Longsdon]], [[Ed Parker]], [[Carlos Masip]], [[Rob Shearman]], [[Sovereign Rating Model (SRM)]], [[Qualitative Overlay (QO)]], [[Climate Vulnerability Signals (Climate.VS)]]
+[[Sovereign Credit Rating]], [[Fitch Ratings]], [[Qualitative Overlay]], [[Sovereign Rating Model]], [[Climate Vulnerability Signal]], [[Credit Risk Analysis]], [[Sovereign Debt]]
