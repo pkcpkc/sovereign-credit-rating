@@ -8,3 +8,8 @@ persons: # Array | Optional | List of key economic or political figures of a cou
     role: string # String | Optional | The role or title of the person (e.g., "Minister of Finance", "Central Bank Governor", "Prime Minister", "President").
     organization: string # String | Optional | The government body or organization they represent (e.g., "Ministry of Finance", "Central Bank", "Government").
     countries_covered: [string] # Array | Optional | List of countries this person governs, represents, or makes policy for.
+
+relationships: # Array | Optional | List of interactions, advisory, reporting, supervisory, or political relationships between individuals mentioned in the document.
+  - personA: string # String | Required | The name of the first person (matching the persons list, e.g. "Robert Fico").
+    relation: string # String | Required | The relationship or interaction (e.g., "colleague of", "advises", "subordinate to", "collaborates with", "appointed by", "criticizes").
+    personB: string # String | Required | The name of the second person (matching the persons list).

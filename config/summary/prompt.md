@@ -28,6 +28,7 @@ $SCHEMA
   - **De-duplication:** Avoid extracting multiple synonymic terms for the same entity in the same document. Map them to a single canonical term (e.g., map "Fed", "Federal Reserve Board", and "Federal Reserve" to "Federal Reserve").
   - **Punctuation & Spacing:** Use standard spaces, not hyphens or underscores (e.g., "Deep Learning", not "Deep-Learning" or "deep_learning"). Clean any extra surrounding spaces.
   - **Precision:** Ensure the extracted entity name matches the canonical subject name precisely to prevent fragmentation.
+  - **Relationships Consistency:** When extracting 'relationships', ensure 'personA' and 'personB' precisely match the canonical names extracted in the 'persons' list to ensure proper graph node linkage.
 - Produce strictly conformant YAML 1.2.2 in the frontmatter:
   - Indent with spaces only (never use tabs).
   - Quote strings containing special characters (especially `:`, `#`, `[`, `]`, `{`, `}`, `-`, `?`, `!`, `|`, `>`, `*`, `&`).
