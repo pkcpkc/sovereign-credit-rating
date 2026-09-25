@@ -1,14 +1,47 @@
+# ==============================================================================
+# Mycelium Mind & Open Notebook Configuration — Sovereign Credit Rating
+# Single source of truth for all non-sensitive settings (API keys remain in .env)
+# ==============================================================================
+
+# Centralized AI Models (Single source of truth for Compiler, Overviews, and Open Notebook)
+models:
+  base: "agentic"                 # lmstudio-community/Qwen3.6-35B-A3B-MLX-4bit (chat, summaries, entities)
+  ocr: "ocr"                      # DeepSeek-OCR-2-bf16
+  image: "agentic"                # lmstudio-community/Qwen3.6-35B-A3B-MLX-4bit
+  embedding: "embeddings"         # mlx-community/bge-m3-mlx-fp16
+  stt: "stt"                      # mlx-community/whisper-large-v3-turbo
+  tts: "tts"                      # mlx-community/Kokoro-82M-bf16
+  api_url: "http://127.0.0.1:8000/v1"
+
+# Ingestion pipeline settings (optimized for continuous batching on Apple Silicon)
+ingestion:
+  concurrency: 4                  # Concurrency limit for LLM calls
+  inbox_chunk_size: 10            # Process inbox in macro-batches of 10 documents
+  max_summaries_per_entity: 5     # Max summaries merged into a single entity update prompt
+
 # Settings for generating wiki overviews and charts
 overviews:
   script_timeout_ms: 5000
 
-# Open Notebook integration settings
+# Local RAG MCP server settings (knowledge-rag)
+rag:
+  transport: "sse"
+  host: "127.0.0.1"
+  port: 8179
+  rate_limiting:
+    enabled: false
+    requests_per_minute: 60
+    burst: 10
+  prometheus:
+    enabled: false
+    port: 9179
+
+# Open Notebook integration & auto-provisioning settings
 notebook:
   target: "[MM] Sovereign Credit Rating"
   url: "http://localhost:5055"
   filter:
     collections: true
     summaries: true
+    overviews: true
   concurrency: 1
-
-
