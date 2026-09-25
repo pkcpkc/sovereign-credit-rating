@@ -1,14 +1,11 @@
 ---
-type: Overview
-title: Methods Relation Cloud
-description: Interactive graph linking methods cards sharing common tags.
+type: "Overview"
+title: "Methods Relation Cloud"
+description: "Interactive graph linking methods cards sharing common tags."
+timestamp: "2026-09-25T13:41:57Z"
 hide:
   - navigation
   - toc
-generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T16:25:57Z
-status: stable
 ---
 # Methods Relation Cloud
 

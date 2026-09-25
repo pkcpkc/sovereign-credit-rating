@@ -2,7 +2,7 @@
 type: "Overview"
 title: "sovereign-credit-rating Wiki"
 description: "Home page for the sovereign-credit-rating wiki."
-timestamp: "2026-07-05T16:25:57Z"
+timestamp: "2026-09-25T13:41:57Z"
 ---
 # sovereign-credit-rating Wiki
 
@@ -15,3 +15,4 @@ Welcome to the wiki. Browse the available pages:
 - [[collections/times/index|Times]]
 - [[overviews/index|Overviews]]
 - [[summaries/index|Summaries]]
+- [[tags|Tags]]
