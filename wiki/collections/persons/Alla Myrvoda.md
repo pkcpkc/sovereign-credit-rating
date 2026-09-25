@@ -1,34 +1,68 @@
 ---
-role: Mission Member
-organization: IMF
+role: IMF Staff
+organization: International Monetary Fund (IMF)
 countries_covered:
   - Poland
-tags:
-  - IMF
-  - Article IV Consultation
-  - Poland
-  - Sovereign Analysis
-  - Macroeconomic Policy
+relationships:
+  - person: Jan Kees Martijn
+    relation: Colleague
+  - person: Kareem Ismail
+    relation: Colleague
+  - person: Yang Yang
+    relation: Colleague
+  - person: Geoff Gottlieb
+    relation: Colleague
+  - person: Robert Sierhej
+    relation: Colleague
+  - person: Krzysztof Krogulski
+    relation: Colleague
+  - person: Maciej Onoszko
+    relation: Colleague
+  - person: Patryk Loszewski
+    relation: Colleague
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T15:51:00Z
+  by: agentic/agentic
+  at: 2026-09-25T11:36:58Z
 status: stable
+sources:
+  - resource: /assets/20260705-000000/processed/IMF (2025) Poland Country Report.md
+    title: IMF (2025) Poland Country Report.md
+  - resource: /assets/20260705-000000/sources/IMF (2025) Poland Country Report.md
+    title: IMF (2025) Poland Country Report.md
+tags:
+  - International Monetary Fund
+  - IMF Staff
+  - Poland
+  - Article IV Consultation
 ---
 
 # Alla Myrvoda
 
 ## Affiliations & Roles
 
-- **Role**: Mission Member
-- **Organization**: [[International Monetary Fund (IMF)]]
+- **Role**: IMF Staff
+- **Organization**: [[International Monetary Fund]]
 - **Countries Covered**: Poland
+
+## Key Relationships
+
+- **[[Jan Kees Martijn]]**: Colleague (Head of IMF Mission)
+- **[[Kareem Ismail]]**: Colleague
+- **[[Yang Yang]]**: Colleague
+- **[[Geoff Gottlieb]]**: Colleague (Senior Resident Representative)
+- **[[Robert Sierhej]]**: Colleague (Resident Representative)
+- **[[Krzysztof Krogulski]]**: Colleague (Resident Representative)
+- **[[Maciej Onoszko]]**: Colleague (Resident Representative)
+- **[[Patryk Loszewski]]**: Colleague (Executive Director, Poland)
 
 ## Sovereign Credit Rating & Policy Context
 
-Alla Myrvoda served as a Mission Member of the [[International Monetary Fund (IMF)]] team responsible for the 2024 Article IV Consultation with the Republic of Poland. The mission, led by Jan Kees Martijn and supervised by Director Uma Ramakrishnan, concluded staff discussions in October 2024, with the final report and press release published in January 2025. Myrvoda’s work contributed to a comprehensive assessment of Poland’s economic outlook, focusing on fiscal sustainability, monetary policy stance, and structural reforms amidst significant geopolitical and domestic challenges.
+Alla Myrvoda served as a member of the International Monetary Fund (IMF) European Department staff during the 2024 Article IV Consultation with the Republic of Poland. The consultation, which concluded with discussions in Warsaw in October 2024 and an Executive Board conclusion in January 2025, assessed Poland's macroeconomic stability and sovereign creditworthiness.
 
-The consultation highlighted that while Poland’s economy demonstrated robust growth (2.8% in 2024), it faced widening fiscal deficits (5.9% of GDP) that triggered the EU Excessive Deficit Procedure. Myrvoda’s analysis supported the IMF’s recommendation for frontloaded fiscal consolidation to stabilize debt levels, which are projected to rise to 65% of GDP by 2029. Key areas of focus included the need for prudent monetary policy to combat sticky inflation (~5%) driven by tight labor markets, and the resilience of the financial sector despite litigation risks from foreign-currency mortgages. The mission also emphasized long-term structural headwinds, such as population aging and the transition away from coal, recommending reforms to enhance labor force participation and green energy investment to sustain medium-term growth.
+Myrvoda was part of the mission team, led by Head of Mission Jan Kees Martijn, that evaluated Poland's robust economic recovery and fiscal challenges. The mission highlighted Poland's growth acceleration to an estimated 2.8% in 2024, driven by private consumption and Next Generation EU (NGEU) fund absorption. However, the team noted significant downside risks from geopolitical tensions and a widening fiscal deficit projected at 5.9% of GDP in 2024 due to permanent increases in public sector wages and high defense spending.
+
+The consultation emphasized the need for frontloaded fiscal consolidation to rebuild buffers, with a target deficit of 2.9% of GDP by 2028. Myrvoda's involvement included assessing the credibility of Poland's Medium-Term Fiscal Structural Plan (MTFSP), the resilience of the banking sector despite legacy CHF mortgage litigation risks, and the appropriateness of tight monetary policy by the National Bank of Poland. The mission also stressed the importance of structural reforms, including labor market integration and climate transition measures, to sustain long-term convergence and address demographic headwinds.
 
 ## Related Entities
 
-[[International Monetary Fund (IMF)]], [[National Bank of Poland (NBP)]], [[Ministry of Finance (Poland)]], [[Jan Kees Martijn]], [[Ukraine]]
+[[International Monetary Fund]], [[Poland]], [[Jan Kees Martijn]], [[Patryk Loszewski]], [[National Bank of Poland]], [[Sovereign Credit Rating]]
