@@ -1,56 +1,54 @@
 ---
 agency: S&P Global Ratings
-last_updated: 2017-12-18
-tags:
-  - Sovereign Credit Rating
-  - Rating Methodology
-  - Financial Risk Analysis
-  - Macroeconomic Assessment
+last_updated: 2017
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T15:23:07Z
+  by: agentic/agentic
+  at: 2026-09-25T12:00:00Z
 status: stable
+sources: []
+tags: [ Sovereign Credit Rating, Financial Methodology, Credit Risk Analysis ]
 ---
 
 # S&P Sovereign Rating Methodology
 
 ## Overview
 
-The S&P Sovereign Rating Methodology is a standardized framework published by [[S&P Global Ratings]] to assess the creditworthiness of sovereign governments and monetary authorities. Published in its latest iteration on December 18, 2017, this methodology supersedes the 2014 version and integrates the 2013 Monetary Authorities Rating Methodology.
-
-Its primary objective is to evaluate the ability and willingness of a sovereign to service financial obligations to nonofficial (commercial) creditors. The framework operates on a holistic view, combining quantitative data with qualitative assessments across five core pillars: Institutional, Economic, External, Fiscal, and Monetary. Each pillar is scored on a scale of 1 to 6, which are aggregated to determine an indicative rating level, subject to supplemental adjustments for extreme risks or strengths.
+The S&P Sovereign Rating Methodology is a framework developed by S&P Global Ratings to assign Issuer Credit Ratings (ICR) to sovereign governments and monetary authorities. The methodology evaluates a country's ability and willingness to service financial obligations to nonofficial commercial creditors. Published in its updated form on December 18, 2017, the framework replaces previous criteria from 2014 and 2013. It integrates quantitative data with qualitative judgments across five core pillars to determine an indicative rating level, which may be subject to supplemental adjustments or caps based on specific risks or strengths.
 
 ## Key Pillars & Analytical Components
 
-The methodology relies on a five-pillar assessment framework. Each pillar is assessed independently and then combined to form an indicative rating.
+The methodology assesses sovereign creditworthiness through five distinct assessments, each scored on a six-point numerical scale:
 
-1.  **Institutional Assessment**: Evaluates policymaking effectiveness, transparency, debt payment culture, and external security risks. A sovereign with a weak debt payment culture (e.g., sustained arrears) receives the weakest assessment ('6'). External security risks (e.g., war) can lower the assessment by one or two categories if the risk is not imminent within 2–3 years.
-2.  **Economic Assessment**: Focuses on GDP per capita, growth prospects, and economic diversity.
-3.  **External Assessment**: Analyzes currency status (reserve vs. actively traded), external liquidity, and external position. Classifies currencies based on global FX reserves (>3% for reserve currencies) and turnover (>1% for actively traded).
-4.  **Fiscal Assessment**: Reviews fiscal performance/flexibility, debt burden, and contingent liabilities.
-5.  **Monetary Assessment**: Assesses the exchange rate regime and monetary policy credibility.
+- **Institutional Assessment**: Evaluates policymaking stability, transparency, and governance. It explicitly accounts for "Debt Payment Culture," which can cap the rating if weak, and considers institutional risk as a primary driver.
+- **Economic Assessment**: Analyzes income levels (GDP per capita), economic growth prospects, and economic diversity. This pillar helps determine the underlying strength of the economy's income base.
+- **External Assessment**: Focuses on the country's external position, including currency status, external liquidity, and balance of payments. It utilizes metrics such as Current Account Payments (CAP) ratios rather than just receipts to assess vulnerability.
+- **Fiscal Assessment**: Divided into "Flows" (performance and flexibility) and "Stocks" (debt burden). It specifically evaluates contingent liabilities from financial institutions, nonfinancial public-sector enterprises, and off-budget guarantees. Initial fiscal assessments are now based on changes in net general government debt rather than gross debt.
+- **Monetary Assessment**: Evaluates the central bank's independence, policy credibility, price stability, and role as a lender of last resort. It also considers the depth of financial markets and the effectiveness of monetary policy tools.
 
-**Monetary Authority Ratings**: For monetary unions (e.g., ECB), ratings are derived from a weighted average of member sovereign ratings, adjusted by the monetary assessment of the authority itself. Uplifts of zero to four notches may apply based on the central bank's flexibility and credibility.
+The framework combines these pillars into two composite profiles:
+1.  **Institutional/Economic Profile**: The average of the Institutional and Economic scores.
+2.  **Flexibility/Performance Profile**: The average of the External, Fiscal, and Monetary scores.
+
+The indicative rating level is derived from these profiles, typically falling within one notch of the final foreign-currency ICR.
 
 ## Key Metrics & Variables
 
-- **Net General Government Debt**: The primary metric for the initial fiscal assessment, calculated as gross debt minus liquid financial assets as a percentage of GDP. This replaced gross debt/headline deficits to better capture the true fiscal stance by accounting for deployable assets.
-- **Current Account Payments (CAP)**: Used in the denominator for certain external ratios when external liquid assets exceed external debt, providing a more accurate measure of external indebtedness compared to Current Account Receipts (CAR).
-- **Banking Industry Country Risk Assessment (BICRA)**: Used in conjunction with the size of the banking system to evaluate contingent liabilities from the banking sector. Liabilities are categorized as limited, moderate, high, or very high.
-- **Local-Currency Rating Cap**: Local-currency ratings are generally capped at one notch above foreign-currency ratings (reduced from two notches in previous methodologies), reflecting a conservative view on the distinction between local and external debt servicing risks.
-- **Net Asset Position**: Used for positive adjustments if a sovereign has exceptionally large liquid financial assets (>100% of GDP).
+- **GDP Per Capita**: A primary variable in the Economic Assessment, used to gauge income levels and development status.
+- **Net General Government Debt**: Replaces gross debt as the baseline for assessing fiscal stress and changes in debt burden.
+- **Current Account Payments (CAP)**: Used in external assessment ratios to measure the ability to service debt obligations, providing a more conservative view than receipts.
+- **Debt Payment Culture**: A qualitative factor within the Institutional Assessment; weak culture can impose a hard cap on the rating (e.g., at '6').
+- **External Liquidity**: A key variable in the External Assessment, measuring the country's ability to meet short-term external obligations.
+- **Central Bank Independence**: A core variable in the Monetary Assessment, influencing policy credibility and exchange rate regime effectiveness.
+- **Contingent Liabilities**: Explicitly evaluated in the Fiscal Assessment, including exposures from financial institutions and public-sector enterprises.
+- **Economic Diversity**: Assessed within the Economic pillar to determine resilience against sector-specific shocks.
 
 ## Application
 
-1.  **Pillar Scoring**: Assess the sovereign across the five pillars (Institutional, Economic, External, Fiscal, Monetary). Each pillar is assigned a score from 1 (strongest) to 6 (weakest) based on specific metrics and qualitative factors.
-2.  **Indicative Rating Determination**: Combine the five pillar scores using a matrix to determine an "indicative rating level."
-3.  **Adjustment for Contingent Liabilities**: Analyze banking sector contingent liabilities using BICRA and banking system size. Apply negative adjustments to the debt burden assessment (up to three categories) if liabilities are rated high or very high.
-4.  **Supplemental Adjustments**: Apply specific adjustments for extreme conditions:
-    *   **Negative**: Extremely weak external liquidity, extremely high fiscal debt burdens, very high institutional risk combined with high debt, or imminent event risks (war, political conflict).
-    *   **Positive**: Exceptionally large liquid financial assets (net asset position >100% of GDP).
-5.  **Local vs. Foreign Currency Differentiation**: Apply the local-currency rating cap (max one notch uplift above foreign-currency rating) to finalize the local-currency rating, if applicable.
-6.  **Final Rating Assignment**: The final rating is determined by the indicative rating level plus/minus supplemental adjustments, subject to review by the rating committee.
+1.  **Calculate Pillar Scores**: Analysts assign a score (1-6) to each of the five core pillars (Institutional, Economic, External, Fiscal, Monetary) based on quantitative data and qualitative judgment.
+2.  **Derive Indicative Rating**: The Institutional/Economic Profile and Flexibility/Performance Profile are calculated by averaging their respective pillar scores. These profiles map to an indicative foreign-currency ICR, which serves as the baseline rating.
+3.  **Apply Adjustments and Caps**: The indicative rating is reviewed for supplemental adjustment factors (e.g., event risk, extremely weak liquidity, high debt burden). Rating caps may be applied for extreme conditions (such as very high institutional risk or weak debt payment culture), potentially lowering the rating by more than one notch from the indicative level.
+4.  **Final Rating Determination**: The final ICR is determined by the rating committee, considering the capped indicative rating, liquidity needs, and specific country circumstances, including treatments for monetary unions or authorities.
 
 ## Related Entities
 
-[[S&P Global Ratings]], [[International Monetary Fund (IMF)]], [[World Bank]], [[Bank for International Settlements (BIS)]], [[Banking Industry Country Risk Assessment (BICRA)]], [[Group Rating Methodology]], [[Moritz Kraemer]], [[Christian Esters]], [[Sebastian Briozzo]], [[KimEng Tan]], [[Bertrand De Dianous]], [[Valerie Montmaur]], [[Laura J Feinland Katz]], [[Mark Puccia]]
+[[Sovereign Credit Rating]], [[Institutional Assessment]], [[Economic Assessment]], [[External Assessment]], [[Fiscal Assessment]], [[Monetary Assessment]], [[Debt Sustainability]], [[Fiscal Policy]], [[Monetary Policy]], [[External Liquidity]], [[Contingent Liabilities]], [[Macroeconomic Stability]], [[S&P Global Ratings]]
