@@ -1,20 +1,24 @@
 ---
-tags:
-  - Media Freedom
-  - Slovakia
-  - European Union
-  - Rule of Law
-  - Public Service Media
-  - Governance
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T16:15:44Z
+  by: agentic/agentic
+  at: 2026-09-25T13:06:42Z
 status: stable
+sources:
+  - resource: /assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law Report Slovakia.md
+    title: EU Commission (2025) 2025 Rule of Law Report Slovakia.md
+  - resource: /assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law Report Slovakia.md
+    title: EU Commission (2025) 2025 Rule of Law Report Slovakia.md
+tags:
+  - Slovakia
+  - Media Freedom
+  - Public Service Media
+  - Judicial Independence
+  - European Union
 ---
 # Entry into force of Act on Slovak Television and Radio (STVR)
 
 ## Event Details
 
-In July 2024, the Act on Slovak Television and Radio (STVR) entered into force, establishing a new governance structure for Slovakia's public service broadcaster. The implementation of this legislation was highlighted in the European Commission's 2025 Rule of Law Report (Country Chapter on Slovakia) as a significant concern regarding media freedom and pluralism.
+On July 2025, the Act on Slovak Television and Radio (STVR) entered into force in Slovakia, marking a significant shift in the governance of public service media. The legislation restructured the oversight mechanisms of the broadcaster, increasing political influence over its operations. Key provisions included granting the Parliament and the [[Minister of Culture]] greater authority in appointing members to the STVR Council.
 
-The new governance framework raised concerns about the potential politicization of public service media. The report noted that no progress had been made in safeguarding the independence of the broadcaster, with the STVR structure failing to provide sufficient guarantees against political influence. This development contributed to the broader assessment that media freedom remained under pressure in Slovakia, alongside other challenges such as a hostile environment for journalists and legislative restrictions on access to information. The entry into force of the STVR Act was cited as an example of the lack of effective rule of law safeguards in the media sector during the reporting period.
+This legislative change has been widely criticized by stakeholders, including the European Commission, as a regression in editorial independence. The [[Media Pluralism Monitor]] noted that the restructuring facilitated increased politicization of the broadcaster, aligning with broader concerns about [[Media Freedom]] and institutional checks in Slovakia during this period. The entry into force of this act occurred amidst a broader context of fast-track legislative procedures and political polarization, contributing to stagnation in key rule of law indicators regarding media pluralism and judicial independence.
