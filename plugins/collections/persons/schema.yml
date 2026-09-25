@@ -6,3 +6,6 @@ $meta:
 role: string # String | Required | The person's role (e.g., "Minister of Finance", "Central Bank Governor", "Prime Minister", "President").
 organization: string # String | Required | The primary organization the person is affiliated with (e.g., "Fitch Ratings", "IMF", "Ministry of Finance", "HU Berlin").
 countries_covered: [string] # Array | Optional | Countries this person covers, represents, or makes policy for.
+relationships: # Array | Optional | Key interpersonal, advisory, reporting, supervisory, or political relationships with other individuals.
+  - person: string # String | Required | The name of the connected person (e.g., "Peter Pellegrini", "Christine Lagarde").
+    relation: string # String | Required | Concise relationship descriptor (e.g., "advises", "collaborates with", "subordinate to", "appointed by", "criticizes").

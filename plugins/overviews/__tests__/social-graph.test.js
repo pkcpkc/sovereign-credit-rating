@@ -37,9 +37,11 @@ describe('Local social-graph.js script tests', () => {
 
     const socialContent = fs.readFileSync(socialFile, 'utf8');
     expect(socialContent).toContain('| [[Alex Stomper]] | lectured on | [[Financial Economics]] |');
+    expect(socialContent).toContain('| [[Christine Lagarde]] | consulted with | [[Clyde Caruana]] |');
 
     const graphicContent = fs.readFileSync(socialGraphicFile, 'utf8');
     expect(graphicContent).toContain('mermaid');
     expect(graphicContent).toContain('flowchart LR');
+    expect(graphicContent).toContain('consulted with');
   });
 });

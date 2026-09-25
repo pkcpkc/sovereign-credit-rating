@@ -39,12 +39,37 @@ export function getMockSocialGraph() {
       tags: [],
       filePath: 'summaries/SP.md',
       properties: {
-        title: 'Sovereign Summary',
+        title: 'Sovereign Summary'
+      }
+    },
+    {
+      name: 'Alex Stomper',
+      type: 'Person',
+      timestamp: '2026-07-05T16:25:57Z',
+      tags: [],
+      filePath: 'collections/persons/Alex Stomper.md',
+      properties: {
+        title: 'Alex Stomper',
         relationships: [
           {
-            personA: 'Alex Stomper',
-            relation: 'lectured on',
-            personB: 'Financial Economics'
+            person: 'Financial Economics',
+            relation: 'lectured on'
+          }
+        ]
+      }
+    },
+    {
+      name: 'Christine Lagarde',
+      type: 'Person',
+      timestamp: '2026-07-05T16:25:57Z',
+      tags: [],
+      filePath: 'collections/persons/Christine Lagarde.md',
+      properties: {
+        title: 'Christine Lagarde',
+        relationships: [
+          {
+            person: 'Clyde Caruana',
+            relation: 'consulted with'
           }
         ]
       }

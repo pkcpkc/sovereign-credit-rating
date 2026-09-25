@@ -27,7 +27,8 @@ $SUMMARY_CONTENT
 Merge the details from the summary context into the existing biography for `$VALUE`.
 
 - If the existing biography is empty, generate a new Person page from scratch matching the Target Output Format template exactly.
-- If the page already exists, merge the new details without overwriting existing content.
+- If the page already exists, merge the new details and relationships without overwriting existing content.
+- Identify interpersonal, advisory, reporting, supervisory, or political relationships with other individuals. In the frontmatter, populate the 'relationships' list with objects: `{ person: "Full Name", relation: "descriptor" }`. In the markdown body, list them under '## Key Relationships' using wikilinks.
 - Focus on key economic or political figures of a country (e.g., ministers, central bank governors, heads of government or state, and senior policymakers). Do NOT create pages for report authors, IMF/EU analysts, rating-agency analysts, or mission staff.
 - All internal links must be simple Obsidian wikilinks (e.g. `[[Christine Lagarde]]`).
   - **Internal Link Normalization Rules (CRITICAL to avoid duplicates):**
@@ -53,6 +54,10 @@ $SCHEMA
 - **Role**: [Role/Title, e.g., Minister of Finance, Central Bank Governor]
 - **Organization**: [[Organization]]
 - **Countries Covered**: [List of countries covered, represented, or policy-managed by this person]
+
+## Key Relationships
+
+- **[[Connected Person A]]**: [Relationship/Interaction descriptor, e.g. Colleague, Advisor, Subordinate, Appointed by]
 
 ## Sovereign Credit Rating & Policy Context
 
