@@ -1,19 +1,31 @@
 ---
 role: Senior Resident Representative
-organization: IMF
+organization: [[International Monetary Fund]]
 countries_covered:
-  - Poland
-tags:
-  - IMF
-  - Article IV Consultation
-  - Poland
-  - Macroeconomic Policy
-  - Fiscal Sustainability
-  - Sovereign Risk
+  - [[Poland]]
+relationships:
+  - person: Jan Kees Martijn
+    relation: Colleague
+  - person: Robert Sierhej
+    relation: Colleague
+  - person: Krzysztof Krogulski
+    relation: Colleague
+  - person: Maciej Onoszko
+    relation: Colleague
+  - person: Patryk Loszewski
+    relation: Liaison with Executive Director
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T11:27:34Z
+  by: agentic/agentic
+  at: 2026-09-25T11:36:58Z
 status: stable
+sources:
+  - resource: /assets/20260705-000000/processed/IMF (2025) Poland Country Report.md
+    title: IMF (2025) Poland Country Report.md
+tags:
+  - [[IMF]]
+  - [[Poland]]
+  - [[Article IV Consultation]]
+  - [[Sovereign Credit Rating]]
 ---
 
 # Geoff Gottlieb
@@ -21,15 +33,25 @@ status: stable
 ## Affiliations & Roles
 
 - **Role**: Senior Resident Representative
-- **Organization**: [[International Monetary Fund (IMF)]]
+- **Organization**: [[International Monetary Fund]]
 - **Countries Covered**: [[Poland]]
+
+## Key Relationships
+
+- **Jan Kees Martijn**: Colleague (Head of IMF Mission)
+- **Robert Sierhej**: Colleague (Resident Representative)
+- **Krzysztof Krogulski**: Colleague (Resident Representative)
+- **Maciej Onoszko**: Colleague (Resident Representative)
+- **Patryk Loszewski**: Liaison with Executive Director (Poland)
 
 ## Sovereign Credit Rating & Policy Context
 
-Geoff Gottlieb served as the Senior Resident Representative for the [[International Monetary Fund (IMF)]] during the 2024 Article IV Consultation with [[Poland]]. In this capacity, he was a key participant in the mission that assessed Poland's macroeconomic policies and fiscal sustainability amidst significant structural and geopolitical challenges. The 2024 consultation, concluded in January 2025, highlighted Gottlieb's engagement with critical issues including the widening fiscal deficit (5.9% of GDP in 2024), which triggered an [[EU]] Excessive Deficit Procedure, and the implementation of the Medium-Term Fiscal Structural Plan (MTFSP).
+Geoff Gottlieb serves as the Senior Resident Representative for the International Monetary Fund (IMF) in Poland. In this capacity, he is a key member of the IMF staff involved in the 2024 Article IV Consultation with the Republic of Poland. His role encompasses monitoring macroeconomic stability, fiscal policy implementation, and structural reforms within the country.
 
-His role involved monitoring the [[National Bank of Poland (NBP)]]'s monetary policy stance, which maintained tight conditions to combat sticky core inflation driven by wage growth. The mission, under his involvement, advised on the need for frontloading fiscal consolidation to support disinflation and allowed for earlier monetary easing. Additionally, Gottlieb's work covered assessments of financial sector resilience, particularly regarding litigation risks from Swiss Franc mortgages and WIBOR disputes, as well as structural reforms necessary to address population aging and the transition away from coal dependency.
+During the 2024 consultation, which concluded discussions in Warsaw in October 2024 and resulted in an Executive Board decision in January 2025, Gottlieb contributed to the assessment of Poland’s sovereign credit factors. Key areas of focus included the country's robust economic recovery, projected growth rates, and significant fiscal challenges. The IMF mission, including Gottlieb, highlighted the need for frontloaded fiscal consolidation to address a widening deficit driven by public sector wage increases and high defense spending.
+
+Gottlieb’s work involves analyzing Poland’s debt sustainability, banking sector health, and external vulnerability. The mission noted the resilience of Polish banks despite litigation risks related to legacy CHF mortgages. Furthermore, the consultation emphasized the importance of structural reforms, such as labor market integration and climate transition efforts, to sustain long-term convergence and growth. As Senior Resident Representative, Gottlieb facilitates ongoing dialogue with Polish authorities, including Executive Director Patryk Loszewski, to ensure policy credibility and adherence to the Medium-Term Fiscal Structural Plan (MTFSP).
 
 ## Related Entities
 
-[[International Monetary Fund (IMF)]], [[Poland]], [[National Bank of Poland (NBP)]], [[Ministry of Finance (Poland)]], [[European Union (EU)]], [[Next Generation EU (NGEU)]]
+[[International Monetary Fund]], [[Poland]], [[Jan Kees Martijn]], [[Patryk Loszewski]], [[Fiscal Policy]], [[Sovereign Credit Rating]]

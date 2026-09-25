@@ -3,16 +3,41 @@ role: Minister
 organization: Ministry for National Economy
 countries_covered:
   - Hungary
-tags:
-  - Hungary Economy
-  - Fiscal Policy
-  - IMF Article IV
-  - Sovereign Credit Risk
-  - Government Official
+relationships:
+  - person: Kristina Kostial
+    relation: collaborates with
+  - person: Jacques Miniane
+    relation: collaborates with
+  - person: Anke Weber
+    relation: collaborates with
+  - person: Barnabás Virág
+    relation: coordinates with
+  - person: Csaba Kandrács
+    relation: coordinates with
+  - person: Zoltán Kurali
+    relation: coordinates with
+  - person: Gábor Horváth
+    relation: interacts with
+  - person: Palotai
+    relation: represents to
+  - person: Meizer
+    relation: represents to
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T15:47:52Z
+  by: agentic/agentic
+  at: 2026-09-25T11:28:14Z
 status: stable
+sources:
+  - resource: /assets/20260705-000000/processed/IMF (2025) Hungary Country Report.md
+    title: IMF (2025) Hungary Country Report.md
+  - resource: /assets/20260705-000000/sources/IMF (2025) Hungary Country Report.md
+    title: IMF (2025) Hungary Country Report.md
+tags:
+  - Hungary
+  - IMF
+  - Sovereign Credit Rating
+  - Article IV Consultation
+  - Macroeconomic Stability
+  - Fiscal Policy
 ---
 
 # Márton Nagy
@@ -21,16 +46,28 @@ status: stable
 
 - **Role**: Minister
 - **Organization**: [[Ministry for National Economy]]
-- **Countries Covered**: Hungary
+- **Countries Covered**: [[Hungary]]
+
+## Key Relationships
+
+- **[[Kristina Kostial]]**: Collaborates with as Department Head, European Department, [[International Monetary Fund]]
+- **[[Jacques Miniane]]**: Collaborates with as Department Head, Strategic Policy, Research and Statistics, [[International Monetary Fund]]
+- **[[Anke Weber]]**: Collaborates with as Mission Head, [[International Monetary Fund]]
+- **[[Barnabás Virág]]**: Coordinates with as Deputy Central Bank Governor, [[Magyar Nemzeti Bank]]
+- **[[Csaba Kandrács]]**: Coordinates with as Deputy Central Bank Governor, [[Magyar Nemzeti Bank]]
+- **[[Zoltán Kurali]]**: Coordinates with as Deputy Central Bank Governor, [[Magyar Nemzeti Bank]]
+- **[[Gábor Horváth]]**: Interacts with as Chairman, [[Fiscal Council]]
+- **[[Palotai]]**: Represents Hungary to as Executive Director, [[International Monetary Fund]]
+- **[[Meizer]]**: Represents Hungary to as Executive Director, [[International Monetary Fund]]
 
 ## Sovereign Credit Rating & Policy Context
 
-Márton Nagy, as the Minister of the [[Ministry for National Economy]], is a key figure in Hungary's fiscal policymaking and economic governance, particularly during the [[IMF]] 2025 [[Article IV Consultation]]. In this capacity, he represents the Hungarian authorities in dialogue with international financial institutions, including the [[IMF]] and the [[European Commission]].
+Márton Nagy serves as the Minister for the [[Ministry for National Economy]] in [[Hungary]], playing a central role in the country's engagement with international financial institutions, particularly during the [[IMF]] 2025 Article IV Consultation. As a key government authority, Nagy is responsible for implementing fiscal policies and structural reforms recommended by the [[International Monetary Fund]] to address Hungary's economic challenges, including stagnant output and persistent inflation.
 
-His tenure is characterized by efforts to manage significant fiscal challenges amidst a complex macroeconomic environment. The IMF Staff Report highlights that while the government has demonstrated the ability to implement significant fiscal adjustments recently, current announced policies still fall short of long-term debt sustainability needs. Nagy's ministry is involved in navigating a public debt-to-GDP ratio that reached 73.5% in 2024, with projections indicating a rise to approximately 79% by 2030 under baseline scenarios. Key policy areas under his purview include addressing high administrative expenditures, managing energy subsidies, and executing the Medium-Term Fiscal Structural Plan (MTFSP) to reduce the fiscal deficit.
+Nagy's ministry works closely with the [[Magyar Nemzeti Bank]] (MNB), including Deputy Governors [[Barnabás Virág]], [[Csaba Kandrács]], and [[Zoltán Kurali]], to coordinate monetary and fiscal strategies. The ministry has emphasized its commitment to the Medium-Term Fiscal Structural Plan (MTFSP) and its ability to achieve fiscal targets through targeted measures, despite IMF recommendations for further adjustment. Key areas of focus include broadening the tax base, rationalizing energy subsidies, and strengthening fiscal governance regarding State-Owned Enterprises (SOEs) and contingent liabilities.
 
-The context of Nagy's role is heavily influenced by external constraints, particularly the suspension of €19 billion in EU funds due to rule of law and governance concerns, which poses a significant downside risk to the country's fiscal and external balances. Furthermore, his ministry operates in an environment where regulatory measures, such as price and margin caps, have been criticized by the IMF for distorting market signals. The upcoming national elections in early 2026 present additional political economy challenges for policy implementation, with the IMF warning of risks associated with potential expansionary fiscal measures. Nagy's leadership is thus critical in balancing immediate fiscal consolidation pressures with the need to maintain economic stability and address structural reform priorities, including energy security and governance improvements.
+In interactions with IMF officials such as [[Kristina Kostial]], [[Jacques Miniane]], and [[Gábor Horváth]] of the [[Fiscal Council]], Nagy has defended Hungary's economic resilience, pointing to strong employment, pro-family measures, and recent investments in electric vehicle (EV) and battery production. The ministry also engages with IMF Executive Directors [[Palotai]] and [[Meizer]] to address concerns regarding rule of law, EU fund suspensions, and the political economy surrounding the 2026 national elections. Nagy's role is pivotal in navigating downside risks such as trade tensions, regional conflicts, and delays in fiscal adjustment while maintaining market access and prudent debt management.
 
 ## Related Entities
 
-[[Ministry for National Economy]], [[IMF]], [[Hungary]], [[Magyar Nemzeti Bank (MNB)]], [[European Union]]
+[[Hungary]], [[International Monetary Fund]], [[Magyar Nemzeti Bank]], [[Fiscal Council]], [[Sovereign Debt]], [[Inflation]], [[GDP Growth]], [[Banking Sector Health]], [[External Vulnerability]], [[Structural Reforms]], [[Geoeconomic Fragmentation]], [[Macroeconomic Stability]], [[Fiscal Policy]], [[Monetary Policy]]

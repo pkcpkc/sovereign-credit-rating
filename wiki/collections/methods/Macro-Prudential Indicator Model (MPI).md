@@ -1,57 +1,49 @@
 ---
 agency: Fitch Ratings
 last_updated: Sept 2025
-tags:
-  - Sovereign Ratings
-  - Macro-Prudential Risk
-  - Financial Sector Stability
-  - Fitch Ratings
-  - Rating Methodology
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T11:29:31Z
+  by: agentic/agentic
+  at: 2026-09-25T13:38:48Z
 status: stable
+sources: []
+tags:
+  - Macro-Prudential Indicator Model
+  - Fitch Ratings
+  - Sovereign Credit Rating
+  - Macro-Prudential Indicator Model (MPI)
 ---
 
 # Macro-Prudential Indicator Model (MPI)
 
 ## Overview
 
-The **Macro-Prudential Indicator Model (MPI)** is a quantitative assessment tool used by **Fitch Ratings** as part of its Sovereign Rating Criteria (effective 15 September 2025). It serves as a core component within the **Structural Features** pillar of the **Sovereign Rating Model (SRM)**.
-
-The primary objective of the MPI is to evaluate the stability and health of the financial sector, specifically monitoring macro-prudential risks that could impact a sovereign's capacity and willingness to pay its debt obligations. It works in conjunction with the **Banking Systemic Indicator (BSI)** to provide a comprehensive view of financial sector risks. These indicators are critical inputs for the **Qualitative Overlay (QO)**, where they help adjust the quantitative SRM output to account for financial sector vulnerabilities that may not be fully captured by standard macroeconomic metrics.
+The Macro-Prudential Indicator Model (MPI) is a specialized analytical framework utilized by Fitch Ratings within its broader Sovereign Rating Criteria. It serves as a critical component of the Sovereign Rating Model (SRM), focusing specifically on the stability and resilience of a country's financial sector. The MPI is designed to assess the potential impact of macroeconomic stress on the banking system and broader financial infrastructure, thereby informing the Qualitative Overlay (QO) adjustments applied to the initial quantitative score. It addresses systemic risks that may not be fully captured by standard macroeconomic growth or fiscal metrics, such as banking sector health, credit growth imbalances, and financial regulation effectiveness.
 
 ## Key Pillars & Analytical Components
 
-The MPI operates within the broader framework of Fitch's Sovereign Rating Model, which relies on four analytical pillars. The MPI specifically feeds into the **Structural Features** pillar, which carries the highest weight in the SRM (53.7%).
+The MPI operates as a sub-component within the larger SRM framework, which comprises four main pillars: Structural Features, Macroeconomic Performance, Public Finances, and External Finances. The MPI specifically contributes to the assessment of the "Macroeconomic Performance" pillar and informs the qualitative adjustments regarding financial sector vulnerabilities.
 
-- **Integration with SRM**: The MPI is one of the key variables used to determine the structural health of the sovereign. While the SRM is an Ordinary Least Squares (OLS) regression of 18 key variables, the MPI contributes to the assessment of governance and structural stability.
-- **Qualitative Overlay (QO) Support**: The MPI serves as a diagnostic tool for the Qualitative Overlay. If the MPI indicates high macro-prudential risk, analysts may apply a negative notch adjustment to the Structural Features pillar (up to -2 notches per pillar, capped at -3 overall) to reflect heightened financial sector fragility.
-- **Complementary Indicator**: The MPI is used alongside the **Banking Systemic Indicator (BSI)**. While the BSI likely focuses on systemic banking health, the MPI broadens the scope to include wider macro-prudential regulatory and supervisory frameworks, capital adequacy, and risk management practices across the financial system.
+Key analytical components include:
+
+1.  **Banking Sector Health Assessment**: Evaluation of capital adequacy, asset quality, and profitability of the domestic banking sector. This includes analyzing non-performing loan ratios and capital buffers against potential shocks.
+2.  **Credit Growth Analysis**: Monitoring of private sector credit growth relative to GDP, identifying potential bubbles or unsustainable lending trends that could precipitate a financial crisis.
+3.  **Financial Regulation and Supervision**: Assessment of the strength of regulatory frameworks, supervisory practices, and the ability of authorities to intervene during periods of financial stress.
+4.  **Interconnectedness and Contagion Risk**: Analysis of the linkages between the banking sector, sovereign balance sheet (sovereign-bank nexus), and other financial institutions to gauge potential systemic contagion.
 
 ## Key Metrics & Variables
 
-The specific internal variables of the MPI are proprietary to Fitch, but its inputs and related metrics are derived from the following data sources and concepts:
-
-- **Financial Sector Stability Metrics**: Indicators assessing the resilience of the banking and non-banking financial sectors to shocks.
-- **Macro-Prudential Regulatory Framework**: Assessment of the quality and effectiveness of financial regulation and supervision.
-- **Governance Indicators**: Data from the **World Bank Worldwide Governance Indicators** is used in the broader Structural Features pillar, which includes the MPI's domain.
-- **Banking Systemic Data**: Metrics related to non-performing loans, capital buffers, and liquidity positions of the financial sector, often correlated with the **Banking Systemic Indicator (BSI)**.
+-   **Banking Sector Stability Score**: A composite metric derived from capital adequacy ratios, non-performing loan ratios, and profitability metrics. High stability scores contribute to a positive or neutral QO adjustment, while instability leads to negative adjustments.
+-   **Private Credit-to-GDP Gap**: The deviation of private sector credit growth from its long-term trend. Significant deviations above the trend line indicate higher macro-prudential risk, potentially triggering a downward QO adjustment.
+-   **Regulatory Strength Index**: A qualitative-quantitative hybrid score assessing the robustness of macro-prudential policies, supervisory independence, and crisis management frameworks.
+-   **Sovereign-Bank Nexus Risk**: A measure of the exposure of domestic banks to sovereign debt and the exposure of the sovereign to domestic bank liabilities. High correlation increases systemic risk, often leading to negative QO adjustments.
 
 ## Application
 
-1. **Data Collection and MPI Calculation**:
-   Fitch analysts gather data on the sovereign's financial sector, including regulatory frameworks, capital adequacy, and systemic risk metrics. This data is processed to generate a Macro-Prudential Indicator score.
-
-2. **Integration into Sovereign Rating Model (SRM)**:
-   The MPI score is integrated as a variable within the **Structural Features** pillar of the OLS-based SRM. It contributes to the overall quantitative score, which is calibrated to the Long-Term Foreign-Currency Issuer Default Rating (FC IDR) scale.
-
-3. **Qualitative Overlay Assessment**:
-   Analysts review the MPI results alongside the **Banking Systemic Indicator (BSI)**. If the MPI signals significant macro-prudential weaknesses (e.g., poor regulatory oversight, high systemic risk), this is flagged as a negative qualitative factor.
-
-4. **Rating Adjustment**:
-   Based on the MPI and BSI analysis, a qualitative adjustment (notch adjustment) is applied to the Structural Features pillar within the Qualitative Overlay process. This adjustment can range from -2 to +2 notches per pillar, with a total cap of ±3 notches on the final rating, ensuring that high macro-prudential risk appropriately lowers the sovereign's credit rating if not already reflected in the quantitative model.
+1.  **Data Collection and Normalization**: Gather data on banking sector indicators, credit growth trends, and regulatory quality from sources such as the World Bank, IMF, and national regulators. Normalize these data points to ensure comparability across countries.
+2.  **Quantitative Scoring within SRM**: Input the macro-prudential indicators into the SRM's Macroeconomic Performance pillar. The MPI variables are weighted within this pillar, contributing to the overall quantitative score of the sovereign.
+3.  **Qualitative Overlay (QO) Adjustment**: Analysts use the MPI findings to determine appropriate QO adjustments (ranging from -3 to +3 notches). If the MPI reveals significant vulnerabilities (e.g., rapid credit growth, weak regulation), a negative QO adjustment is applied to reflect the heightened risk of financial sector distress impacting sovereign creditworthiness.
+4.  **Final Rating Determination**: Combine the SRM output (adjusted by QO) with other qualitative factors to arrive at the final Issuer Default Rating (IDR). The MPI ensures that financial sector fragilities are adequately reflected in the sovereign rating, even if macroeconomic growth appears strong.
 
 ## Related Entities
 
-[[Fitch Sovereign Rating Model (SRM)]], [[Banking Systemic Indicator (BSI)]], [[Qualitative Overlay (QO)]], [[World Bank]], [[International Monetary Fund]]
+[[Fitch Ratings]], [[Sovereign Rating Model (SRM)]], [[Qualitative Overlay (QO)]], [[Banking Sector Health]], [[Macroeconomic Performance]], [[Sovereign Credit Rating]]

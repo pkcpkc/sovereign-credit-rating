@@ -3,16 +3,30 @@ role: Minister for the Environment, Energy, and Enterprise
 organization: Government of Malta
 countries_covered:
   - Malta
-tags:
-  - Government Official
-  - Malta
-  - Energy Policy
-  - Sovereign Risk
-  - IMF Article IV
+relationships:
+  - person: Clyde Caruana
+    relation: Colleague in Cabinet
+  - person: Chris Bonett
+    relation: Colleague in Cabinet
+  - person: Byron Camilleri
+    relation: Colleague in Cabinet
+  - person: Silvio Schembri
+    relation: Colleague in Cabinet
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T15:49:54Z
+  by: agentic/agentic
+  at: 2026-09-25T11:33:35Z
 status: stable
+sources:
+  - resource: /assets/20260705-000000/processed/IMF (2025) Malta Country Report.md
+    title: IMF (2025) Malta Country Report.md
+  - resource: /assets/20260705-000000/sources/IMF (2025) Malta Country Report.md
+    title: IMF (2025) Malta Country Report.md
+tags:
+  - Minister
+  - Government of Malta
+  - Energy Policy
+  - Environmental Policy
+  - Enterprise Policy
 ---
 
 # Miriam Dalli
@@ -21,16 +35,23 @@ status: stable
 
 - **Role**: Minister for the Environment, Energy, and Enterprise
 - **Organization**: [[Government of Malta]]
-- **Countries Covered**: Malta
+- **Countries Covered**: [[Malta]]
+
+## Key Relationships
+
+- **[[Clyde Caruana]]**: Colleague in Cabinet (Minister for Finance and Employment)
+- **[[Chris Bonett]]**: Colleague in Cabinet (Minister for Transport, Infrastructure, and Capital Projects)
+- **[[Byron Camilleri]]**: Colleague in Cabinet (Minister for Home Affairs, Security, Reforms, and Equality)
+- **[[Silvio Schembri]]**: Colleague in Cabinet (Minister for the Economy, European Funds, and Lands)
 
 ## Sovereign Credit Rating & Policy Context
 
-Miriam Dalli, as the Minister for the Environment, Energy, and Enterprise, plays a pivotal role in Malta's sovereign credit rating assessment and macroeconomic stability, particularly regarding fiscal policy and energy subsidies. During the **2024 IMF Article IV Consultation**, her portfolio was central to discussions on the sustainability of Malta's fiscal consolidation path.
+Miriam Dalli serves as the Minister for the Environment, Energy, and Enterprise within the Government of Malta. Her portfolio is central to the sovereign credit rating factors identified in the 2024 Article IV Consultation conducted by the International Monetary Fund (IMF). Specifically, her ministry oversees key areas influencing Malta's fiscal sustainability and policy predictability.
 
-A key area of scrutiny under her remit is the **fixed-energy price policy**, which the IMF notes accounts for approximately 20% of the fiscal deficit. The IMF Executive Board endorsed recommendations urging the Maltese authorities, under Dalli's responsibility, to gradually phase out these broad subsidies. The rationale is to reallocate fiscal space toward investment, innovation, and the green transition, thereby addressing capacity constraints and enhancing productivity-driven growth. The IMF highlighted that maintaining constant energy prices despite rising consumption could further increase sovereign debt burdens, currently projected to rise marginally to ~50% of GDP.
+A critical aspect of her role involves the management of energy subsidies, which currently account for approximately 20 percent of the fiscal deficit. The IMF recommends a gradual but decisive exit from the fixed energy price policy under her purview, with resources redirected toward investment in green infrastructure and innovation support. This transition is vital for creating fiscal space and supporting the government's commitment to reducing the fiscal deficit to around 2¼ percent of GDP by 2029.
 
-Furthermore, Dalli's enterprise portfolio is implicated in the IMF's call for structural reforms to shift Malta's growth model away from labor-intensive sectors (tourism, gaming) toward productivity-enhancing industries. This includes implementing **Corporate Income Tax (CIT)** reforms aligned with the EU’s Pillar II Minimum Tax Directive, with a target implementation deadline by the end of 2029. The IMF emphasized the need for a clear reform roadmap to prevent revenue loss and reduce distortions between domestic and multinational firms. Additionally, her environment mandate is critical to meeting climate goals, specifically the target to reduce greenhouse gas emissions by 19% by 2030, through the robust implementation of the Low Carbon Development Strategy.
+Furthermore, her ministry is responsible for aligning national strategies with ambitious climate goals, including a 19 percent greenhouse gas emission reduction target by 2030. This involves completing vulnerability risk assessments, updating adaptation plans, and phasing out fixed energy prices to incentivize conservation. Her work contributes to the broader "Malta Vision 2050" strategic direction, aiming to balance economic growth with long-term environmental sustainability.
 
 ## Related Entities
 
-[[International Monetary Fund]], [[Government of Malta]], [[Minister for Finance and Employment]], [[Malta Vision 2050]], [[IMF Article IV Consultation]], [[Fiscal Policy]], [[Energy Subsidies]]
+[[International Monetary Fund]], [[Malta]], [[Fiscal Consolidation]], [[Energy Policy]], [[Climate Goals]]

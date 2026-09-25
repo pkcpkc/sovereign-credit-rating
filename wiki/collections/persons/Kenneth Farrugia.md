@@ -1,34 +1,51 @@
 ---
-role: CEO
-organization: Malta Financial Services Authority
+role: "Chief Executive Officer"
+organization: "Malta Financial Services Authority"
 countries_covered:
-  - Malta
-tags:
-  - Financial Regulation
-  - Central Banking
-  - Sovereign Risk
-  - IMF Article IV
-  - Malta
+  - "Malta"
+relationships:
+  - person: "Richard Zammit"
+    relation: "superior to"
+  - person: "Alexander Demarco"
+    relation: "collaborates with"
+  - person: "Riccardo Ercoli"
+    relation: "engages with"
+  - person: "Mark Horton"
+    relation: "engages with"
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T11:26:44Z
-status: stable
+  by: "agentic/agentic"
+  at: "2026-09-25T11:33:35Z"
+status: "stable"
+sources:
+  - resource: "/assets/20260705-000000/processed/IMF (2025) Malta Country Report.md"
+    title: "IMF (2025) Malta Country Report.md"
+tags:
+  - "Malta"
+  - "MFSA"
+  - "Financial Regulation"
+  - "IMF Article IV"
 ---
 
 # Kenneth Farrugia
 
 ## Affiliations & Roles
 
-- **Role**: CEO
+- **Role**: Chief Executive Officer
 - **Organization**: [[Malta Financial Services Authority]]
-- **Countries Covered**: Malta
+- **Countries Covered**: [Malta]
+
+## Key Relationships
+
+- **[[Richard Zammit]]**: Superior (MFSA Chairman)
+- **[[Alexander Demarco]]**: Colleague (Acting Governor, Central Bank of Malta)
+- **[[Riccardo Ercoli]]**: Regulator Engagement (Executive Director, IMF)
 
 ## Sovereign Credit Rating & Policy Context
 
-Kenneth Farrugia serves as the CEO of the [[Malta Financial Services Authority]] (MFSA), a key institution in Malta's financial oversight framework. In the context of the IMF's 2024 Article IV Consultation, Farrugia's leadership is integral to the country's policy credibility and institutional strength, particularly regarding Anti-Money Laundering and Combating the Financing of Terrorism (AML/CFT) supervision. The MFSA, under his direction, provides effective oversight that contributes to the "Accountability" strengths noted in sovereign credit rating assessments, working in tandem with the [[Central Bank of Malta]] to maintain financial sector resilience.
+Kenneth Farrugia serves as the Chief Executive Officer of the [[Malta Financial Services Authority]] (MFSA), the statutory regulatory body for financial services in Malta. In the context of the [[IMF]] 2024 Article IV Consultation, Farrugia’s leadership is central to the implementation of macroprudential policies aimed at maintaining financial sector health. The IMF report highlights the [[MFSA]]'s role in ensuring a sound and stable financial system, characterized by high capital and liquidity buffers and declining non-performing loan ratios.
 
-His role is critical in monitoring risks within Malta's financial system, which faces substantial exposure to the real estate sector (accounting for 70% of bank loans) and emerging cybersecurity threats. The IMF highlights the MFSA's effective oversight as a strength in mitigating systemic risks, despite data gaps in the commercial real estate sector. Farrugia's position places him at the center of efforts to strengthen the AML/CFT framework and monitor emerging threats such as trade-based money laundering, aligning with broader judicial and regulatory reforms recommended by the IMF to ensure long-term financial stability and protect the integrity of Malta's financial sector.
+Farrugia is involved in overseeing regulatory responses to specific risks identified by the [[IMF]], particularly the substantial exposure of Maltese banks to real estate sectors (residential, commercial, and construction). The MFSA, under his executive direction, works in coordination with the [[Central Bank of Malta]] to monitor these vulnerabilities and implement macroprudential measures, such as raising sectoral systemic risk buffers. Additionally, Farrugia engages with [[IMF]] mission teams, including [[Riccardo Ercoli]] and [[Mark Horton]], to address cybersecurity risks, data gaps in commercial real estate reporting, and the broader stability of the insurance and banking sectors.
 
 ## Related Entities
 
-[[Malta Financial Services Authority]], [[Central Bank of Malta]], [[International Monetary Fund]], [[Alexander Demarco]], [[Clyde Caruana]]
+[[Malta Financial Services Authority]], [[IMF]], [[Central Bank of Malta]], [[Richard Zammit]]

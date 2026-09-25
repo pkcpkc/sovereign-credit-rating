@@ -1,41 +1,73 @@
 ---
-role: Deputy Director
+role: IMF Staff (Austria Mission) / Director, European Department
 organization: International Monetary Fund
 countries_covered:
   - Austria
-  - Slovak Republic
-tags:
-  - Sovereign Credit Risk
-  - Macroeconomic Stability
-  - Fiscal Policy
-  - Financial Stability
-  - Structural Reform
-  - Austria
-  - Slovak Republic
-  - Euro Area
-  - Fiscal Consolidation
+  - Slovakia
+relationships:
+  - person: "Marterbauer"
+    relation: "Met with during Austria Article IV Mission"
+  - person: "Holzmann"
+    relation: "Met with during Austria Article IV Mission"
+  - person: "Bergljot Barkbu"
+    relation: "Colleague at IMF"
+  - person: "Fletcher"
+    relation: "Colleague at IMF"
+  - person: "Kažimír"
+    relation: "Directed Slovakian Article IV Consultation"
+  - person: "Kamenický"
+    relation: "Directed Slovakian Article IV Consultation"
+  - person: "Taraba"
+    relation: "Directed Slovakian Article IV Consultation"
+  - person: "Stefania Fabrizio"
+    relation: "Colleague at IMF"
 generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T15:46:22Z
+  by: agentic/agentic
+  at: 2026-09-25T11:19:18Z
 status: stable
+sources:
+  - resource: /assets/20260705-000000/processed/IMF (2025) Austria Country Report.md
+    title: IMF (2025) Austria Country Report.md
+  - resource: /assets/20260705-000000/sources/IMF (2025) Austria Country Report.md
+    title: IMF (2025) Austria Country Report.md
+  - resource: /assets/20260705-000000/processed/IMF (2025) Slovakia Country Report.md
+    title: IMF (2025) Slovakia Country Report.md
+  - resource: /assets/20260705-000000/sources/IMF (2025) Slovakia Country Report.md
+    title: IMF (2025) Slovakia Country Report.md
+tags:
+  - International Monetary Fund
+  - Article IV Consultation
+  - Austria
+  - Slovakia
+  - Macroeconomic Policy
+  - Fiscal Consolidation
 ---
 
 # Oya Celasun
 
 ## Affiliations & Roles
 
-- **Role**: Deputy Director, IMF European Department
+- **Role**: IMF Staff (Austria Mission) / Director, European Department
 - **Organization**: [[International Monetary Fund]]
-- **Countries Covered**: Austria, Slovak Republic
+- **Countries Covered**: Austria, Slovakia
+
+## Key Relationships
+
+- **[[Marterbauer]]**: Met with during Austria Article IV Mission
+- **[[Holzmann]]**: Met with during Austria Article IV Mission
+- **[[Bergljot Barkbu]]**: Colleague at IMF
+- **[[Fletcher]]**: Colleague at IMF
+- **[[Kažimír]]**: Directed Slovakian Article IV Consultation
+- **[[Kamenický]]**: Directed Slovakian Article IV Consultation
+- **[[Taraba]]**: Directed Slovakian Article IV Consultation
+- **[[Stefania Fabrizio]]**: Colleague at IMF
 
 ## Sovereign Credit Rating & Policy Context
 
-Oya Celasun serves as a Deputy Director in the IMF European Department, overseeing surveillance and policy advice for member states including Austria and the Slovak Republic. In this capacity, she played a key supervisory role in two significant 2025 Article IV consultations, highlighting her expertise in navigating complex fiscal consolidations within the Euro Area.
+Oya Celasun has held significant roles within the International Monetary Fund (IMF) related to the economic oversight of European nations, specifically Austria and Slovakia. In her capacity as IMF Staff, she was involved in the 2025 Article IV Consultation with Austria. During this mission, conducted from March 26 to April 8, 2025, she engaged with key Austrian officials, including Minister of Finance [[Marterbauer]] and Central Bank Governor [[Holzmann]]. The consultation highlighted Austria's economic challenges, including successive recessions in 2023 and 2024, a fiscal deficit widening to 4.7% of GDP in 2024, and public debt rising to 81% of GDP. Celasun’s involvement contributed to the IMF's recommendations for bold fiscal consolidation, including pension reforms and structural changes to address demographic aging and sluggish productivity growth.
 
-Regarding Austria, Celasun oversaw the 2025 Article IV Consultation concluded in July 2025. The assessment highlighted a challenging economic environment marked by two successive years of recession (2023–2024) and persistent inflation. Under her department's oversight, the IMF emphasized the critical need for substantial fiscal adjustment to stabilize public debt, which rose to 81.2% of GDP in 2024. The mission identified rising spending pressures from demographic aging, defense, and green transition as key threats to fiscal sustainability. Celasun’s team recommended bold medium-term reforms, including pension adjustments, healthcare efficiency improvements, and tax mix changes, to reduce the deficit to below 2% of GDP. Additionally, the IMF stressed the importance of structural reforms to boost labor supply and productivity, as well as maintaining prudent financial sector standards, particularly regarding Commercial Real Estate (CRE) exposures.
-
-In her role covering the Slovak Republic, Celasun (listed as Department Head for EUR in the report context) oversaw the 2025 Article IV Consultation concluded in March 2025. The consultation assessed an economy recovering from recent headwinds but facing a significant widening of the fiscal deficit to 5.8% of GDP in 2024, which triggered an Excessive Deficit Procedure (EDP) by the European Commission. The IMF staff and Executive Board, under Celasun’s departmental supervision, endorsed the Slovak government’s ambitious four-year fiscal consolidation plan (2025–2028) aimed at reducing the deficit to approximately 2.2% of GDP by 2028. However, the staff noted that additional expenditure-based measures would be required to meet medium-term targets and put public debt on a sustainable downward path, projecting debt to rise to 74.3% of GDP by 2030 under the baseline. The report also highlighted long-term fiscal sustainability risks driven by aging-related costs, which could increase fiscal burdens by 5.6% of GDP by 2050 without further structural reforms.
+Additionally, Celasun serves as the Director of the European Department at the IMF. In this role, she oversaw the 2025 Article IV Consultation with the Slovak Republic, which concluded in March 2025. This engagement involved interactions with Slovak National Bank Governor [[Kažimír]], Minister of Finance [[Kamenický]], and Minister of the Environment [[Taraba]]. The consultation focused on Slovakia’s ambitious fiscal consolidation plan, aiming to reduce the deficit to 4.7% of GDP in 2025 and stabilize public debt. The IMF, under her department's purview, emphasized the need for structural reforms to diversify the economy away from automotive dependence, strengthen governance, and address demographic headwinds.
 
 ## Related Entities
 
-[[International Monetary Fund]], [[Austria]], [[Slovak Republic]], [[Christian Karner Marterbauer]], [[Robert Holzmann]], [[Bergljot Barkbu]], [[Stefania Fabrizio]], [[Saxegaard]], [[Kažimír]], [[Kamenický]]
+[[International Monetary Fund]], [[Austria]], [[Slovakia]], [[Fiscal Consolidation]], [[Article IV Consultation]]

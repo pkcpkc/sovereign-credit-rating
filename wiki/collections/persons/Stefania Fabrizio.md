@@ -1,37 +1,39 @@
 ---
-role: Department Head
-organization: IMF (SPR)
+role: Director, Strategic Policy, Research and Statistics Department
+organization: International Monetary Fund
 countries_covered: []
+relationships:
+  - person: Oya Celasun
+    relation: colleague
+generated:
+  by: agentic/agentic
+  at: 2026-09-25T11:41:50Z
+status: stable
+sources:
+  - resource: /assets/20260705-000000/processed/IMF (2025) Slovakia Country Report.md
+    title: IMF (2025) Slovakia Country Report.md
 tags:
   - IMF
-  - Sovereign Analysis
-  - Fiscal Policy
-  - Euro Area
-generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T11:29:03Z
-status: stable
+  - Strategic Policy
+  - Macroeconomic Research
 ---
 
 # Stefania Fabrizio
 
 ## Affiliations & Roles
 
-- **Role**: Department Head
-- **Organization**: [[International Monetary Fund]] (Strategy, Policy, and Review Department - SPR)
-- **Countries Covered**: Global/Multilateral (Department Head role within IMF Strategy, Policy, and Review)
+- **Role**: Director, Strategic Policy, Research and Statistics Department
+- **Organization**: [[International Monetary Fund]]
+- **Countries Covered: []
+
+## Key Relationships
+
+- **[[Oya Celasun]]**: Colleague (Director, European Department)
 
 ## Sovereign Credit Rating & Policy Context
 
-Stefania Fabrizio serves as a Department Head within the Strategy, Policy, and Review (SPR) Department of the **International Monetary Fund (IMF)**. In this senior capacity, she contributes to high-level policy advice and analytical frameworks that underpin sovereign credit assessments and macroeconomic surveillance.
-
-Her involvement is highlighted in the **IMF 2025 Article IV Consultation with the Slovak Republic**, where she is listed as a key IMF department head overseeing the strategic policy dimensions of the assessment. This consultation focused on critical sovereign risk factors including:
-*   **Fiscal Consolidation**: Assessing Slovakia’s ambitious four-year plan to reduce the fiscal deficit from 5.8% of GDP (2024) to 2.2% by 2028.
-*   **Debt Sustainability**: Evaluating the trajectory of public debt, projected to reach 74.3% of GDP by 2030, and the long-term risks associated with aging-related costs.
-*   **Structural Reforms**: Advising on the need to diversify the economy away from automotive dependence and strengthen governance to ensure effective absorption of EU funds.
-
-As part of the IMF leadership team covering the Euro Area and broader policy review, Fabrizio’s role entails ensuring that country-specific analyses align with broader institutional strategies regarding macroeconomic stability, institutional strength, and policy credibility. Her work supports the IMF Executive Board in concluding consultations that influence global perceptions of sovereign creditworthiness and policy credibility.
+Stefania Fabrizio serves as the Director of the Strategic Policy, Research and Statistics Department at the [[International Monetary Fund]]. In her capacity, she oversees the strategic direction and statistical output of the institution's research activities. Her department plays a critical role in producing the analytical foundations for Article IV consultations, such as the 2025 consultation with the Slovak Republic. This report highlights the IMF's assessment of Slovakia's fiscal consolidation plans, debt sustainability, and structural reforms, reflecting the department's focus on macroeconomic stability and policy advice.
 
 ## Related Entities
 
-[[International Monetary Fund]], [[Oya Celasun]], [[Slovak Republic]], [[National Bank of Slovakia]], [[European Commission]]
+[[International Monetary Fund]], [[Article IV Consultation]], [[Slovakia]]

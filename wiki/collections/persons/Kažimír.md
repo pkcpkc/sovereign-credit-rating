@@ -1,34 +1,55 @@
 ---
-role: Governor
-organization: National Bank of Slovakia
+role: National Bank of Slovakia Governor
+organization: [[National Bank of Slovakia]]
 countries_covered:
-  - Slovakia
+  - [[Slovakia]]
+relationships:
+  - person: [[Kamenický]]
+    relation: Coordinates with on fiscal-monetary policy
+  - person: [[Oya Celasun]]
+    relation: Subject to IMF review by
+  - person: [[Stefania Fabrizio]]
+    relation: Subject to IMF review by
+generated:
+  by: agentic/agentic
+  at: 2026-09-25T11:41:50Z
+status: stable
+sources:
+  - resource: /assets/20260705-000000/processed/IMF (2025) Slovakia Country Report.md
+    title: IMF (2025) Slovakia Country Report.md
+  - resource: /assets/20260705-000000/sources/IMF (2025) Slovakia Country Report.md
+    title: IMF (2025) Slovakia Country Report.md
 tags:
+  - Slovakia
   - Central Banking
   - Monetary Policy
-  - Slovakia
-  - IMF Article IV
-  - Euro Area
-generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T11:29:03Z
-status: stable
+  - Financial Sector Stability
 ---
 
 # Kažimír
 
 ## Affiliations & Roles
 
-- **Role**: Governor
+- **Role**: National Bank of Slovakia Governor
 - **Organization**: [[National Bank of Slovakia]]
-- **Countries Covered**: Slovakia
+- **Countries Covered**: [[Slovakia]]
+
+## Key Relationships
+
+- **[[Kamenický]]**: Coordinates with on fiscal-monetary policy (Minister of Finance)
+- **[[Oya Celasun]]**: Subject to IMF review by (Director, European Department)
+- **[[Stefania Fabrizio]]**: Subject to IMF review by (Director, Strategic Policy, Research and Statistics Department)
 
 ## Sovereign Credit Rating & Policy Context
 
-Kažimír serves as the Governor of the [[National Bank of Slovakia]], playing a central role in the country's monetary policy and financial stability landscape. In the context of the [[IMF]]'s 2025 Article IV Consultation with the Slovak Republic, Kažimír represented the central bank during discussions on macroeconomic stability, fiscal consolidation, and structural reforms. The [[National Bank of Slovakia]] operates within the [[European Central Bank]] (ECB) framework, contributing to the institutional strength and policy credibility assessed in sovereign credit rating factors.
+As the Governor of the National Bank of Slovakia, Kažimír oversees monetary policy and financial sector supervision in the context of the Slovak Republic's 2025 Article IV Consultation with the International Monetary Fund (IMF). The IMF endorsed staff appraisals following discussions in late 2024 and early 2025, noting the economy's resilience with growth of 2.0% in 2024.
 
-During the consultation period covering late 2024 and early 2025, Kažimír engaged with IMF mission staff, including Saxegaard (Mission Head), to address issues such as banking sector health, external vulnerability, and the implications of fiscal policy on monetary stability. The [[National Bank of Slovakia]] was noted for strengthening supervisory powers, which supports the resilience of the banking sector against vulnerabilities in commercial real estate and mortgage refixation risks. These factors are critical to the assessment of Slovakia's financial sector health and overall institutional strength, key components in determining sovereign creditworthiness and debt sustainability.
+Key policy areas under Kažimír's purview highlighted in the 2025 IMF report include:
+
+- **Monetary Policy and Price Stability**: The National Bank is tasked with managing inflation, which was projected to rise temporarily to 4.1% in 2025 due to indirect taxes before moderating to the 2% target by early 2027. Medium-term inflation expectations remain well-anchored.
+- **Financial Sector Stability**: The banking sector is described as resilient with strong capital and liquidity buffers. However, vulnerabilities persist in the residential and commercial real estate markets, particularly regarding mortgage refixation. The IMF suggests strengthening macroprudential policies, including a positive neutral countercyclical capital buffer.
+- **Fiscal-Monetary Coordination**: Kažimír works alongside Minister of Finance [[Kamenický]] to address the government's ambitious fiscal consolidation plan. This plan targets a headline deficit reduction to 4.7% of GDP in 2025, with further measures needed to achieve a deficit close to 2% of GDP by 2028 to ensure long-term debt sustainability.
 
 ## Related Entities
 
-[[National Bank of Slovakia]], [[IMF]], [[Slovakia]], [[European Central Bank]], [[Saxegaard]], [[Kamenický]]
+[[Slovakia]], [[International Monetary Fund]], [[Ministry of Finance]], [[Kamenický]], [[Oya Celasun]], [[Stefania Fabrizio]], [[Fiscal Consolidation]], [[Monetary Policy]]

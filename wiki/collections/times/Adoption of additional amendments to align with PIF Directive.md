@@ -1,32 +1,26 @@
 ---
+generated:
+  by: agentic/agentic
+  at: 2026-09-25T13:06:31Z
+status: stable
+sources:
+  - resource: /assets/20260705-000000/processed/EU Commission (2025) 2025 Rule of Law
+      Report Slovakia.md
+    title: EU Commission (2025) 2025 Rule of Law Report Slovakia.md
+  - resource: /assets/20260705-000000/sources/EU Commission (2025) 2025 Rule of Law
+      Report Slovakia.md
+    title: EU Commission (2025) 2025 Rule of Law Report Slovakia.md
 tags:
-  - Rule of Law
   - Slovakia
   - European Union
-  - Justice System
-  - Criminal Law
-  - PIF Directive
+  - Rule of Law
   - Anti-Corruption
-generated:
-  by: mycelium-mind-migration-v0.2
-  at: 2026-07-05T16:15:51Z
-status: stable
+  - Judicial Independence
 ---
 # Adoption of additional amendments to align with PIF Directive
 
 ## Event Details
 
-In December 2024, the Slovak Government adopted additional amendments to the criminal codes aimed at aligning national legislation with the European Union's **PIF (Protection of the European Union's Financial Interests) Directive**.
+In December 2024, the [[Government of Slovakia]] adopted additional legislative amendments specifically designed to align national legislation with the [[PIF Directive]] (Protection of the European Union's Financial Interests). This move was part of a broader effort by the Slovak authorities to engage in dialogue with the [[European Commission]] regarding rule of law compliance, particularly concerning anti-corruption frameworks and judicial independence.
 
-### Context and Purpose
-These amendments were implemented to address specific gaps in safeguarding the EU's financial interests. According to the **2025 Rule of Law Report**, these legislative changes were part of an intensive dialogue between Slovakia and the European Commission. While the report notes that these amendments clarified procedural aspects, they were assessed within the broader context of the country's limited progress on rule of law issues.
-
-### Assessment and Implications
-- **Alignment**: The primary goal was to ensure the criminal codes adequately covered offenses harming the EU's financial interests, a requirement under EU law.
-- **Safeguards**: The amendments included clarifications regarding the crime of "abuse of law." However, the European Commission noted that sufficient safeguards against the misuse of this concept and potential chilling effects on judicial independence were still lacking.
-- **Systemic Context**: Despite this technical alignment with the PIF Directive, the overall anti-corruption framework remained fragmented. The dissolution of specialized entities like the **National Crime Agency (NAKA)** and the **Special Criminal Court (SPO)** continued to pose challenges to the effective investigation and prosecution of high-level corruption cases.
-
-### Related Timeline
-- **2024-02-08**: Initial amendments to Criminal Codes were adopted.
-- **2024-12**: Additional amendments to align with the PIF Directive were adopted.
-- **2025-07-08**: The 2025 Rule of Law Report was published, evaluating these measures alongside other rule of law concerns in Slovakia.
+While these amendments aimed to address gaps in protecting EU funds, the [[2025 Rule of Law Report]] highlights that systemic risks remained high. The alignment efforts occurred against a backdrop of significant judicial and institutional challenges, including the dissolution of specialized anti-corruption bodies like [[NAKA]] and the [[Special Prosecutor's Office]], which had led to operational delays and a drop in case numbers. Furthermore, earlier 2024 reforms to the [[Criminal Code]], such as lowered sanctions and shortened statutes of limitations for corruption, had already impacted prosecution rates before these specific PIF-aligned amendments were finalized.
